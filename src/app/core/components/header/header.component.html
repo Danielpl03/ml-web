@@ -1,0 +1,13 @@
+<header class="header-container">
+    <div id="cont-logo" 
+    [routerLink]="[ 'departamentos' ]"> 
+        <img class="image" src="logo-radius.png" alt="logo_ML">
+    </div>
+    <form #buscarForm="ngForm" (change)="buscar()">
+        <div class="container-busqueda">
+            <img class="icon" src="lupa.svg" alt="fav">
+            <input type="text" name="texto" [(ngModel)]="busqueda.texto">
+        </div>
+    </form>
+    <!-- <p>{{busqueda.deacripcion}}</p> -->
+</header>

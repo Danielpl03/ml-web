@@ -1,0 +1,15 @@
+#dptos-cantainer{
+    margin: 10px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    gap: 20px;
+}
+
+.title-busqueda{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    padding: 5px;
+    margin-top: 10px    ;
+}

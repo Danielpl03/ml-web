@@ -1,0 +1,20 @@
+<li class="categoria-list">
+    <div class="categoria-link">
+        <!-- <img src="/favicon.ico" alt="Icono categoria" class="categoria-icon"> -->
+        <label for="{{categoria.idCategoria}}" class="categoria-label">{{categoria.nombre}}</label>
+        <input type="checkbox" class="categoria-check" id="{{categoria.idCategoria}}">
+
+        <label for="{{categoria.idCategoria}}" class="categoria-cantidad">
+            <img src="icon.svg" alt="Icono categoria" class="flecha">
+            <span>{{cantidad}}</span></label>
+    </div>
+    <div class="categoria-content">
+        <ul class="categoria-items">
+            @for (producto of productos; track $index) {
+            <li class="categoria-item">
+                <app-tarjeta-producto [producto]="producto"> </app-tarjeta-producto>
+            </li>
+            }
+        </ul>
+    </div>
+</li>

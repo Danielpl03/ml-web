@@ -1,0 +1,8 @@
+<p class="title-busqueda">Departamentos</p>
+<div id="dptos-cantainer">
+    <app-tarjeta-departamento *ngFor="let dpto of departamentos c" 
+    [departamento]="dpto" 
+    [routerLink]="[ '/departamentos', dpto.idDepartamento]">
+    </app-tarjeta-departamento>
+
+</div>

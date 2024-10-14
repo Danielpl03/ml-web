@@ -1,0 +1,22 @@
+<div class="departamento-container">
+    <p>{{departamento?.nombre}}</p>
+    @if (categorias.length > 0) {
+        <ul class="categoria">
+            <span class="title-busqueda">Categorías</span>
+            @for (cat of categorias; track $index) {
+                <app-tarjeta-categoria [categoria]="cat"></app-tarjeta-categoria>
+                <hr>
+            }
+        </ul>
+    }
+
+    <div class="productos-container">
+        <span class="title-busqueda">Productos</span>
+        @for (producto of productos; track $index) {
+            @if (!producto.idCategoria) {
+                <app-tarjeta-producto [producto]="producto"></app-tarjeta-producto>
+            }
+        }
+    </div>
+    <a [routerLink]="[ '/departamentos']">Atrás</a>
+</div>
