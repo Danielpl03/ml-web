@@ -3,8 +3,6 @@ import { Departamento } from '../../core/interfaces/departamento';
 import { DepartamentosService } from '../../core/services/departamentos.service';
 import { Categoria } from '../../core/interfaces/categoria';
 import { CommonModule } from '@angular/common';
-import { MatCardModule } from '@angular/material/card';
-import { MatButtonModule } from '@angular/material/button';
 import { CategoriasService } from '../../core/services/categorias.service';
 import { ActivatedRoute, Router, RouterModule } from '@angular/router';
 import { ProductosService } from '../../core/services/productos.service';
@@ -16,7 +14,7 @@ import { TarjetaProductoComponent } from "../../core/components/tarjeta-producto
 @Component({
   selector: 'app-departamento',
   standalone: true,
-  imports: [CommonModule, MatCardModule, MatButtonModule, RouterModule, TarjetaCategoriaComponent, ProductoComponent, TarjetaProductoComponent],
+  imports: [CommonModule, RouterModule, TarjetaCategoriaComponent, ProductoComponent, TarjetaProductoComponent],
   templateUrl: './departamento.component.html',
   styleUrl: './departamento.component.css'
 })
