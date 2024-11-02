@@ -6,6 +6,15 @@
     padding: 5px;
 }
 
+button{
+    padding: 0;
+    background-color: transparent;
+    border: none;
+}
+button:hover{
+    cursor: pointer;
+}
+
 #cont-logo{
     /* height: 100%; */
     cursor: pointer;

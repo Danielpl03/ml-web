@@ -5,8 +5,9 @@
     </div>
     <form #buscarForm="ngForm" (change)="buscar()">
         <div class="container-busqueda">
-            <img class="icon" src="lupa.svg" alt="fav">
-            <input type="text" name="texto" [(ngModel)]="busqueda.texto">
+            <button type="submit" ><img class="icon" src="lupa.svg" alt="fav" ></button>
+            
+            <input type="text" name="texto" [(ngModel)]="busqueda.texto" placeholder="Buscar...">
         </div>
     </form>
     <!-- <p>{{busqueda.deacripcion}}</p> -->

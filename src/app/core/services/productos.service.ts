@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Producto } from '../interfaces/producto';
 import { Busqueda } from '../interfaces/busqueda';
+import { delay } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -34,6 +35,8 @@ export class ProductosService {
     const productos: Producto[] = await this.getAll();
 
     const productosFiltrados = productos.filter(producto => producto.idDepartamento === idDepartamento);
+
+    
 
     return productosFiltrados;
   }

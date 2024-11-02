@@ -40,14 +40,16 @@ img{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding: 5px;
+    padding: 0 5px;
     text-align: center;
     .titulo{
-        font-size: large;
+        font-size: larger;
         /* font-weight: bold; */
+        cursor: default;
     }
     p{
         font-size: smaller;
+        cursor: default;
     }
 }
 
@@ -58,4 +60,29 @@ img{
     font-size: x-small;
     background-color: rgba(0, 0, 0, 0.479);
     padding: 5px;
+}
+
+.contacto-items{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* gap: 5px; */
+    
+    /* max-width: 100%; */
+    /* overflow: hidden; */
+}
+
+.contacto-item{
+    /* background: transparent; */
+    cursor: pointer;
+    overflow: hidden;
+    /* padding: 15px 15px; */
+    img{
+        border-radius: 50%;
+        margin: 0;
+        padding: 0;
+        height: 80%;
+        max-width: 80%;
+        /* background-size: cover; */
+        
+    }
 }

@@ -1,4 +1,4 @@
-import { Component, Input, OnInit, inject } from '@angular/core';
+import { Component, Input, OnInit, WritableSignal, inject, signal } from '@angular/core';
 import { Categoria } from '../../interfaces/categoria';
 import { CommonModule } from '@angular/common';
 import { TarjetaProductoComponent } from "../tarjeta-producto/tarjeta-producto.component";
@@ -20,26 +20,28 @@ export class TarjetaCategoriaComponent implements OnInit {
 
   productosService = inject(ProductosService);
 
-  productos: Producto[] = [];
-  cantidad: number = 0
+  productos: WritableSignal<Producto[]> = signal([]);
+  cantidad: WritableSignal<number> = signal(0);
 
   @Input({ required: true }) categoria!: Categoria;
   localidades: number[] = [102, 103, 105]
 
 
   async getItems() {
-    this.productos = await this.productosService.getByCategoria(this.categoria.idCategoria)
-    this.productos.forEach(producto => {
+    this.productos.set(await this.productosService.getByCategoria(this.categoria.idCategoria));
+    let cant: number = 0;
+    this.productos().forEach(producto => {
       if (producto.stocks) {
         for (let index = 0; index < this.localidades.length; index++) {
           const element = producto.stocks[this.localidades[index]];
           if (element > 0) {
-            this.cantidad += 1;
+            cant += 1;
              break;
           }
         }
       }
     });
+    this.cantidad.set(cant);
 
   }
 

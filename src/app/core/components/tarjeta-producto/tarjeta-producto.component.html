@@ -1,10 +1,12 @@
+<!-- @defer (on viewport ) { -->
+
 @if (tieneStock()) {
-    <div id="producto-container">
-        <img src="{{getImage()}}" alt="{{producto.descripcion}}">
+<div id="producto-container">
+    <img src="{{getImage()}}" alt="{{producto.descripcion}}">
     <div class="detalles">
         <h4>{{producto.descripcion}}<span *ngIf="producto.codigo"> -{{producto.codigo}}</span></h4>
         <div class="content">
-            <div class="disponible" [ngClass]="{agotado: !tieneStock()}" >
+            <div class="disponible" [ngClass]="{agotado: !tieneStock()}">
                 @if (tieneStock() ) {
                 <p>DISPONIBLE</p>
                 }@else {
@@ -14,14 +16,18 @@
             @if (false) {
             <div class="mas-detalles">
                 @if (producto.codigo) {
-                    <div>
+                <div>
                     <p>Ref: {{producto.codigo}}</p>
                 </div>
+                }
+            </div>
             }
+            <p id="precio">${{producto.precio}}</p>
         </div>
-    }
-    <p id="precio">${{producto.precio}}</p>
-</div>
-</div>
+    </div>
 </div>
 }
+<!-- }@placeholder {
+    <div class="l"></div>
+
+} -->

@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import { Categoria } from '../interfaces/categoria';
+import { delay } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -33,6 +34,7 @@ export class CategoriasService {
     const res = await fetch(url);
 
     const categorias:Categoria[] = await res.json();
+
     const categoriaFiltrada = categorias.filter(cat => cat.idDepartamento === idDepartamento);
     if (categoriaFiltrada){
       return categoriaFiltrada;

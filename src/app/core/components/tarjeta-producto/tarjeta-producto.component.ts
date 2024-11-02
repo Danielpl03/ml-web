@@ -10,7 +10,8 @@ import { IMAGES_PRODUCTOS } from '../../constants';
   templateUrl: './tarjeta-producto.component.html',
   styleUrl: './tarjeta-producto.component.css'
 })
-export class TarjetaProductoComponent {
+export class TarjetaProductoComponent{
+
 
   @Input({ required: true }) producto!: Producto
   localidades: number[] = [102, 103, 105];

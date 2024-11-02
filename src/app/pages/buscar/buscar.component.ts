@@ -1,20 +1,18 @@
-import { Component, OnInit, inject } from '@angular/core';
-import { Busqueda } from '../../core/interfaces/busqueda';
+import { Component, OnInit, WritableSignal, inject, signal } from '@angular/core';
+import { BusqueResult, Busqueda } from '../../core/interfaces/busqueda';
 import { ActivatedRoute, Router, RouterModule } from '@angular/router';
-import { Departamento } from '../../core/interfaces/departamento';
-import { DepartamentosService } from '../../core/services/departamentos.service';
-import { Categoria } from '../../core/interfaces/categoria';
-import { Producto } from '../../core/interfaces/producto';
-import { CategoriasService } from '../../core/services/categorias.service';
-import { ProductosService } from '../../core/services/productos.service';
+
 import { TarjetaCategoriaComponent } from '../../core/components/tarjeta-categoria/tarjeta-categoria.component';
 import { TarjetaDepartamentoComponent } from '../../core/components/tarjeta-departamento/tarjeta-departamento.component';
 import { TarjetaProductoComponent } from '../../core/components/tarjeta-producto/tarjeta-producto.component';
 
+import { BusquedaService } from '../../core/services/busqueda.service';
+import { LoadingComponent } from '../../core/components/loading/loading.component';
+
 @Component({
   selector: 'app-buscar',
   standalone: true,
-  imports: [RouterModule ,TarjetaCategoriaComponent, TarjetaDepartamentoComponent, TarjetaProductoComponent],
+  imports: [LoadingComponent ,RouterModule, TarjetaCategoriaComponent, TarjetaDepartamentoComponent, TarjetaProductoComponent],
   templateUrl: './buscar.component.html',
   styleUrl: './buscar.component.css'
 })
@@ -26,7 +24,7 @@ export class BuscarComponent implements OnInit {
         const text: string = params['texto'];
         if (text.trim().length > 0) {
           this.busqueda.texto = text.trim();
-          this.buscar(this.busqueda)
+          this.buscar(this.busqueda);
         }
       } else {
         this.router.navigate(['departamentos'])
@@ -36,54 +34,35 @@ export class BuscarComponent implements OnInit {
 
   constructor(private router: Router) { }
 
+  busquedaService = inject(BusquedaService)
+
+  busquedaResult = signal<BusqueResult | undefined>(undefined)
+  emptyResult = signal<Boolean | undefined>(undefined)
 
   ac = inject(ActivatedRoute);
   busqueda: Busqueda = {
     texto: ""
   }
-  categorias: Categoria[] = [];
-  productos: Producto[] = [];
-  categoriasService = inject(CategoriasService);
-  departamentosService = inject(DepartamentosService);
-  productosService = inject(ProductosService);
-  departamentos: Departamento[] = [];
 
-  buscar(busqueda: Busqueda) {
-    this.productos = []
-    this.categorias = []
-    this.departamentos = []
-    this.categoriasService.getAll().then(categorias => {
-      categorias.forEach(categoria => {
-        if (categoria.nombre.toLowerCase().includes(busqueda.texto.toLowerCase())) {
-          this.categorias.push(categoria);
+  searchCompleted: WritableSignal<Boolean> = signal(false);
+
+  async buscar(busqueda: Busqueda) {
+    this.searchCompleted.set(false)
+
+      this.busquedaService.buscar(busqueda).then(result => {
+        this.busquedaResult.set(result);
+        this.searchCompleted.set(true);
+        if (this.busquedaResult()!.departamentos!.length>0 || this.busquedaResult()!.categorias!.length>0 || this.busquedaResult()!.productos!.length>0) {
+          this.emptyResult.set(false)
+        } else {
+          this.emptyResult.set(true)
         }
       })
-      const ids = this.categorias.map(cat => cat.idCategoria)
-      this.productosService.getByBusqueda(busqueda).then(productos => {
-        productos.forEach(producto => {
-          if (!ids.includes(producto.idCategoria ? producto.idCategoria : -4000)) {
-            this.productos.push(producto);
-          }
-        })
-      })
-    })
-    
-    
-    this.departamentosService.getAll().then(dptos => {
-      dptos.forEach(dpto => {
-        if (dpto.nombre.toLowerCase().includes(busqueda.texto.toLowerCase())) {
-          this.departamentos.push(dpto);
-        }
-      })
-    })
-
   }
 
-  sinResultados(): boolean {
-    if (this.departamentos.length > 0)return false;
-    if (this.categorias.length > 0)return false;
-    if (this.productos.length > 0)return false;
-    return true
-  }
+
+
+
+
 
 }

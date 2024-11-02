@@ -20,7 +20,7 @@
     "stocks": {}
   },
   {
-    "idProducto": 1,
+    "idProducto": 1820,
     "codigo": "7260",
     "descripcion": "Abanico De Mano",
     "precio": 400.0,
@@ -55,7 +55,7 @@
     "stocks": {
       "102": 3,
       "103": 5,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -70,7 +70,7 @@
     "stocks": {
       "102": 5,
       "103": 4,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -83,7 +83,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "103": 7
+      "103": 6
     }
   },
   {
@@ -96,9 +96,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 10,
-      "103": 0,
-      "105": 3
+      "102": 7,
+      "103": 8,
+      "105": 4
     }
   },
   {
@@ -123,8 +123,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 8,
-      "103": 9,
+      "102": 4,
+      "103": 7,
       "105": 8
     }
   },
@@ -138,7 +138,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "103": 6
+      "103": 2
     }
   },
   {
@@ -187,8 +187,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 5,
-      "105": 22
+      "103": 3,
+      "105": 15
     }
   },
   {
@@ -201,9 +201,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 26,
-      "103": 31,
-      "105": 9
+      "102": 20,
+      "103": 28,
+      "105": 7
     }
   },
   {
@@ -216,7 +216,7 @@
     "movimientos": [],
     "stocks": {
       "103": 3,
-      "105": 8
+      "105": 6
     }
   },
   {
@@ -436,8 +436,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 6,
-      "103": 2
+      "102": 2,
+      "103": 2,
+      "105": 2
     }
   },
   {
@@ -448,9 +449,7 @@
     "activo": false,
     "idDepartamento": 6,
     "movimientos": [],
-    "stocks": {
-      "105": 3
-    }
+    "stocks": {}
   },
   {
     "idProducto": 1037,
@@ -461,8 +460,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 2
+      "103": 0
     }
   },
   {
@@ -486,8 +484,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -500,8 +497,7 @@
     "movimientos": [],
     "stocks": {
       "102": 2,
-      "103": 1,
-      "105": 1
+      "103": 1
     }
   },
   {
@@ -513,8 +509,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 1
     }
   },
   {
@@ -564,8 +559,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 1
     }
   },
   {
@@ -577,7 +571,6 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 1,
       "103": 1,
       "105": 1
     }
@@ -605,8 +598,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 1
     }
   },
   {
@@ -631,8 +623,31 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 1
+    }
+  },
+  {
+    "idProducto": 1844,
+    "codigo": "1001-7",
+    "descripcion": "ARBOL DE NAVIDAD",
+    "precio": 35000.0,
+    "activo": true,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "stocks": {
+      "103": 1
+    }
+  },
+  {
+    "idProducto": 1845,
+    "codigo": "6016",
+    "descripcion": "ARBOL DE NAVIDAD",
+    "precio": 12000.0,
+    "activo": true,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "stocks": {
+      "103": 0
     }
   },
   {
@@ -644,7 +659,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "105": 4
+      "105": 6
     }
   },
   {
@@ -658,7 +673,7 @@
     "stocks": {
       "102": 24,
       "103": 4,
-      "105": 17
+      "105": 12
     }
   },
   {
@@ -671,7 +686,7 @@
     "movimientos": [],
     "stocks": {
       "103": 2,
-      "105": 13
+      "105": 10
     }
   },
   {
@@ -720,8 +735,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 2,
-      "103": 1,
+      "103": 0,
       "105": 1
     }
   },
@@ -762,7 +776,7 @@
     "stocks": {
       "102": 10,
       "103": 10,
-      "105": 8
+      "105": 6
     }
   },
   {
@@ -776,8 +790,8 @@
     "movimientos": [],
     "stocks": {
       "102": 10,
-      "103": 6,
-      "105": 10
+      "103": 0,
+      "105": 6
     }
   },
   {
@@ -821,8 +835,8 @@
     "movimientos": [],
     "stocks": {
       "102": 20,
-      "103": 14,
-      "105": 2
+      "103": 10,
+      "105": 9
     }
   },
   {
@@ -838,7 +852,7 @@
     "stocks": {
       "102": 10,
       "103": 7,
-      "105": 10
+      "105": 6
     }
   },
   {
@@ -852,9 +866,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 10,
-      "103": 3,
-      "105": 8
+      "103": 8,
+      "105": 6
     }
   },
   {
@@ -870,7 +883,7 @@
     "stocks": {
       "102": 20,
       "103": 10,
-      "105": 9
+      "105": 7
     }
   },
   {
@@ -884,8 +897,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 20,
-      "105": 6
+      "103": 20
     }
   },
   {
@@ -899,8 +911,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 50,
-      "103": 10
+      "103": 0
     }
   },
   {
@@ -914,8 +925,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 18,
-      "105": 1
+      "102": 15,
+      "103": 16,
+      "105": 5
     }
   },
   {
@@ -930,7 +942,7 @@
     "movimientos": [],
     "stocks": {
       "102": 30,
-      "105": 18
+      "105": 4
     }
   },
   {
@@ -944,8 +956,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 30,
-      "105": 21
+      "102": 10,
+      "105": 8
     }
   },
   {
@@ -973,7 +985,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 22,
+      "102": 18,
       "103": 21,
       "105": 1
     }
@@ -1003,7 +1015,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 5,
+      "103": 3,
       "105": 2
     }
   },
@@ -1017,8 +1029,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 4
+      "103": 1,
+      "105": 3
     }
   },
   {
@@ -1031,7 +1043,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 2
+      "103": 0
     }
   },
   {
@@ -1057,8 +1069,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -1071,8 +1082,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 5
+      "103": 1,
+      "105": 8
     }
   },
   {
@@ -1110,7 +1121,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -1136,7 +1147,7 @@
     "movimientos": [],
     "stocks": {
       "103": 2,
-      "105": 4
+      "105": 9
     }
   },
   {
@@ -1148,8 +1159,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 7
+      "103": 4,
+      "105": 4
     }
   },
   {
@@ -1162,8 +1173,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 15,
-      "105": 20
+      "103": 8,
+      "105": 26
     }
   },
   {
@@ -1207,7 +1218,7 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "102": 4,
+      "102": 2,
       "103": 1,
       "105": 1
     }
@@ -1221,8 +1232,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 10
+      "103": 1,
+      "105": 11
     }
   },
   {
@@ -1234,8 +1245,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -1270,9 +1280,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 30,
+      "102": 20,
       "103": 5,
-      "105": 9
+      "105": 14
     }
   },
   {
@@ -1284,8 +1294,9 @@
     "idDepartamento": 9,
     "movimientos": [],
     "stocks": {
-      "103": 127,
-      "105": 16
+      "102": 96,
+      "103": 101,
+      "105": 21
     }
   },
   {
@@ -1299,8 +1310,8 @@
     "movimientos": [],
     "stocks": {
       "102": 180,
-      "103": 28,
-      "105": 35
+      "103": 52,
+      "105": 30
     }
   },
   {
@@ -1312,8 +1323,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 9,
-      "105": 10
+      "103": 8,
+      "105": 2
     }
   },
   {
@@ -1419,9 +1430,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 60,
-      "103": 19,
-      "105": 15
+      "102": 72,
+      "103": 14,
+      "105": 19
     }
   },
   {
@@ -1434,9 +1445,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 52,
-      "103": 15,
-      "105": 14
+      "102": 4,
+      "103": 9,
+      "105": 15
     }
   },
   {
@@ -1444,6 +1455,7 @@
     "descripcion": "BLUMERS DE PLAYA",
     "precio": 500.0,
     "activo": false,
+    "idCategoria": 65,
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
@@ -1553,9 +1565,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 3300,
-      "103": 110,
-      "105": 15
+      "102": 2800,
+      "103": 101,
+      "105": 14
     }
   },
   {
@@ -1595,7 +1607,7 @@
     "movimientos": [],
     "stocks": {
       "103": 3,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -1641,12 +1653,13 @@
     "precio": 1050.0,
     "image_name": "Bombillo 15W.jpeg",
     "activo": true,
+    "idCategoria": 67,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 20,
+      "102": 9,
       "103": 14,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -1655,12 +1668,13 @@
     "precio": 700.0,
     "image_name": "Bombillo 7W.jpeg",
     "activo": true,
+    "idCategoria": 67,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 2,
-      "103": 5,
-      "105": 1
+      "102": 12,
+      "103": 12,
+      "105": 4
     }
   },
   {
@@ -1669,12 +1683,13 @@
     "precio": 950.0,
     "image_name": "Bombillo 9W.jpg",
     "activo": true,
+    "idCategoria": 67,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 26,
-      "103": 26,
-      "105": 2
+      "102": 16,
+      "103": 25,
+      "105": 5
     }
   },
   {
@@ -1711,9 +1726,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 4,
-      "103": 3,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -1779,7 +1792,7 @@
     "movimientos": [],
     "stocks": {
       "103": 3,
-      "105": 9
+      "105": 7
     }
   },
   {
@@ -1831,8 +1844,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 6,
-      "105": 4
+      "103": 5,
+      "105": 3
     }
   },
   {
@@ -1873,8 +1886,8 @@
     "movimientos": [],
     "stocks": {
       "102": 9,
-      "103": 11,
-      "105": 14
+      "103": 6,
+      "105": 8
     }
   },
   {
@@ -1889,7 +1902,7 @@
     "stocks": {
       "102": 24,
       "103": 9,
-      "105": 5
+      "105": 2
     }
   },
   {
@@ -1904,7 +1917,7 @@
     "stocks": {
       "102": 36,
       "103": 20,
-      "105": 11
+      "105": 5
     }
   },
   {
@@ -1917,8 +1930,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 24,
-      "103": 16,
+      "102": 12,
+      "103": 14,
       "105": 7
     }
   },
@@ -1947,7 +1960,7 @@
     "stocks": {
       "102": 12,
       "103": 24,
-      "105": 11
+      "105": 3
     }
   },
   {
@@ -1962,7 +1975,7 @@
     "stocks": {
       "102": 20,
       "103": 5,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -1975,7 +1988,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 10,
+      "103": 9,
       "105": 4
     }
   },
@@ -2015,9 +2028,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 200,
-      "103": 100,
-      "105": 101
+      "102": 300,
+      "103": 70,
+      "105": 24
     }
   },
   {
@@ -2030,8 +2043,8 @@
     "movimientos": [],
     "stocks": {
       "102": 200,
-      "103": 79,
-      "105": 100
+      "103": 54,
+      "105": 83
     }
   },
   {
@@ -2071,8 +2084,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 12
+      "103": 0
     }
   },
   {
@@ -2085,9 +2097,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 24,
-      "103": 10,
-      "105": 5
+      "102": 12,
+      "103": 4,
+      "105": 6
     }
   },
   {
@@ -2100,8 +2112,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 24,
-      "103": 6,
+      "102": 16,
+      "103": 3,
       "105": 8
     }
   },
@@ -2128,9 +2140,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 12,
       "103": 0,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -2143,7 +2154,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 11
+      "103": 8
     }
   },
   {
@@ -2156,8 +2167,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 12,
-      "105": 6
+      "103": 11
     }
   },
   {
@@ -2182,9 +2192,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 21,
-      "103": 23,
-      "105": 4
+      "102": 16,
+      "103": 22,
+      "105": 8
     }
   },
   {
@@ -2197,9 +2207,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 27,
-      "103": 56,
-      "105": 3
+      "102": 19,
+      "103": 54,
+      "105": 5
     }
   },
   {
@@ -2211,8 +2221,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 9,
-      "103": 15,
+      "102": 4,
+      "103": 14,
       "105": 3
     }
   },
@@ -2225,8 +2235,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 8,
-      "103": 6,
+      "103": 5,
       "105": 3
     }
   },
@@ -2285,7 +2294,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "105": 2
+      "105": 12
     }
   },
   {
@@ -2309,9 +2318,7 @@
     "activo": false,
     "idDepartamento": 3,
     "movimientos": [],
-    "stocks": {
-      "105": 1
-    }
+    "stocks": {}
   },
   {
     "idProducto": 81,
@@ -2323,9 +2330,9 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "102": 3,
-      "103": 6,
-      "105": 2
+      "102": 5,
+      "103": 4,
+      "105": 1
     }
   },
   {
@@ -2347,9 +2354,7 @@
     "activo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "stocks": {
-      "105": 1
-    }
+    "stocks": {}
   },
   {
     "idProducto": 699,
@@ -2370,8 +2375,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -2384,8 +2388,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -2425,8 +2428,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 10,
-      "105": 13
+      "103": 3,
+      "105": 11
     }
   },
   {
@@ -2439,8 +2442,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 8,
-      "105": 14
+      "103": 4,
+      "105": 12
     }
   },
   {
@@ -2468,7 +2471,7 @@
     "stocks": {
       "102": 5,
       "103": 7,
-      "105": 2
+      "105": 6
     }
   },
   {
@@ -2482,7 +2485,7 @@
     "movimientos": [],
     "stocks": {
       "103": 8,
-      "105": 1
+      "105": 6
     }
   },
   {
@@ -2524,7 +2527,7 @@
     "stocks": {
       "102": 3,
       "103": 3,
-      "105": 2
+      "105": 9
     }
   },
   {
@@ -2559,9 +2562,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 55,
+      "102": 50,
       "103": 43,
-      "105": 25
+      "105": 17
     }
   },
   {
@@ -2573,7 +2576,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 11
+      "103": 15
     }
   },
   {
@@ -2586,8 +2589,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 7,
-      "105": 2
+      "103": 0
     }
   },
   {
@@ -2600,8 +2602,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 5,
-      "105": 19
+      "102": 12,
+      "103": 3,
+      "105": 5
     }
   },
   {
@@ -2614,8 +2617,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 11,
-      "105": 17
+      "103": 10,
+      "105": 19
     }
   },
   {
@@ -2628,8 +2631,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 2
+      "103": 0
     }
   },
   {
@@ -2655,8 +2657,34 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 8
+      "103": 1,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 1849,
+    "codigo": "1280A",
+    "descripcion": "CANDADO P/ BICI",
+    "precio": 1850.0,
+    "activo": false,
+    "idCategoria": 42,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 1850,
+    "codigo": "40006",
+    "descripcion": "CANDADO P/MOTO 80CMX12MM",
+    "precio": 2100.0,
+    "activo": false,
+    "idCategoria": 42,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {
+      "105": 1
     }
   },
   {
@@ -2668,9 +2696,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 22,
+      "102": 11,
       "103": 41,
-      "105": 15
+      "105": 11
     }
   },
   {
@@ -2694,8 +2722,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 3
+      "103": 0
     }
   },
   {
@@ -2731,7 +2758,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -2780,7 +2807,7 @@
     "movimientos": [],
     "stocks": {
       "103": 24,
-      "105": 9
+      "105": 10
     }
   },
   {
@@ -2806,9 +2833,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 8,
+      "102": 4,
       "103": 3,
-      "105": 3
+      "105": 5
     }
   },
   {
@@ -2844,8 +2871,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 2
+      "103": 0
     }
   },
   {
@@ -2860,7 +2886,7 @@
     "stocks": {
       "102": 6,
       "103": 5,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -2873,8 +2899,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 4
+      "103": 2,
+      "105": 9
     }
   },
   {
@@ -2888,7 +2914,7 @@
     "movimientos": [],
     "stocks": {
       "103": 6,
-      "105": 6
+      "105": 11
     }
   },
   {
@@ -2902,7 +2928,7 @@
     "movimientos": [],
     "stocks": {
       "103": 2,
-      "105": 5
+      "105": 10
     }
   },
   {
@@ -2943,7 +2969,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 8,
+      "103": 7,
       "105": 5
     }
   },
@@ -2956,8 +2982,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 6,
-      "105": 80
+      "103": 9,
+      "105": 57
     }
   },
   {
@@ -2970,8 +2996,8 @@
     "movimientos": [],
     "stocks": {
       "102": 28,
-      "103": 21,
-      "105": 17
+      "103": 43,
+      "105": 9
     }
   },
   {
@@ -2983,8 +3009,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 5,
-      "103": 2,
+      "102": 3,
+      "103": 1,
       "105": 2
     }
   },
@@ -2997,7 +3023,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 2
+      "103": 1
     }
   },
   {
@@ -3023,9 +3049,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 10,
-      "103": 15,
-      "105": 27
+      "102": 35,
+      "103": 12,
+      "105": 11
     }
   },
   {
@@ -3036,7 +3062,7 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 4,
+      "102": 3,
       "103": 37,
       "105": 1
     }
@@ -3050,8 +3076,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -3064,8 +3089,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 6,
-      "105": 3
+      "103": 6
     }
   },
   {
@@ -3078,7 +3102,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 32
+      "103": 29
     }
   },
   {
@@ -3120,8 +3144,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 2
+      "103": 3
     }
   },
   {
@@ -3134,9 +3157,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 77,
-      "103": 58,
-      "105": 4
+      "102": 58,
+      "103": 56,
+      "105": 11
     }
   },
   {
@@ -3149,7 +3172,6 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 15,
       "103": 12,
       "105": 3
     }
@@ -3187,8 +3209,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 15
+      "103": 0,
+      "105": 12
     }
   },
   {
@@ -3201,7 +3223,7 @@
     "movimientos": [],
     "stocks": {
       "103": 0,
-      "105": 7
+      "105": 4
     }
   },
   {
@@ -3226,9 +3248,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 10,
-      "103": 14,
-      "105": 15
+      "102": 4,
+      "103": 5,
+      "105": 11
     }
   },
   {
@@ -3237,6 +3259,7 @@
     "descripcion": "Colchon Full",
     "precio": 10500.0,
     "activo": true,
+    "idCategoria": 68,
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
@@ -3250,11 +3273,12 @@
     "descripcion": "Colchon Queen",
     "precio": 14000.0,
     "activo": true,
+    "idCategoria": 68,
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -3263,10 +3287,11 @@
     "descripcion": "Colchon Twin",
     "precio": 7000.0,
     "activo": true,
+    "idCategoria": 68,
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 3
     }
   },
@@ -3276,6 +3301,7 @@
     "descripcion": "Colchon Twin",
     "precio": 9800.0,
     "activo": true,
+    "idCategoria": 68,
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
@@ -3294,6 +3320,19 @@
     "stocks": {}
   },
   {
+    "idProducto": 1851,
+    "codigo": "CF559",
+    "descripcion": "CONGELADOR HORIZONTAL 20 PIES",
+    "precio": 315000.0,
+    "activo": false,
+    "idCategoria": 50,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
     "idProducto": 121,
     "descripcion": "Cono De Hilo Variado",
     "precio": 350.0,
@@ -3301,7 +3340,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "103": 11
+      "102": 18,
+      "103": 20,
+      "105": 12
     }
   },
   {
@@ -3326,8 +3367,8 @@
     "idDepartamento": 9,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 18
+      "103": 3,
+      "105": 11
     }
   },
   {
@@ -3339,7 +3380,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 3
+      "103": 2
     }
   },
   {
@@ -3360,11 +3401,12 @@
     "descripcion": "Cornisa De Metal 24x48",
     "precio": 2500.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
       "103": 12,
-      "105": 14
+      "105": 8
     }
   },
   {
@@ -3373,11 +3415,12 @@
     "descripcion": "Cornisa De Metal 24x48",
     "precio": 2500.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
       "103": 10,
-      "105": 6
+      "105": 11
     }
   },
   {
@@ -3386,11 +3429,12 @@
     "descripcion": "Cornisa De Metal 24x48",
     "precio": 2500.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
       "103": 12,
-      "105": 33
+      "105": 28
     }
   },
   {
@@ -3399,11 +3443,12 @@
     "descripcion": "Cornisa De Metal 24x48",
     "precio": 2500.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
       "103": 14,
-      "105": 18
+      "105": 9
     }
   },
   {
@@ -3412,11 +3457,12 @@
     "descripcion": "Cornisa De Metal 24x48",
     "precio": 2500.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
       "103": 12,
-      "105": 18
+      "105": 14
     }
   },
   {
@@ -3425,11 +3471,12 @@
     "descripcion": "Cornisa De Metal 24x48",
     "precio": 2500.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
-      "103": 9,
-      "105": 12
+      "103": 8,
+      "105": 4
     }
   },
   {
@@ -3438,11 +3485,12 @@
     "descripcion": "Cornisa De Metal 48x84",
     "precio": 3000.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
-      "103": 12,
-      "105": 13
+      "103": 11,
+      "105": 10
     }
   },
   {
@@ -3451,11 +3499,12 @@
     "descripcion": "Cornisa De Metal 48x84",
     "precio": 3000.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
       "103": 12,
-      "105": 21
+      "105": 13
     }
   },
   {
@@ -3464,10 +3513,11 @@
     "descripcion": "Cornisa De Metal 48x84",
     "precio": 3000.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
-      "103": 10,
+      "103": 16,
       "105": 12
     }
   },
@@ -3477,11 +3527,12 @@
     "descripcion": "Cornisa De Metal 48x84",
     "precio": 3000.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
-      "103": 5,
-      "105": 5
+      "103": 13,
+      "105": 19
     }
   },
   {
@@ -3490,11 +3541,12 @@
     "descripcion": "Cornisa De Metal 48x84",
     "precio": 3000.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 13
+      "103": 13,
+      "105": 12
     }
   },
   {
@@ -3503,10 +3555,11 @@
     "descripcion": "Cornisa De Metal 48x84",
     "precio": 3000.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
-      "103": 9
+      "103": 10
     }
   },
   {
@@ -3515,11 +3568,12 @@
     "descripcion": "Cornisa De Metal 48x84",
     "precio": 3000.0,
     "activo": true,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": -10
+      "103": 13,
+      "105": 1
     }
   },
   {
@@ -3528,10 +3582,11 @@
     "descripcion": "CORNISA DE METAL 48X84",
     "precio": 3000.0,
     "activo": false,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
-      "105": 6
+      "105": 1
     }
   },
   {
@@ -3540,10 +3595,11 @@
     "descripcion": "CORNISA DE METAL 48X84",
     "precio": 3000.0,
     "activo": false,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
     "stocks": {
-      "105": 6
+      "105": 1
     }
   },
   {
@@ -3552,11 +3608,10 @@
     "descripcion": "CORNISA DE METAL 48X84",
     "precio": 3000.0,
     "activo": false,
+    "idCategoria": 66,
     "idDepartamento": 1,
     "movimientos": [],
-    "stocks": {
-      "105": 3
-    }
+    "stocks": {}
   },
   {
     "idProducto": 124,
@@ -3569,7 +3624,7 @@
     "stocks": {
       "102": 36,
       "103": 9,
-      "105": 11
+      "105": 3
     }
   },
   {
@@ -3581,8 +3636,8 @@
     "idDepartamento": 9,
     "movimientos": [],
     "stocks": {
-      "103": 22,
-      "105": 22
+      "103": 20,
+      "105": 35
     }
   },
   {
@@ -3592,12 +3647,12 @@
     "precio": 5600.0,
     "image_name": "Cortador Cabello -6231.jpg",
     "activo": true,
+    "idCategoria": 69,
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "102": 1,
-      "103": 2,
-      "105": 1
+      "102": 3,
+      "103": 2
     }
   },
   {
@@ -3607,12 +3662,12 @@
     "precio": 5600.0,
     "image_name": "Cortador De Cabello -6230.jpg",
     "activo": true,
+    "idCategoria": 69,
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "102": 1,
-      "103": 2,
-      "105": 2
+      "102": 3,
+      "103": 2
     }
   },
   {
@@ -3622,11 +3677,12 @@
     "precio": 5600.0,
     "image_name": "CORTADOR DE CABELLO -ED6232.jpg",
     "activo": false,
+    "idCategoria": 69,
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
       "102": 2,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -3703,7 +3759,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -3729,8 +3785,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 4
+      "103": 0
     }
   },
   {
@@ -3874,7 +3929,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -3911,8 +3966,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 21
+      "103": 0,
+      "105": 1
     }
   },
   {
@@ -3951,8 +4006,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 5
+      "103": 2
     }
   },
   {
@@ -3965,8 +4019,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 14
+      "103": 1
     }
   },
   {
@@ -3979,8 +4032,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 22
+      "103": 0
     }
   },
   {
@@ -3993,8 +4045,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -4059,7 +4110,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -4175,8 +4226,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 11,
-      "105": 5
+      "102": 6,
+      "105": 6
     }
   },
   {
@@ -4189,9 +4240,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 10,
-      "103": 8,
-      "105": 6
+      "102": 12,
+      "103": 7,
+      "105": 7
     }
   },
   {
@@ -4206,7 +4257,7 @@
     "stocks": {
       "102": 16,
       "103": 6,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -4219,9 +4270,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 13,
-      "103": 6,
-      "105": 4
+      "102": 9,
+      "103": 5,
+      "105": 5
     }
   },
   {
@@ -4234,9 +4285,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 8,
-      "103": 10,
-      "105": 4
+      "102": 15,
+      "103": 9,
+      "105": 8
     }
   },
   {
@@ -4250,7 +4301,7 @@
     "movimientos": [],
     "stocks": {
       "102": 12,
-      "105": 8
+      "105": 6
     }
   },
   {
@@ -4278,9 +4329,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 5,
+      "102": 17,
       "103": 7,
-      "105": 8
+      "105": 6
     }
   },
   {
@@ -4322,7 +4373,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -4336,7 +4387,7 @@
     "movimientos": [],
     "stocks": {
       "102": 26,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -4378,7 +4429,7 @@
     "movimientos": [],
     "stocks": {
       "103": 7,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -4402,8 +4453,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 7,
-      "105": 3
+      "103": 4,
+      "105": 9
     }
   },
   {
@@ -4442,7 +4493,7 @@
     "movimientos": [],
     "stocks": {
       "103": 23,
-      "105": 7
+      "105": 4
     }
   },
   {
@@ -4455,8 +4506,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 30,
-      "103": 9
+      "102": 10,
+      "103": 7,
+      "105": 11
     }
   },
   {
@@ -4469,8 +4521,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 20,
-      "103": 6
+      "102": 10,
+      "103": 6,
+      "105": 9
     }
   },
   {
@@ -4483,9 +4536,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 20,
-      "103": 6,
-      "105": 5
+      "103": 4,
+      "105": 14
     }
   },
   {
@@ -4500,7 +4552,7 @@
     "stocks": {
       "102": 3,
       "103": 11,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -4513,7 +4565,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 14
+      "105": 10
     }
   },
   {
@@ -4527,7 +4579,7 @@
     "movimientos": [],
     "stocks": {
       "103": 10,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -4541,7 +4593,7 @@
     "movimientos": [],
     "stocks": {
       "103": 12,
-      "105": 11
+      "105": 18
     }
   },
   {
@@ -4555,7 +4607,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 4
+      "103": 3
     }
   },
   {
@@ -4569,7 +4621,7 @@
     "movimientos": [],
     "stocks": {
       "103": 8,
-      "105": 4
+      "105": 1
     }
   },
   {
@@ -4582,9 +4634,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 12,
+      "102": 6,
       "103": 17,
-      "105": 6
+      "105": 12
     }
   },
   {
@@ -4597,7 +4649,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 12
+      "103": 11
     }
   },
   {
@@ -4610,9 +4662,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 24,
-      "103": 7,
-      "105": 10
+      "102": 12,
+      "103": 4,
+      "105": 3
     }
   },
   {
@@ -4625,8 +4677,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 12,
-      "105": 5
+      "102": 12,
+      "103": 10,
+      "105": 6
     }
   },
   {
@@ -4639,9 +4692,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 28,
-      "103": 9,
-      "105": 7
+      "102": 16,
+      "103": 7,
+      "105": 13
     }
   },
   {
@@ -4653,9 +4706,7 @@
     "idCategoria": 17,
     "idDepartamento": 2,
     "movimientos": [],
-    "stocks": {
-      "105": 9
-    }
+    "stocks": {}
   },
   {
     "idProducto": 737,
@@ -4667,7 +4718,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "105": 314
+      "105": 227
     }
   },
   {
@@ -4680,7 +4731,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "105": 796
+      "105": 695
     }
   },
   {
@@ -4706,7 +4757,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "105": 280
+      "105": 250
     }
   },
   {
@@ -4719,8 +4770,17 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "105": 111
+      "105": 28
     }
+  },
+  {
+    "idProducto": 1,
+    "descripcion": "Descuento",
+    "precio": 1.0,
+    "activo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "stocks": {}
   },
   {
     "idProducto": 153,
@@ -4750,11 +4810,12 @@
     "descripcion": "Destornillador Estrella",
     "precio": 700.0,
     "activo": true,
+    "idCategoria": 70,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 6
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -4763,12 +4824,13 @@
     "descripcion": "Destornillador Pala",
     "precio": 700.0,
     "activo": true,
+    "idCategoria": 70,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
       "102": 31,
-      "103": 12,
-      "105": 6
+      "103": 10,
+      "105": 2
     }
   },
   {
@@ -4781,9 +4843,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 120,
-      "103": 110,
-      "105": 24
+      "103": 0
     }
   },
   {
@@ -4796,9 +4856,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 34,
-      "103": 10,
-      "105": 10
+      "102": 30,
+      "103": 6,
+      "105": 6
     }
   },
   {
@@ -4810,8 +4870,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 25,
-      "105": 6
+      "102": 20,
+      "105": 5
     }
   },
   {
@@ -4825,7 +4885,7 @@
     "movimientos": [],
     "stocks": {
       "103": 11,
-      "105": 2
+      "105": 25
     }
   },
   {
@@ -4838,7 +4898,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 5
+      "102": 10,
+      "103": 5,
+      "105": 2
     }
   },
   {
@@ -4851,9 +4913,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 20,
-      "103": 5,
-      "105": 2
+      "102": 15,
+      "103": 3,
+      "105": 3
     }
   },
   {
@@ -4898,7 +4960,7 @@
     "stocks": {
       "102": 20,
       "103": 10,
-      "105": 12
+      "105": 8
     }
   },
   {
@@ -4911,7 +4973,7 @@
     "movimientos": [],
     "stocks": {
       "103": 0,
-      "105": 6
+      "105": 3
     }
   },
   {
@@ -4923,7 +4985,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 5
+      "103": 4
     }
   },
   {
@@ -4947,9 +5009,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 4,
-      "103": 2,
-      "105": 1
+      "103": 1,
+      "105": 2
     }
   },
   {
@@ -4962,7 +5023,7 @@
     "movimientos": [],
     "stocks": {
       "102": 23,
-      "103": 9,
+      "103": 8,
       "105": 3
     }
   },
@@ -4976,7 +5037,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2
+      "103": 0
     }
   },
   {
@@ -5080,8 +5141,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 13,
-      "105": 12
+      "103": 12,
+      "105": 8
     }
   },
   {
@@ -5094,7 +5155,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -5107,8 +5168,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 4
+      "102": 5,
+      "103": 0,
+      "105": 6
     }
   },
   {
@@ -5135,8 +5197,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 10,
-      "105": -1
+      "103": 25
     }
   },
   {
@@ -5149,7 +5210,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1,
+      "103": 42,
       "105": 15
     }
   },
@@ -5163,8 +5224,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 3
+      "103": 0
     }
   },
   {
@@ -5177,8 +5237,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 7,
-      "105": 1
+      "103": 3
     }
   },
   {
@@ -5203,7 +5262,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 6
+      "103": 0
     }
   },
   {
@@ -5239,7 +5298,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 6,
+      "102": 4,
       "103": 6,
       "105": 2
     }
@@ -5253,7 +5312,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 6,
+      "102": 5,
       "103": 7,
       "105": 1
     }
@@ -5282,9 +5341,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 21,
-      "103": 3,
-      "105": 17
+      "103": 7,
+      "105": 33
     }
   },
   {
@@ -5310,8 +5368,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 2
+      "103": 0,
+      "105": 3
     }
   },
   {
@@ -5324,8 +5382,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 2
+      "103": 0
     }
   },
   {
@@ -5338,8 +5395,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 12,
-      "105": 10
+      "103": 10,
+      "105": 1
     }
   },
   {
@@ -5365,9 +5422,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 27,
-      "103": 22,
-      "105": 12
+      "103": 16,
+      "105": 11
     }
   },
   {
@@ -5380,9 +5436,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 22,
-      "103": 30,
-      "105": 10
+      "102": 40,
+      "103": 23,
+      "105": 19
     }
   },
   {
@@ -5406,7 +5462,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -5418,8 +5474,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 7
+      "103": 0
     }
   },
   {
@@ -5431,9 +5486,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 8,
+      "102": 3,
       "103": 3,
-      "105": 4
+      "105": 5
     }
   },
   {
@@ -5446,8 +5501,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 7,
-      "105": 10
+      "103": 11,
+      "105": 15
     }
   },
   {
@@ -5459,9 +5514,7 @@
     "idCategoria": 39,
     "idDepartamento": 2,
     "movimientos": [],
-    "stocks": {
-      "105": 3
-    }
+    "stocks": {}
   },
   {
     "idProducto": 1791,
@@ -5493,6 +5546,7 @@
     "descripcion": "Estufa gas 2Q",
     "precio": 8800.0,
     "activo": false,
+    "idCategoria": 39,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
@@ -5508,9 +5562,7 @@
     "idCategoria": 39,
     "idDepartamento": 2,
     "movimientos": [],
-    "stocks": {
-      "103": 0
-    }
+    "stocks": {}
   },
   {
     "idProducto": 178,
@@ -5522,8 +5574,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 6,
-      "105": 7
+      "103": 4,
+      "105": 3
     }
   },
   {
@@ -5536,8 +5588,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 7
+      "103": 5,
+      "105": 5
     }
   },
   {
@@ -5550,8 +5602,7 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 5,
-      "105": 10
+      "103": 6
     }
   },
   {
@@ -5589,7 +5640,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -5601,7 +5652,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -5648,9 +5699,8 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 8,
-      "103": 3,
-      "105": 10
+      "102": 35,
+      "103": 12
     }
   },
   {
@@ -5698,7 +5748,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 18,
+      "102": 17,
       "103": 6,
       "105": 2
     }
@@ -5728,7 +5778,7 @@
     "movimientos": [],
     "stocks": {
       "102": 187,
-      "103": 122,
+      "103": 98,
       "105": 83
     }
   },
@@ -5744,7 +5794,7 @@
     "stocks": {
       "102": 2,
       "103": 4,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -5757,9 +5807,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 16,
+      "102": 12,
       "103": 4,
-      "105": 3
+      "105": 5
     }
   },
   {
@@ -5772,8 +5822,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 3,
-      "105": 4
+      "102": 12,
+      "105": 2
     }
   },
   {
@@ -5786,8 +5836,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 3,
-      "105": 2
+      "102": 1,
+      "105": 3
     }
   },
   {
@@ -5816,7 +5866,7 @@
     "movimientos": [],
     "stocks": {
       "102": 21,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -5829,9 +5879,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 12,
+      "102": 2,
       "103": 5,
-      "105": 3
+      "105": 5
     }
   },
   {
@@ -5845,7 +5895,7 @@
     "movimientos": [],
     "stocks": {
       "102": 6,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -5872,8 +5922,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 7,
-      "105": 2
+      "102": 5,
+      "105": 3
     }
   },
   {
@@ -5887,8 +5937,8 @@
     "movimientos": [],
     "stocks": {
       "102": 7,
-      "103": 3,
-      "105": 4
+      "103": 2,
+      "105": 3
     }
   },
   {
@@ -5901,8 +5951,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 6,
-      "105": 2
+      "102": 4,
+      "105": 3
     }
   },
   {
@@ -5928,7 +5978,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 2,
+      "102": 1,
       "103": 1,
       "105": 2
     }
@@ -5972,8 +6022,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -6019,7 +6068,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -6033,7 +6082,7 @@
     "movimientos": [],
     "stocks": {
       "102": 9,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -6046,8 +6095,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 8,
-      "105": 4
+      "105": 6
     }
   },
   {
@@ -6060,7 +6108,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "103": 2
+      "103": 8
     }
   },
   {
@@ -6074,7 +6122,7 @@
     "movimientos": [],
     "stocks": {
       "102": 4,
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -6087,9 +6135,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 9,
+      "102": 4,
       "103": 7,
-      "105": 2
+      "105": 3
     }
   },
   {
@@ -6103,7 +6151,7 @@
     "movimientos": [],
     "stocks": {
       "102": 12,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -6116,9 +6164,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 1,
-      "103": 7,
-      "105": 7
+      "102": 13,
+      "103": 6,
+      "105": 4
     }
   },
   {
@@ -6160,7 +6208,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 6,
+      "102": 3,
       "105": 4
     }
   },
@@ -6176,7 +6224,7 @@
     "stocks": {
       "102": 13,
       "103": 7,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -6204,7 +6252,7 @@
     "stocks": {
       "102": 12,
       "103": 8,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -6218,7 +6266,7 @@
     "movimientos": [],
     "stocks": {
       "103": 7,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -6231,8 +6279,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 16,
-      "105": 6
+      "102": 12,
+      "105": 5
     }
   },
   {
@@ -6245,7 +6293,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "103": 7,
+      "103": 6,
       "105": 5
     }
   },
@@ -6259,7 +6307,6 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 5,
       "103": 0,
       "105": 4
     }
@@ -6274,9 +6321,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 9,
+      "102": 4,
       "103": 0,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -6289,8 +6336,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 11,
-      "105": 3
+      "102": 7,
+      "105": 6
     }
   },
   {
@@ -6318,7 +6365,7 @@
     "stocks": {
       "102": 6,
       "103": 7,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -6331,9 +6378,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 6,
+      "102": 3,
       "103": 11,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -6347,8 +6394,8 @@
     "movimientos": [],
     "stocks": {
       "102": 6,
-      "103": 19,
-      "105": 5
+      "103": 17,
+      "105": 3
     }
   },
   {
@@ -6362,7 +6409,7 @@
     "movimientos": [],
     "stocks": {
       "102": 13,
-      "105": 7
+      "105": 2
     }
   },
   {
@@ -6375,9 +6422,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 10,
+      "102": 5,
       "103": 6,
-      "105": 2
+      "105": 6
     }
   },
   {
@@ -6390,8 +6437,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 5,
-      "105": 3
+      "105": 5
     }
   },
   {
@@ -6405,7 +6451,7 @@
     "movimientos": [],
     "stocks": {
       "102": 7,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -6491,9 +6537,9 @@
     "idDepartamento": 9,
     "movimientos": [],
     "stocks": {
-      "102": 16,
-      "103": 7,
-      "105": 12
+      "102": 10,
+      "103": 25,
+      "105": 8
     }
   },
   {
@@ -6507,9 +6553,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 12,
+      "102": 6,
       "103": 8,
-      "105": 7
+      "105": 3
     }
   },
   {
@@ -6522,7 +6568,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 15,
+      "102": 14,
       "105": 2
     }
   },
@@ -6536,7 +6582,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 7,
+      "102": 4,
       "103": 0,
       "105": 1
     }
@@ -6563,9 +6609,7 @@
     "idCategoria": 14,
     "idDepartamento": 2,
     "movimientos": [],
-    "stocks": {
-      "105": 1
-    }
+    "stocks": {}
   },
   {
     "idProducto": 218,
@@ -6590,7 +6634,7 @@
     "stocks": {
       "102": 12,
       "103": 7,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -6615,9 +6659,7 @@
     "activo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "stocks": {
-      "105": 1
-    }
+    "stocks": {}
   },
   {
     "idProducto": 774,
@@ -6641,7 +6683,7 @@
     "movimientos": [],
     "stocks": {
       "103": 1,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -6653,7 +6695,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "103": 10
+      "102": 14,
+      "103": 9,
+      "105": 4
     }
   },
   {
@@ -6665,7 +6709,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "103": 29
+      "102": 48,
+      "103": 28,
+      "105": 9
     }
   },
   {
@@ -6677,9 +6723,9 @@
     "idDepartamento": 9,
     "movimientos": [],
     "stocks": {
-      "102": 120,
-      "103": 2,
-      "105": 76
+      "102": 80,
+      "103": 58,
+      "105": 30
     }
   },
   {
@@ -6691,9 +6737,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 14,
-      "103": 0,
-      "105": 10
+      "103": 0
     }
   },
   {
@@ -6706,9 +6750,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 22,
-      "103": 17,
-      "105": 11
+      "102": 30,
+      "103": 15,
+      "105": 10
     }
   },
   {
@@ -6721,7 +6765,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 9
+      "103": 3
     }
   },
   {
@@ -6734,8 +6778,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 12
+      "103": 3,
+      "105": 14
     }
   },
   {
@@ -6749,7 +6793,7 @@
     "movimientos": [],
     "stocks": {
       "103": 5,
-      "105": 15
+      "105": 16
     }
   },
   {
@@ -6763,8 +6807,8 @@
     "movimientos": [],
     "stocks": {
       "102": 12,
-      "103": 2,
-      "105": 25
+      "103": 3,
+      "105": 11
     }
   },
   {
@@ -6778,7 +6822,7 @@
     "movimientos": [],
     "stocks": {
       "103": 6,
-      "105": 3
+      "105": 10
     }
   },
   {
@@ -6791,8 +6835,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 4
+      "103": 2,
+      "105": 3
     }
   },
   {
@@ -6819,8 +6863,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 5,
-      "105": 2
+      "103": 5
     }
   },
   {
@@ -6846,8 +6889,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 15
+      "103": 3,
+      "105": 13
     }
   },
   {
@@ -6860,7 +6903,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 6
+      "105": 2
     }
   },
   {
@@ -6873,8 +6916,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 5
+      "103": 2,
+      "105": 4
     }
   },
   {
@@ -6886,8 +6929,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 16
+      "103": 0
     }
   },
   {
@@ -6900,8 +6942,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "102": 24,
-      "103": 12,
+      "102": 48,
+      "103": 13,
       "105": 17
     }
   },
@@ -6914,8 +6956,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 1
     }
   },
   {
@@ -6939,9 +6980,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 12,
+      "102": 7,
       "103": 11,
-      "105": 2
+      "105": 6
     }
   },
   {
@@ -6966,8 +7007,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 2
+      "103": 1
     }
   },
   {
@@ -6992,9 +7032,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 10,
-      "103": 42,
-      "105": 3
+      "103": 37
     }
   },
   {
@@ -7007,8 +7045,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 10,
-      "103": 2,
+      "102": 9,
+      "103": 9,
       "105": 2
     }
   },
@@ -7034,9 +7072,7 @@
     "idCategoria": 24,
     "idDepartamento": 6,
     "movimientos": [],
-    "stocks": {
-      "105": 1
-    }
+    "stocks": {}
   },
   {
     "idProducto": 1080,
@@ -7059,7 +7095,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 13
+      "103": 10
     }
   },
   {
@@ -7071,9 +7107,7 @@
     "idCategoria": 24,
     "idDepartamento": 6,
     "movimientos": [],
-    "stocks": {
-      "105": 4
-    }
+    "stocks": {}
   },
   {
     "idProducto": 1775,
@@ -7085,8 +7119,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 3,
-      "105": 2
+      "102": 8,
+      "105": 3
     }
   },
   {
@@ -7099,9 +7133,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 7,
       "103": 8,
-      "105": 2
+      "105": -2
     }
   },
   {
@@ -7114,8 +7147,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 4,
-      "103": 7
+      "102": 12,
+      "103": 7,
+      "105": 4
     }
   },
   {
@@ -7128,8 +7162,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 4,
-      "103": 4
+      "102": 16,
+      "103": 3,
+      "105": 5
     }
   },
   {
@@ -7156,9 +7191,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 10,
-      "103": 9,
-      "105": 3
+      "102": 2,
+      "103": 7,
+      "105": 8
     }
   },
   {
@@ -7171,8 +7206,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 5,
-      "103": 4,
+      "102": 6,
+      "103": 3,
       "105": 1
     }
   },
@@ -7186,8 +7221,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 8,
-      "105": 10
+      "102": 8,
+      "103": 5,
+      "105": 5
     }
   },
   {
@@ -7211,9 +7247,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 5,
+      "102": 2,
       "103": 2,
-      "105": 1
+      "105": 3
     }
   },
   {
@@ -7249,8 +7285,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 12
+      "103": 2,
+      "105": 11
     }
   },
   {
@@ -7262,9 +7298,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 3,
+      "102": 10,
       "103": 2,
-      "105": 2
+      "105": 3
     }
   },
   {
@@ -7276,8 +7312,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 1
+      "103": 2
     }
   },
   {
@@ -7386,8 +7421,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 9,
-      "105": 7
+      "102": 6,
+      "103": 4,
+      "105": 6
     }
   },
   {
@@ -7401,9 +7437,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 15,
-      "103": 2,
-      "105": 3
+      "102": 10,
+      "103": 0,
+      "105": 5
     }
   },
   {
@@ -7417,9 +7453,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 14,
-      "103": 5,
-      "105": 8
+      "102": 4,
+      "103": 6,
+      "105": 5
     }
   },
   {
@@ -7446,7 +7482,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2
+      "103": 1
     }
   },
   {
@@ -7484,8 +7520,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 1,
-      "103": 8,
+      "102": 6,
+      "103": 6,
       "105": 1
     }
   },
@@ -7496,10 +7532,11 @@
     "precio": 1000.0,
     "image_name": "Jgo De Vasos 3pcs -AP01.jpg",
     "activo": true,
+    "idCategoria": 25,
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 7
+      "103": 6
     }
   },
   {
@@ -7560,7 +7597,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 5
+      "105": 2
     }
   },
   {
@@ -7573,7 +7610,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 5
+      "105": 2
     }
   },
   {
@@ -7634,8 +7671,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 9
+      "103": 3
     }
   },
   {
@@ -7647,8 +7683,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 2
+      "103": 0
     }
   },
   {
@@ -7661,7 +7696,7 @@
     "movimientos": [],
     "stocks": {
       "103": 18,
-      "105": 19
+      "105": 16
     }
   },
   {
@@ -7674,8 +7709,8 @@
     "movimientos": [],
     "stocks": {
       "102": 6,
-      "103": 16,
-      "105": 22
+      "103": 15,
+      "105": 20
     }
   },
   {
@@ -7702,7 +7737,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 18
+      "103": 17
     }
   },
   {
@@ -7715,9 +7750,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 36,
-      "103": 8,
-      "105": 27
+      "103": 25,
+      "105": 66
     }
   },
   {
@@ -7730,7 +7764,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 41
+      "105": 20
     }
   },
   {
@@ -7792,6 +7826,17 @@
     }
   },
   {
+    "idProducto": 1815,
+    "codigo": "2534",
+    "descripcion": "JUEGO DE CUCHILLOS SETS 6 PIEZA",
+    "precio": 10500.0,
+    "activo": false,
+    "idCategoria": 23,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "stocks": {}
+  },
+  {
     "idProducto": 792,
     "codigo": "0680",
     "descripcion": "Juego De Punta De Taladro",
@@ -7800,7 +7845,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 10,
+      "102": 8,
       "103": 4,
       "105": 2
     }
@@ -7828,7 +7873,7 @@
     "movimientos": [],
     "stocks": {
       "103": 17,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -7840,7 +7885,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 0
+      "103": 0,
+      "105": 3
     }
   },
   {
@@ -7853,8 +7899,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 1
+      "103": 2
     }
   },
   {
@@ -7881,8 +7926,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 2
+      "103": 1
     }
   },
   {
@@ -7908,9 +7952,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 8,
-      "103": 4,
-      "105": 2
+      "102": 9,
+      "103": 2,
+      "105": 1
     }
   },
   {
@@ -7923,9 +7967,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 3,
+      "102": 13,
       "103": 6,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -7939,32 +7983,29 @@
     "movimientos": [],
     "stocks": {
       "103": 8,
-      "105": 15
+      "105": 9
     }
   },
   {
     "idProducto": 795,
     "descripcion": "LAMPARA DE TECHO CON BOMBILLO",
     "precio": 8000.0,
-    "activo": true,
+    "activo": false,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 8,
-      "103": 5,
-      "105": 2
+      "103": 5
     }
   },
   {
     "idProducto": 270,
     "descripcion": "Lampara De Techo Y Bombillo",
     "precio": 6350.0,
-    "activo": true,
+    "activo": false,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 5,
-      "105": 2
+      "103": 5
     }
   },
   {
@@ -7977,8 +8018,8 @@
     "movimientos": [],
     "stocks": {
       "102": 50,
-      "103": 48,
-      "105": 43
+      "103": 42,
+      "105": 68
     }
   },
   {
@@ -8017,7 +8058,8 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 2
+      "103": 1,
+      "105": 2
     }
   },
   {
@@ -8091,7 +8133,7 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -8128,8 +8170,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 2
+      "103": 1
     }
   },
   {
@@ -8152,8 +8193,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 3
+      "103": 2,
+      "105": 7
     }
   },
   {
@@ -8164,9 +8205,7 @@
     "activo": false,
     "idDepartamento": 7,
     "movimientos": [],
-    "stocks": {
-      "105": 1
-    }
+    "stocks": {}
   },
   {
     "idProducto": 1140,
@@ -8191,8 +8230,8 @@
     "movimientos": [],
     "stocks": {
       "102": 40,
-      "103": 14,
-      "105": 44
+      "103": 13,
+      "105": 41
     }
   },
   {
@@ -8207,7 +8246,7 @@
     "stocks": {
       "102": 168,
       "103": 15,
-      "105": 40
+      "105": 39
     }
   },
   {
@@ -8232,8 +8271,8 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "102": 2,
-      "103": 6,
+      "102": 4,
+      "103": 4,
       "105": 1
     }
   },
@@ -8248,8 +8287,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 30,
-      "105": 6
+      "103": 27,
+      "105": 10
     }
   },
   {
@@ -8263,8 +8302,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 37,
-      "105": 6
+      "103": 35,
+      "105": 10
     }
   },
   {
@@ -8278,7 +8317,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 30
+      "103": 30,
+      "105": 20
     }
   },
   {
@@ -8293,7 +8333,7 @@
     "movimientos": [],
     "stocks": {
       "103": 10,
-      "105": 1
+      "105": 20
     }
   },
   {
@@ -8312,16 +8352,27 @@
   },
   {
     "idProducto": 286,
-    "codigo": "0332",
+    "codigo": "0332R",
     "descripcion": "Lima Redonda 8\"",
     "precio": 700.0,
     "activo": true,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
+      "102": 11,
       "103": 4,
       "105": 1
     }
+  },
+  {
+    "idProducto": 1816,
+    "codigo": "0332",
+    "descripcion": "LIMA TRIANGULAR  8\"",
+    "precio": 900.0,
+    "activo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {}
   },
   {
     "idProducto": 796,
@@ -8333,9 +8384,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 9,
       "103": 11,
-      "105": 2
+      "105": 6
     }
   },
   {
@@ -8361,7 +8411,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "105": 5
+      "105": 1
     }
   },
   {
@@ -8374,8 +8424,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 3,
-      "105": 3
+      "105": 4
     }
   },
   {
@@ -8389,7 +8438,7 @@
     "movimientos": [],
     "stocks": {
       "102": 12,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -8403,7 +8452,7 @@
     "movimientos": [],
     "stocks": {
       "102": 12,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -8430,7 +8479,6 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 3,
       "105": 5
     }
   },
@@ -8443,7 +8491,7 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "103": 4
+      "103": 0
     }
   },
   {
@@ -8455,7 +8503,7 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "103": 4
+      "103": 0
     }
   },
   {
@@ -8479,9 +8527,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 20,
+      "102": 15,
       "103": 4,
-      "105": 1
+      "105": 3
     }
   },
   {
@@ -8493,7 +8541,6 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 2,
       "105": 2
     }
   },
@@ -8520,8 +8567,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 1
+      "103": 2
     }
   },
   {
@@ -8536,7 +8582,7 @@
     "stocks": {
       "102": 9,
       "103": 10,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -8562,9 +8608,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 29,
+      "102": 27,
       "103": 1,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -8577,9 +8623,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 11,
-      "103": 4,
-      "105": 2
+      "102": 7,
+      "103": 3,
+      "105": 3
     }
   },
   {
@@ -8592,9 +8638,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 5,
-      "103": 9,
-      "105": 7
+      "102": 14,
+      "103": 8,
+      "105": 4
     }
   },
   {
@@ -8609,7 +8655,7 @@
     "stocks": {
       "102": 10,
       "103": 9,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -8702,7 +8748,7 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -8715,8 +8761,8 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 5
+      "103": 3,
+      "105": 4
     }
   },
   {
@@ -8728,8 +8774,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -8743,7 +8788,7 @@
     "stocks": {
       "102": 20,
       "103": 1,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -8755,7 +8800,7 @@
     "movimientos": [],
     "stocks": {
       "103": 5,
-      "105": 4
+      "105": 5
     }
   },
   {
@@ -8776,9 +8821,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 11,
       "103": 2,
-      "105": 3
+      "105": 6
     }
   },
   {
@@ -8791,7 +8835,7 @@
     "movimientos": [],
     "stocks": {
       "103": 5,
-      "105": 6
+      "105": 3
     }
   },
   {
@@ -8803,8 +8847,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 5
+      "103": 0
     }
   },
   {
@@ -8816,8 +8859,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 5
+      "103": 4,
+      "105": 6
     }
   },
   {
@@ -8830,9 +8873,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 1,
+      "102": 2,
       "103": 9,
-      "105": 2
+      "105": 3
     }
   },
   {
@@ -8844,8 +8887,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 3,
-      "103": 11
+      "103": 11,
+      "105": 3
     }
   },
   {
@@ -8858,8 +8901,8 @@
     "movimientos": [],
     "stocks": {
       "102": 8,
-      "103": 3,
-      "105": 2
+      "103": 2,
+      "105": 1
     }
   },
   {
@@ -8881,7 +8924,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 2,
+      "103": 9,
       "105": 11
     }
   },
@@ -8905,8 +8948,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 2
+      "103": 0
     }
   },
   {
@@ -8932,8 +8974,8 @@
     "movimientos": [],
     "stocks": {
       "102": 24,
-      "103": 26,
-      "105": 29
+      "103": 24,
+      "105": 16
     }
   },
   {
@@ -8945,9 +8987,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 2,
       "103": 6,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -8959,8 +9000,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 2
+      "103": 1
     }
   },
   {
@@ -8984,9 +9024,8 @@
     "idDepartamento": 9,
     "movimientos": [],
     "stocks": {
-      "102": 12,
-      "103": 6,
-      "105": 3
+      "103": 4,
+      "105": 6
     }
   },
   {
@@ -8998,7 +9037,8 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 1,
+      "105": 12
     }
   },
   {
@@ -9068,7 +9108,6 @@
     "codigo": "7215S",
     "descripcion": "Microondas",
     "precio": 43750.0,
-    "image_name": "Microondas -7215S.jpg",
     "activo": false,
     "idDepartamento": 3,
     "movimientos": [],
@@ -9084,7 +9123,7 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "103": 48
+      "103": 47
     }
   },
   {
@@ -9164,7 +9203,7 @@
     "movimientos": [],
     "stocks": {
       "103": 15,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -9291,7 +9330,7 @@
     "stocks": {
       "102": 9,
       "103": 0,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -9316,9 +9355,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 40,
-      "103": 20,
-      "105": 13
+      "102": 10,
+      "103": 16,
+      "105": 23
     }
   },
   {
@@ -9330,8 +9369,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "103": 10,
-      "105": 30
+      "102": 25,
+      "103": 34,
+      "105": 18
     }
   },
   {
@@ -9344,7 +9384,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 10
+      "103": 0,
+      "105": 29
     }
   },
   {
@@ -9370,8 +9411,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 5,
-      "105": 5
+      "103": 4,
+      "105": 1
     }
   },
   {
@@ -9384,7 +9425,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 7
+      "103": 2
     }
   },
   {
@@ -9396,34 +9437,20 @@
     "idCategoria": 59,
     "idDepartamento": 7,
     "movimientos": [],
-    "stocks": {
-      "105": 7
-    }
-  },
-  {
-    "idProducto": 1113,
-    "codigo": "160-AB",
-    "descripcion": "MUÑECA 16\"",
-    "precio": 1200.0,
-    "activo": false,
-    "idCategoria": 59,
-    "idDepartamento": 7,
-    "movimientos": [],
-    "stocks": {
-      "105": 15
-    }
+    "stocks": {}
   },
   {
     "idProducto": 1349,
     "codigo": "160AB",
     "descripcion": "Muñeca 16´´",
-    "precio": 1300.0,
+    "precio": 1200.0,
     "activo": true,
     "idCategoria": 59,
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 8
+      "103": 5,
+      "105": 16
     }
   },
   {
@@ -9436,8 +9463,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 7,
-      "105": 12
+      "103": 4,
+      "105": 7
     }
   },
   {
@@ -9450,7 +9477,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "105": 15
+      "105": 13
     }
   },
   {
@@ -9463,8 +9490,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 4
+      "103": 0,
+      "105": 1
     }
   },
   {
@@ -9489,7 +9516,7 @@
     "movimientos": [],
     "stocks": {
       "103": 2,
-      "105": 14
+      "105": 10
     }
   },
   {
@@ -9515,7 +9542,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 0
+      "103": 0,
+      "105": 1
     }
   },
   {
@@ -9538,11 +9566,98 @@
     "precio": 8800.0,
     "image_name": "Neumatico -155R 12C.jpg",
     "activo": true,
+    "idCategoria": 74,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 7,
       "103": 0
+    }
+  },
+  {
+    "idProducto": 1826,
+    "codigo": "165 70R 14C",
+    "descripcion": "NEUMATICO",
+    "precio": 21000.0,
+    "activo": false,
+    "idCategoria": 74,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 1827,
+    "codigo": "175 70R 14C",
+    "descripcion": "NEUMATICO",
+    "precio": 21000.0,
+    "activo": false,
+    "idCategoria": 74,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {}
+  },
+  {
+    "idProducto": 1828,
+    "codigo": "185 55R 15",
+    "descripcion": "NEUMATICO",
+    "precio": 24500.0,
+    "activo": false,
+    "idCategoria": 74,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {
+      "105": 7
+    }
+  },
+  {
+    "idProducto": 1829,
+    "codigo": "185 65R 15L",
+    "descripcion": "NEUMATICO",
+    "precio": 24500.0,
+    "activo": false,
+    "idCategoria": 74,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 1830,
+    "codigo": "245 65R 17",
+    "descripcion": "NEUMATICO",
+    "precio": 64750.0,
+    "activo": false,
+    "idCategoria": 74,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {}
+  },
+  {
+    "idProducto": 1831,
+    "codigo": "285 65R 17C",
+    "descripcion": "NEUMATICO",
+    "precio": 28000.0,
+    "activo": false,
+    "idCategoria": 74,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 1832,
+    "codigo": "315 80R 22.5",
+    "descripcion": "NEUMATICO",
+    "precio": 122500.0,
+    "activo": false,
+    "idCategoria": 74,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {
+      "105": 1
     }
   },
   {
@@ -9551,12 +9666,25 @@
     "descripcion": "Neumatico Moto 275/18",
     "precio": 17500.0,
     "activo": true,
+    "idCategoria": 74,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 6,
       "103": 1,
-      "105": 1
+      "105": 7
+    }
+  },
+  {
+    "idProducto": 1833,
+    "codigo": "165 70R 13RP",
+    "descripcion": "NEUMATICO WESTLAKE",
+    "precio": 19250.0,
+    "activo": false,
+    "idCategoria": 74,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {
+      "105": 4
     }
   },
   {
@@ -9582,6 +9710,19 @@
     "stocks": {}
   },
   {
+    "idProducto": 1846,
+    "codigo": "CF459",
+    "descripcion": "NEVERA 16 PIES",
+    "precio": 266000.0,
+    "activo": false,
+    "idCategoria": 50,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
     "idProducto": 1812,
     "codigo": "RFH170",
     "descripcion": "NEVERA 17 PIES",
@@ -9605,8 +9746,7 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 3
+      "103": 0
     }
   },
   {
@@ -9619,7 +9759,8 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 2
+      "103": 3,
+      "105": 2
     }
   },
   {
@@ -9632,8 +9773,8 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 2
+      "103": 1,
+      "105": 3
     }
   },
   {
@@ -9646,8 +9787,7 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": -1
+      "103": 0
     }
   },
   {
@@ -9659,9 +9799,7 @@
     "idCategoria": 50,
     "idDepartamento": 3,
     "movimientos": [],
-    "stocks": {
-      "105": 2
-    }
+    "stocks": {}
   },
   {
     "idProducto": 813,
@@ -9673,9 +9811,7 @@
     "idCategoria": 50,
     "idDepartamento": 3,
     "movimientos": [],
-    "stocks": {
-      "105": 1
-    }
+    "stocks": {}
   },
   {
     "idProducto": 338,
@@ -9687,9 +9823,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 25,
+      "102": 5,
       "103": 34,
-      "105": 8
+      "105": 6
     }
   },
   {
@@ -9702,8 +9838,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 6,
-      "105": 4
+      "105": 2
     }
   },
   {
@@ -9758,8 +9893,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 1,
-      "103": 4
+      "103": 4,
+      "105": 1
     }
   },
   {
@@ -9787,7 +9922,7 @@
     "movimientos": [],
     "stocks": {
       "102": 24,
-      "105": 8
+      "105": 6
     }
   },
   {
@@ -9824,6 +9959,19 @@
     }
   },
   {
+    "idProducto": 1821,
+    "codigo": "ML-OPM-6L",
+    "descripcion": "Olla a presion Automatica",
+    "precio": 28000.0,
+    "activo": true,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "stocks": {
+      "103": 5,
+      "105": 4
+    }
+  },
+  {
     "idProducto": 1179,
     "codigo": "8620",
     "descripcion": "OLLA A PRESION AUTOMATICA",
@@ -9833,8 +9981,8 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 11,
-      "105": 11
+      "103": 5,
+      "105": 7
     }
   },
   {
@@ -9847,8 +9995,7 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 12
+      "103": 0
     }
   },
   {
@@ -9861,8 +10008,8 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 8,
-      "105": 13
+      "103": 9,
+      "105": 14
     }
   },
   {
@@ -9930,8 +10077,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 22,
-      "105": 8
+      "103": 6,
+      "105": 11
     }
   },
   {
@@ -9946,7 +10093,7 @@
     "movimientos": [],
     "stocks": {
       "103": 4,
-      "105": 8
+      "105": 13
     }
   },
   {
@@ -9973,8 +10120,35 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 8
+      "103": 5,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 1824,
+    "codigo": "LT-IND-4L",
+    "descripcion": "Olla de Presion Induccion 4L",
+    "precio": 10500.0,
+    "activo": true,
+    "idCategoria": 26,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "stocks": {
+      "103": 10,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 1822,
+    "codigo": "LT-IND-5L",
+    "descripcion": "Olla de Presion Induccion 5L",
+    "precio": 12250.0,
+    "activo": true,
+    "idCategoria": 26,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "stocks": {
+      "103": 0
     }
   },
   {
@@ -10100,9 +10274,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 23,
-      "103": 49,
-      "105": 15
+      "102": 11,
+      "103": 48,
+      "105": 12
     }
   },
   {
@@ -10114,7 +10288,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 13
+      "105": 17
     }
   },
   {
@@ -10126,7 +10300,7 @@
     "movimientos": [],
     "stocks": {
       "102": 40,
-      "105": 9
+      "105": 7
     }
   },
   {
@@ -10138,9 +10312,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 82,
+      "102": 66,
       "103": 44,
-      "105": 14
+      "105": 12
     }
   },
   {
@@ -10151,7 +10325,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "103": 17
+      "102": 336,
+      "103": 0,
+      "105": 28
     }
   },
   {
@@ -10163,9 +10339,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 36,
-      "103": 10,
-      "105": 19
+      "102": 24,
+      "103": 19,
+      "105": 13
     }
   },
   {
@@ -10177,7 +10353,6 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "102": 1,
       "105": 1
     }
   },
@@ -10190,7 +10365,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 6,
+      "102": 4,
       "103": 3
     }
   },
@@ -10205,7 +10380,7 @@
     "movimientos": [],
     "stocks": {
       "103": 1,
-      "105": 5
+      "105": 9
     }
   },
   {
@@ -10240,11 +10415,12 @@
     "precio": 100.0,
     "image_name": "Pega Magica 3g -Q73G.jpg",
     "activo": true,
-    "idDepartamento": 9,
+    "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 21,
-      "105": 29
+      "102": 60,
+      "103": 5,
+      "105": 26
     }
   },
   {
@@ -10297,7 +10473,7 @@
     "movimientos": [],
     "stocks": {
       "102": 3,
-      "105": 4
+      "105": 2
     }
   },
   {
@@ -10310,8 +10486,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 4,
-      "105": 2
+      "105": 4
     }
   },
   {
@@ -10325,7 +10500,7 @@
     "movimientos": [],
     "stocks": {
       "102": 13,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -10352,7 +10527,7 @@
     "movimientos": [],
     "stocks": {
       "102": 17,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -10390,7 +10565,7 @@
     "movimientos": [],
     "stocks": {
       "102": 13,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -10404,7 +10579,7 @@
     "movimientos": [],
     "stocks": {
       "102": 18,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -10432,7 +10607,7 @@
     "movimientos": [],
     "stocks": {
       "102": 13,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -10460,7 +10635,7 @@
     "movimientos": [],
     "stocks": {
       "102": 10,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -10472,9 +10647,7 @@
     "idCategoria": 7,
     "idDepartamento": 5,
     "movimientos": [],
-    "stocks": {
-      "105": 1
-    }
+    "stocks": {}
   },
   {
     "idProducto": 833,
@@ -10487,7 +10660,7 @@
     "movimientos": [],
     "stocks": {
       "102": 11,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -10499,10 +10672,7 @@
     "idCategoria": 7,
     "idDepartamento": 5,
     "movimientos": [],
-    "stocks": {
-      "102": 3,
-      "105": 2
-    }
+    "stocks": {}
   },
   {
     "idProducto": 835,
@@ -10541,8 +10711,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 5,
-      "105": 5
+      "105": 7
     }
   },
   {
@@ -10555,9 +10724,20 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 7,
-      "105": 4
+      "102": 2,
+      "105": 9
     }
+  },
+  {
+    "idProducto": 1839,
+    "codigo": "133DB",
+    "descripcion": "PINTURA AEROSOL AZUL",
+    "precio": 1400.0,
+    "activo": false,
+    "idCategoria": 46,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {}
   },
   {
     "idProducto": 970,
@@ -10569,7 +10749,6 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 3,
       "105": 3
     }
   },
@@ -10584,8 +10763,8 @@
     "movimientos": [],
     "stocks": {
       "102": 12,
-      "103": 4,
-      "105": 4
+      "103": 3,
+      "105": 12
     }
   },
   {
@@ -10598,9 +10777,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 10,
-      "103": 6,
-      "105": 5
+      "102": 8,
+      "103": 4,
+      "105": 3
     }
   },
   {
@@ -10635,8 +10814,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 6
+      "103": 3
     }
   },
   {
@@ -10648,9 +10826,7 @@
     "idCategoria": 46,
     "idDepartamento": 2,
     "movimientos": [],
-    "stocks": {
-      "105": 5
-    }
+    "stocks": {}
   },
   {
     "idProducto": 973,
@@ -10662,9 +10838,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 4,
+      "102": 7,
       "103": 6,
-      "105": 5
+      "105": 8
     }
   },
   {
@@ -10677,9 +10853,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 12,
-      "103": 4,
-      "105": 2
+      "103": 3
     }
   },
   {
@@ -10692,9 +10866,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 3,
-      "103": 4,
-      "105": 4
+      "102": 16,
+      "103": 4
     }
   },
   {
@@ -10707,8 +10880,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 5,
-      "105": 5
+      "103": 5
     }
   },
   {
@@ -10720,7 +10892,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -10749,8 +10921,7 @@
     "movimientos": [],
     "stocks": {
       "102": 7,
-      "103": 1,
-      "105": 1
+      "103": 1
     }
   },
   {
@@ -10874,6 +11045,19 @@
     "stocks": {}
   },
   {
+    "idProducto": 1834,
+    "codigo": "8241",
+    "descripcion": "PISCINA 15FT",
+    "precio": 192500.0,
+    "activo": false,
+    "idCategoria": 57,
+    "idDepartamento": 7,
+    "movimientos": [],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
     "idProducto": 1774,
     "codigo": "6102",
     "descripcion": "Piscina 183X51CM",
@@ -10908,7 +11092,7 @@
     "movimientos": [],
     "stocks": {
       "103": 3,
-      "105": 4
+      "105": 2
     }
   },
   {
@@ -10970,9 +11154,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 183,
-      "103": 96,
-      "105": 59
+      "102": 199,
+      "103": 86,
+      "105": 66
     }
   },
   {
@@ -11001,7 +11185,7 @@
     "stocks": {
       "102": 16,
       "103": 7,
-      "105": 23
+      "105": 10
     }
   },
   {
@@ -11014,9 +11198,9 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 18,
-      "103": 8,
-      "105": 13
+      "102": 28,
+      "103": 0,
+      "105": 17
     }
   },
   {
@@ -11030,8 +11214,18 @@
     "movimientos": [],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 2
     }
+  },
+  {
+    "idProducto": 1817,
+    "codigo": "1063",
+    "descripcion": "PLATO P/ MASCOTA",
+    "precio": 1800.0,
+    "activo": false,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "stocks": {}
   },
   {
     "idProducto": 540,
@@ -11056,9 +11250,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 60,
       "103": 0,
-      "105": 19
+      "105": 2
     }
   },
   {
@@ -11070,8 +11263,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1,
-      "105": 8
+      "103": 0,
+      "105": 5
     }
   },
   {
@@ -11084,9 +11277,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 2,
       "103": 5,
-      "105": 5
+      "105": 8
     }
   },
   {
@@ -11098,7 +11290,7 @@
     "movimientos": [],
     "stocks": {
       "103": 0,
-      "105": 10
+      "105": 8
     }
   },
   {
@@ -11110,8 +11302,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 6,
-      "105": 6
+      "103": 4,
+      "105": 4
     }
   },
   {
@@ -11123,8 +11315,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 20,
-      "105": 4
+      "103": 19,
+      "105": 3
     }
   },
   {
@@ -11148,9 +11340,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 9,
-      "103": 5,
-      "105": 3
+      "103": 3,
+      "105": 2
     }
   },
   {
@@ -11164,7 +11355,7 @@
     "movimientos": [],
     "stocks": {
       "103": 3,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -11178,7 +11369,7 @@
     "movimientos": [],
     "stocks": {
       "103": 2,
-      "105": 9
+      "105": 12
     }
   },
   {
@@ -11192,7 +11383,7 @@
     "movimientos": [],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -11219,8 +11410,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 2
+      "103": 2
     }
   },
   {
@@ -11232,9 +11422,7 @@
     "idCategoria": 21,
     "idDepartamento": 6,
     "movimientos": [],
-    "stocks": {
-      "105": 1
-    }
+    "stocks": {}
   },
   {
     "idProducto": 387,
@@ -11268,11 +11456,12 @@
     "descripcion": "PROTECTOR 120V HEAVY DUTY",
     "precio": 9300.0,
     "activo": false,
+    "idCategoria": 71,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
       "102": 4,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -11281,10 +11470,11 @@
     "descripcion": "PROTECTOR 120V TRIPLE",
     "precio": 6400.0,
     "activo": false,
+    "idCategoria": 71,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "105": 2
+      "105": 5
     }
   },
   {
@@ -11293,10 +11483,11 @@
     "descripcion": "Protector De Volt 220v",
     "precio": 6400.0,
     "activo": true,
+    "idCategoria": 71,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 7,
+      "102": 5,
       "103": 6,
       "105": 2
     }
@@ -11305,7 +11496,7 @@
     "idProducto": 842,
     "codigo": "105X203-PW",
     "descripcion": "PUERTA PLEG BLANCO",
-    "precio": 26300.0,
+    "precio": 24400.0,
     "activo": false,
     "idCategoria": 49,
     "idDepartamento": 2,
@@ -11318,7 +11509,7 @@
     "idProducto": 843,
     "codigo": "105X203-W",
     "descripcion": "PUERTA PLEG BLANCO CENIZO",
-    "precio": 26300.0,
+    "precio": 24400.0,
     "activo": false,
     "idCategoria": 49,
     "idDepartamento": 2,
@@ -11331,7 +11522,7 @@
     "idProducto": 845,
     "codigo": "82X203-W",
     "descripcion": "PUERTA PLEG BLANCO CENIZO",
-    "precio": 22800.0,
+    "precio": 19200.0,
     "activo": false,
     "idCategoria": 49,
     "idDepartamento": 2,
@@ -11344,33 +11535,31 @@
     "idProducto": 844,
     "codigo": "105X203-O",
     "descripcion": "PUERTA PLEG ROBLE",
-    "precio": 26300.0,
+    "precio": 24400.0,
     "activo": false,
     "idCategoria": 49,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "105": 5
+      "105": 3
     }
   },
   {
     "idProducto": 1762,
     "codigo": "82X203-O",
     "descripcion": "PUERTA PLEG ROBLE",
-    "precio": 22800.0,
+    "precio": 19200.0,
     "activo": false,
     "idCategoria": 49,
     "idDepartamento": 2,
     "movimientos": [],
-    "stocks": {
-      "105": 1
-    }
+    "stocks": {}
   },
   {
     "idProducto": 1804,
     "codigo": "82X203-PW",
     "descripcion": "PUERTA PLEGABLE BLANCO",
-    "precio": 22800.0,
+    "precio": 19200.0,
     "activo": false,
     "idCategoria": 49,
     "idDepartamento": 2,
@@ -11404,11 +11593,26 @@
     }
   },
   {
+    "idProducto": 1825,
+    "codigo": "7527",
+    "descripcion": "Radio C/ Reloj y Lampara",
+    "precio": 7000.0,
+    "activo": true,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "stocks": {
+      "102": 10,
+      "103": 5,
+      "105": 1
+    }
+  },
+  {
     "idProducto": 391,
     "codigo": "8080",
     "descripcion": "Radio P/ Auto",
     "precio": 14000.0,
     "activo": true,
+    "idCategoria": 72,
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
@@ -11422,6 +11626,7 @@
     "descripcion": "Radio P/ Auto",
     "precio": 14000.0,
     "activo": true,
+    "idCategoria": 72,
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
@@ -11435,10 +11640,12 @@
     "descripcion": "Radio P/ Auto",
     "precio": 14000.0,
     "activo": true,
+    "idCategoria": 72,
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -11462,8 +11669,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 17
+      "103": 2,
+      "105": 10
     }
   },
   {
@@ -11488,7 +11695,6 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 5,
       "103": 6,
       "105": 6
     }
@@ -11503,7 +11709,7 @@
     "movimientos": [],
     "stocks": {
       "103": 0,
-      "105": 5
+      "105": 2
     }
   },
   {
@@ -11515,9 +11721,33 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 23,
+      "102": 10,
       "103": 2,
-      "105": 2
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 1847,
+    "codigo": "ML-RFWD",
+    "descripcion": "REFRIGERADOR",
+    "precio": 280000.0,
+    "activo": false,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 1819,
+    "codigo": "RT11N6",
+    "descripcion": "REFRIGERADOR",
+    "precio": 245000.0,
+    "activo": false,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "stocks": {
+      "105": 1
     }
   },
   {
@@ -11542,8 +11772,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 2
+      "103": 1
     }
   },
   {
@@ -11569,7 +11798,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -11582,7 +11811,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 5
+      "103": 1
     }
   },
   {
@@ -11609,8 +11838,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 7
+      "103": 3,
+      "105": 19
     }
   },
   {
@@ -11636,8 +11865,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 5
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -11650,7 +11879,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -11664,7 +11893,7 @@
     "movimientos": [],
     "stocks": {
       "103": 2,
-      "105": 4
+      "105": 1
     }
   },
   {
@@ -11690,7 +11919,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 9
+      "105": 7
     }
   },
   {
@@ -11703,7 +11932,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 3,
+      "103": 2,
       "105": 18
     }
   },
@@ -11718,7 +11947,7 @@
     "movimientos": [],
     "stocks": {
       "103": 3,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -11731,7 +11960,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -11744,7 +11973,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -11757,7 +11986,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2
+      "103": 0
     }
   },
   {
@@ -11781,7 +12010,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 6
+      "105": 2
     }
   },
   {
@@ -11794,7 +12023,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -11846,23 +12075,21 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 8,
-      "103": 16,
-      "105": 5
+      "103": 10,
+      "105": 9
     }
   },
   {
     "idProducto": 1146,
     "codigo": "C1810",
     "descripcion": "RETRACTIL TRANSPARENTE",
-    "precio": 6000.0,
+    "precio": 4000.0,
     "activo": true,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
       "102": 5,
-      "103": 6,
-      "105": 4
+      "103": 5
     }
   },
   {
@@ -11888,7 +12115,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 38,
+      "102": 36,
       "103": 21,
       "105": 2
     }
@@ -11903,7 +12130,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 12,
+      "102": 7,
       "103": 20,
       "105": 2
     }
@@ -11932,7 +12159,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 6,
+      "102": 19,
       "103": 18,
       "105": 2
     }
@@ -11947,9 +12174,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 10,
+      "102": 3,
       "103": 16,
-      "105": 1
+      "105": 4
     }
   },
   {
@@ -11961,8 +12188,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 4
+      "103": 2
     }
   },
   {
@@ -11975,8 +12201,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 15
+      "103": 6,
+      "105": 16
     }
   },
   {
@@ -11989,8 +12215,8 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 6
+      "103": 7,
+      "105": 10
     }
   },
   {
@@ -12004,7 +12230,7 @@
     "movimientos": [],
     "stocks": {
       "103": 6,
-      "105": 7
+      "105": 13
     }
   },
   {
@@ -12017,8 +12243,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 5,
-      "105": 17
+      "103": 3
     }
   },
   {
@@ -12031,8 +12256,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 3
+      "103": 2
     }
   },
   {
@@ -12045,8 +12269,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 7
+      "103": 3
     }
   },
   {
@@ -12111,7 +12334,7 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -12123,7 +12346,7 @@
     "movimientos": [],
     "stocks": {
       "102": 12,
-      "105": 4
+      "105": 9
     }
   },
   {
@@ -12134,9 +12357,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 72,
-      "103": 68,
-      "105": 39
+      "102": 62,
+      "103": 41,
+      "105": 42
     }
   },
   {
@@ -12147,9 +12370,9 @@
     "idDepartamento": 8,
     "movimientos": [],
     "stocks": {
-      "102": 62,
-      "103": 60,
-      "105": 27
+      "102": 77,
+      "103": 33,
+      "105": 32
     }
   },
   {
@@ -12184,7 +12407,7 @@
     "movimientos": [],
     "stocks": {
       "103": 2,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -12197,8 +12420,8 @@
     "movimientos": [],
     "stocks": {
       "102": 36,
-      "103": 33,
-      "105": 48
+      "103": 31,
+      "105": 30
     }
   },
   {
@@ -12208,9 +12431,7 @@
     "activo": false,
     "idDepartamento": 5,
     "movimientos": [],
-    "stocks": {
-      "105": 2
-    }
+    "stocks": {}
   },
   {
     "idProducto": 1002,
@@ -12221,9 +12442,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 6,
+      "102": 12,
       "103": 8,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -12235,8 +12456,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
+      "102": 20,
       "103": 8,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -12249,8 +12471,8 @@
     "movimientos": [],
     "stocks": {
       "102": 23,
-      "103": 16,
-      "105": 4
+      "103": 15,
+      "105": 2
     }
   },
   {
@@ -12262,7 +12484,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "103": 38
+      "103": 35
     }
   },
   {
@@ -12286,7 +12508,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "103": 29
+      "103": 28
     }
   },
   {
@@ -12311,7 +12533,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 27
+      "102": 26
     }
   },
   {
@@ -12384,7 +12606,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 12
+      "102": 11
     }
   },
   {
@@ -12445,7 +12667,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 109
+      "102": 108
     }
   },
   {
@@ -12457,7 +12679,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 13
+      "102": 12
     }
   },
   {
@@ -12481,7 +12703,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 34
+      "102": 32
     }
   },
   {
@@ -12559,7 +12781,7 @@
     "movimientos": [],
     "stocks": {
       "102": 20,
-      "105": 24
+      "105": 15
     }
   },
   {
@@ -12570,7 +12792,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "103": 24
+      "103": 20
     }
   },
   {
@@ -12792,8 +13014,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 4,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -12805,7 +13026,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 10
+      "103": 9
     }
   },
   {
@@ -12817,7 +13038,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 8
+      "105": 5
     }
   },
   {
@@ -12842,7 +13063,7 @@
     "movimientos": [],
     "stocks": {
       "103": 0,
-      "105": 21
+      "105": 13
     }
   },
   {
@@ -12854,7 +13075,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 3,
+      "103": 1,
       "105": 1
     }
   },
@@ -12867,8 +13088,7 @@
     "idDepartamento": 7,
     "movimientos": [],
     "stocks": {
-      "103": 5,
-      "105": 16
+      "103": 0
     }
   },
   {
@@ -12877,12 +13097,13 @@
     "descripcion": "Set De Destornillador",
     "precio": 3500.0,
     "activo": true,
+    "idCategoria": 70,
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
       "102": 2,
       "103": 5,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -12931,7 +13152,7 @@
     "idDepartamento": 9,
     "movimientos": [],
     "stocks": {
-      "103": 5
+      "103": 0
     }
   },
   {
@@ -12969,9 +13190,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 16,
+      "102": 11,
       "103": 6,
-      "105": 7
+      "105": 3
     }
   },
   {
@@ -12984,9 +13205,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 7,
+      "102": 2,
       "103": 4,
-      "105": 4
+      "105": 6
     }
   },
   {
@@ -13000,7 +13221,7 @@
     "movimientos": [],
     "stocks": {
       "102": 1,
-      "103": 6
+      "103": 0
     }
   },
   {
@@ -13026,7 +13247,7 @@
     "stocks": {
       "102": 3,
       "103": 6,
-      "105": 7
+      "105": 5
     }
   },
   {
@@ -13039,9 +13260,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 2,
-      "103": 0,
-      "105": 5
+      "103": 0
     }
   },
   {
@@ -13054,9 +13273,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 5,
-      "103": 5,
-      "105": 4
+      "102": 12,
+      "103": 4,
+      "105": 5
     }
   },
   {
@@ -13096,7 +13315,7 @@
     "idProducto": 446,
     "codigo": "2484",
     "descripcion": "Shampo Doxa Aloe Vera",
-    "precio": 700.0,
+    "precio": 500.0,
     "activo": true,
     "idCategoria": 2,
     "idDepartamento": 5,
@@ -13104,14 +13323,14 @@
     "stocks": {
       "102": 12,
       "103": 15,
-      "105": 8
+      "105": 7
     }
   },
   {
     "idProducto": 447,
     "codigo": "2477",
     "descripcion": "Shampo Doxa Keratina",
-    "precio": 700.0,
+    "precio": 500.0,
     "activo": true,
     "idCategoria": 2,
     "idDepartamento": 5,
@@ -13125,15 +13344,15 @@
     "idProducto": 448,
     "codigo": "2507",
     "descripcion": "Shampo Doxa Menta",
-    "precio": 700.0,
+    "precio": 500.0,
     "activo": true,
     "idCategoria": 2,
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
       "102": 12,
-      "103": 19,
-      "105": 13
+      "103": 18,
+      "105": 12
     }
   },
   {
@@ -13172,9 +13391,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 12,
-      "103": 0,
-      "105": 3
+      "103": 11
     }
   },
   {
@@ -13187,8 +13404,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 6,
-      "105": 7
+      "105": 10
     }
   },
   {
@@ -13202,8 +13418,8 @@
     "movimientos": [],
     "stocks": {
       "102": 12,
-      "103": 0,
-      "105": 7
+      "103": 11,
+      "105": 5
     }
   },
   {
@@ -13217,8 +13433,8 @@
     "movimientos": [],
     "stocks": {
       "102": 12,
-      "103": 7,
-      "105": 6
+      "103": 5,
+      "105": 4
     }
   },
   {
@@ -13231,6 +13447,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
+      "102": 6,
       "105": 8
     }
   },
@@ -13245,7 +13462,7 @@
     "movimientos": [],
     "stocks": {
       "102": 12,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -13259,8 +13476,8 @@
     "movimientos": [],
     "stocks": {
       "102": 6,
-      "103": 6,
-      "105": 8
+      "103": 5,
+      "105": 6
     }
   },
   {
@@ -13273,8 +13490,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 48,
-      "105": 6
+      "102": 42,
+      "105": 4
     }
   },
   {
@@ -13287,8 +13504,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 1
+      "102": 6,
+      "103": 15,
+      "105": 2
     }
   },
   {
@@ -13301,9 +13519,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 6,
+      "102": 12,
       "103": 9,
-      "105": 3
+      "105": 7
     }
   },
   {
@@ -13316,9 +13534,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 12,
+      "102": 18,
       "103": 7,
-      "105": 4
+      "105": 8
     }
   },
   {
@@ -13344,9 +13562,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 8,
+      "102": 5,
       "103": 7,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -13370,8 +13588,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 10,
-      "105": 17
+      "103": 8,
+      "105": 13
     }
   },
   {
@@ -13423,7 +13641,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -13436,8 +13654,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 17,
-      "105": 9
+      "103": 12
     }
   },
   {
@@ -13503,9 +13720,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 5,
-      "103": 0,
-      "105": 13
+      "102": 10,
+      "103": 4,
+      "105": 2
     }
   },
   {
@@ -13518,7 +13735,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "103": 4
+      "103": 14
     }
   },
   {
@@ -13531,8 +13748,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 7,
-      "105": 4
+      "102": 3,
+      "105": 6
     }
   },
   {
@@ -13545,8 +13762,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 2,
-      "105": 6
+      "102": 9,
+      "105": 5
     }
   },
   {
@@ -13560,7 +13777,7 @@
     "movimientos": [],
     "stocks": {
       "102": 2,
-      "105": 5
+      "105": 7
     }
   },
   {
@@ -13573,8 +13790,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 12,
-      "105": 4
+      "102": 8,
+      "105": 6
     }
   },
   {
@@ -13599,9 +13816,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 6,
-      "103": 12,
-      "105": 3
+      "102": 8,
+      "103": 11,
+      "105": 5
     }
   },
   {
@@ -13615,7 +13832,7 @@
     "movimientos": [],
     "stocks": {
       "102": 7,
-      "105": 7
+      "105": 4
     }
   },
   {
@@ -13628,8 +13845,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 3,
-      "105": 7
+      "102": 12,
+      "105": 5
     }
   },
   {
@@ -13642,9 +13859,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 8,
-      "103": 1,
-      "105": 4
+      "102": 4,
+      "103": 11,
+      "105": 6
     }
   },
   {
@@ -13698,8 +13915,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 5,
-      "103": 5,
+      "102": 8,
+      "103": 4,
       "105": 6
     }
   },
@@ -13725,7 +13942,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 12
+      "102": 12,
+      "105": 3
     }
   },
   {
@@ -13737,9 +13955,19 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": -1
+      "103": 0
     }
+  },
+  {
+    "idProducto": 1842,
+    "codigo": "9072",
+    "descripcion": "SPLASH DREAM SEDUCTION",
+    "precio": 1800.0,
+    "activo": false,
+    "idCategoria": 8,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "stocks": {}
   },
   {
     "idProducto": 889,
@@ -13751,8 +13979,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 12,
-      "105": 4
+      "102": 7,
+      "105": 7
     }
   },
   {
@@ -13766,7 +13994,7 @@
     "movimientos": [],
     "stocks": {
       "102": 7,
-      "105": 7
+      "105": 4
     }
   },
   {
@@ -13779,9 +14007,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 3,
-      "103": 6,
-      "105": 5
+      "103": 5,
+      "105": 4
     }
   },
   {
@@ -13805,8 +14032,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 8,
-      "105": 4
+      "102": 4,
+      "105": 7
     }
   },
   {
@@ -13819,7 +14046,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "105": 3
+      "102": 8,
+      "105": 7
     }
   },
   {
@@ -13832,6 +14060,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
+      "102": 3,
       "105": 3
     }
   },
@@ -13845,6 +14074,7 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
+      "102": 8,
       "105": 7
     }
   },
@@ -13858,9 +14088,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 7,
+      "102": 8,
       "103": 8,
-      "105": 4
+      "105": 5
     }
   },
   {
@@ -13874,7 +14104,7 @@
     "movimientos": [],
     "stocks": {
       "102": 3,
-      "103": 0,
+      "103": 8,
       "105": 4
     }
   },
@@ -13888,8 +14118,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 7,
-      "105": 5
+      "102": 6,
+      "105": 7
     }
   },
   {
@@ -13902,9 +14132,9 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 12,
-      "103": 12,
-      "105": 5
+      "102": 2,
+      "103": 9,
+      "105": 7
     }
   },
   {
@@ -13917,8 +14147,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 5,
-      "105": 4
+      "102": 9,
+      "105": 5
     }
   },
   {
@@ -13931,8 +14161,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 7,
-      "105": 5
+      "102": 4,
+      "105": 6
     }
   },
   {
@@ -13945,8 +14175,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 6,
-      "105": 4
+      "102": 2,
+      "105": 5
     }
   },
   {
@@ -13974,7 +14204,7 @@
     "movimientos": [],
     "stocks": {
       "102": 6,
-      "105": 7
+      "105": 4
     }
   },
   {
@@ -13988,7 +14218,7 @@
     "movimientos": [],
     "stocks": {
       "102": 3,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -14001,8 +14231,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 8,
-      "105": 5
+      "102": 4,
+      "105": 6
     }
   },
   {
@@ -14015,8 +14245,8 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 3,
-      "105": 5
+      "102": 12,
+      "105": 6
     }
   },
   {
@@ -14029,22 +14259,22 @@
     "idDepartamento": 5,
     "movimientos": [],
     "stocks": {
-      "102": 12,
+      "102": 8,
       "103": 11,
-      "105": 5
+      "105": 7
     }
   },
   {
     "idProducto": 651,
     "descripcion": "Split 12000 BTU",
-    "image_name": "Split 12000 BTU.jpg",
     "precio": 129500.0,
+    "image_name": "Split 12000 BTU.jpg",
     "activo": true,
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 3,
-      "105": 7
+      "103": 2,
+      "105": 6
     }
   },
   {
@@ -14084,8 +14314,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 4,
-      "105": 5
+      "103": 1,
+      "105": 10
     }
   },
   {
@@ -14123,7 +14353,7 @@
     "movimientos": [],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -14136,7 +14366,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 16
+      "102": 38
     }
   },
   {
@@ -14149,7 +14379,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 26
+      "102": 45
     }
   },
   {
@@ -14210,7 +14440,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 2
+      "102": 1
     }
   },
   {
@@ -14222,7 +14452,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 6
+      "102": 5
     }
   },
   {
@@ -14282,7 +14512,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 11
+      "102": 10
     }
   },
   {
@@ -14330,7 +14560,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 9
+      "102": 8
     }
   },
   {
@@ -14366,7 +14596,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 6
+      "102": 3
     }
   },
   {
@@ -14378,7 +14608,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 6
+      "102": 5
     }
   },
   {
@@ -14428,9 +14658,7 @@
     "activo": false,
     "idDepartamento": 6,
     "movimientos": [],
-    "stocks": {
-      "105": 1
-    }
+    "stocks": {}
   },
   {
     "idProducto": 485,
@@ -14441,7 +14669,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 6,
+      "103": 2,
       "105": 4
     }
   },
@@ -14454,9 +14682,9 @@
     "idDepartamento": 9,
     "movimientos": [],
     "stocks": {
-      "102": 18,
-      "103": 3,
-      "105": 3
+      "102": 6,
+      "103": 8,
+      "105": 1
     }
   },
   {
@@ -14470,7 +14698,7 @@
     "movimientos": [],
     "stocks": {
       "103": 0,
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -14510,7 +14738,7 @@
     "movimientos": [],
     "stocks": {
       "103": 0,
-      "105": 11
+      "105": 4
     }
   },
   {
@@ -14536,7 +14764,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "105": 43
+      "105": 41
     }
   },
   {
@@ -14561,9 +14789,7 @@
     "idCategoria": 29,
     "idDepartamento": 6,
     "movimientos": [],
-    "stocks": {
-      "105": -4
-    }
+    "stocks": {}
   },
   {
     "idProducto": 563,
@@ -14615,7 +14841,7 @@
     "movimientos": [],
     "stocks": {
       "103": 1,
-      "105": 15
+      "105": 18
     }
   },
   {
@@ -14654,8 +14880,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 5,
-      "105": 4
+      "103": 3
     }
   },
   {
@@ -14681,8 +14906,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 9,
-      "105": 6
+      "103": 7,
+      "105": 1
     }
   },
   {
@@ -14708,8 +14933,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 13
+      "103": 0
     }
   },
   {
@@ -14735,8 +14959,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 13,
-      "105": 15
+      "103": 0,
+      "105": 25
     }
   },
   {
@@ -14754,14 +14978,12 @@
     "idProducto": 1206,
     "codigo": "7639",
     "descripcion": "Teatro en Casa",
-    "precio": 54300.0,
-    "image_name": "Teatro en casa -7639.jpg",
+    "precio": 54250.0,
     "activo": false,
     "idCategoria": 36,
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "102": 1,
       "105": 1
     }
   },
@@ -14775,9 +14997,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 10,
+      "102": 5,
       "103": 8,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -14790,9 +15012,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 34,
+      "102": 29,
       "103": 82,
-      "105": 4
+      "105": 7
     }
   },
   {
@@ -14806,7 +15028,7 @@
     "movimientos": [],
     "stocks": {
       "102": 27,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -14834,9 +15056,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 10,
       "103": 4,
-      "105": 9
+      "105": 11
     }
   },
   {
@@ -14848,7 +15069,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 99
+      "102": 82
     }
   },
   {
@@ -14875,7 +15096,7 @@
     "movimientos": [],
     "stocks": {
       "102": 7,
-      "103": 17
+      "103": 15
     }
   },
   {
@@ -14888,8 +15109,8 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 15,
-      "103": 34
+      "102": 11,
+      "103": 28
     }
   },
   {
@@ -14902,7 +15123,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 3
+      "102": 2
     }
   },
   {
@@ -14924,7 +15145,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 2
+      "102": 6
     }
   },
   {
@@ -14936,7 +15157,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 2
+      "102": 4
     }
   },
   {
@@ -14948,7 +15169,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 6
+      "102": 5
     }
   },
   {
@@ -14970,12 +15191,13 @@
     "precio": 1000.0,
     "image_name": "Termo 0.45l -1044.jpeg",
     "activo": true,
+    "idCategoria": 73,
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 49,
-      "103": 12,
-      "105": 10
+      "102": 10,
+      "103": 20,
+      "105": 9
     }
   },
   {
@@ -14985,12 +15207,13 @@
     "precio": 1000.0,
     "image_name": "Termo 0.45l -1046.jpeg",
     "activo": true,
+    "idCategoria": 73,
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 25,
-      "103": 21,
-      "105": 18
+      "102": 39,
+      "103": 16,
+      "105": 15
     }
   },
   {
@@ -14999,6 +15222,7 @@
     "descripcion": "Termo 500ml",
     "precio": 4000.0,
     "activo": true,
+    "idCategoria": 73,
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
@@ -15011,11 +15235,11 @@
     "descripcion": "Termo 510ml",
     "precio": 4200.0,
     "activo": true,
+    "idCategoria": 73,
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 2,
-      "105": 2
+      "103": 2
     }
   },
   {
@@ -15024,6 +15248,7 @@
     "descripcion": "Termo 820ml",
     "precio": 4800.0,
     "activo": false,
+    "idCategoria": 73,
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
@@ -15036,10 +15261,12 @@
     "descripcion": "Termo Plastico 1.25lt",
     "precio": 900.0,
     "activo": false,
+    "idCategoria": 73,
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 0
+      "103": 0,
+      "105": 1
     }
   },
   {
@@ -15090,12 +15317,66 @@
     }
   },
   {
+    "idProducto": 1836,
+    "codigo": "TE3X3-BLUE",
+    "descripcion": "TOLDA 3X3M AZUL",
+    "precio": 30000.0,
+    "activo": false,
+    "idCategoria": 75,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 1823,
+    "codigo": "TE3X3-BROWN",
+    "descripcion": "Tolda 3X3M Chocolate",
+    "precio": 30000.0,
+    "activo": true,
+    "idCategoria": 75,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "stocks": {
+      "103": 1,
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 1838,
+    "codigo": "TE3X3-RED",
+    "descripcion": "TOLDA 3X3M ROJA",
+    "precio": 30000.0,
+    "activo": false,
+    "idCategoria": 75,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 1837,
+    "codigo": "TE3X3-XGREEN",
+    "descripcion": "TOLDA 3X3M VERDE",
+    "precio": 30000.0,
+    "activo": false,
+    "idCategoria": 75,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
     "idProducto": 1750,
     "codigo": "F002-BLUE",
     "descripcion": "TOLDA AZUL",
     "precio": 30000.0,
     "activo": false,
-    "idDepartamento": 2,
+    "idCategoria": 75,
+    "idDepartamento": 1,
     "movimientos": [],
     "stocks": {}
   },
@@ -15110,9 +15391,19 @@
     "movimientos": [],
     "stocks": {
       "102": 10,
-      "103": 27,
+      "103": 26,
       "105": 8
     }
+  },
+  {
+    "idProducto": 1818,
+    "codigo": "U63",
+    "descripcion": "TOMACORRIENTE MULTIPLE 6 PUESTOS",
+    "precio": 1800.0,
+    "activo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "stocks": {}
   },
   {
     "idProducto": 501,
@@ -15123,7 +15414,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 4,
+      "103": 3,
       "105": 1
     }
   },
@@ -15147,7 +15438,7 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -15159,9 +15450,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 4,
+      "102": 2,
       "103": 4,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -15185,9 +15476,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 5,
+      "102": 3,
       "103": 4,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -15220,9 +15511,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 3,
       "103": 2,
-      "105": 3
+      "105": 6
     }
   },
   {
@@ -15236,9 +15526,7 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "102": 4,
-      "103": 2,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -15280,7 +15568,7 @@
     "stocks": {
       "102": 1,
       "103": 1,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -15318,8 +15606,9 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 31,
-      "103": 17
+      "102": 23,
+      "103": 17,
+      "105": 6
     }
   },
   {
@@ -15345,7 +15634,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "103": 15
+      "103": 14
     }
   },
   {
@@ -15358,8 +15647,8 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "102": 49,
-      "103": 27,
+      "102": 44,
+      "103": 25,
       "105": 5
     }
   },
@@ -15372,8 +15661,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 1
+      "103": 0
     }
   },
   {
@@ -15400,8 +15688,7 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "103": 8,
-      "105": 10
+      "103": 0
     }
   },
   {
@@ -15430,9 +15717,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 11,
-      "103": 6,
-      "105": 2
+      "103": 10,
+      "105": 6
     }
   },
   {
@@ -15492,7 +15778,9 @@
     "activo": false,
     "idDepartamento": 7,
     "movimientos": [],
-    "stocks": {}
+    "stocks": {
+      "105": 1
+    }
   },
   {
     "idProducto": 513,
@@ -15524,12 +15812,14 @@
     "idProducto": 660,
     "codigo": "S118",
     "descripcion": "Ventilador Pedestal",
-    "precio": 35000.0,
+    "precio": 28000.0,
     "activo": true,
+    "idCategoria": 35,
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 5
+      "103": 6,
+      "105": 8
     }
   },
   {
@@ -15538,11 +15828,11 @@
     "descripcion": "Ventilador Pedestal",
     "precio": 35000.0,
     "activo": true,
+    "idCategoria": 35,
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 0,
-      "105": 4
+      "103": 0
     }
   },
   {
@@ -15556,8 +15846,8 @@
     "idDepartamento": 3,
     "movimientos": [],
     "stocks": {
-      "103": 12,
-      "105": 6
+      "103": 9,
+      "105": 4
     }
   },
   {
@@ -15624,7 +15914,7 @@
     "idDepartamento": 2,
     "movimientos": [],
     "stocks": {
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -15689,8 +15979,8 @@
     "idDepartamento": 6,
     "movimientos": [],
     "stocks": {
-      "102": 2,
-      "103": 5,
+      "102": 1,
+      "103": 3,
       "105": 1
     }
   },
@@ -15727,7 +16017,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "103": 96
+      "103": 42
     }
   },
   {
@@ -15780,6 +16070,32 @@
     }
   },
   {
+    "idProducto": 1840,
+    "codigo": "2470",
+    "descripcion": "ZAPATILLA DE MUJER",
+    "precio": 4080.0,
+    "activo": false,
+    "idCategoria": 51,
+    "idDepartamento": 4,
+    "movimientos": [],
+    "stocks": {
+      "102": 34
+    }
+  },
+  {
+    "idProducto": 1841,
+    "codigo": "2471",
+    "descripcion": "ZAPATILLA DE MUJER",
+    "precio": 4080.0,
+    "activo": false,
+    "idCategoria": 51,
+    "idDepartamento": 4,
+    "movimientos": [],
+    "stocks": {
+      "102": 20
+    }
+  },
+  {
     "idProducto": 527,
     "descripcion": "Zapatilla Gama Alta",
     "precio": 7680.0,
@@ -15788,7 +16104,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "103": 44
+      "103": 20
     }
   },
   {
@@ -15801,7 +16117,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 3
+      "102": 12
     }
   },
   {
@@ -15814,7 +16130,7 @@
     "idDepartamento": 4,
     "movimientos": [],
     "stocks": {
-      "102": 4
+      "102": 1
     }
   }
 ]

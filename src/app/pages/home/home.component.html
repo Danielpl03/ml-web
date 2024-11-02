@@ -1,8 +1,12 @@
-<p class="title-busqueda">Departamentos</p>
-<div id="dptos-cantainer">
-    <app-tarjeta-departamento *ngFor="let dpto of departamentos c" 
-    [departamento]="dpto" 
-    [routerLink]="[ '/departamentos', dpto.idDepartamento]">
+@defer () {
+    <h1 class="title-busqueda">Departamentos</h1>
+    <div id="dptos-cantainer">
+        <app-tarjeta-departamento *ngFor="let dpto of departamentos() c" 
+        [departamento]="dpto" 
+        [routerLink]="[ '/departamentos', dpto.idDepartamento]">
     </app-tarjeta-departamento>
-
+    
 </div>
+}@placeholder {
+    <app-loading [titulo]="'Cargando Departamentos'"></app-loading>
+}

@@ -1,6 +1,12 @@
 .categoria-list {
   list-style: none;
   padding: 7px 0;
+  width: 100%;
+}
+
+.categoria-list-inicial {
+  list-style: none;
+  padding: 7px 0;
 }
 
 .categoria-link {
@@ -9,32 +15,32 @@
 
   display: flex;
   align-items: center;
-  /* padding: 7px 15px; */
   justify-content: flex-start;
   width: 92%;
-    margin: 0 auto;
+  margin: 0 auto;
   position: relative;
 }
 
 .categoria-cantidad {
   text-align: right;
-  /* padding-left: 5px; */
   width: 50px;
   display: flex;
   justify-content: space-between;
-  
 }
 
 .categoria-icon {
   width: 20px;
-
   padding: 0 5px;
 }
 .flecha {
   width: 15px;
+  transform: var(--transform, rotate(270deg));
+  transition: transform 0.3s ease-in-out;
+}
+.flecha-inicial {
+  width: 15px;
   transform: var(--transform, rotate(90deg));
-  transition: transform  0.3s ease-in-out;
-
+  transition: transform 0.3s ease-in-out;
 }
 
 .categoria-label {
@@ -42,15 +48,13 @@
   padding-left: 5px;
 }
 
-
-
 .categoria-label:hover {
   cursor: pointer;
 }
 
 .categoria-list:has(:checked) {
-  --rows: 1fr;
-  --transform: rotate(270deg)
+  --rows: 0fr;
+  --transform: rotate(90deg);
 }
 
 .categoria-check {
@@ -61,13 +65,13 @@
 
 .categoria-content {
   display: grid;
-  grid-template-rows: var(--rows, 0fr);
+  grid-template-rows: var(--rows, 1fr);
   transition: 0.3s grid-template-rows;
 }
 
+
 .categoria-items {
   overflow: hidden;
-  /* background-color: rgb(26, 27, 27); */
   width: 90%;
   margin: 0 auto;
 }

@@ -9,439 +9,48 @@
     "idDepartamento": 2,
     "nombre": "FERRETERÍA",
     "image_name": "FERRETERÍA.jpg",
-    "categorias": [
-      {
-        "idDepartamento": 2,
-        "idCategoria": 15,
-        "nombre": "Anzuelos",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 9,
-        "nombre": "Balineras",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 60,
-        "nombre": "Bicicletas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 16,
-        "nombre": "Brekers",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 32,
-        "nombre": "Bridas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 41,
-        "nombre": "Brochas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 10,
-        "nombre": "Cadenas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 42,
-        "nombre": "Candados",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 43,
-        "nombre": "Cerraduras",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 17,
-        "nombre": "Cuerdas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 44,
-        "nombre": "Discos",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 39,
-        "nombre": "Estufas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 45,
-        "nombre": "Gatos",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 18,
-        "nombre": "Lijas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 14,
-        "nombre": "Llaves y Grifos",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 47,
-        "nombre": "Mesas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 48,
-        "nombre": "Niveles",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 46,
-        "nombre": "Pinturas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 11,
-        "nombre": "Piñones",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 13,
-        "nombre": "Plomeria",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 49,
-        "nombre": "Puertas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 2,
-        "idCategoria": 12,
-        "nombre": "Rolletes",
-        "productos": []
-      }
-    ],
+    "categorias": [],
     "productos": []
   },
   {
     "idDepartamento": 3,
     "nombre": "ELECTRODOMÉSTICOS",
     "image_name": "ELECTRODOMÉSTICOS.jpg",
-    "categorias": [
-      {
-        "idDepartamento": 3,
-        "idCategoria": 36,
-        "nombre": "Bocinas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 3,
-        "idCategoria": 54,
-        "nombre": "Lavadoras",
-        "productos": []
-      },
-      {
-        "idDepartamento": 3,
-        "idCategoria": 50,
-        "nombre": "Neveras",
-        "productos": []
-      },
-      {
-        "idDepartamento": 3,
-        "idCategoria": 56,
-        "nombre": "Ollas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 3,
-        "idCategoria": 63,
-        "nombre": "Sandwicheras",
-        "productos": []
-      },
-      {
-        "idDepartamento": 3,
-        "idCategoria": 64,
-        "nombre": "Televisores",
-        "productos": []
-      },
-      {
-        "idDepartamento": 3,
-        "idCategoria": 35,
-        "nombre": "Ventiladores",
-        "productos": []
-      }
-    ],
+    "categorias": [],
     "productos": []
   },
   {
     "idDepartamento": 4,
     "nombre": "CALZADO",
-    "categorias": [
-      {
-        "idDepartamento": 4,
-        "idCategoria": 53,
-        "nombre": "Sandalias",
-        "productos": []
-      },
-      {
-        "idDepartamento": 4,
-        "idCategoria": 37,
-        "nombre": "Tacones",
-        "productos": []
-      },
-      {
-        "idDepartamento": 4,
-        "idCategoria": 52,
-        "nombre": "Tenis",
-        "productos": []
-      },
-      {
-        "idDepartamento": 4,
-        "idCategoria": 51,
-        "nombre": "Zapatillas",
-        "productos": []
-      }
-    ],
+    "categorias": [],
     "productos": []
   },
   {
     "idDepartamento": 5,
     "nombre": "ASEO",
     "image_name": "ASEO.jpg",
-    "categorias": [
-      {
-        "idDepartamento": 5,
-        "idCategoria": 1,
-        "nombre": "Acondicionadores",
-        "productos": []
-      },
-      {
-        "idDepartamento": 5,
-        "idCategoria": 8,
-        "nombre": "Colonias",
-        "productos": []
-      },
-      {
-        "idDepartamento": 5,
-        "idCategoria": 6,
-        "nombre": "Cremas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 5,
-        "idCategoria": 4,
-        "nombre": "Freagasuelos",
-        "productos": []
-      },
-      {
-        "idDepartamento": 5,
-        "idCategoria": 3,
-        "nombre": "Geles de Baño",
-        "productos": []
-      },
-      {
-        "idDepartamento": 5,
-        "idCategoria": 5,
-        "nombre": "Limpiadores",
-        "productos": []
-      },
-      {
-        "idDepartamento": 5,
-        "idCategoria": 7,
-        "nombre": "Perfumes",
-        "productos": []
-      },
-      {
-        "idDepartamento": 5,
-        "idCategoria": 2,
-        "nombre": "Shampoo",
-        "productos": []
-      }
-    ],
+    "categorias": [],
     "productos": []
   },
   {
     "idDepartamento": 6,
     "nombre": "UTILES DEL HOGAR",
     "image_name": "UTILES DEL HOGAR.jpg",
-    "categorias": [
-      {
-        "idDepartamento": 6,
-        "idCategoria": 19,
-        "nombre": "Alfombras",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 34,
-        "nombre": "Cajas Multiuso",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 22,
-        "nombre": "Cortinas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 23,
-        "nombre": "Cubiertos",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 21,
-        "nombre": "Envases",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 38,
-        "nombre": "Espejos",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 28,
-        "nombre": "Horquillas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 24,
-        "nombre": "Jarras",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 27,
-        "nombre": "Lamparas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 26,
-        "nombre": "Ollas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 61,
-        "nombre": "Platos",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 20,
-        "nombre": "Pomos y Botellas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 55,
-        "nombre": "Relojes",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 29,
-        "nombre": "Tazas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 6,
-        "idCategoria": 25,
-        "nombre": "Vasos",
-        "productos": []
-      }
-    ],
+    "categorias": [],
     "productos": []
   },
   {
     "idDepartamento": 7,
     "nombre": "JUGUETES",
     "image_name": "JUGUETES.jpg",
-    "categorias": [
-      {
-        "idDepartamento": 7,
-        "idCategoria": 33,
-        "nombre": "Balones",
-        "productos": []
-      },
-      {
-        "idDepartamento": 7,
-        "idCategoria": 59,
-        "nombre": "Muñecas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 7,
-        "idCategoria": 57,
-        "nombre": "Piscinas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 7,
-        "idCategoria": 62,
-        "nombre": "Rompecabezas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 7,
-        "idCategoria": 58,
-        "nombre": "Scooter",
-        "productos": []
-      }
-    ],
+    "categorias": [],
     "productos": []
   },
   {
     "idDepartamento": 8,
     "nombre": "TEXTILES",
     "image_name": "TEXTILES.jpg",
-    "categorias": [
-      {
-        "idDepartamento": 8,
-        "idCategoria": 30,
-        "nombre": "Mochilas",
-        "productos": []
-      },
-      {
-        "idDepartamento": 8,
-        "idCategoria": 31,
-        "nombre": "Ropa",
-        "productos": []
-      },
-      {
-        "idDepartamento": 8,
-        "idCategoria": 65,
-        "nombre": "Ropa Interior",
-        "productos": []
-      }
-    ],
+    "categorias": [],
     "productos": []
   },
   {
