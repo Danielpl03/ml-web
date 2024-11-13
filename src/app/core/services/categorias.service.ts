@@ -1,7 +1,5 @@
 import { Injectable, inject } from '@angular/core';
 import { Categoria } from '../interfaces/categoria';
-import { delay } from 'rxjs';
-import { Departamento } from '../interfaces/departamento';
 import { DepartamentosService } from './departamentos.service';
 
 @Injectable({
@@ -14,11 +12,20 @@ export class CategoriasService {
   departamentosService = inject(DepartamentosService);
 
   async getAll(): Promise<Categoria[]>{
-    const url = new URL('./data/categorias.json', import.meta.url);
-    const res = await fetch(url);
+    const categorias: Categoria[] = [];
+    return this.departamentosService.getAll().then( dptos => {
+      if(dptos){
+        for (let departamento of dptos){
+          if(departamento.categorias){
+            departamento.categorias.forEach( categoria => {
+              categorias.push(categoria);
+            } )
+          }
+        }
+      }
+      return categorias;
+    })
 
-    const categorias = await res.json();
-    return categorias;
   }
 
   async getById(idCategoria: number): Promise<Categoria| undefined>{

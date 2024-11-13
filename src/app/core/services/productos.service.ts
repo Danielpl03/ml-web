@@ -1,10 +1,10 @@
 import { Injectable, inject } from '@angular/core';
 import { Producto } from '../interfaces/producto';
 import { Busqueda } from '../interfaces/busqueda';
-import { delay } from 'rxjs';
+
 import { CategoriasService } from './categorias.service';
 import { DepartamentosService } from './departamentos.service';
-import { Departamento } from '../interfaces/departamento';
+
 
 @Injectable({
   providedIn: 'root'

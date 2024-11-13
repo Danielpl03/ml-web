@@ -6,8 +6,7 @@ import { CategoriasService } from './categorias.service';
 import { DepartamentosService } from './departamentos.service';
 import { ProductosService } from './productos.service';
 import { Departamento } from '../interfaces/departamento';
-import { B } from '@angular/cdk/keycodes';
-import { delay } from 'rxjs';
+
 
 @Injectable({
   providedIn: 'root'
