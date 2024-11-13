@@ -15,7 +15,7 @@ import { LoadingComponent } from '../../core/components/loading/loading.componen
 @Component({
   selector: 'app-departamento',
   standalone: true,
-  imports: [LoadingComponent , CommonModule, RouterModule, TarjetaCategoriaComponent, ProductoComponent, TarjetaProductoComponent],
+  imports: [LoadingComponent, CommonModule, RouterModule, TarjetaCategoriaComponent, ProductoComponent, TarjetaProductoComponent],
   templateUrl: './departamento.component.html',
   styleUrl: './departamento.component.css'
 })
@@ -27,8 +27,9 @@ export class DepartamentoComponent implements OnInit {
         this.departamentosService.getById(parseInt(params['id'])).then(dpto => {
           this.departamento = dpto;
           if (this.departamento) {
-            this.getCategoriasByDepartamento(this.departamento.idDepartamento);
-            this.getProductosByDepartamento(this.departamento.idDepartamento);
+            this.cargarDatos().then(() => {
+              this.loading.update(value => false);
+            });
           } else {
             this.router.navigate(['departamentos']);
           }
@@ -42,23 +43,27 @@ export class DepartamentoComponent implements OnInit {
 
   departamento?: Departamento
   ac = inject(ActivatedRoute)
-  categorias:WritableSignal<Categoria[]> = signal([]);
-  productos: WritableSignal<Producto[]> = signal([]);
+  categorias: WritableSignal<Categoria[] | undefined> = signal(undefined);
+  productos: WritableSignal<Producto[] | undefined> = signal(undefined);
   categoriasService = inject(CategoriasService);
   departamentosService = inject(DepartamentosService);
   productosService = inject(ProductosService);
+  loading = signal(true);
 
-  getCantItems(categoria: Categoria): number {
-    return this.productos().filter(p => p.idCategoria === categoria.idCategoria).length
+
+
+  async cargarDatos() {
+    await this.getCategoriasByDepartamento(this.departamento!.idDepartamento);
+    await this.getProductosByDepartamento(this.departamento!.idDepartamento);
   }
 
 
   async getCategoriasByDepartamento(id: number) {
-    this.categorias.set(await this.categoriasService.getByDepartamento(id)) ;
+    this.categorias.set(await this.categoriasService.getByDepartamento(id));
   }
 
   async getProductosByDepartamento(id: number) {
-    this.productos.set(await this.productosService.getByDepartamento(id)) ;
+    this.productos.set(await this.productosService.getByDepartamento(id));
   }
 
 }

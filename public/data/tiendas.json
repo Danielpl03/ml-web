@@ -1,10 +1,41 @@
 [
   {
     "idTienda": 1001,
-    "nombre": "Quincallera"
+    "nombre": "Quincallera",
+    "localidades": [
+      {
+        "idLocalidad": 103,
+        "idTienda": 1001,
+        "nombre": "TIENDA ARTICULOS",
+        "tienda": {
+          "idTienda": 1001,
+          "nombre": "Quincallera"
+        }
+      }
+    ]
   },
   {
     "idTienda": 1002,
-    "nombre": "Amanecer"
+    "nombre": "Amanecer",
+    "localidades": [
+      {
+        "idLocalidad": 102,
+        "idTienda": 1002,
+        "nombre": "ALMACEN FERRETERIA",
+        "tienda": {
+          "idTienda": 1002,
+          "nombre": "Amanecer"
+        }
+      },
+      {
+        "idLocalidad": 105,
+        "idTienda": 1002,
+        "nombre": "TIENDA ARTICULOS",
+        "tienda": {
+          "idTienda": 1002,
+          "nombre": "Amanecer"
+        }
+      }
+    ]
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEtiqueta": 4,
+    "nombre": "Color",
+    "color": 0,
+    "fichaTecnica": true
+  },
+  {
+    "idEtiqueta": 5,
+    "nombre": "Neveras",
+    "color": 22,
+    "fichaTecnica": false
+  },
+  {
+    "idEtiqueta": 2,
+    "nombre": "TCP",
+    "color": 0,
+    "fichaTecnica": false
+  },
+  {
+    "idEtiqueta": 6,
+    "nombre": "TV",
+    "color": 0,
+    "fichaTecnica": false
+  }
+]

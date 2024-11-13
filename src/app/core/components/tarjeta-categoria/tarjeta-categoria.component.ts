@@ -1,4 +1,4 @@
-import { Component, Input, OnInit, WritableSignal, inject, signal } from '@angular/core';
+import { ChangeDetectionStrategy, Component, Input, OnInit, WritableSignal, inject, signal } from '@angular/core';
 import { Categoria } from '../../interfaces/categoria';
 import { CommonModule } from '@angular/common';
 import { TarjetaProductoComponent } from "../tarjeta-producto/tarjeta-producto.component";
@@ -15,34 +15,43 @@ import { ProductosService } from '../../services/productos.service';
 export class TarjetaCategoriaComponent implements OnInit {
 
   ngOnInit(): void {
-    this.getItems()
+    this.getItems();
   }
 
   productosService = inject(ProductosService);
 
-  productos: WritableSignal<Producto[]> = signal([]);
+  productos: WritableSignal<Producto[] | undefined> = signal(undefined);
   cantidad: WritableSignal<number> = signal(0);
 
   @Input({ required: true }) categoria!: Categoria;
-  localidades: number[] = [102, 103, 105]
+  localidades: number[] = [102, 103, 105];
 
 
   async getItems() {
-    this.productos.set(await this.productosService.getByCategoria(this.categoria.idCategoria));
-    let cant: number = 0;
-    this.productos().forEach(producto => {
+    // this.productosService.getByCategoria(this.categoria.idCategoria).then(productos => {
+    //   this.productos.set(productos);
+    //   if (this.productos()) {
+    //     this.cantidad.set(this.productos()!.length);
+    //   }
+    // })
+
+    this.productos.set(this.categoria.productos?.filter(producto => {
       if (producto.stocks) {
         for (let index = 0; index < this.localidades.length; index++) {
           const element = producto.stocks[this.localidades[index]];
-          if (element > 0) {
-            cant += 1;
-             break;
-          }
+          if (element > 0) return true;
         }
       }
-    });
-    this.cantidad.set(cant);
+      return false;
+    }))
 
+
+    if(this.productos()){
+      this.cantidad.set(this.productos()!.length)
+    }
   }
+
+
+
 
 }

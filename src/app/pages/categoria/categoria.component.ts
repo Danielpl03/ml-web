@@ -1,4 +1,4 @@
-import { Component, OnInit, inject } from '@angular/core';
+import { Component, OnInit, WritableSignal, inject, signal } from '@angular/core';
 import { Categoria } from '../../core/interfaces/categoria';
 import { CategoriasService } from '../../core/services/categorias.service';
 import { ActivatedRoute, Router, RouterModule } from '@angular/router';
@@ -36,13 +36,13 @@ export class CategoriaComponent implements OnInit{
 
   ac = inject(ActivatedRoute)
   categoria?: Categoria
-  productos: Producto[] = []
+  productos: WritableSignal<Producto[] | undefined> = signal(undefined)
   categoriasService = inject(CategoriasService);
   productosService = inject(ProductosService);
 
 
   async getProductosByCategoria(id: number){
-    this.productos = await this.productosService.getByCategoria(id);
+    this.productos.set(await this.productosService.getByCategoria(id)) ;
   }
 
 

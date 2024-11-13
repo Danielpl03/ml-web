@@ -1,13 +1,13 @@
+@defer ( when !loading()) {
 <div class="departamento-container">
     <p>{{departamento?.nombre}}</p>
-    @if (categorias().length > 0) {
+    @if (categorias()) {
     <ul class="categoria">
         <span class="title-busqueda">Categorías</span>
         @for (cat of categorias(); track $index) {
-        @if (getCantItems(cat)) {
         <app-tarjeta-categoria [categoria]="cat"></app-tarjeta-categoria>
         <hr>
-        }
+
         }
     </ul>
     }
@@ -23,9 +23,12 @@
         }@placeholder{
         <app-loading [titulo]="'Cargando...'"></app-loading>
         }@error {
-            <p>ERROR AL CARGAR!. INTENTE RECARGAR LA PÁGINA</p>
+        <p>ERROR AL CARGAR!. INTENTE RECARGAR LA PÁGINA</p>
         }
         }
     </div>
     <a [routerLink]="[ '/departamentos']">Atrás</a>
 </div>
+}@placeholder {
+<app-loading [titulo]="'Cargando...'"></app-loading>
+}

@@ -6,6 +6,8 @@
   margin: 10px 0;
   border-radius: 10px;
   overflow: hidden;
+  max-width: 550x;
+  margin: 0 auto;
 }
 
 /* .buscar-container {

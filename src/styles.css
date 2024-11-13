@@ -134,7 +134,7 @@ body {
 body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
-  background-color: rgb(31, 33, 36);
+  background-color: black;
 }
 
 app-root {
@@ -154,6 +154,7 @@ app-buscar{
 
 app-departamento{
   width: 100%;
+  /* height: 100svh; */
 }
 
 

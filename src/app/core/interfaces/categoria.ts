@@ -5,5 +5,5 @@ export interface Categoria{
     idCategoria: number;
     nombre: string;
     image_name?: string;
-    productos?: [Producto]; //opcional
+    productos?: Producto[]; //opcional
 }

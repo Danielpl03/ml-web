@@ -7,6 +7,8 @@
     width: 100%;
     overflow: hidden;
     background-color: black;
+    max-width: 550px;
+    margin: 0 auto;
     p{
         padding-top: 15px;
         color: white;
@@ -53,5 +55,5 @@ a{
     padding: 5px;
     display: block; 
     border-radius: 5px;
-    margin: 5px;
+    margin: 15px;
 }

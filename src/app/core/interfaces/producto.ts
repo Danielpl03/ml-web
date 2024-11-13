@@ -10,5 +10,6 @@ export interface Producto {
     idCategoria?: number;
     idDepartamento: number;
     movimientos?: [];
+    etiquetasProductos?: [];
     stocks?: number[]
 }
