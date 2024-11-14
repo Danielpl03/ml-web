@@ -21,7 +21,7 @@
             "movimientos": [],
             "stocks": {
               "103": 3,
-              "105": 18
+              "105": 16
             }
           },
           {
@@ -35,7 +35,7 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "105": 6
+              "105": 3
             }
           },
           {
@@ -49,7 +49,7 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "105": 10
+              "105": 8
             }
           },
           {
@@ -63,7 +63,7 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "105": 11
+              "105": 10
             }
           },
           {
@@ -72,6 +72,19 @@
             "descripcion": "PLANTA ARTIFICIAL",
             "precio": 1250.0,
             "image_name": "PLANTA ARTIFICIAL -3393.jpg",
+            "activo": false,
+            "idCategoria": 79,
+            "idDepartamento": 1,
+            "movimientos": [],
+            "stocks": {
+              "105": 11
+            }
+          },
+          {
+            "idProducto": 1939,
+            "codigo": "4255",
+            "descripcion": "PLANTA ARTIFICIAL",
+            "precio": 2200.0,
             "activo": false,
             "idCategoria": 79,
             "idDepartamento": 1,
@@ -91,7 +104,7 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "105": 12
+              "105": 7
             }
           },
           {
@@ -105,7 +118,7 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "105": 2
+              "105": 11
             }
           },
           {
@@ -145,9 +158,7 @@
             "idCategoria": 79,
             "idDepartamento": 1,
             "movimientos": [],
-            "stocks": {
-              "105": 3
-            }
+            "stocks": {}
           },
           {
             "idProducto": 1925,
@@ -160,7 +171,7 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "105": 10
+              "105": 5
             }
           },
           {
@@ -173,9 +184,7 @@
             "idCategoria": 79,
             "idDepartamento": 1,
             "movimientos": [],
-            "stocks": {
-              "105": 1
-            }
+            "stocks": {}
           },
           {
             "idProducto": 1860,
@@ -189,7 +198,7 @@
             "movimientos": [],
             "stocks": {
               "103": 12,
-              "105": 5
+              "105": 13
             }
           }
         ]
@@ -237,7 +246,7 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "103": 12,
+              "103": 11,
               "105": 28
             }
           },
@@ -266,7 +275,7 @@
             "movimientos": [],
             "stocks": {
               "103": 12,
-              "105": 12
+              "105": 10
             }
           },
           {
@@ -307,8 +316,8 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "103": 10,
-              "105": 10
+              "103": 7,
+              "105": 6
             }
           },
           {
@@ -322,7 +331,7 @@
             "movimientos": [],
             "stocks": {
               "103": 14,
-              "105": 10
+              "105": 9
             }
           },
           {
@@ -335,8 +344,8 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "103": 12,
-              "105": 9
+              "103": 9,
+              "105": 5
             }
           },
           {
@@ -402,7 +411,7 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "105": 11
+              "105": 9
             }
           },
           {
@@ -444,7 +453,9 @@
             "idCategoria": 81,
             "idDepartamento": 1,
             "movimientos": [],
-            "stocks": {}
+            "stocks": {
+              "105": 3
+            }
           },
           {
             "idProducto": 1900,
@@ -483,7 +494,7 @@
             "movimientos": [],
             "stocks": {
               "103": 2,
-              "105": 6
+              "105": 5
             }
           },
           {
@@ -509,7 +520,7 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "105": 6
+              "105": 12
             }
           },
           {
@@ -522,7 +533,9 @@
             "idCategoria": 81,
             "idDepartamento": 1,
             "movimientos": [],
-            "stocks": {}
+            "stocks": {
+              "105": 1
+            }
           },
           {
             "idProducto": 1906,
@@ -548,7 +561,7 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "105": 6
+              "105": 12
             }
           },
           {
@@ -561,7 +574,9 @@
             "idCategoria": 81,
             "idDepartamento": 1,
             "movimientos": [],
-            "stocks": {}
+            "stocks": {
+              "105": 6
+            }
           },
           {
             "idProducto": 1908,
@@ -573,7 +588,9 @@
             "idCategoria": 81,
             "idDepartamento": 1,
             "movimientos": [],
-            "stocks": {}
+            "stocks": {
+              "105": 5
+            }
           }
         ]
       },
@@ -587,6 +604,7 @@
             "codigo": "A30-BLK",
             "descripcion": "MESA DE CENTRO",
             "precio": 35000.0,
+            "image_name": "MESA DE CENTRO -A30-BLK.jpg",
             "activo": false,
             "idCategoria": 80,
             "idDepartamento": 1,
@@ -611,6 +629,7 @@
             "codigo": "TH17",
             "descripcion": "MESA DE CENTRO",
             "precio": 35000.0,
+            "image_name": "MESA DE CENTRO -TH17.jpg",
             "activo": false,
             "idCategoria": 80,
             "idDepartamento": 1,
@@ -687,7 +706,7 @@
             "idDepartamento": 1,
             "movimientos": [],
             "stocks": {
-              "105": 2
+              "105": 1
             }
           },
           {
@@ -737,7 +756,7 @@
         "movimientos": [],
         "stocks": {
           "103": 3,
-          "105": 18
+          "105": 16
         }
       },
       {
@@ -751,7 +770,7 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "105": 6
+          "105": 3
         }
       },
       {
@@ -765,7 +784,7 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "105": 10
+          "105": 8
         }
       },
       {
@@ -779,7 +798,7 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "105": 11
+          "105": 10
         }
       },
       {
@@ -832,7 +851,7 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "103": 12,
+          "103": 11,
           "105": 28
         }
       },
@@ -861,7 +880,7 @@
         "movimientos": [],
         "stocks": {
           "103": 12,
-          "105": 12
+          "105": 10
         }
       },
       {
@@ -902,8 +921,8 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "103": 10,
-          "105": 10
+          "103": 7,
+          "105": 6
         }
       },
       {
@@ -917,7 +936,7 @@
         "movimientos": [],
         "stocks": {
           "103": 14,
-          "105": 10
+          "105": 9
         }
       },
       {
@@ -930,8 +949,8 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "103": 12,
-          "105": 9
+          "103": 9,
+          "105": 5
         }
       },
       {
@@ -997,7 +1016,7 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "105": 11
+          "105": 9
         }
       },
       {
@@ -1041,7 +1060,9 @@
         "idCategoria": 81,
         "idDepartamento": 1,
         "movimientos": [],
-        "stocks": {}
+        "stocks": {
+          "105": 3
+        }
       },
       {
         "idProducto": 1900,
@@ -1080,7 +1101,7 @@
         "movimientos": [],
         "stocks": {
           "103": 2,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -1106,7 +1127,7 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "105": 6
+          "105": 12
         }
       },
       {
@@ -1119,7 +1140,9 @@
         "idCategoria": 81,
         "idDepartamento": 1,
         "movimientos": [],
-        "stocks": {}
+        "stocks": {
+          "105": 1
+        }
       },
       {
         "idProducto": 1906,
@@ -1145,7 +1168,7 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "105": 6
+          "105": 12
         }
       },
       {
@@ -1158,7 +1181,9 @@
         "idCategoria": 81,
         "idDepartamento": 1,
         "movimientos": [],
-        "stocks": {}
+        "stocks": {
+          "105": 6
+        }
       },
       {
         "idProducto": 1908,
@@ -1170,13 +1195,16 @@
         "idCategoria": 81,
         "idDepartamento": 1,
         "movimientos": [],
-        "stocks": {}
+        "stocks": {
+          "105": 5
+        }
       },
       {
         "idProducto": 1035,
         "codigo": "A30-BLK",
         "descripcion": "MESA DE CENTRO",
         "precio": 35000.0,
+        "image_name": "MESA DE CENTRO -A30-BLK.jpg",
         "activo": false,
         "idCategoria": 80,
         "idDepartamento": 1,
@@ -1201,6 +1229,7 @@
         "codigo": "TH17",
         "descripcion": "MESA DE CENTRO",
         "precio": 35000.0,
+        "image_name": "MESA DE CENTRO -TH17.jpg",
         "activo": false,
         "idCategoria": 80,
         "idDepartamento": 1,
@@ -1234,6 +1263,19 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
+          "105": 11
+        }
+      },
+      {
+        "idProducto": 1939,
+        "codigo": "4255",
+        "descripcion": "PLANTA ARTIFICIAL",
+        "precio": 2200.0,
+        "activo": false,
+        "idCategoria": 79,
+        "idDepartamento": 1,
+        "movimientos": [],
+        "stocks": {
           "105": 12
         }
       },
@@ -1248,7 +1290,7 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "105": 12
+          "105": 7
         }
       },
       {
@@ -1262,7 +1304,7 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "105": 2
+          "105": 11
         }
       },
       {
@@ -1302,9 +1344,7 @@
         "idCategoria": 79,
         "idDepartamento": 1,
         "movimientos": [],
-        "stocks": {
-          "105": 3
-        }
+        "stocks": {}
       },
       {
         "idProducto": 1925,
@@ -1317,7 +1357,7 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "105": 10
+          "105": 5
         }
       },
       {
@@ -1367,7 +1407,7 @@
         "idDepartamento": 1,
         "movimientos": [],
         "stocks": {
-          "105": 2
+          "105": 1
         }
       },
       {
@@ -1392,9 +1432,7 @@
         "idCategoria": 79,
         "idDepartamento": 1,
         "movimientos": [],
-        "stocks": {
-          "105": 1
-        }
+        "stocks": {}
       },
       {
         "idProducto": 1860,
@@ -1408,7 +1446,7 @@
         "movimientos": [],
         "stocks": {
           "103": 12,
-          "105": 5
+          "105": 13
         }
       }
     ]
@@ -1483,7 +1521,7 @@
             "movimientos": [],
             "stocks": {
               "102": 2,
-              "103": 1,
+              "103": 0,
               "105": 1
             }
           },
@@ -1597,7 +1635,7 @@
             "movimientos": [],
             "stocks": {
               "102": 10,
-              "103": 0,
+              "103": 10,
               "105": 4
             }
           },
@@ -1641,8 +1679,9 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "102": 20,
-              "103": 10
+              "102": 30,
+              "103": 10,
+              "105": 10
             }
           },
           {
@@ -1746,9 +1785,7 @@
             "idCategoria": 9,
             "idDepartamento": 2,
             "movimientos": [],
-            "stocks": {
-              "105": 10
-            }
+            "stocks": {}
           },
           {
             "idProducto": 1062,
@@ -1762,7 +1799,7 @@
             "movimientos": [],
             "stocks": {
               "102": 10,
-              "105": 6
+              "105": 5
             }
           },
           {
@@ -1940,9 +1977,7 @@
             "idCategoria": 60,
             "idDepartamento": 2,
             "movimientos": [],
-            "stocks": {
-              "105": 1
-            }
+            "stocks": {}
           },
           {
             "idProducto": 1880,
@@ -2052,7 +2087,7 @@
             "stocks": {
               "102": 7,
               "103": 12,
-              "105": 5
+              "105": 3
             }
           },
           {
@@ -2067,7 +2102,7 @@
             "stocks": {
               "102": 16,
               "103": 25,
-              "105": 5
+              "105": 1
             }
           }
         ]
@@ -2160,9 +2195,9 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "102": 20,
+              "102": 16,
               "103": 5,
-              "105": 1
+              "105": 4
             }
           },
           {
@@ -2222,9 +2257,9 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "102": 300,
+              "102": 200,
               "103": 0,
-              "105": 7
+              "105": 107
             }
           },
           {
@@ -2287,8 +2322,8 @@
             "movimientos": [],
             "stocks": {
               "102": 24,
-              "103": 16,
-              "105": 14
+              "103": 15,
+              "105": 13
             }
           },
           {
@@ -2302,7 +2337,7 @@
             "movimientos": [],
             "stocks": {
               "102": 16,
-              "103": 3,
+              "103": 2,
               "105": 7
             }
           },
@@ -2330,7 +2365,7 @@
             "movimientos": [],
             "stocks": {
               "103": 0,
-              "105": 6
+              "105": 3
             }
           },
           {
@@ -2343,7 +2378,7 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "103": 6
+              "103": 5
             }
           },
           {
@@ -2421,7 +2456,7 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "105": 12
+              "105": 10
             }
           }
         ]
@@ -2443,7 +2478,7 @@
             "stocks": {
               "102": 12,
               "103": 2,
-              "105": 13
+              "105": 12
             }
           },
           {
@@ -2573,7 +2608,7 @@
             "movimientos": [],
             "stocks": {
               "103": 6,
-              "105": 11
+              "105": 10
             }
           },
           {
@@ -2699,7 +2734,7 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "105": 250
+              "105": 246
             }
           },
           {
@@ -2760,9 +2795,8 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "102": 2,
               "103": 4,
-              "105": 1
+              "105": 3
             }
           }
         ]
@@ -2783,7 +2817,7 @@
             "movimientos": [],
             "stocks": {
               "103": 11,
-              "105": 12
+              "105": 10
             }
           },
           {
@@ -2796,7 +2830,8 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "103": 5
+              "103": 5,
+              "105": 10
             }
           },
           {
@@ -2840,7 +2875,7 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "103": 8
+              "103": 7
             }
           },
           {
@@ -2855,7 +2890,7 @@
             "movimientos": [],
             "stocks": {
               "102": 20,
-              "103": 10,
+              "103": 9,
               "105": 8
             }
           }
@@ -2871,13 +2906,14 @@
             "codigo": "GT220",
             "descripcion": "Estufa A Gas",
             "precio": 12250.0,
+            "image_name": "Estufa A Gas -GT220.jpg",
             "activo": true,
             "idCategoria": 39,
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
               "103": 10,
-              "105": 9
+              "105": 18
             }
           },
           {
@@ -2949,8 +2985,8 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "103": 3,
-              "105": 1
+              "103": 1,
+              "105": 9
             }
           },
           {
@@ -2958,12 +2994,14 @@
             "codigo": "G02A",
             "descripcion": "Estufa Gas Oasis 2Q",
             "precio": 12250.0,
+            "image_name": "Estufa Gas Oasis 2Q -G02A.jpg",
             "activo": true,
             "idCategoria": 39,
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "103": 3
+              "103": 3,
+              "105": 14
             }
           }
         ]
@@ -3126,7 +3164,7 @@
             "stocks": {
               "102": 12,
               "103": 8,
-              "105": 9
+              "105": 8
             }
           },
           {
@@ -3439,6 +3477,7 @@
             "codigo": "275F3",
             "descripcion": "Neumatico Moto 275/18",
             "precio": 17500.0,
+            "image_name": "Neumatico Moto 275\u002618 -275F3.jpg",
             "activo": true,
             "idCategoria": 74,
             "idDepartamento": 2,
@@ -3458,7 +3497,7 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "105": 4
+              "105": 2
             }
           }
         ]
@@ -3665,8 +3704,7 @@
             "movimientos": [],
             "stocks": {
               "102": 7,
-              "103": 6,
-              "105": 2
+              "103": 6
             }
           },
           {
@@ -3694,7 +3732,7 @@
             "stocks": {
               "102": 4,
               "103": 2,
-              "105": 5
+              "105": 3
             }
           },
           {
@@ -3862,8 +3900,8 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "102": 17,
-              "105": 1
+              "102": 13,
+              "105": 5
             }
           },
           {
@@ -3891,7 +3929,7 @@
             "stocks": {
               "102": 48,
               "103": 56,
-              "105": 11
+              "105": 9
             }
           },
           {
@@ -3933,8 +3971,8 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "102": 100,
-              "105": 2
+              "102": 92,
+              "105": 10
             }
           },
           {
@@ -3963,7 +4001,7 @@
             "movimientos": [],
             "stocks": {
               "102": 24,
-              "105": 5
+              "105": 3
             }
           },
           {
@@ -3977,7 +4015,7 @@
             "movimientos": [],
             "stocks": {
               "103": 5,
-              "105": 5
+              "105": 4
             }
           },
           {
@@ -4197,6 +4235,7 @@
             "codigo": "105X203-PW",
             "descripcion": "PUERTA PLEG BLANCO",
             "precio": 24400.0,
+            "image_name": "PUERTA PLEG BLANCO -105X203-PW.jpg",
             "activo": false,
             "idCategoria": 49,
             "idDepartamento": 2,
@@ -4260,6 +4299,7 @@
             "codigo": "82X203-PW",
             "descripcion": "PUERTA PLEGABLE BLANCO",
             "precio": 19200.0,
+            "image_name": "PUERTA PLEGABLE BLANCO -82X203-PW.jpg",
             "activo": false,
             "idCategoria": 49,
             "idDepartamento": 2,
@@ -4344,9 +4384,9 @@
             "idDepartamento": 2,
             "movimientos": [],
             "stocks": {
-              "102": 2,
-              "103": 16,
-              "105": 4
+              "102": 24,
+              "103": 0,
+              "105": 2
             }
           }
         ]
@@ -4380,7 +4420,7 @@
         "stocks": {
           "102": 3,
           "103": 4,
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -4493,7 +4533,7 @@
         "movimientos": [],
         "stocks": {
           "102": 2,
-          "103": 1,
+          "103": 0,
           "105": 1
         }
       },
@@ -4660,7 +4700,7 @@
         "movimientos": [],
         "stocks": {
           "102": 10,
-          "103": 0,
+          "103": 10,
           "105": 4
         }
       },
@@ -4704,8 +4744,9 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "102": 20,
-          "103": 10
+          "102": 30,
+          "103": 10,
+          "105": 10
         }
       },
       {
@@ -4809,9 +4850,7 @@
         "idCategoria": 9,
         "idDepartamento": 2,
         "movimientos": [],
-        "stocks": {
-          "105": 10
-        }
+        "stocks": {}
       },
       {
         "idProducto": 1062,
@@ -4825,7 +4864,7 @@
         "movimientos": [],
         "stocks": {
           "102": 10,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -4996,9 +5035,7 @@
         "idCategoria": 60,
         "idDepartamento": 2,
         "movimientos": [],
-        "stocks": {
-          "105": 1
-        }
+        "stocks": {}
       },
       {
         "idProducto": 1880,
@@ -5138,7 +5175,7 @@
         "stocks": {
           "102": 7,
           "103": 12,
-          "105": 5
+          "105": 3
         }
       },
       {
@@ -5153,7 +5190,7 @@
         "stocks": {
           "102": 16,
           "103": 25,
-          "105": 5
+          "105": 1
         }
       },
       {
@@ -5252,9 +5289,9 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "102": 20,
+          "102": 16,
           "103": 5,
-          "105": 1
+          "105": 4
         }
       },
       {
@@ -5307,9 +5344,9 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "102": 300,
+          "102": 200,
           "103": 0,
-          "105": 7
+          "105": 107
         }
       },
       {
@@ -5365,8 +5402,8 @@
         "movimientos": [],
         "stocks": {
           "102": 24,
-          "103": 16,
-          "105": 14
+          "103": 15,
+          "105": 13
         }
       },
       {
@@ -5380,7 +5417,7 @@
         "movimientos": [],
         "stocks": {
           "102": 16,
-          "103": 3,
+          "103": 2,
           "105": 7
         }
       },
@@ -5408,7 +5445,7 @@
         "movimientos": [],
         "stocks": {
           "103": 0,
-          "105": 6
+          "105": 3
         }
       },
       {
@@ -5421,7 +5458,7 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "103": 6
+          "103": 5
         }
       },
       {
@@ -5492,7 +5529,7 @@
         "stocks": {
           "102": 12,
           "103": 1,
-          "105": 2
+          "105": 1
         }
       },
       {
@@ -5550,7 +5587,7 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "105": 12
+          "105": 10
         }
       },
       {
@@ -5597,7 +5634,7 @@
         "stocks": {
           "102": 12,
           "103": 2,
-          "105": 13
+          "105": 12
         }
       },
       {
@@ -5735,7 +5772,7 @@
         "movimientos": [],
         "stocks": {
           "103": 6,
-          "105": 11
+          "105": 10
         }
       },
       {
@@ -5845,7 +5882,7 @@
         "stocks": {
           "102": 20,
           "103": 11,
-          "105": 12
+          "105": 10
         }
       },
       {
@@ -5858,7 +5895,7 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "105": 12
+          "105": 9
         }
       },
       {
@@ -5912,8 +5949,8 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "102": 17,
-          "105": 1
+          "102": 13,
+          "105": 5
         }
       },
       {
@@ -5941,7 +5978,7 @@
         "stocks": {
           "102": 48,
           "103": 56,
-          "105": 11
+          "105": 9
         }
       },
       {
@@ -5999,6 +6036,7 @@
         "codigo": "CUT50",
         "descripcion": "CORTADORA PLASMA",
         "precio": 105000.0,
+        "image_name": "CORTADORA PLASMA -CUT50.jpg",
         "activo": false,
         "idDepartamento": 2,
         "movimientos": [],
@@ -6031,7 +6069,7 @@
         "movimientos": [],
         "stocks": {
           "103": 10,
-          "105": 2
+          "105": 6
         }
       },
       {
@@ -6094,7 +6132,7 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "105": 250
+          "105": 246
         }
       },
       {
@@ -6162,7 +6200,7 @@
         "movimientos": [],
         "stocks": {
           "103": 11,
-          "105": 12
+          "105": 10
         }
       },
       {
@@ -6175,7 +6213,8 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "103": 5
+          "103": 5,
+          "105": 10
         }
       },
       {
@@ -6219,7 +6258,7 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "103": 8
+          "103": 7
         }
       },
       {
@@ -6234,7 +6273,7 @@
         "movimientos": [],
         "stocks": {
           "102": 20,
-          "103": 10,
+          "103": 9,
           "105": 8
         }
       },
@@ -6259,7 +6298,8 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "103": 1
+          "103": 1,
+          "105": 4
         }
       },
       {
@@ -6285,8 +6325,7 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "103": 1,
-          "105": 1
+          "103": 1
         }
       },
       {
@@ -6333,13 +6372,14 @@
         "codigo": "GT220",
         "descripcion": "Estufa A Gas",
         "precio": 12250.0,
+        "image_name": "Estufa A Gas -GT220.jpg",
         "activo": true,
         "idCategoria": 39,
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
           "103": 10,
-          "105": 9
+          "105": 18
         }
       },
       {
@@ -6411,8 +6451,8 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "103": 3,
-          "105": 1
+          "103": 1,
+          "105": 9
         }
       },
       {
@@ -6420,12 +6460,14 @@
         "codigo": "G02A",
         "descripcion": "Estufa Gas Oasis 2Q",
         "precio": 12250.0,
+        "image_name": "Estufa Gas Oasis 2Q -G02A.jpg",
         "activo": true,
         "idCategoria": 39,
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "103": 3
+          "103": 3,
+          "105": 14
         }
       },
       {
@@ -6663,7 +6705,7 @@
         "stocks": {
           "102": 12,
           "103": 8,
-          "105": 9
+          "105": 8
         }
       },
       {
@@ -6779,9 +6821,9 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "102": 30,
+          "102": 20,
           "103": 12,
-          "105": 4
+          "105": 14
         }
       },
       {
@@ -6840,6 +6882,7 @@
         "codigo": "TR214L",
         "descripcion": "Inodoro 2 Pcs C/ Cubierta",
         "precio": 42000.0,
+        "image_name": "Inodoro 2 Pcs C\u0026 Cubierta -TR214L.jpg",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -6872,7 +6915,7 @@
         "stocks": {
           "102": 10,
           "103": 37,
-          "105": 10
+          "105": 9
         }
       },
       {
@@ -6920,6 +6963,7 @@
         "codigo": "1005",
         "descripcion": "JGO COMEDOR 2 PLAZAS",
         "precio": 44000.0,
+        "image_name": "JGO COMEDOR 2 PLAZAS -1005.jpg",
         "activo": false,
         "idDepartamento": 2,
         "movimientos": [],
@@ -6942,6 +6986,7 @@
         "codigo": "JUH801",
         "descripcion": "JGO MARTILLO Y EXTRACTOR P/AUTO",
         "precio": 32000.0,
+        "image_name": "JGO MARTILLO Y EXTRACTOR P\u0026AUTO -JUH801.jpg",
         "activo": false,
         "idDepartamento": 2,
         "movimientos": [],
@@ -7001,6 +7046,7 @@
         "codigo": "1006",
         "descripcion": "JUEGO DE COMEDOR 4 PLAZAS",
         "precio": 52500.0,
+        "image_name": "JUEGO DE COMEDOR 4 PLAZAS -1006.jpg",
         "activo": false,
         "idDepartamento": 2,
         "movimientos": [],
@@ -7054,8 +7100,7 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "103": 0,
-          "105": 1
+          "103": 0
         }
       },
       {
@@ -7102,9 +7147,7 @@
         "activo": false,
         "idDepartamento": 2,
         "movimientos": [],
-        "stocks": {
-          "105": 6
-        }
+        "stocks": {}
       },
       {
         "idProducto": 273,
@@ -7137,6 +7180,7 @@
         "codigo": "TR335",
         "descripcion": "Lavamano Susp Redondo",
         "precio": 14000.0,
+        "image_name": "Lavamano Susp Redondo -TR335.jpg",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -7291,7 +7335,7 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "105": 7
+          "105": 1
         }
       },
       {
@@ -7304,7 +7348,7 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "105": 8
+          "105": 6
         }
       },
       {
@@ -7318,7 +7362,7 @@
         "movimientos": [],
         "stocks": {
           "103": 6,
-          "105": 8
+          "105": 7
         }
       },
       {
@@ -7538,7 +7582,7 @@
         "stocks": {
           "102": 12,
           "103": 4,
-          "105": 5
+          "105": 3
         }
       },
       {
@@ -7627,7 +7671,7 @@
         "movimientos": [],
         "stocks": {
           "103": 9,
-          "105": 10
+          "105": 9
         }
       },
       {
@@ -7641,7 +7685,7 @@
         "movimientos": [],
         "stocks": {
           "103": 3,
-          "105": 1
+          "105": 4
         }
       },
       {
@@ -7653,7 +7697,9 @@
         "activo": false,
         "idDepartamento": 2,
         "movimientos": [],
-        "stocks": {}
+        "stocks": {
+          "105": 3
+        }
       },
       {
         "idProducto": 1012,
@@ -7673,6 +7719,7 @@
         "codigo": "WS200",
         "descripcion": "Maquina De Soldar Tig",
         "precio": 133000.0,
+        "image_name": "Maquina De Soldar Tig -WS200.jpg",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -7812,6 +7859,7 @@
         "codigo": "275F3",
         "descripcion": "Neumatico Moto 275/18",
         "precio": 17500.0,
+        "image_name": "Neumatico Moto 275\u002618 -275F3.jpg",
         "activo": true,
         "idCategoria": 74,
         "idDepartamento": 2,
@@ -7831,7 +7879,7 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "105": 4
+          "105": 2
         }
       },
       {
@@ -7859,8 +7907,8 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "102": 100,
-          "105": 2
+          "102": 92,
+          "105": 10
         }
       },
       {
@@ -7944,7 +7992,7 @@
         "movimientos": [],
         "stocks": {
           "102": 24,
-          "105": 5
+          "105": 3
         }
       },
       {
@@ -7987,7 +8035,7 @@
         "stocks": {
           "102": 60,
           "103": 26,
-          "105": 19
+          "105": 18
         }
       },
       {
@@ -8138,8 +8186,7 @@
         "movimientos": [],
         "stocks": {
           "102": 7,
-          "103": 6,
-          "105": 2
+          "103": 6
         }
       },
       {
@@ -8167,7 +8214,7 @@
         "stocks": {
           "102": 4,
           "103": 2,
-          "105": 5
+          "105": 3
         }
       },
       {
@@ -8263,7 +8310,7 @@
         "movimientos": [],
         "stocks": {
           "103": 5,
-          "105": 5
+          "105": 4
         }
       },
       {
@@ -8325,6 +8372,7 @@
         "codigo": "105X203-PW",
         "descripcion": "PUERTA PLEG BLANCO",
         "precio": 24400.0,
+        "image_name": "PUERTA PLEG BLANCO -105X203-PW.jpg",
         "activo": false,
         "idCategoria": 49,
         "idDepartamento": 2,
@@ -8388,6 +8436,7 @@
         "codigo": "82X203-PW",
         "descripcion": "PUERTA PLEGABLE BLANCO",
         "precio": 19200.0,
+        "image_name": "PUERTA PLEGABLE BLANCO -82X203-PW.jpg",
         "activo": false,
         "idCategoria": 49,
         "idDepartamento": 2,
@@ -8419,7 +8468,7 @@
         "movimientos": [],
         "stocks": {
           "103": 6,
-          "105": 5
+          "105": 4
         }
       },
       {
@@ -8458,7 +8507,9 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "103": 0
+          "102": 18,
+          "103": 6,
+          "105": 6
         }
       },
       {
@@ -8530,9 +8581,9 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "102": 2,
-          "103": 16,
-          "105": 4
+          "102": 24,
+          "103": 0,
+          "105": 2
         }
       },
       {
@@ -8540,6 +8591,7 @@
         "codigo": "1644",
         "descripcion": "Rollo Cesped",
         "precio": 15000.0,
+        "image_name": "Rollo Cesped -1644.jpg",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -8598,8 +8650,8 @@
         "movimientos": [],
         "stocks": {
           "102": 20,
-          "103": 15,
-          "105": 5
+          "103": 14,
+          "105": 3
         }
       },
       {
@@ -8624,7 +8676,7 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -8637,9 +8689,8 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "102": 2,
           "103": 4,
-          "105": 1
+          "105": 3
         }
       },
       {
@@ -8665,9 +8716,9 @@
         "idDepartamento": 2,
         "movimientos": [],
         "stocks": {
-          "102": 4,
+          "102": 3,
           "103": 7,
-          "105": 1
+          "105": 2
         }
       },
       {
@@ -8759,8 +8810,8 @@
         "movimientos": [],
         "stocks": {
           "102": 10,
-          "103": 3,
-          "105": 9
+          "103": 2,
+          "105": 6
         }
       },
       {
@@ -9447,7 +9498,9 @@
             "idCategoria": 50,
             "idDepartamento": 3,
             "movimientos": [],
-            "stocks": {}
+            "stocks": {
+              "105": 2
+            }
           },
           {
             "idProducto": 1811,
@@ -9458,7 +9511,9 @@
             "idCategoria": 50,
             "idDepartamento": 3,
             "movimientos": [],
-            "stocks": {}
+            "stocks": {
+              "105": 2
+            }
           },
           {
             "idProducto": 1761,
@@ -9516,12 +9571,13 @@
             "codigo": "FFCC05C",
             "descripcion": "NEVERA 5 PIES",
             "precio": 129500.0,
+            "image_name": "NEVERA 5 PIES -FFCC05C.jpg",
             "activo": true,
             "idCategoria": 50,
             "idDepartamento": 3,
             "movimientos": [],
             "stocks": {
-              "103": 2
+              "103": 1
             }
           },
           {
@@ -9617,7 +9673,7 @@
             "movimientos": [],
             "stocks": {
               "103": 9,
-              "105": 15
+              "105": 18
             }
           },
           {
@@ -9658,7 +9714,7 @@
             "movimientos": [],
             "stocks": {
               "103": 8,
-              "105": 6
+              "105": 5
             }
           },
           {
@@ -9719,8 +9775,7 @@
             "idDepartamento": 3,
             "movimientos": [],
             "stocks": {
-              "103": 1,
-              "105": 1
+              "103": 1
             }
           }
         ]
@@ -9942,7 +9997,7 @@
             "movimientos": [],
             "stocks": {
               "103": 4,
-              "105": 1
+              "105": 12
             }
           },
           {
@@ -10149,7 +10204,9 @@
         "idCategoria": 50,
         "idDepartamento": 3,
         "movimientos": [],
-        "stocks": {}
+        "stocks": {
+          "105": 2
+        }
       },
       {
         "idProducto": 126,
@@ -10436,7 +10493,9 @@
         "idCategoria": 50,
         "idDepartamento": 3,
         "movimientos": [],
-        "stocks": {}
+        "stocks": {
+          "105": 2
+        }
       },
       {
         "idProducto": 1761,
@@ -10494,12 +10553,13 @@
         "codigo": "FFCC05C",
         "descripcion": "NEVERA 5 PIES",
         "precio": 129500.0,
+        "image_name": "NEVERA 5 PIES -FFCC05C.jpg",
         "activo": true,
         "idCategoria": 50,
         "idDepartamento": 3,
         "movimientos": [],
         "stocks": {
-          "103": 2
+          "103": 1
         }
       },
       {
@@ -10560,8 +10620,8 @@
         "idDepartamento": 3,
         "movimientos": [],
         "stocks": {
-          "103": 4,
-          "105": 6
+          "103": 3,
+          "105": 4
         }
       },
       {
@@ -10601,7 +10661,7 @@
         "movimientos": [],
         "stocks": {
           "103": 9,
-          "105": 15
+          "105": 18
         }
       },
       {
@@ -10642,7 +10702,7 @@
         "movimientos": [],
         "stocks": {
           "103": 8,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -10735,8 +10795,7 @@
         "idDepartamento": 3,
         "movimientos": [],
         "stocks": {
-          "103": 1,
-          "105": 1
+          "103": 1
         }
       },
       {
@@ -10748,7 +10807,7 @@
         "idDepartamento": 3,
         "movimientos": [],
         "stocks": {
-          "105": 1
+          "105": 2
         }
       },
       {
@@ -10860,7 +10919,7 @@
         "movimientos": [],
         "stocks": {
           "103": 2,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -11022,7 +11081,7 @@
         "movimientos": [],
         "stocks": {
           "103": 4,
-          "105": 1
+          "105": 12
         }
       },
       {
@@ -11637,7 +11696,7 @@
             "idDepartamento": 4,
             "movimientos": [],
             "stocks": {
-              "102": 6
+              "102": 5
             }
           },
           {
@@ -11897,7 +11956,7 @@
         "stocks": {
           "102": 28,
           "103": 40,
-          "105": 7
+          "105": 26
         }
       },
       {
@@ -12152,7 +12211,7 @@
         "idDepartamento": 4,
         "movimientos": [],
         "stocks": {
-          "103": 17
+          "103": 26
         }
       },
       {
@@ -12518,7 +12577,7 @@
         "idDepartamento": 4,
         "movimientos": [],
         "stocks": {
-          "102": 6
+          "102": 5
         }
       },
       {
@@ -12758,7 +12817,7 @@
             "stocks": {
               "102": 5,
               "103": 8,
-              "105": 6
+              "105": 5
             }
           },
           {
@@ -12798,7 +12857,7 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "103": 1
+              "103": 0
             }
           },
           {
@@ -12896,7 +12955,8 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "105": 4
+              "102": 12,
+              "105": 2
             }
           },
           {
@@ -12951,7 +13011,7 @@
             "movimientos": [],
             "stocks": {
               "102": 14,
-              "105": 7
+              "105": 6
             }
           },
           {
@@ -13126,9 +13186,9 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "102": 12,
+              "102": 7,
               "103": 5,
-              "105": 2
+              "105": 7
             }
           },
           {
@@ -13167,7 +13227,7 @@
             "movimientos": [],
             "stocks": {
               "102": 8,
-              "105": 6
+              "105": 5
             }
           },
           {
@@ -13194,7 +13254,7 @@
             "movimientos": [],
             "stocks": {
               "102": 8,
-              "105": 7
+              "105": 6
             }
           },
           {
@@ -13209,7 +13269,7 @@
             "stocks": {
               "102": 2,
               "103": 6,
-              "105": 6
+              "105": 5
             }
           },
           {
@@ -13222,9 +13282,8 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "102": 3,
               "103": 7,
-              "105": 3
+              "105": 6
             }
           },
           {
@@ -13238,7 +13297,7 @@
             "movimientos": [],
             "stocks": {
               "102": 6,
-              "105": 4
+              "105": 3
             }
           },
           {
@@ -13267,7 +13326,7 @@
             "movimientos": [],
             "stocks": {
               "102": 5,
-              "105": 7
+              "105": 3
             }
           },
           {
@@ -13280,7 +13339,7 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "105": 7
+              "105": 6
             }
           },
           {
@@ -13293,8 +13352,7 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "102": 2,
-              "105": 3
+              "105": 2
             }
           },
           {
@@ -13322,7 +13380,7 @@
             "movimientos": [],
             "stocks": {
               "102": 6,
-              "105": 4
+              "105": 2
             }
           },
           {
@@ -13335,8 +13393,7 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "102": 3,
-              "105": 3
+              "105": 6
             }
           },
           {
@@ -13400,7 +13457,7 @@
             "movimientos": [],
             "stocks": {
               "102": 6,
-              "105": 5
+              "105": 4
             }
           },
           {
@@ -13460,7 +13517,7 @@
             "stocks": {
               "102": 15,
               "103": 9,
-              "105": 7
+              "105": 5
             }
           },
           {
@@ -13487,9 +13544,9 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "102": 11,
+              "102": 7,
               "103": 8,
-              "105": 4
+              "105": 8
             }
           },
           {
@@ -13502,9 +13559,9 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "102": 17,
+              "102": 13,
               "103": 7,
-              "105": 4
+              "105": 8
             }
           },
           {
@@ -13653,7 +13710,7 @@
             "movimientos": [],
             "stocks": {
               "102": 10,
-              "105": 3
+              "105": 2
             }
           },
           {
@@ -13667,7 +13724,7 @@
             "movimientos": [],
             "stocks": {
               "102": 1,
-              "105": 3
+              "105": 2
             }
           },
           {
@@ -13753,7 +13810,7 @@
             "movimientos": [],
             "stocks": {
               "102": 5,
-              "105": 3
+              "105": 1
             }
           },
           {
@@ -14045,7 +14102,7 @@
             "stocks": {
               "102": 4,
               "103": 0,
-              "105": 6
+              "105": 5
             }
           },
           {
@@ -14146,7 +14203,7 @@
             "stocks": {
               "102": 5,
               "103": 5,
-              "105": 5
+              "105": 4
             }
           },
           {
@@ -14470,7 +14527,7 @@
             "movimientos": [],
             "stocks": {
               "102": 2,
-              "105": 5
+              "105": 4
             }
           },
           {
@@ -14582,9 +14639,8 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "102": 2,
               "103": 4,
-              "105": 3
+              "105": 4
             }
           },
           {
@@ -14622,9 +14678,8 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "102": 3,
               "103": 6,
-              "105": 2
+              "105": 5
             }
           },
           {
@@ -14699,7 +14754,7 @@
             "movimientos": [],
             "stocks": {
               "102": 12,
-              "103": 15,
+              "103": 14,
               "105": 5
             }
           },
@@ -14728,7 +14783,7 @@
             "movimientos": [],
             "stocks": {
               "102": 12,
-              "103": 17,
+              "103": 16,
               "105": 12
             }
           },
@@ -14796,7 +14851,7 @@
             "stocks": {
               "102": 12,
               "103": 10,
-              "105": 4
+              "105": 3
             }
           },
           {
@@ -14809,9 +14864,9 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "102": 12,
+              "102": 6,
               "103": 5,
-              "105": 3
+              "105": 9
             }
           },
           {
@@ -14867,8 +14922,8 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "102": 42,
-              "105": 3
+              "102": 36,
+              "105": 9
             }
           },
           {
@@ -14881,9 +14936,9 @@
             "idDepartamento": 5,
             "movimientos": [],
             "stocks": {
-              "102": 12,
-              "103": 13,
-              "105": 3
+              "102": 6,
+              "103": 12,
+              "105": 9
             }
           },
           {
@@ -14945,7 +15000,7 @@
         "stocks": {
           "102": 5,
           "103": 8,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -14985,7 +15040,7 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "103": 1
+          "103": 0
         }
       },
       {
@@ -15047,7 +15102,7 @@
         "movimientos": [],
         "stocks": {
           "102": 6,
-          "105": 5
+          "105": 4
         }
       },
       {
@@ -15107,7 +15162,7 @@
         "stocks": {
           "102": 15,
           "103": 9,
-          "105": 7
+          "105": 5
         }
       },
       {
@@ -15134,9 +15189,9 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "102": 11,
+          "102": 7,
           "103": 8,
-          "105": 4
+          "105": 8
         }
       },
       {
@@ -15149,9 +15204,9 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "102": 17,
+          "102": 13,
           "103": 7,
-          "105": 4
+          "105": 8
         }
       },
       {
@@ -15299,7 +15354,7 @@
         "stocks": {
           "102": 44,
           "103": 27,
-          "105": 15
+          "105": 13
         }
       },
       {
@@ -15313,8 +15368,8 @@
         "movimientos": [],
         "stocks": {
           "102": 137,
-          "103": 85,
-          "105": 74
+          "103": 82,
+          "105": 71
         }
       },
       {
@@ -15358,7 +15413,7 @@
         "movimientos": [],
         "stocks": {
           "102": 10,
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -15372,7 +15427,7 @@
         "movimientos": [],
         "stocks": {
           "102": 1,
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -15458,7 +15513,7 @@
         "movimientos": [],
         "stocks": {
           "102": 5,
-          "105": 3
+          "105": 1
         }
       },
       {
@@ -15754,7 +15809,7 @@
         "stocks": {
           "102": 4,
           "103": 0,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -15855,7 +15910,7 @@
         "stocks": {
           "102": 5,
           "103": 5,
-          "105": 5
+          "105": 4
         }
       },
       {
@@ -16010,6 +16065,7 @@
         "idProducto": 343,
         "descripcion": "Oferta Detergente En Pasta",
         "precio": 9600.0,
+        "image_name": "Oferta Detergente En Pasta.jpg",
         "activo": true,
         "idDepartamento": 5,
         "movimientos": [],
@@ -16043,13 +16099,14 @@
         "idProducto": 360,
         "descripcion": "Papel Sanitario",
         "precio": 200.0,
+        "image_name": "Papel Sanitario.jpg",
         "activo": true,
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
           "102": 192,
           "103": 0,
-          "105": 53
+          "105": 37
         }
       },
       {
@@ -16211,7 +16268,7 @@
         "movimientos": [],
         "stocks": {
           "102": 2,
-          "105": 5
+          "105": 4
         }
       },
       {
@@ -16325,9 +16382,8 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "102": 2,
           "103": 4,
-          "105": 3
+          "105": 4
         }
       },
       {
@@ -16365,9 +16421,8 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "102": 3,
           "103": 6,
-          "105": 2
+          "105": 5
         }
       },
       {
@@ -16442,7 +16497,7 @@
         "movimientos": [],
         "stocks": {
           "102": 12,
-          "103": 15,
+          "103": 14,
           "105": 5
         }
       },
@@ -16471,7 +16526,7 @@
         "movimientos": [],
         "stocks": {
           "102": 12,
-          "103": 17,
+          "103": 16,
           "105": 12
         }
       },
@@ -16539,7 +16594,7 @@
         "stocks": {
           "102": 12,
           "103": 10,
-          "105": 4
+          "105": 3
         }
       },
       {
@@ -16552,9 +16607,9 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "102": 12,
+          "102": 6,
           "103": 5,
-          "105": 3
+          "105": 9
         }
       },
       {
@@ -16610,8 +16665,8 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "102": 42,
-          "105": 3
+          "102": 36,
+          "105": 9
         }
       },
       {
@@ -16624,9 +16679,9 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "102": 12,
-          "103": 13,
-          "105": 3
+          "102": 6,
+          "103": 12,
+          "105": 9
         }
       },
       {
@@ -16710,7 +16765,8 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "105": 4
+          "102": 12,
+          "105": 2
         }
       },
       {
@@ -16765,7 +16821,7 @@
         "movimientos": [],
         "stocks": {
           "102": 14,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -16940,9 +16996,9 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "102": 12,
+          "102": 7,
           "103": 5,
-          "105": 2
+          "105": 7
         }
       },
       {
@@ -16981,7 +17037,7 @@
         "movimientos": [],
         "stocks": {
           "102": 8,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -17008,7 +17064,7 @@
         "movimientos": [],
         "stocks": {
           "102": 8,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -17023,7 +17079,7 @@
         "stocks": {
           "102": 2,
           "103": 6,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -17036,9 +17092,8 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "102": 3,
           "103": 7,
-          "105": 3
+          "105": 6
         }
       },
       {
@@ -17052,7 +17107,7 @@
         "movimientos": [],
         "stocks": {
           "102": 6,
-          "105": 4
+          "105": 3
         }
       },
       {
@@ -17081,7 +17136,7 @@
         "movimientos": [],
         "stocks": {
           "102": 5,
-          "105": 7
+          "105": 3
         }
       },
       {
@@ -17094,7 +17149,7 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -17107,8 +17162,7 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "102": 2,
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -17136,7 +17190,7 @@
         "movimientos": [],
         "stocks": {
           "102": 6,
-          "105": 4
+          "105": 2
         }
       },
       {
@@ -17149,8 +17203,7 @@
         "idDepartamento": 5,
         "movimientos": [],
         "stocks": {
-          "102": 3,
-          "105": 3
+          "105": 6
         }
       },
       {
@@ -17220,7 +17273,7 @@
             "movimientos": [],
             "stocks": {
               "103": 1,
-              "105": 11
+              "105": 10
             }
           },
           {
@@ -17464,7 +17517,7 @@
             "movimientos": [],
             "stocks": {
               "103": 7,
-              "105": 12
+              "105": 9
             }
           },
           {
@@ -17478,7 +17531,7 @@
             "movimientos": [],
             "stocks": {
               "103": 3,
-              "105": 7
+              "105": 6
             }
           },
           {
@@ -17492,7 +17545,7 @@
             "movimientos": [],
             "stocks": {
               "103": 4,
-              "105": 7
+              "105": 6
             }
           },
           {
@@ -17589,6 +17642,7 @@
             "codigo": "4108",
             "descripcion": "Colchon Full",
             "precio": 10500.0,
+            "image_name": "Colchon Full -4108.jpg",
             "activo": true,
             "idCategoria": 68,
             "idDepartamento": 6,
@@ -17903,8 +17957,7 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "103": 0,
-              "105": 1
+              "103": 0
             }
           },
           {
@@ -18187,7 +18240,7 @@
             "stocks": {
               "102": 10,
               "103": 5,
-              "105": 7
+              "105": 6
             }
           },
           {
@@ -18215,7 +18268,7 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "103": 2,
+              "103": 14,
               "105": 14
             }
           },
@@ -18244,7 +18297,7 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "105": 10
+              "105": 9
             }
           },
           {
@@ -18272,7 +18325,7 @@
             "movimientos": [],
             "stocks": {
               "103": 12,
-              "105": 14
+              "105": 13
             }
           },
           {
@@ -18314,7 +18367,7 @@
             "movimientos": [],
             "stocks": {
               "102": 6,
-              "103": 17,
+              "103": 16,
               "105": 9
             }
           },
@@ -18416,7 +18469,7 @@
             "stocks": {
               "102": 10,
               "103": 0,
-              "105": 3
+              "105": 2
             }
           },
           {
@@ -18430,9 +18483,8 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "102": 4,
               "103": 5,
-              "105": 2
+              "105": 5
             }
           },
           {
@@ -18471,8 +18523,8 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "103": 2,
-              "105": 11
+              "103": 14,
+              "105": 10
             }
           }
         ]
@@ -18685,13 +18737,14 @@
             "codigo": "PP007",
             "descripcion": "Envase Plastico 7pcs",
             "precio": 1500.0,
+            "image_name": "Envase Plastico 7pcs -PP007.jpg",
             "activo": true,
             "idCategoria": 21,
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "103": 29,
-              "105": 18
+              "103": 28,
+              "105": 85
             }
           },
           {
@@ -18856,8 +18909,7 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "103": 1,
-              "105": 1
+              "103": 1
             }
           },
           {
@@ -18892,6 +18944,7 @@
             "codigo": "5048",
             "descripcion": "Espejo Decorativo",
             "precio": 26300.0,
+            "image_name": "Espejo Decorativo -5048.jpg",
             "activo": true,
             "idCategoria": 38,
             "idDepartamento": 6,
@@ -18952,7 +19005,7 @@
             "stocks": {
               "102": 32,
               "103": 13,
-              "105": 19
+              "105": 16
             }
           },
           {
@@ -18966,8 +19019,8 @@
             "movimientos": [],
             "stocks": {
               "102": 40,
-              "103": 22,
-              "105": 11
+              "103": 19,
+              "105": 10
             }
           },
           {
@@ -19042,7 +19095,8 @@
             "movimientos": [],
             "stocks": {
               "102": 12,
-              "103": 0
+              "103": 0,
+              "105": 12
             }
           },
           {
@@ -19097,7 +19151,7 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "103": 5
+              "103": 4
             }
           },
           {
@@ -19137,7 +19191,7 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "105": 2
+              "105": 1
             }
           },
           {
@@ -19166,13 +19220,14 @@
             "codigo": "HY807",
             "descripcion": "Jarra C/ Vasos De Vidrio",
             "precio": 3200.0,
+            "image_name": "Jarra C\u0026 Vasos De Vidrio -HY807.jpg",
             "activo": true,
             "idCategoria": 24,
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
               "102": 9,
-              "103": 7,
+              "103": 6,
               "105": 2
             }
           },
@@ -19245,8 +19300,8 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "102": 14,
-              "105": 2
+              "102": 8,
+              "105": 6
             }
           },
           {
@@ -19259,8 +19314,7 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "103": 6,
-              "105": -4
+              "103": 6
             }
           },
           {
@@ -19319,7 +19373,7 @@
             "stocks": {
               "102": 6,
               "103": 7,
-              "105": 10
+              "105": 6
             }
           },
           {
@@ -19333,7 +19387,7 @@
             "movimientos": [],
             "stocks": {
               "102": 3,
-              "103": 3,
+              "103": 2,
               "105": 1
             }
           },
@@ -19454,7 +19508,7 @@
             "movimientos": [],
             "stocks": {
               "103": 0,
-              "105": 4
+              "105": 8
             }
           },
           {
@@ -19509,9 +19563,7 @@
             "idCategoria": 27,
             "idDepartamento": 6,
             "movimientos": [],
-            "stocks": {
-              "105": 4
-            }
+            "stocks": {}
           },
           {
             "idProducto": 1894,
@@ -19612,7 +19664,7 @@
             "movimientos": [],
             "stocks": {
               "103": 4,
-              "105": 4
+              "105": 3
             }
           },
           {
@@ -19768,7 +19820,7 @@
             "stocks": {
               "102": 10,
               "103": 17,
-              "105": 13
+              "105": 12
             }
           },
           {
@@ -19848,7 +19900,7 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "103": 12,
+              "103": 11,
               "105": 12
             }
           },
@@ -19918,6 +19970,7 @@
             "codigo": "PT602",
             "descripcion": "Plato Hondo",
             "precio": 400.0,
+            "image_name": "Plato Hondo -PT602.jpg",
             "activo": true,
             "idCategoria": 61,
             "idDepartamento": 6,
@@ -19925,7 +19978,7 @@
             "stocks": {
               "102": 139,
               "103": 81,
-              "105": 91
+              "105": 78
             }
           },
           {
@@ -19952,7 +20005,7 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "103": 5,
+              "103": 12,
               "105": 21
             }
           },
@@ -19961,12 +20014,13 @@
             "codigo": "5360",
             "descripcion": "Plato Llano",
             "precio": 400.0,
+            "image_name": "Plato Llano -5360.jpg",
             "activo": true,
             "idCategoria": 61,
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "102": 1,
+              "102": 49,
               "103": 48,
               "105": 28
             }
@@ -20503,7 +20557,7 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "105": 20
+              "105": 47
             }
           },
           {
@@ -20699,7 +20753,7 @@
             "movimientos": [],
             "stocks": {
               "103": 0,
-              "105": 17
+              "105": 11
             }
           },
           {
@@ -20731,9 +20785,9 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "102": 71,
-              "103": 14,
-              "105": 17
+              "102": 61,
+              "103": 11,
+              "105": 9
             }
           },
           {
@@ -20747,9 +20801,9 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "102": 22,
+              "102": 8,
               "103": 10,
-              "105": 10
+              "105": 9
             }
           },
           {
@@ -20858,14 +20912,15 @@
             "codigo": "G108",
             "descripcion": "Jgo Vasos De Vidrio 6pcs",
             "precio": 1000.0,
+            "image_name": "Jgo Vasos De Vidrio 6pcs -G108.jpg",
             "activo": true,
             "idCategoria": 25,
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
               "102": 24,
-              "103": 14,
-              "105": 15
+              "103": 36,
+              "105": 7
             }
           },
           {
@@ -20878,7 +20933,7 @@
             "idDepartamento": 6,
             "movimientos": [],
             "stocks": {
-              "105": 15
+              "105": 11
             }
           },
           {
@@ -20935,7 +20990,7 @@
             "movimientos": [],
             "stocks": {
               "103": 8,
-              "105": 13
+              "105": 11
             }
           },
           {
@@ -20990,7 +21045,7 @@
         "movimientos": [],
         "stocks": {
           "103": 1,
-          "105": 11
+          "105": 10
         }
       },
       {
@@ -21298,7 +21353,7 @@
         "movimientos": [],
         "stocks": {
           "103": 6,
-          "105": 18
+          "105": 42
         }
       },
       {
@@ -21571,7 +21626,7 @@
         "movimientos": [],
         "stocks": {
           "103": 7,
-          "105": 12
+          "105": 9
         }
       },
       {
@@ -21585,7 +21640,7 @@
         "movimientos": [],
         "stocks": {
           "103": 3,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -21599,7 +21654,7 @@
         "movimientos": [],
         "stocks": {
           "103": 4,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -21680,7 +21735,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "103": 7
+          "103": 16
         }
       },
       {
@@ -21773,12 +21828,13 @@
         "codigo": "1459",
         "descripcion": "Cesto De Ropa",
         "precio": 1800.0,
+        "image_name": "Cesto De Ropa -1459.jpg",
         "activo": true,
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
           "103": 9,
-          "105": 46
+          "105": 58
         }
       },
       {
@@ -21848,6 +21904,7 @@
         "codigo": "4108",
         "descripcion": "Colchon Full",
         "precio": 10500.0,
+        "image_name": "Colchon Full -4108.jpg",
         "activo": true,
         "idCategoria": 68,
         "idDepartamento": 6,
@@ -22179,8 +22236,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "103": 0,
-          "105": 1
+          "103": 0
         }
       },
       {
@@ -22438,7 +22494,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "103": 9,
+          "103": 8,
           "105": 1
         }
       },
@@ -22493,7 +22549,7 @@
         "stocks": {
           "102": 10,
           "103": 5,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -22521,7 +22577,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "103": 2,
+          "103": 14,
           "105": 14
         }
       },
@@ -22550,7 +22606,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "105": 10
+          "105": 9
         }
       },
       {
@@ -22578,7 +22634,7 @@
         "movimientos": [],
         "stocks": {
           "103": 12,
-          "105": 14
+          "105": 13
         }
       },
       {
@@ -22620,7 +22676,7 @@
         "movimientos": [],
         "stocks": {
           "102": 6,
-          "103": 17,
+          "103": 16,
           "105": 9
         }
       },
@@ -22883,13 +22939,14 @@
         "codigo": "PP007",
         "descripcion": "Envase Plastico 7pcs",
         "precio": 1500.0,
+        "image_name": "Envase Plastico 7pcs -PP007.jpg",
         "activo": true,
         "idCategoria": 21,
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "103": 29,
-          "105": 18
+          "103": 28,
+          "105": 85
         }
       },
       {
@@ -22928,7 +22985,7 @@
         "movimientos": [],
         "stocks": {
           "103": 30,
-          "105": 30
+          "105": 23
         }
       },
       {
@@ -22977,8 +23034,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "103": 1,
-          "105": 1
+          "103": 1
         }
       },
       {
@@ -23013,6 +23069,7 @@
         "codigo": "5048",
         "descripcion": "Espejo Decorativo",
         "precio": 26300.0,
+        "image_name": "Espejo Decorativo -5048.jpg",
         "activo": true,
         "idCategoria": 38,
         "idDepartamento": 6,
@@ -23073,7 +23130,7 @@
         "stocks": {
           "102": 32,
           "103": 13,
-          "105": 19
+          "105": 16
         }
       },
       {
@@ -23087,8 +23144,8 @@
         "movimientos": [],
         "stocks": {
           "102": 40,
-          "103": 22,
-          "105": 11
+          "103": 19,
+          "105": 10
         }
       },
       {
@@ -23127,7 +23184,7 @@
         "stocks": {
           "102": 3,
           "103": 3,
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -23206,7 +23263,8 @@
         "movimientos": [],
         "stocks": {
           "102": 12,
-          "103": 0
+          "103": 0,
+          "105": 12
         }
       },
       {
@@ -23261,7 +23319,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "103": 5
+          "103": 4
         }
       },
       {
@@ -23301,7 +23359,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "105": 2
+          "105": 1
         }
       },
       {
@@ -23323,13 +23381,14 @@
         "codigo": "HY807",
         "descripcion": "Jarra C/ Vasos De Vidrio",
         "precio": 3200.0,
+        "image_name": "Jarra C\u0026 Vasos De Vidrio -HY807.jpg",
         "activo": true,
         "idCategoria": 24,
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
           "102": 9,
-          "103": 7,
+          "103": 6,
           "105": 2
         }
       },
@@ -23402,8 +23461,8 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "102": 14,
-          "105": 2
+          "102": 8,
+          "105": 6
         }
       },
       {
@@ -23416,8 +23475,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "103": 6,
-          "105": -4
+          "103": 6
         }
       },
       {
@@ -23476,7 +23534,7 @@
         "stocks": {
           "102": 6,
           "103": 7,
-          "105": 10
+          "105": 6
         }
       },
       {
@@ -23490,7 +23548,7 @@
         "movimientos": [],
         "stocks": {
           "102": 3,
-          "103": 3,
+          "103": 2,
           "105": 1
         }
       },
@@ -23550,7 +23608,7 @@
         "stocks": {
           "102": 10,
           "103": 0,
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -23564,9 +23622,8 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "102": 4,
           "103": 5,
-          "105": 2
+          "105": 5
         }
       },
       {
@@ -23588,6 +23645,7 @@
         "codigo": "VS16",
         "descripcion": "Jgo De Vajilla 16pcs",
         "precio": 4600.0,
+        "image_name": "Jgo De Vajilla 16pcs -VS16.jpg",
         "activo": true,
         "idDepartamento": 6,
         "movimientos": [],
@@ -23601,11 +23659,12 @@
         "codigo": "335",
         "descripcion": "Jgo De Vajilla 20pcs",
         "precio": 5100.0,
+        "image_name": "Jgo De Vajilla 20pcs -335.jpg",
         "activo": true,
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "102": 6,
+          "102": 4,
           "103": 14,
           "105": 1
         }
@@ -23707,14 +23766,15 @@
         "codigo": "G108",
         "descripcion": "Jgo Vasos De Vidrio 6pcs",
         "precio": 1000.0,
+        "image_name": "Jgo Vasos De Vidrio 6pcs -G108.jpg",
         "activo": true,
         "idCategoria": 25,
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
           "102": 24,
-          "103": 14,
-          "105": 15
+          "103": 36,
+          "105": 7
         }
       },
       {
@@ -23727,7 +23787,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "105": 15
+          "105": 11
         }
       },
       {
@@ -23836,7 +23896,7 @@
         "movimientos": [],
         "stocks": {
           "103": 0,
-          "105": 4
+          "105": 8
         }
       },
       {
@@ -23891,9 +23951,7 @@
         "idCategoria": 27,
         "idDepartamento": 6,
         "movimientos": [],
-        "stocks": {
-          "105": 4
-        }
+        "stocks": {}
       },
       {
         "idProducto": 1894,
@@ -23986,7 +24044,7 @@
         "movimientos": [],
         "stocks": {
           "103": 4,
-          "105": 4
+          "105": 3
         }
       },
       {
@@ -24164,11 +24222,12 @@
         "codigo": "1200-1069",
         "descripcion": "P/MASCOTA",
         "precio": 2000.0,
+        "image_name": "P\u0026MASCOTA -1200-1069.jpg",
         "activo": false,
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "105": 17
+          "105": 16
         }
       },
       {
@@ -24183,7 +24242,7 @@
         "stocks": {
           "102": 10,
           "103": 17,
-          "105": 13
+          "105": 12
         }
       },
       {
@@ -24263,7 +24322,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "103": 12,
+          "103": 11,
           "105": 12
         }
       },
@@ -24326,6 +24385,7 @@
         "codigo": "PT602",
         "descripcion": "Plato Hondo",
         "precio": 400.0,
+        "image_name": "Plato Hondo -PT602.jpg",
         "activo": true,
         "idCategoria": 61,
         "idDepartamento": 6,
@@ -24333,7 +24393,7 @@
         "stocks": {
           "102": 139,
           "103": 81,
-          "105": 91
+          "105": 78
         }
       },
       {
@@ -24360,7 +24420,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "103": 5,
+          "103": 12,
           "105": 21
         }
       },
@@ -24369,12 +24429,13 @@
         "codigo": "5360",
         "descripcion": "Plato Llano",
         "precio": 400.0,
+        "image_name": "Plato Llano -5360.jpg",
         "activo": true,
         "idCategoria": 61,
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "102": 1,
+          "102": 49,
           "103": 48,
           "105": 28
         }
@@ -24464,7 +24525,7 @@
         "movimientos": [],
         "stocks": {
           "103": 18,
-          "105": 9
+          "105": 8
         }
       },
       {
@@ -24606,7 +24667,7 @@
         "movimientos": [],
         "stocks": {
           "103": 6,
-          "105": 15
+          "105": 13
         }
       },
       {
@@ -24643,9 +24704,9 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "102": 4,
+          "102": 16,
           "103": 4,
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -24944,8 +25005,9 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "102": 100,
-          "103": 100
+          "102": 80,
+          "103": 100,
+          "105": 20
         }
       },
       {
@@ -24982,7 +25044,7 @@
         "movimientos": [],
         "stocks": {
           "103": 3,
-          "105": 4
+          "105": 2
         }
       },
       {
@@ -25016,6 +25078,7 @@
         "codigo": "024",
         "descripcion": "SILLA PLAYERA",
         "precio": 28000.0,
+        "image_name": "SILLA PLAYERA -024.jpg",
         "activo": false,
         "idDepartamento": 6,
         "movimientos": [],
@@ -25174,7 +25237,7 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "105": 20
+          "105": 47
         }
       },
       {
@@ -25370,7 +25433,7 @@
         "movimientos": [],
         "stocks": {
           "103": 0,
-          "105": 17
+          "105": 11
         }
       },
       {
@@ -25409,8 +25472,8 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "103": 2,
-          "105": 11
+          "103": 14,
+          "105": 10
         }
       },
       {
@@ -25424,9 +25487,9 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "102": 71,
-          "103": 14,
-          "105": 17
+          "102": 61,
+          "103": 11,
+          "105": 9
         }
       },
       {
@@ -25440,9 +25503,9 @@
         "idDepartamento": 6,
         "movimientos": [],
         "stocks": {
-          "102": 22,
+          "102": 8,
           "103": 10,
-          "105": 10
+          "105": 9
         }
       },
       {
@@ -25564,7 +25627,7 @@
         "movimientos": [],
         "stocks": {
           "103": 8,
-          "105": 13
+          "105": 11
         }
       },
       {
@@ -25667,7 +25730,7 @@
             "movimientos": [],
             "stocks": {
               "103": 3,
-              "105": 5
+              "105": 4
             }
           },
           {
@@ -25734,7 +25797,7 @@
             "movimientos": [],
             "stocks": {
               "103": 1,
-              "105": 2
+              "105": 6
             }
           },
           {
@@ -25771,6 +25834,19 @@
         "nombre": "Muñecas",
         "productos": [
           {
+            "idProducto": 1938,
+            "codigo": "7265",
+            "descripcion": "JGO DE MUÑECA 45CM",
+            "precio": 2520.0,
+            "activo": false,
+            "idCategoria": 59,
+            "idDepartamento": 7,
+            "movimientos": [],
+            "stocks": {
+              "105": 4
+            }
+          },
+          {
             "idProducto": 319,
             "codigo": "VIC1R",
             "descripcion": "Mochila Muñeca",
@@ -25795,8 +25871,8 @@
             "idDepartamento": 7,
             "movimientos": [],
             "stocks": {
-              "103": 12,
-              "105": 16
+              "103": 11,
+              "105": 11
             }
           },
           {
@@ -26001,7 +26077,7 @@
             "movimientos": [],
             "stocks": {
               "103": 0,
-              "105": 5
+              "105": 4
             }
           },
           {
@@ -26321,7 +26397,7 @@
             "movimientos": [],
             "stocks": {
               "103": 4,
-              "105": 10
+              "105": 8
             }
           },
           {
@@ -26353,6 +26429,19 @@
             }
           },
           {
+            "idProducto": 1940,
+            "codigo": "LIST-469",
+            "descripcion": "ROMPECABEZAS",
+            "precio": 1750.0,
+            "activo": false,
+            "idCategoria": 62,
+            "idDepartamento": 7,
+            "movimientos": [],
+            "stocks": {
+              "105": 10
+            }
+          },
+          {
             "idProducto": 1930,
             "codigo": "5556",
             "descripcion": "ROMPECABEZAS 100PCS",
@@ -26378,7 +26467,7 @@
             "movimientos": [],
             "stocks": {
               "103": 4,
-              "105": 10
+              "105": 9
             }
           },
           {
@@ -26392,7 +26481,7 @@
             "idDepartamento": 7,
             "movimientos": [],
             "stocks": {
-              "105": 10
+              "105": 8
             }
           },
           {
@@ -26420,7 +26509,7 @@
             "idDepartamento": 7,
             "movimientos": [],
             "stocks": {
-              "105": 9
+              "105": 21
             }
           }
         ]
@@ -26669,7 +26758,7 @@
         "movimientos": [],
         "stocks": {
           "103": 3,
-          "105": 5
+          "105": 4
         }
       },
       {
@@ -26736,7 +26825,7 @@
         "movimientos": [],
         "stocks": {
           "103": 1,
-          "105": 2
+          "105": 6
         }
       },
       {
@@ -26847,7 +26936,7 @@
         "idDepartamento": 7,
         "movimientos": [],
         "stocks": {
-          "105": 4
+          "105": 3
         }
       },
       {
@@ -26986,7 +27075,7 @@
         "stocks": {
           "102": 24,
           "103": 7,
-          "105": 8
+          "105": 5
         }
       },
       {
@@ -27110,7 +27199,20 @@
         "movimientos": [],
         "stocks": {
           "103": 5,
-          "105": 6
+          "105": 5
+        }
+      },
+      {
+        "idProducto": 1938,
+        "codigo": "7265",
+        "descripcion": "JGO DE MUÑECA 45CM",
+        "precio": 2520.0,
+        "activo": false,
+        "idCategoria": 59,
+        "idDepartamento": 7,
+        "movimientos": [],
+        "stocks": {
+          "105": 4
         }
       },
       {
@@ -27136,7 +27238,7 @@
         "movimientos": [],
         "stocks": {
           "103": 2,
-          "105": 8
+          "105": 7
         }
       },
       {
@@ -27200,7 +27302,7 @@
         "idDepartamento": 7,
         "movimientos": [],
         "stocks": {
-          "105": 2
+          "105": 1
         }
       },
       {
@@ -27296,6 +27398,7 @@
         "codigo": "55611",
         "descripcion": "Lentes De Buceo",
         "precio": 1100.0,
+        "image_name": "Lentes De Buceo -55611.jpg",
         "activo": true,
         "idDepartamento": 7,
         "movimientos": [],
@@ -27363,8 +27466,7 @@
         "idDepartamento": 7,
         "movimientos": [],
         "stocks": {
-          "103": 1,
-          "105": 1
+          "103": 0
         }
       },
       {
@@ -27377,8 +27479,8 @@
         "idDepartamento": 7,
         "movimientos": [],
         "stocks": {
-          "103": 12,
-          "105": 16
+          "103": 11,
+          "105": 11
         }
       },
       {
@@ -27576,7 +27678,7 @@
         "movimientos": [],
         "stocks": {
           "103": 0,
-          "105": 5
+          "105": 4
         }
       },
       {
@@ -27920,7 +28022,7 @@
         "movimientos": [],
         "stocks": {
           "103": 4,
-          "105": 10
+          "105": 8
         }
       },
       {
@@ -27952,6 +28054,19 @@
         }
       },
       {
+        "idProducto": 1940,
+        "codigo": "LIST-469",
+        "descripcion": "ROMPECABEZAS",
+        "precio": 1750.0,
+        "activo": false,
+        "idCategoria": 62,
+        "idDepartamento": 7,
+        "movimientos": [],
+        "stocks": {
+          "105": 10
+        }
+      },
+      {
         "idProducto": 1930,
         "codigo": "5556",
         "descripcion": "ROMPECABEZAS 100PCS",
@@ -27977,7 +28092,7 @@
         "movimientos": [],
         "stocks": {
           "103": 4,
-          "105": 10
+          "105": 9
         }
       },
       {
@@ -27991,7 +28106,7 @@
         "idDepartamento": 7,
         "movimientos": [],
         "stocks": {
-          "105": 10
+          "105": 8
         }
       },
       {
@@ -28019,7 +28134,7 @@
         "idDepartamento": 7,
         "movimientos": [],
         "stocks": {
-          "105": 9
+          "105": 21
         }
       },
       {
@@ -28194,7 +28309,7 @@
         "movimientos": [],
         "stocks": {
           "103": 0,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -28333,7 +28448,9 @@
         "activo": false,
         "idDepartamento": 7,
         "movimientos": [],
-        "stocks": {}
+        "stocks": {
+          "105": 1
+        }
       },
       {
         "idProducto": 519,
@@ -28656,7 +28773,7 @@
             "stocks": {
               "102": 72,
               "103": 9,
-              "105": 15
+              "105": 10
             }
           },
           {
@@ -28698,7 +28815,7 @@
             "movimientos": [],
             "stocks": {
               "103": 3,
-              "105": 13
+              "105": 11
             }
           }
         ]
@@ -28768,7 +28885,7 @@
         "stocks": {
           "102": 72,
           "103": 9,
-          "105": 15
+          "105": 10
         }
       },
       {
@@ -28808,8 +28925,8 @@
         "movimientos": [],
         "stocks": {
           "102": 2600,
-          "103": 163,
-          "105": 41
+          "103": 150,
+          "105": 3
         }
       },
       {
@@ -28863,7 +28980,7 @@
         "movimientos": [],
         "stocks": {
           "103": 3,
-          "105": 13
+          "105": 11
         }
       },
       {
@@ -28890,7 +29007,7 @@
         "stocks": {
           "102": 24,
           "103": 41,
-          "105": 11
+          "105": 10
         }
       },
       {
@@ -28925,7 +29042,7 @@
         "idDepartamento": 8,
         "movimientos": [],
         "stocks": {
-          "102": 3,
+          "102": 2,
           "103": 37,
           "105": 1
         }
@@ -28953,9 +29070,9 @@
         "idDepartamento": 8,
         "movimientos": [],
         "stocks": {
-          "102": 18,
-          "103": 11,
-          "105": 6
+          "102": 12,
+          "103": 10,
+          "105": 8
         }
       },
       {
@@ -28967,7 +29084,7 @@
         "movimientos": [],
         "stocks": {
           "102": 15,
-          "103": 10,
+          "103": 8,
           "105": 20
         }
       },
@@ -29285,13 +29402,14 @@
         "codigo": "R09",
         "descripcion": "Mosquitero Camero",
         "precio": 2600.0,
+        "image_name": "Mosquitero Camero -R09.jpg",
         "activo": true,
         "idDepartamento": 8,
         "movimientos": [],
         "stocks": {
           "102": 25,
           "103": 33,
-          "105": 11
+          "105": 7
         }
       },
       {
@@ -29418,9 +29536,9 @@
         "idDepartamento": 8,
         "movimientos": [],
         "stocks": {
-          "102": 42,
-          "103": 39,
-          "105": 41
+          "102": 32,
+          "103": 36,
+          "105": 47
         }
       },
       {
@@ -29432,8 +29550,8 @@
         "movimientos": [],
         "stocks": {
           "102": 67,
-          "103": 27,
-          "105": 37
+          "103": 17,
+          "105": 30
         }
       },
       {
@@ -29500,7 +29618,7 @@
         "stocks": {
           "102": 48,
           "103": 99,
-          "105": 23
+          "105": 13
         }
       },
       {
@@ -29515,7 +29633,7 @@
         "stocks": {
           "102": 120,
           "103": 52,
-          "105": 70
+          "105": 64
         }
       },
       {
@@ -29557,7 +29675,7 @@
         "stocks": {
           "102": 24,
           "103": 8,
-          "105": 11
+          "105": 10
         }
       },
       {
@@ -29570,7 +29688,7 @@
         "movimientos": [],
         "stocks": {
           "103": 20,
-          "105": 28
+          "105": 27
         }
       },
       {
@@ -29646,9 +29764,8 @@
         "idDepartamento": 9,
         "movimientos": [],
         "stocks": {
-          "102": 40,
           "103": 35,
-          "105": 20
+          "105": 49
         }
       },
       {
@@ -29725,9 +29842,9 @@
         "idDepartamento": 9,
         "movimientos": [],
         "stocks": {
-          "102": 24,
+          "102": 12,
           "103": 24,
-          "105": 11
+          "105": 23
         }
       },
       {
@@ -29799,13 +29916,14 @@
         "codigo": "285",
         "descripcion": "Sacapuntas",
         "precio": 40.0,
+        "image_name": "Sacapuntas -285.jpg",
         "activo": true,
         "idDepartamento": 9,
         "movimientos": [],
         "stocks": {
           "102": 36,
           "103": 31,
-          "105": 53
+          "105": 52
         }
       },
       {
@@ -29855,7 +29973,7 @@
         "stocks": {
           "102": 30,
           "103": 7,
-          "105": 5
+          "105": 3
         }
       },
       {
