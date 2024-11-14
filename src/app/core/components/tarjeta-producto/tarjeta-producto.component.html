@@ -2,7 +2,7 @@
 
 @if (tieneStock()) {
 <div id="producto-container">
-    <img src="{{getImage()}}" alt="{{producto.descripcion}}">
+    <img src="{{getImage()}}" alt="{{producto.descripcion}}" class="img-producto">
     <div class="detalles">
         <h4>{{producto.descripcion}}<span *ngIf="producto.codigo"> -{{producto.codigo}}</span></h4>
         <div class="content">
@@ -13,8 +13,12 @@
                 <p>AGOTADO</p>
                 }
             </div>
+
+            <button (click)="informacion()"><img class="wsp-icon" src="whatsapp.png" alt="fav" ></button>
+
+
             @if (false) {
-            <div class="mas-detalles">
+            <div class="mas-detalles">  
                 @if (producto.codigo) {
                 <div>
                     <p>Ref: {{producto.codigo}}</p>

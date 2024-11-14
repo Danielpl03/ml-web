@@ -1,7 +1,7 @@
 import { Component, Input} from '@angular/core';
 import { Producto } from '../../interfaces/producto';
 import { CommonModule } from '@angular/common';
-import { IMAGES_PRODUCTOS } from '../../constants';
+import { IMAGES_PRODUCTOS, WSP_LINK } from '../../constants';
 
 @Component({
   selector: 'app-tarjeta-producto',
@@ -27,6 +27,13 @@ export class TarjetaProductoComponent{
 
   }
 
+  fullDescription(){
+    if(this.producto.codigo){
+      return this.producto.descripcion+'- '+this.producto.codigo;
+    }
+    return this.producto.descripcion;
+  }
+
   tieneStock(): boolean {
     if (this.producto.stocks) {
       for (let index = 0; index < this.localidades.length; index++) {
@@ -37,5 +44,16 @@ export class TarjetaProductoComponent{
     }
     return false
   }
+
+  informacion(){
+    const mensaje = 
+`
+Hola!, quisiera más información acerca de ${this.fullDescription()}. Muchas gracias!
+`
+    const link = `${WSP_LINK}?text=${encodeURI(mensaje)}`;
+    window.open(link, "_blank");
+  }
+
+
 
 }
