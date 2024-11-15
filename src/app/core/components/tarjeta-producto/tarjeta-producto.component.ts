@@ -1,7 +1,11 @@
-import { Component, Input} from '@angular/core';
+import { Component, Input, inject} from '@angular/core';
 import { Producto } from '../../interfaces/producto';
 import { CommonModule } from '@angular/common';
 import { IMAGES_PRODUCTOS, WSP_LINK } from '../../constants';
+import { CarritoService } from '../../services/carrito.service'; 
+import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
+import Swal from 'sweetalert2';
+
 
 @Component({
   selector: 'app-tarjeta-producto',
@@ -16,6 +20,7 @@ export class TarjetaProductoComponent{
   @Input({ required: true }) producto!: Producto
   localidades: number[] = [102, 103, 105];
   url: string = IMAGES_PRODUCTOS;
+  carritoService = inject(CarritoService);
 
   getImage() {
     if (this.producto.image_name) {
@@ -29,7 +34,7 @@ export class TarjetaProductoComponent{
 
   fullDescription(){
     if(this.producto.codigo){
-      return this.producto.descripcion+'- '+this.producto.codigo;
+      return this.producto.descripcion+' -'+this.producto.codigo;
     }
     return this.producto.descripcion;
   }
@@ -52,6 +57,20 @@ Hola!, quisiera más información acerca de ${this.fullDescription()}. Muchas gr
 `
     const link = `${WSP_LINK}?text=${encodeURI(mensaje)}`;
     window.open(link, "_blank");
+  }
+
+  agregarACarrito(){
+    this.carritoService.agregarACarrito( this.producto );
+    Swal.fire({
+      position: "top-end",
+      width:300,
+      // heightAuto: true,
+      icon: "success",
+      title: "El  producto se ha agregado correctamente",
+      showConfirmButton: false,
+      timer: 1000
+    });
+
   }
 
 

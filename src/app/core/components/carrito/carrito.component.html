@@ -1,0 +1,42 @@
+<div class="container-carrito">
+    @if (!carritoService.isEmpty()) {
+    <h2>Carrito de compras</h2>
+
+    <div class="container-items">
+        @for (item of carritoService.getItems(); track $index) {
+        <div class="item">
+
+            <img src="{{getImage(item.producto)}}" alt="{{item.producto.descripcion}}" class="img-producto">
+            <div class="detalles">
+                <h4>{{item.producto.descripcion}}<span *ngIf="item.producto.codigo"> -{{item.producto.codigo}}</span>
+                </h4>
+                <div class="content">
+                    <p id="precio">${{item.producto.precio}}</p>
+                    <app-contador-cantidad [cantidadInicial]="item.cantidad"
+                        (cantidad)="carritoService.agregarACarrito(item.producto, $event)"></app-contador-cantidad>
+                    <button class="papelera-button" (click)="carritoService.eliminarDeCarrito(item.producto, 0)"><img
+                            class="papelera-icon" src="papelera.svg" alt="Papelera"></button>
+
+                    <p>${{item.importe}}</p>
+                </div>
+            </div>
+
+
+
+        </div>
+        }
+    </div>
+    <hr>
+    <div class="footer-cart">
+        <p>Total:</p>
+        <p>${{carritoService.getImporte()}}</p>
+    </div>
+    <Hr>
+        <button class="btn-pedido" (click)="enviarPedido()">Enviar Pedido</button>
+
+    }@else {
+    <p class="vacio">Su carrito está vacío!
+    </p>
+    }
+    <a [routerLink]="[ '/departamentos']">Seguir Comprando</a>
+</div>

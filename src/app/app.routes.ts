@@ -4,6 +4,8 @@ import { CategoriaComponent } from './pages/categoria/categoria.component';
 import { ProductoComponent } from './pages/producto/producto.component';
 import { BuscarComponent } from './pages/buscar/buscar.component';
 import { HomeComponent } from './pages/home/home.component';
+import { PerfilComponent } from './core/components/perfil/perfil.component';
+import { CarritoComponent } from './core/components/carrito/carrito.component';
 
 export const routes: Routes = [
     {
@@ -35,5 +37,13 @@ export const routes: Routes = [
     {
         path: "productos/buscar/:texto",
         component: BuscarComponent
+    },
+    {
+        path: "perfil",
+        component: PerfilComponent
+    },
+    {
+        path: "carrito",
+        component: CarritoComponent
     },
 ];

@@ -11,6 +11,7 @@ import { TarjetaCategoriaComponent } from "../../core/components/tarjeta-categor
 import { ProductoComponent } from "../producto/producto.component";
 import { TarjetaProductoComponent } from "../../core/components/tarjeta-producto/tarjeta-producto.component";
 import { LoadingComponent } from '../../core/components/loading/loading.component';
+import { SeoService } from '../../core/services/seo.service';
 
 @Component({
   selector: 'app-departamento',
@@ -21,12 +22,21 @@ import { LoadingComponent } from '../../core/components/loading/loading.componen
 })
 export class DepartamentoComponent implements OnInit {
 
+  seo = inject(SeoService);
+
+
+
+
   ngOnInit(): void {
     this.ac.params.subscribe(params => {
       if (params['id']) {
         this.departamentosService.getById(parseInt(params['id'])).then(dpto => {
           this.departamento = dpto;
           if (this.departamento) {
+            this.seo.title.setTitle(`${this.departamento.nombre} | M&L SOLUCIONES`);
+            this.seo.meta.updateTag({ name: "description", content: `${this.departamento.nombre} en M&L SOLUCIONES` });
+            this.seo.setCanonicalUrl(`www.ml-soluciones.vercel.app/departamentos/${this.departamento.idDepartamento}`);
+            this.seo.setIndexFollow(true);
             this.cargarDatos().then(() => {
               this.loading.update(value => false);
             });
@@ -36,6 +46,9 @@ export class DepartamentoComponent implements OnInit {
         });
       }
     })
+
+
+
   }
 
   constructor(private router: Router) {

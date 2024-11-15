@@ -3,6 +3,7 @@ import { Producto } from '../../core/interfaces/producto';
 import { ProductosService } from '../../core/services/productos.service';
 import { Departamento } from '../../core/interfaces/departamento';
 import { Categoria } from '../../core/interfaces/categoria';
+import { SeoService } from '../../core/services/seo.service';
 
 @Component({
   selector: 'app-producto',
@@ -19,6 +20,8 @@ export class ProductoComponent {
   async getProductos(){
     this.productos = await this.productosService.getAll();
   }
+
+
 
 
 

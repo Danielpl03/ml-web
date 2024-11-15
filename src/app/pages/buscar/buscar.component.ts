@@ -1,4 +1,4 @@
-import { Component, OnInit, WritableSignal, inject, signal } from '@angular/core';
+import { Component, OnDestroy, OnInit, WritableSignal, inject, signal } from '@angular/core';
 import { BusqueResult, Busqueda } from '../../core/interfaces/busqueda';
 import { ActivatedRoute, Router, RouterModule } from '@angular/router';
 
@@ -8,6 +8,7 @@ import { TarjetaProductoComponent } from '../../core/components/tarjeta-producto
 
 import { BusquedaService } from '../../core/services/busqueda.service';
 import { LoadingComponent } from '../../core/components/loading/loading.component';
+import { SeoService } from '../../core/services/seo.service';
 
 @Component({
   selector: 'app-buscar',
@@ -18,6 +19,8 @@ import { LoadingComponent } from '../../core/components/loading/loading.componen
 })
 export class BuscarComponent implements OnInit {
 
+  seo = inject(SeoService);
+
   ngOnInit(): void {
     this.ac.params.subscribe(params => {
       if (params['texto']) {
@@ -25,6 +28,11 @@ export class BuscarComponent implements OnInit {
         if (text.trim().length > 0) {
           this.busqueda.texto = text.trim();
           this.buscar(this.busqueda);
+          
+          this.seo.title.setTitle(`Resultados para ${this.busqueda.texto} | M&L SOLUCIONES`);
+          this.seo.meta.updateTag({ name: "description", content: `${this.busqueda.texto} en M&L SOLUCIONES` });
+          this.seo.setCanonicalUrl(`www.ml-soluciones.vercel.app/buscar/${text}`);
+          this.seo.setIndexFollow(true);
         }
       } else {
         this.router.navigate(['departamentos'])
@@ -33,6 +41,7 @@ export class BuscarComponent implements OnInit {
   }
 
   constructor(private router: Router) { }
+
 
   busquedaService = inject(BusquedaService)
 
