@@ -41,7 +41,7 @@ export class CarritoComponent {
     let pedido = '';
     for (let i = 0; i < this.carritoService.getItems().length; i++) {
       const item = this.carritoService.getItems()[i];
-      pedido += `-${item.cantidad} ${item.cantidad > 9 ? '*' : ' *'} ${this.fullDescription(item.producto)}\n`;
+      pedido += `- ${item.cantidad} ${item.cantidad > 9 ? '*' : ' *'} ${this.fullDescription(item.producto)}\n`;
     }
     const mensaje =
       `
@@ -49,7 +49,6 @@ Hola!, quiero hacer el siguiente pedido:
 ${pedido}
 Espero su respuesta. Muchas gracias!
 `
-    console.log(mensaje);
     this.clipboard.copyFromContent(mensaje);
     Swal.fire({
       title: "El pedido ha sido copiado al portapapeles!\nDesea enviarlo ahora?",
