@@ -1,5 +1,5 @@
 #producto-container{
-    height: 100px;
+    height: 120px;
     display: flex;
     background-color: #373737;
     border-radius: 10px;
@@ -30,6 +30,7 @@
     overflow: hidden;
 }
 .cart-button{
+    align-self: flex-end;
     display: flex;
     justify-content: center;
     align-items: center;

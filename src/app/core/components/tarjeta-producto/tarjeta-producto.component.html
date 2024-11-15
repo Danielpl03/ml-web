@@ -5,6 +5,8 @@
     <img src="{{getImage()}}" alt="{{producto.descripcion}}" class="img-producto">
     <div class="detalles">
         <h4>{{producto.descripcion}}<span *ngIf="producto.codigo"> -{{producto.codigo}}</span></h4>
+        <button class="cart-button" (click)="agregarACarrito()" ><img class="cart-icon" src="addCart.svg" alt="carrito" ></button>
+
         <div class="content">
             <div class="disponible" [ngClass]="{agotado: !tieneStock()}">
                 @if (tieneStock() ) {
@@ -15,7 +17,6 @@
             </div>
 
             <button class="wsp-button" (click)="informacion()"><img class="wsp-icon" src="whatsapp.png" alt="WhatsApp" ></button>
-            <button class="cart-button" (click)="agregarACarrito()" ><img class="cart-icon" src="addCart.svg" alt="carrito" ></button>
 
 
             @if (false) {

@@ -32,7 +32,7 @@ h4 {
   text-align: center;
   text-transform: uppercase;
   color: white;
-  font-size: larger;
+  font-size: large;
 }
 
 .img-producto {
@@ -74,6 +74,7 @@ hr {
 
 .papelera-button{
     display: flex;
+    align-self: flex-end;
     justify-content: center;
     align-items: center;
     cursor: pointer;

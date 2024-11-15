@@ -10,13 +10,12 @@
             <div class="detalles">
                 <h4>{{item.producto.descripcion}}<span *ngIf="item.producto.codigo"> -{{item.producto.codigo}}</span>
                 </h4>
+                <button class="papelera-button" (click)="carritoService.eliminarDeCarrito(item.producto, 0)"><img
+                    class="papelera-icon" src="papelera.svg" alt="Papelera"></button>
                 <div class="content">
                     <p id="precio">${{item.producto.precio}}</p>
                     <app-contador-cantidad [cantidadInicial]="item.cantidad"
                         (cantidad)="carritoService.agregarACarrito(item.producto, $event)"></app-contador-cantidad>
-                    <button class="papelera-button" (click)="carritoService.eliminarDeCarrito(item.producto, 0)"><img
-                            class="papelera-icon" src="papelera.svg" alt="Papelera"></button>
-
                     <p>${{item.importe}}</p>
                 </div>
             </div>
