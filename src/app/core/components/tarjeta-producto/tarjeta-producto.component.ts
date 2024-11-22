@@ -5,6 +5,7 @@ import { IMAGES_PRODUCTOS, WSP_LINK } from '../../constants';
 import { CarritoService } from '../../services/carrito.service'; 
 import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
 import Swal from 'sweetalert2';
+import { ProductosService } from '../../services/productos.service';
 
 
 @Component({
@@ -21,15 +22,29 @@ export class TarjetaProductoComponent{
   localidades: number[] = [102, 103, 105];
   url: string = IMAGES_PRODUCTOS;
   carritoService = inject(CarritoService);
+  productsService = inject(ProductosService);
 
   getImage() {
     if (this.producto.image_name) {
       const image = this.producto.image_name.replaceAll(' ', '_').split('.')[0];
       return this.url + image.replaceAll( '&', '_')
     }
-
     return 'descargar.jpg'
+  }
 
+  getPrecio(idMoneda: number = 1){
+    if(idMoneda == 1){
+      return this.producto.precio.precio;
+    }
+    const precios = this.producto.precios;
+    for (let i = 0; i < precios.length; i++) {
+      const precio = precios[i];
+      if (precio.idMoneda == idMoneda) {
+        return precio.precio;
+      }
+    }
+    const taza = this.productsService.getMoneda();
+    return (Math.round(this.producto.precio.precio / (taza?taza:300) * 10) / 10)
   }
 
   fullDescription(){

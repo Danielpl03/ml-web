@@ -1,7 +1,7 @@
 import { Component, inject } from '@angular/core';
 import { CarritoService } from '../../services/carrito.service';
 import { Producto } from '../../interfaces/producto';
-import { IMAGES_PRODUCTOS, WSP_LINK } from '../../constants';
+import { IMAGES_PRODUCTOS, WSP_LINK, WSP_VENTAS_LINK } from '../../constants';
 import { CommonModule } from '@angular/common';
 import { ContadorCantidadComponent } from "../contador-cantidad/contador-cantidad.component";
 import { RouterModule } from '@angular/router';
@@ -64,11 +64,6 @@ Espero su respuesta. Muchas gracias!
         Swal.fire("El pedido no se ha enviado", "", "info");
       }
     });
-
-
-    
-
-
   }
 
 }

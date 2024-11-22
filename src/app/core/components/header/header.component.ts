@@ -25,4 +25,8 @@ export class HeaderComponent {
 
   }
 
+  clearBusqueda(){
+    this.busqueda.texto = '';
+  }
+
 }

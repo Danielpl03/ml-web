@@ -1,5 +1,5 @@
-import { Injectable, inject } from '@angular/core';
-import { Producto } from '../interfaces/producto';
+import { Injectable, OnInit, inject } from '@angular/core';
+import { Moneda, Producto } from '../interfaces/producto';
 import { Busqueda } from '../interfaces/busqueda';
 
 import { CategoriasService } from './categorias.service';
@@ -9,10 +9,18 @@ import { DepartamentosService } from './departamentos.service';
 @Injectable({
   providedIn: 'root'
 })
-export class ProductosService {
+export class ProductosService implements OnInit{
 
   constructor() { }
+
+  ngOnInit(): void {
+    this.getMonedass().then( monedas => {
+      this.monedas = monedas;
+    })
+  }
+
   localidades: number[] = [102, 103, 105];
+  monedas: Moneda[] = []; 
 
   categoriasService = inject(CategoriasService);
   departamentosService = inject(DepartamentosService)
@@ -93,6 +101,24 @@ export class ProductosService {
       return false;
     })
     return productosFiltrados;
+  }
+
+  getMoneda(idMoneda: number = 2){
+    for (let i = 0; i < this.monedas.length; i++) {
+      const moneda = this.monedas[i];
+      if(moneda.idMoneda == idMoneda){
+        return moneda.tazaCambio;
+      }
+    }
+    return undefined;
+  }
+
+  private async getMonedass(): Promise<Moneda[]>{
+    const url = new URL('./data/monedas.json', import.meta.url);
+    const res = await fetch(url);
+
+    const monedas: Moneda[] = await res.json();
+    return monedas;
   }
 
 }

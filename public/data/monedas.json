@@ -1,0 +1,16 @@
+[
+  {
+    "idMoneda": 1,
+    "nombre": "Peso Cubano",
+    "siglas": "CUP",
+    "porDefecto": true,
+    "tazaCambio": 1.0
+  },
+  {
+    "idMoneda": 2,
+    "nombre": "Dolar Estadounidense",
+    "siglas": "USD",
+    "porDefecto": false,
+    "tazaCambio": 300.0
+  }
+]
