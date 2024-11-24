@@ -7,11 +7,12 @@ import { ContadorCantidadComponent } from "../contador-cantidad/contador-cantida
 import { RouterModule } from '@angular/router';
 import { ClipboardService } from 'ngx-clipboard'
 import Swal from 'sweetalert2';
+import { ElegirMonedaComponent } from "../elegir-moneda/elegir-moneda.component";
 
 @Component({
   selector: 'app-carrito',
   standalone: true,
-  imports: [CommonModule, ContadorCantidadComponent, RouterModule],
+  imports: [CommonModule, ContadorCantidadComponent, RouterModule, ElegirMonedaComponent],
   templateUrl: './carrito.component.html',
   styleUrl: './carrito.component.css'
 })

@@ -1,4 +1,4 @@
-import { Producto } from "./producto";
+import { Moneda, Producto } from "./producto";
 
 export interface ItemCarrito {
     producto: Producto,
@@ -7,7 +7,8 @@ export interface ItemCarrito {
 }
 
 export interface Carrito {
-    id: number;
+    id: number,
+    moneda: Moneda | undefined,
     items: ItemCarrito[]
 }
 

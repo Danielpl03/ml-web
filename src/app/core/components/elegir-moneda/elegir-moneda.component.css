@@ -1,0 +1,31 @@
+.moneda {
+  display: flex;
+  align-items: center;
+}
+
+span{
+    color: white;
+    margin-right: 5px;
+}
+
+.btn-moneda {
+  transform: rotate(90deg);
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: white;
+  border: none;
+}
+
+.flecha {
+  width: 15px;
+  transform: var(--transform, rotate(90deg));
+  transition: transform 0.3s ease-in-out;
+}
+
+
+.moneda-check {
+  position: relative;
+  opacity: 0;
+  cursor: pointer;
+}

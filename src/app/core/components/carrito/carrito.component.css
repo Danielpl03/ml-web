@@ -4,6 +4,12 @@
   max-width: 550px;
 }
 
+.container-title-moneda{
+  display: flex;
+  justify-content: space-around;
+    align-items: center;
+}
+
 h2 {
   color: white;
   margin-bottom: 10px;

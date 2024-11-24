@@ -43,7 +43,7 @@ export class TarjetaProductoComponent{
         return precio.precio;
       }
     }
-    const taza = this.productsService.getMoneda();
+    const taza = this.productsService.getTazaCambio();
     return (Math.round(this.producto.precio.precio / (taza?taza:300) * 10) / 10)
   }
 

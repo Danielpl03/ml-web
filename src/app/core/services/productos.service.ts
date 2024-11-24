@@ -14,7 +14,7 @@ export class ProductosService implements OnInit{
   constructor() { }
 
   ngOnInit(): void {
-    this.getMonedass().then( monedas => {
+    this.getMonedas().then( monedas => {
       this.monedas = monedas;
     })
   }
@@ -103,7 +103,7 @@ export class ProductosService implements OnInit{
     return productosFiltrados;
   }
 
-  getMoneda(idMoneda: number = 2){
+  getTazaCambio(idMoneda: number = 2){
     for (let i = 0; i < this.monedas.length; i++) {
       const moneda = this.monedas[i];
       if(moneda.idMoneda == idMoneda){
@@ -113,7 +113,13 @@ export class ProductosService implements OnInit{
     return undefined;
   }
 
-  private async getMonedass(): Promise<Moneda[]>{
+  async getMoneda(idMoneda: number){
+    return this.getMonedas().then( monedas => {
+      return monedas.find( moneda => moneda.idMoneda == idMoneda )
+    } )
+  }
+
+  async getMonedas(): Promise<Moneda[]>{
     const url = new URL('./data/monedas.json', import.meta.url);
     const res = await fetch(url);
 

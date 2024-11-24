@@ -1,6 +1,9 @@
 <div class="container-carrito">
     @if (!carritoService.isEmpty()) {
-    <h2>Carrito de Compras</h2>
+        <div class="container-title-moneda">
+            <h2>Carrito de Compras</h2>
+            <app-elegir-moneda [monedaI]="carritoService.moneda()" (idMoneda)="carritoService.actualizarImporte($event)" ></app-elegir-moneda>
+        </div>
 
     <div class="container-items">
         @for (item of carritoService.getItems(); track $index) {
@@ -13,7 +16,7 @@
                 <button class="papelera-button" (click)="carritoService.eliminarDeCarrito(item.producto, 0)"><img
                     class="papelera-icon" src="papelera.svg" alt="Papelera"></button>
                 <div class="content">
-                    <p id="precio">${{item.producto.precio.precio}}</p>
+                    <p id="precio">${{carritoService.getPrecio(item.producto, carritoService.moneda())}}</p>
                     <app-contador-cantidad [cantidadInicial]="item.cantidad"
                         (cantidad)="carritoService.agregarACarrito(item.producto, $event)"></app-contador-cantidad>
                     <p>${{item.importe}}</p>
