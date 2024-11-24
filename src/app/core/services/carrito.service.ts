@@ -36,7 +36,7 @@ export class CarritoService{
   actualizarImporte(moneda: Moneda){
     this.moneda.set(moneda);
     this.carrito().items.forEach( item => {
-      item.importe = item.cantidad * this.getPrecio(item.producto, moneda);
+      item.importe = Math.round(item.cantidad * this.getPrecio(item.producto, moneda) *10) /10 ;
     });
     this.carrito().moneda = moneda;
     this.actualizarLS();
@@ -75,10 +75,10 @@ export class CarritoService{
       if (item.producto.idProducto == producto.idProducto) {
         if (cant) {
           item.cantidad = cant;
-          item.importe = cant * precio;
+          item.importe = Math.round( (cant * precio) * 10 ) / 10 ;
         } else {
           item.cantidad += 1;
-          item.importe = item.cantidad * precio;
+          item.importe = Math.round( (item.cantidad * precio) * 10 ) / 10 ;
         }
         found = true;
       }
@@ -103,10 +103,10 @@ export class CarritoService{
       if (item.producto.idProducto == producto.idProducto) {
         if (cant != undefined && cant >= 0) {
           item.cantidad = cant;
-          item.importe = cant * precio;
+          item.importe = Math.round( (cant * precio) * 10 ) / 10 ;
         } else {
           item.cantidad -= 1;
-          item.importe = item.cantidad * precio;
+          item.importe = Math.round( (item.cantidad * precio) * 10 ) / 10 ;
         }
         if (item.cantidad <= 0) {
           this.carrito().items.splice(this.carrito().items.indexOf(item), 1);
