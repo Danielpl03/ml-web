@@ -1,28 +1,37 @@
-import { Component, Input, inject} from '@angular/core';
-import { Producto } from '../../interfaces/producto';
+import { Component, Input, Signal, computed, inject} from '@angular/core';
+import { Moneda, Producto } from '../../interfaces/producto';
 import { CommonModule } from '@angular/common';
 import { IMAGES_PRODUCTOS, WSP_LINK } from '../../constants';
 import { CarritoService } from '../../services/carrito.service'; 
-import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
 import Swal from 'sweetalert2';
 import { ProductosService } from '../../services/productos.service';
+import { ElegirMonedaComponent } from "../elegir-moneda/elegir-moneda.component";
 
 
 @Component({
   selector: 'app-tarjeta-producto',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, ElegirMonedaComponent],
   templateUrl: './tarjeta-producto.component.html',
   styleUrl: './tarjeta-producto.component.css'
 })
 export class TarjetaProductoComponent{
 
 
-  @Input({ required: true }) producto!: Producto
+  @Input({required: true}) moneda!: Signal<Moneda | undefined>
+
+  
+  // monedaProducto = computed( () => this.moneda() );
+  precio = computed( () => {
+    const idMoneda = this.moneda() ? this.moneda()!.idMoneda : 1;
+    return this.getPrecio(idMoneda);
+  } );
+  @Input({ required: true }) producto!: Producto;
   localidades: number[] = [102, 103, 105];
   url: string = IMAGES_PRODUCTOS;
   carritoService = inject(CarritoService);
   productsService = inject(ProductosService);
+  
 
   getImage() {
     if (this.producto.image_name) {
@@ -32,8 +41,9 @@ export class TarjetaProductoComponent{
     return 'descargar.jpg'
   }
 
-  getPrecio(idMoneda: number = 1){
-    if(idMoneda == 1){
+  getPrecio(idMoneda: number){
+
+    if (idMoneda == 1){
       return this.producto.precio.precio;
     }
     const precios = this.producto.precios;
@@ -87,6 +97,8 @@ Hola!, quisiera más información acerca de ${this.fullDescription()}. Muchas gr
     });
 
   }
+
+
 
 
 

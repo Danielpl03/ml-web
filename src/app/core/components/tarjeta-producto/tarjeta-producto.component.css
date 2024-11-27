@@ -9,6 +9,7 @@
 
 .content{
     display: flex;
+    flex: 1;
     justify-content: space-between;
     align-items: center;
 }
@@ -21,25 +22,30 @@
 }
 
 .wsp-button{
+    flex: 1;
     display: flex;
     cursor: pointer;
-    width: 25px;
+    max-width: 25px;
     padding: 0;
     border: none;
     border-radius: 50%;
     overflow: hidden;
 }
+
 .cart-button{
     align-self: flex-end;
     display: flex;
+    flex: 1;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    width: 25px;
-    height: 25px;
+    max-width: 25px;
+    max-height: 25px;
+    min-width: 25px;
+    min-height: 25px;
     padding: 0;
     border: none;
-    background: white;
+    background: white;  
     border-radius: 50%;
 }
 
@@ -59,6 +65,7 @@
 
 h4{
     /* font-weight: bold; */
+    flex: 3.7;
     text-align: center;
     text-transform: uppercase;
     color: white;
@@ -66,14 +73,20 @@ h4{
 }
 
 .disponible{
+    flex: 1;
+    display: flex;
     text-align: end;
     background-color: aquamarine;
     padding: 3px;
     border-radius: 5px;
+    max-width: 90px;
+    margin-right: 20px;
     p{
+        margin: 0 auto;
+        display: inline;
         color: black;
         font-size: small;
-        }
+    }
 }
 
 .agotado{
@@ -87,7 +100,19 @@ h4{
     width: 100%;
     flex-direction: column;
     justify-content: space-between;
-    padding: 10px;
+    padding: 8px 5px 2px 8px;
+}
+
+.detalles-superior{
+    display: flex;
+    flex: 2.5;
+}
+
+.detalles-botones{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-between
 }
 
 /* .mas-detalles{
@@ -95,6 +120,52 @@ h4{
 } */
 
 #precio{
+    flex: 1;
     text-align: end;
     font-size: medium;
 }
+
+
+
+.moneda {
+    display: flex;
+    align-items: center;
+  }
+  
+  span{
+      color: white;
+      /* margin-right: 5px; */
+  }
+  
+  .btn-moneda {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: white;
+    border: none;
+  }
+  
+  .flecha {
+    width: 15px;
+  }
+  
+  .emoji{
+    transform: var(--transform-e, rotate(180deg));
+  }
+  
+  /* button{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+  } */
+  
+  .moneda-check {
+    /* display: flex; */
+    position: relative;
+    /* opacity: 0; */
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    border: none;
+  }

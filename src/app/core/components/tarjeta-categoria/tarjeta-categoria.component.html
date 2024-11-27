@@ -14,7 +14,7 @@
         <ul class="categoria-items">
             @for (producto of productos(); track $index) {
             <li class="categoria-item">
-                <app-tarjeta-producto [producto]="producto"> </app-tarjeta-producto>
+                <app-tarjeta-producto [producto]="producto" [moneda]="moneda" > </app-tarjeta-producto>
             </li>
             }
         </ul>
