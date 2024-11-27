@@ -12,7 +12,6 @@ import { ProductosService } from '../../services/productos.service';
 export class ElegirMonedaComponent implements OnInit{
 
   ngOnInit(): void {
-    console.log(this.monedaI);
     this.moneda.set(this.monedaI);
     this.productsService.getMonedas().then( monedas => {
       this.monedas = monedas;

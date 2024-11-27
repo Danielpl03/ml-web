@@ -1,4 +1,4 @@
-import { Component, OnDestroy, OnInit, WritableSignal, inject, signal } from '@angular/core';
+import { Component, OnInit, WritableSignal, inject, signal } from '@angular/core';
 import { BusqueResult, Busqueda } from '../../core/interfaces/busqueda';
 import { ActivatedRoute, Router, RouterModule } from '@angular/router';
 
@@ -9,17 +9,23 @@ import { TarjetaProductoComponent } from '../../core/components/tarjeta-producto
 import { BusquedaService } from '../../core/services/busqueda.service';
 import { LoadingComponent } from '../../core/components/loading/loading.component';
 import { SeoService } from '../../core/services/seo.service';
+import { Moneda } from '../../core/interfaces/producto';
+import { ProductosService } from '../../core/services/productos.service';
+import { ElegirMonedaComponent } from "../../core/components/elegir-moneda/elegir-moneda.component";
 
 @Component({
   selector: 'app-buscar',
   standalone: true,
-  imports: [LoadingComponent ,RouterModule, TarjetaCategoriaComponent, TarjetaDepartamentoComponent, TarjetaProductoComponent],
+  imports: [LoadingComponent, RouterModule, TarjetaCategoriaComponent, TarjetaDepartamentoComponent, TarjetaProductoComponent, ElegirMonedaComponent],
   templateUrl: './buscar.component.html',
   styleUrl: './buscar.component.css'
 })
 export class BuscarComponent implements OnInit {
 
   seo = inject(SeoService);
+  monedas: Moneda[] = [];
+  moneda: WritableSignal<Moneda | undefined> = signal(undefined)
+
 
   ngOnInit(): void {
     this.ac.params.subscribe(params => {
@@ -30,10 +36,16 @@ export class BuscarComponent implements OnInit {
           this.buscar(this.busqueda);
           
           this.seo.title.setTitle(`Resultados para ${this.busqueda.texto} | M&L SOLUCIONES`);
-          this.seo.meta.updateTag({ name: "description", content: `${this.busqueda.texto} en M&L SOLUCIONES` });
-          this.seo.setCanonicalUrl(`www.ml-soluciones.vercel.app/buscar/${text}`);
+          this.seo.meta.updateTag({ name: "description", content: `Resultados para ${this.busqueda.texto} en M&L SOLUCIONES` });
+          this.seo.setCanonicalUrl(`buscar/${text}`);
           this.seo.setIndexFollow(true);
         }
+        this.productosService.getMonedas().then( monedas => {
+          this.monedas = monedas;
+          if (this.moneda() == undefined){
+            this.moneda.set(monedas[0]);
+          }
+        })
       } else {
         this.router.navigate(['departamentos'])
       }
@@ -44,7 +56,7 @@ export class BuscarComponent implements OnInit {
 
 
   busquedaService = inject(BusquedaService)
-
+  productosService = inject(ProductosService);
   busquedaResult = signal<BusqueResult | undefined>(undefined)
   emptyResult = signal<Boolean | undefined>(undefined)
 
@@ -69,6 +81,13 @@ export class BuscarComponent implements OnInit {
       })
   }
 
+  cambiarMoneda(){
+    if(this.moneda()?.idMoneda == 1){
+      this.moneda.set(this.monedas[1]);
+    }else{
+      this.moneda.set(this.monedas[0]);
+    }
+  }
 
 
 

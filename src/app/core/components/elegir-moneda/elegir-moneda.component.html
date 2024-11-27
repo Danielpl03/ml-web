@@ -1,7 +1,8 @@
 <div class="monedas-container">
     <label for="moneda" class="moneda">
-        <span>{{moneda()?.siglas}}</span>
-        <img src="icon.svg" alt="Icono flecha" class="flecha">
-        <input (click)="cambiarMoneda()" type="checkbox" class="moneda-check" id="moneda">
+        <button (click)="cambiarMoneda()" class="moneda-check" id="moneda">
+            <span>{{moneda()?.siglas}} <span class="emoji">🔃</span></span>
+            <!-- <img src="icon.svg" alt="Icono flecha" class="flecha"> -->
+        </button>
     </label>
 </div>

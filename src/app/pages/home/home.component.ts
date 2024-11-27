@@ -28,7 +28,7 @@ export class HomeComponent implements OnInit {
     this.departamentosService.getAll().then(res => this.departamentos.set(res));
     this.seo.title.setTitle(`Página Departamentos | M&L SOLUCIONES`);
     this.seo.meta.updateTag({ name: "description", content: `Departamentos en M&L SOLUCIONES` });
-    this.seo.setCanonicalUrl(`www.ml-soluciones.vercel.app/departamentos`);
+    this.seo.setCanonicalUrl(`departamentos`);
     this.seo.setIndexFollow(true);
   }
 

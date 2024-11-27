@@ -16,7 +16,6 @@ export class CarritoService{
       this.moneda.set(this.carrito().moneda)
     }else{
       this.productsService.getMoneda(1).then( moneda => {
-        console.log(moneda);
         this.moneda.set(moneda);
         this.carrito().moneda = moneda;
       });

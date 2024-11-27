@@ -1,11 +1,14 @@
 @defer ( when !loading()) {
 <div class="departamento-container">
-    <p>{{departamento?.nombre}}</p>
+    <div class="titulo-moneda">
+        <h1>{{departamento?.nombre}}</h1>
+        <app-elegir-moneda [monedaI]="moneda()" (idMoneda)="cambiarMoneda()" ></app-elegir-moneda>
+    </div>
     @if (categorias()) {
     <ul class="categoria">
         <span class="title-busqueda">Categorías</span>
         @for (cat of categorias(); track $index) {
-        <app-tarjeta-categoria [categoria]="cat"></app-tarjeta-categoria>
+        <app-tarjeta-categoria [categoria]="cat" [moneda]="moneda"></app-tarjeta-categoria>
         <hr>
 
         }
@@ -18,7 +21,7 @@
         @defer (on viewport) {
 
         @if (!producto.idCategoria) {
-        <app-tarjeta-producto [producto]="producto"></app-tarjeta-producto>
+        <app-tarjeta-producto [producto]="producto" [moneda]="moneda"></app-tarjeta-producto>
         }
         }@placeholder{
         <app-loading [titulo]="'Cargando...'"></app-loading>

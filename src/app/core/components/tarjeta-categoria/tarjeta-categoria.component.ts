@@ -1,8 +1,8 @@
-import { ChangeDetectionStrategy, Component, Input, OnInit, WritableSignal, inject, signal } from '@angular/core';
+import { Component, Input, OnInit, Signal, WritableSignal, inject, signal } from '@angular/core';
 import { Categoria } from '../../interfaces/categoria';
 import { CommonModule } from '@angular/common';
 import { TarjetaProductoComponent } from "../tarjeta-producto/tarjeta-producto.component";
-import { Producto } from '../../interfaces/producto';
+import { Moneda, Producto } from '../../interfaces/producto';
 import { ProductosService } from '../../services/productos.service';
 
 @Component({
@@ -19,6 +19,8 @@ export class TarjetaCategoriaComponent implements OnInit {
   }
 
   productosService = inject(ProductosService);
+
+  @Input({required: true}) moneda!: Signal<Moneda | undefined>
 
   productos: WritableSignal<Producto[] | undefined> = signal(undefined);
   cantidad: WritableSignal<number> = signal(0);
