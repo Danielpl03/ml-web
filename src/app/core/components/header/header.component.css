@@ -100,18 +100,21 @@ input:focus{
     border-radius: 4px 0 0 4px;
     font-size: 16px;
   }
+
+  .search-form{
+    display: flex;
+  }
   
   .search-bar button {
     padding: 0.47rem 0.5rem;
     background-color: #007bff;
-    height: 100%;
     color: white;
     border: none;
     border-radius: 0 4px 4px 0;
     cursor: pointer;
     font-size: 16px;
-    position: relative;
-    top: 1px;
+    /* position: relative;
+    top: 1px; */
   }
   
   .cart-button button {

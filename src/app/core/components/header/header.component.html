@@ -25,7 +25,8 @@
                 height="50">
         </div>
         <div class="search-bar">
-            <form #buscarForm="ngForm" (change)="buscar()">
+            <form #buscarForm="ngForm" (change)="buscar()" class="search-form">
+
                 <input type="text" placeholder="Buscar productos..." name="texto" [(ngModel)]="busqueda.texto"
                     (keyup.enter)="buscar()" aria-label="Buscar productos">
                 <button (click)="buscar()" aria-label="Buscar">
