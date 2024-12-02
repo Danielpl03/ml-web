@@ -1,7 +1,8 @@
-import { Component } from '@angular/core';
+import { Component, computed, inject } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { Router, RouterModule } from '@angular/router';
 import { Busqueda } from '../../interfaces/busqueda';
+import { CarritoService } from '../../services/carrito.service';
 
 @Component({
   selector: 'app-header',
@@ -12,7 +13,11 @@ import { Busqueda } from '../../interfaces/busqueda';
 })
 export class HeaderComponent {
 
+
   constructor(private router: Router) { }
+  carritoService = inject(CarritoService);
+
+  carritoItems = computed ( () => this.carritoService.items());
 
   busqueda: Busqueda = {
     texto: "",
