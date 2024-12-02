@@ -15,10 +15,10 @@ export class CarritoService {
       if (cart) {
         this.carrito.set(JSON.parse(cart));
         if (this.carrito().moneda == undefined) this.clear();
-        this.moneda.set(this.carrito().moneda)
+        this.moneda.set(this.carrito().moneda);
         this.items.set(this.carrito().items.length);
       } else {
-        this.productsService.getMoneda(1).then(moneda => {
+        this.getMoneda(1).then(moneda => {
           this.moneda.set(moneda);
           this.carrito().moneda = moneda;
         });
@@ -29,6 +29,8 @@ export class CarritoService {
 
   productsService = inject(ProductosService);
   moneda: WritableSignal<Moneda | undefined> = signal(undefined);
+  monedas: Moneda[] = []; 
+
   
   carrito: WritableSignal<Carrito> = signal({
     id: 0,
@@ -38,12 +40,12 @@ export class CarritoService {
   
   items:WritableSignal< number> = signal(0);
 
-  actualizarImporte(moneda: Moneda) {
-    this.moneda.set(moneda);
+  actualizarImporte() {
+    this.moneda.set(this.moneda());
     this.carrito().items.forEach(item => {
-      item.importe = Math.round(item.cantidad * this.getPrecio(item.producto, moneda) * 10) / 10;
+      item.importe = Math.round(item.cantidad * this.getPrecio(item.producto, this.moneda()) * 10) / 10;
     });
-    this.carrito().moneda = moneda;
+    this.carrito().moneda = this.moneda();
     this.actualizarLS();
     
   }
@@ -154,5 +156,31 @@ export class CarritoService {
     }
   }
 
+
+
+
+  getTazaCambio(idMoneda: number = 2){
+    for (let i = 0; i < this.monedas.length; i++) {
+      const moneda = this.monedas[i];
+      if(moneda.idMoneda == idMoneda){
+        return moneda.tazaCambio;
+      }
+    }
+    return undefined;
+  }
+
+  async getMoneda(idMoneda: number){
+    return this.getMonedas().then( monedas => {
+      return monedas.find( moneda => moneda.idMoneda == idMoneda )
+    })
+  }
+
+  async getMonedas(): Promise<Moneda[]>{
+    const url = new URL('./data/monedas.json', import.meta.url);
+    const res = await fetch(url);
+
+    const monedas: Moneda[] = await res.json();
+    return monedas;
+  }
 
 }

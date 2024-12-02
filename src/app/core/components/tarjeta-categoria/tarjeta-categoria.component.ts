@@ -20,8 +20,6 @@ export class TarjetaCategoriaComponent implements OnInit {
 
   productosService = inject(ProductosService);
 
-  @Input({required: true}) moneda!: Signal<Moneda | undefined>
-
   productos: WritableSignal<Producto[] | undefined> = signal(undefined);
   cantidad: WritableSignal<number> = signal(0);
 

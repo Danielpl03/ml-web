@@ -7,6 +7,7 @@ import { TarjetaDepartamentoComponent } from '../../core/components/tarjeta-depa
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { SeoService } from '../../core/services/seo.service';
+import { Tienda } from '../../core/interfaces/tienda';
 
 @Component({
   selector: 'app-home',
@@ -33,6 +34,39 @@ export class HomeComponent implements OnInit {
   }
 
 
+  isExpanded = false;
+
+  tiendas: Tienda[] = [
+    {
+      idTienda: 1,
+      nombre: "Amanecer",
+      imageName: "tienda-Amanecer.jpg",
+      direccion: "Calle Martí #128, Pinar del Río",
+      coordenadas: "22.4144804, -83.6923232" // Ejemplo de coordenadas (Nueva York)
+    },
+    {
+      idTienda: 2,
+      nombre: "La Quincallera",
+      imageName: "tiendas-Amanecer.jpg",
+      direccion: "Calle Martí #123, Pinar del Río",
+      coordenadas: "22.4165366, -83.6991112" // Ejemplo de coordenadas (Chicago)
+    },
+    {
+      idTienda: 3,
+      nombre: "La Mariposa",
+      imageName: "tienda-Mariposa.png",
+      direccion: "Calle Rafael Morales #14 E/ Calle Martí y Calle Máximo Gómez",
+      coordenadas: "22.4157534, -83.6985201" // Ejemplo de coordenadas (Los Ángeles)
+    }
+  ];
+
+  toggleExpanded() {
+    this.isExpanded = !this.isExpanded;
+  }
+
+  abrirEnMaps(coordenadas: string) {
+    window.open(`https://www.google.com/maps/search/?api=1&query=${coordenadas}`, '_blank');
+  }
 
 
 

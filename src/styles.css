@@ -152,6 +152,10 @@ app-buscar{
     align-items: center;
 }
 
+app-home{
+  width: 100%;
+}
+
 app-departamento{
   width: 100%;
   /* height: 100svh; */

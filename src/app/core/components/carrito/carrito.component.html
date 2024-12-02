@@ -2,7 +2,7 @@
     @if (!carritoService.isEmpty()) {
         <div class="container-title-moneda">
             <h2>Carrito de Compras</h2>
-            <app-elegir-moneda [monedaI]="carritoService.moneda()" (idMoneda)="carritoService.actualizarImporte($event)" ></app-elegir-moneda>
+            <app-elegir-moneda (idMoneda)="carritoService.actualizarImporte()" ></app-elegir-moneda>
         </div>
 
     <div class="container-items">

@@ -1,8 +1,6 @@
 .departamento-container{
-    /* margin: 100px auto; */
     display: flex;
     flex-direction: column;
-    /* justify-items: center; */
     gap: 10px 0;
     width: 100%;
     overflow: hidden;
@@ -14,10 +12,8 @@
 
 .title-busqueda{
     color: white;
-    /* text-align: center; */
     font-size: x-large;
     padding: 0 15px;
-    /* margin-top: 10px    ; */
 }
 
 hr{

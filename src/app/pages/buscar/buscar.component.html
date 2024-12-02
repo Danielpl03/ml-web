@@ -2,7 +2,7 @@
 <div class="buscar-container">
     <div class="buscar-moneda">
         <h1>Resultados</h1>
-        <app-elegir-moneda [monedaI]="moneda()" (idMoneda)="cambiarMoneda()" ></app-elegir-moneda>
+        <app-elegir-moneda  ></app-elegir-moneda>
     </div>
     @if (busquedaResult()!.departamentos!.length>0) {
     <p class="title-busqueda">Departamentos</p>
@@ -19,7 +19,7 @@
         <p class="title-busqueda">Categorías</p>
         <ul class="categoria">
             @for (cat of busquedaResult()?.categorias; track $index) {
-            <app-tarjeta-categoria [categoria]="cat" [moneda]="moneda"></app-tarjeta-categoria>
+            <app-tarjeta-categoria [categoria]="cat"></app-tarjeta-categoria>
             <hr>
             }
         </ul>
@@ -30,7 +30,7 @@
         <p class="title-busqueda">Productos</p>
         <div class="producto-container">
             @for (producto of busquedaResult()?.productos; track $index) {
-            <app-tarjeta-producto [producto]="producto" [moneda]="moneda"></app-tarjeta-producto>
+            <app-tarjeta-producto [producto]="producto"></app-tarjeta-producto>
 
             }
         </div>

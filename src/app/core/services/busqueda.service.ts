@@ -21,6 +21,8 @@ export class BusquedaService {
   productosService = inject(ProductosService);
   departamentos: Departamento[] = [];
 
+  busqueda: WritableSignal<Busqueda> = signal( {texto:''} );
+
 
 
   constructor() { }

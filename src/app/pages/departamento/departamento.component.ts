@@ -1,4 +1,4 @@
-import { Component, OnInit, WritableSignal, inject, signal } from '@angular/core';
+import { Component, OnInit, WritableSignal, computed, inject, signal } from '@angular/core';
 import { Departamento } from '../../core/interfaces/departamento';
 import { DepartamentosService } from '../../core/services/departamentos.service';
 import { Categoria } from '../../core/interfaces/categoria';
@@ -13,6 +13,7 @@ import { TarjetaProductoComponent } from "../../core/components/tarjeta-producto
 import { LoadingComponent } from '../../core/components/loading/loading.component';
 import { SeoService } from '../../core/services/seo.service';
 import { ElegirMonedaComponent } from '../../core/components/elegir-moneda/elegir-moneda.component';
+import { CarritoService } from '../../core/services/carrito.service';
 
 @Component({
   selector: 'app-departamento',
@@ -39,12 +40,6 @@ export class DepartamentoComponent implements OnInit {
             this.cargarDatos().then(() => {
               this.loading.update(value => false);
             });
-            this.productosService.getMonedas().then( monedas => {
-              this.monedas = monedas;
-              if (this.moneda() == undefined){
-                this.moneda.set(monedas[0]);
-              }
-            })
           } else {
             this.router.navigate(['departamentos']);
           }
@@ -66,9 +61,9 @@ export class DepartamentoComponent implements OnInit {
   categoriasService = inject(CategoriasService);
   departamentosService = inject(DepartamentosService);
   productosService = inject(ProductosService);
+  carritoService = inject(CarritoService);
   loading = signal(true);
-  monedas: Moneda[] = [];
-  moneda: WritableSignal<Moneda | undefined> = signal(undefined)
+  moneda = computed( () => this.carritoService.moneda() );
 
 
 
@@ -88,13 +83,5 @@ export class DepartamentoComponent implements OnInit {
 
 
   
-
-  cambiarMoneda(){
-    if(this.moneda()?.idMoneda == 1){
-      this.moneda.set(this.monedas[1]);
-    }else{
-      this.moneda.set(this.monedas[0]);
-    }
-  }
 
 }

@@ -16,14 +16,10 @@ import { ElegirMonedaComponent } from "../elegir-moneda/elegir-moneda.component"
   styleUrl: './tarjeta-producto.component.css'
 })
 export class TarjetaProductoComponent{
-
-
-  @Input({required: true}) moneda!: Signal<Moneda | undefined>
-
   
   // monedaProducto = computed( () => this.moneda() );
   precio = computed( () => {
-    const idMoneda = this.moneda() ? this.moneda()!.idMoneda : 1;
+    const idMoneda = this.carritoService.moneda()!.idMoneda;
     return this.getPrecio(idMoneda);
   } );
   @Input({ required: true }) producto!: Producto;
@@ -53,7 +49,7 @@ export class TarjetaProductoComponent{
         return precio.precio;
       }
     }
-    const taza = this.productsService.getTazaCambio();
+    const taza = this.carritoService.getTazaCambio();
     return (Math.round(this.producto.precio.precio / (taza?taza:300) * 10) / 10)
   }
 

@@ -1,4 +1,4 @@
-import { Component, OnInit, WritableSignal, inject, signal } from '@angular/core';
+import { Component, OnDestroy, OnInit, WritableSignal, computed, inject, signal } from '@angular/core';
 import { BusqueResult, Busqueda } from '../../core/interfaces/busqueda';
 import { ActivatedRoute, Router, RouterModule } from '@angular/router';
 
@@ -9,9 +9,9 @@ import { TarjetaProductoComponent } from '../../core/components/tarjeta-producto
 import { BusquedaService } from '../../core/services/busqueda.service';
 import { LoadingComponent } from '../../core/components/loading/loading.component';
 import { SeoService } from '../../core/services/seo.service';
-import { Moneda } from '../../core/interfaces/producto';
 import { ProductosService } from '../../core/services/productos.service';
 import { ElegirMonedaComponent } from "../../core/components/elegir-moneda/elegir-moneda.component";
+import { CarritoService } from '../../core/services/carrito.service';
 
 @Component({
   selector: 'app-buscar',
@@ -20,11 +20,11 @@ import { ElegirMonedaComponent } from "../../core/components/elegir-moneda/elegi
   templateUrl: './buscar.component.html',
   styleUrl: './buscar.component.css'
 })
-export class BuscarComponent implements OnInit {
+export class BuscarComponent implements OnInit, OnDestroy {
 
   seo = inject(SeoService);
-  monedas: Moneda[] = [];
-  moneda: WritableSignal<Moneda | undefined> = signal(undefined)
+  carritoService = inject(CarritoService);
+  // moneda = computed( ()  => this.carritoService.moneda() );
 
 
   ngOnInit(): void {
@@ -40,19 +40,17 @@ export class BuscarComponent implements OnInit {
           this.seo.setCanonicalUrl(`buscar/${text}`);
           this.seo.setIndexFollow(true);
         }
-        this.productosService.getMonedas().then( monedas => {
-          this.monedas = monedas;
-          if (this.moneda() == undefined){
-            this.moneda.set(monedas[0]);
-          }
-        })
       } else {
+        this.busquedaService.busqueda().texto = '';
         this.router.navigate(['departamentos'])
       }
     })
   }
 
   constructor(private router: Router) { }
+  ngOnDestroy(): void {
+    this.busquedaService.busqueda().texto = '';
+  }
 
 
   busquedaService = inject(BusquedaService)
@@ -79,14 +77,6 @@ export class BuscarComponent implements OnInit {
           this.emptyResult.set(true)
         }
       })
-  }
-
-  cambiarMoneda(){
-    if(this.moneda()?.idMoneda == 1){
-      this.moneda.set(this.monedas[1]);
-    }else{
-      this.moneda.set(this.monedas[0]);
-    }
   }
 
 

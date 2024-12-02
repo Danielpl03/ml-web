@@ -2,13 +2,13 @@
 <div class="departamento-container">
     <div class="titulo-moneda">
         <h1>{{departamento?.nombre}}</h1>
-        <app-elegir-moneda [monedaI]="moneda()" (idMoneda)="cambiarMoneda()" ></app-elegir-moneda>
+        <app-elegir-moneda ></app-elegir-moneda>
     </div>
     @if (categorias()) {
     <ul class="categoria">
         <span class="title-busqueda">Categorías</span>
         @for (cat of categorias(); track $index) {
-        <app-tarjeta-categoria [categoria]="cat" [moneda]="moneda"></app-tarjeta-categoria>
+        <app-tarjeta-categoria [categoria]="cat"></app-tarjeta-categoria>
         <hr>
 
         }
@@ -21,7 +21,7 @@
         @defer (on viewport) {
 
         @if (!producto.idCategoria) {
-        <app-tarjeta-producto [producto]="producto" [moneda]="moneda"></app-tarjeta-producto>
+        <app-tarjeta-producto [producto]="producto" ></app-tarjeta-producto>
         }
         }@placeholder{
         <app-loading [titulo]="'Cargando...'"></app-loading>

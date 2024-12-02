@@ -1,6 +1,6 @@
-import { Component, EventEmitter, Input, OnInit, Output, WritableSignal, inject, signal } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output, computed, inject } from '@angular/core';
 import { Moneda } from '../../interfaces/producto';
-import { ProductosService } from '../../services/productos.service';
+import { CarritoService } from '../../services/carrito.service';
 
 @Component({
   selector: 'app-elegir-moneda',
@@ -12,20 +12,15 @@ import { ProductosService } from '../../services/productos.service';
 export class ElegirMonedaComponent implements OnInit{
 
   ngOnInit(): void {
-    this.moneda.set(this.monedaI);
-    this.productsService.getMonedas().then( monedas => {
+    this.carritoService.getMonedas().then( monedas => {
       this.monedas = monedas;
-      if (this.moneda() == undefined){
-        this.moneda.set(monedas[0]);
-      }
-    } )
+    });
   }
 
   monedas: Moneda[] = [];
-  productsService = inject(ProductosService);
-  moneda: WritableSignal<Moneda | undefined> = signal(undefined);
+  carritoService = inject(CarritoService);
+  moneda = computed( () => this.carritoService.moneda() );
 
-  @Input({required:true}) monedaI!: Moneda | undefined; 
   @Output() idMoneda = new EventEmitter<Moneda>();
 
   actualizarPrecios(idMoneda: number = 1){
@@ -34,9 +29,9 @@ export class ElegirMonedaComponent implements OnInit{
 
   cambiarMoneda(){
     if(this.moneda()?.idMoneda == 1){
-      this.moneda.set(this.monedas[1]);
+      this.carritoService.moneda.set(this.monedas[1]);
     }else{
-      this.moneda.set(this.monedas[0]);
+      this.carritoService.moneda.set(this.monedas[0]);
     }
     this.idMoneda.emit( this.moneda() );
   }

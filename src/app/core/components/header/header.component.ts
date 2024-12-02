@@ -3,6 +3,7 @@ import { FormsModule } from '@angular/forms';
 import { Router, RouterModule } from '@angular/router';
 import { Busqueda } from '../../interfaces/busqueda';
 import { CarritoService } from '../../services/carrito.service';
+import { BusquedaService } from '../../services/busqueda.service';
 
 @Component({
   selector: 'app-header',
@@ -16,22 +17,21 @@ export class HeaderComponent {
 
   constructor(private router: Router) { }
   carritoService = inject(CarritoService);
+  busquedaService = inject(BusquedaService);
 
   carritoItems = computed ( () => this.carritoService.items());
 
-  busqueda: Busqueda = {
-    texto: "",
-  }
+  busqueda = computed( () => this.busquedaService.busqueda() );
 
   buscar() {
-    if (this.busqueda.texto.trim().length > 0) {
-      this.router.navigate(['productos/buscar', this.busqueda.texto])
+    if (this.busqueda().texto.trim().length > 0) {
+      this.router.navigate(['productos/buscar', this.busqueda().texto])
     }
 
   }
 
   clearBusqueda(){
-    this.busqueda.texto = '';
+    this.busqueda().texto = '';
   }
 
 }
