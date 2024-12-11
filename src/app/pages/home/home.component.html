@@ -27,7 +27,12 @@
     </div>
 </section>
 
-<section>
+<app-producto-showcase 
+    [titulo]="'Productos Nuevos'" 
+    [productos]="productosNuevos()">
+  </app-producto-showcase>
+
+<section class="tiendas-showcase">
     <h1 class="title-busqueda">Departamentos</h1>
     <div id="dptos-cantainer">
         <app-tarjeta-departamento *ngFor="let dpto of departamentos() c" [departamento]="dpto"

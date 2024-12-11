@@ -1,17 +1,25 @@
 import { Stock } from "./stock";
 
-export interface Moneda{
+export interface Moneda {
     idMoneda: number;
     siglas: string;
     nombre: string;
     tazaCambio: number;
 }
 
-export interface Precio{
+export interface Precio {
     idPrecio: number;
     idProducto: number;
     idMoneda: number;
     precio: number;
+}
+
+export interface Descuento {
+    idDescuento: number;
+    color: number;
+    valor: number;
+    nombre: string,
+    activo: boolean;
 }
 
 
@@ -27,5 +35,6 @@ export interface Producto {
     idDepartamento: number;
     movimientos?: [];
     etiquetasProductos?: [];
+    descuentos?: Descuento[];
     stocks?: number[]
 }

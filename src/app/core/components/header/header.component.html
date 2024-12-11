@@ -37,11 +37,12 @@
                 <button [routerLink]="[ 'carrito' ]" aria-label="Ver carrito">
                     🛒
                     <span class="cart-count">
-                        {{ carritoService.items() }}
+                        {{ carritoService.items }}
                     </span>
                 </button>
             </div>
         </div>
         
     </div>
+    <app-elegir-moneda ></app-elegir-moneda>
 </header>

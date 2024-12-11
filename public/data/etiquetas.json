@@ -12,6 +12,18 @@
     "fichaTecnica": false
   },
   {
+    "idEtiqueta": 7,
+    "nombre": "Producto_nuevo",
+    "color": 0,
+    "fichaTecnica": false
+  },
+  {
+    "idEtiqueta": 8,
+    "nombre": "Rebaja",
+    "color": 0,
+    "fichaTecnica": false
+  },
+  {
     "idEtiqueta": 2,
     "nombre": "TCP",
     "color": 0,

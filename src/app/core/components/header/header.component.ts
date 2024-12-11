@@ -4,11 +4,12 @@ import { Router, RouterModule } from '@angular/router';
 import { Busqueda } from '../../interfaces/busqueda';
 import { CarritoService } from '../../services/carrito.service';
 import { BusquedaService } from '../../services/busqueda.service';
+import { ElegirMonedaComponent } from '../elegir-moneda/elegir-moneda.component';
 
 @Component({
   selector: 'app-header',
   standalone: true,
-  imports: [FormsModule, RouterModule],
+  imports: [FormsModule, RouterModule, ElegirMonedaComponent],
   templateUrl: './header.component.html',
   styleUrl: './header.component.css'
 })
@@ -19,7 +20,7 @@ export class HeaderComponent {
   carritoService = inject(CarritoService);
   busquedaService = inject(BusquedaService);
 
-  carritoItems = computed ( () => this.carritoService.items());
+  carritoItems = computed ( () => this.carritoService.items);
 
   busqueda = computed( () => this.busquedaService.busqueda() );
 

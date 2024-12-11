@@ -8,21 +8,26 @@ import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { SeoService } from '../../core/services/seo.service';
 import { Tienda } from '../../core/interfaces/tienda';
+import { ProductoShowcaseComponent } from '../../core/components/producto-showcase/producto-showcase.component';
+import { ProductosService } from '../../core/services/productos.service';
+import { Producto } from '../../core/interfaces/producto';
 
 @Component({
   selector: 'app-home',
   standalone: true,
   templateUrl: './home.component.html',
   styleUrl: './home.component.css',
-  imports: [LoadingComponent, DepartamentoComponent, RouterModule, TarjetaDepartamentoComponent, CommonModule]
+  imports: [ProductoShowcaseComponent, LoadingComponent, DepartamentoComponent, RouterModule, TarjetaDepartamentoComponent, CommonModule]
 })
 
 export class HomeComponent implements OnInit {
 
   departamentosService = inject(DepartamentosService);
   departamentos: WritableSignal<Departamento[]> = signal([]);
+  productosNuevos: WritableSignal<Producto[]> = signal([]);
 
   seo = inject(SeoService);
+  productosService = inject(ProductosService);
 
 
   ngOnInit(): void {
@@ -31,6 +36,8 @@ export class HomeComponent implements OnInit {
     this.seo.meta.updateTag({ name: "description", content: `Departamentos en M&L SOLUCIONES` });
     this.seo.setCanonicalUrl(`departamentos`);
     this.seo.setIndexFollow(true);
+
+    this.productosService.getProductosNuevos().then( (productos) => this.productosNuevos.set(productos) )
   }
 
 

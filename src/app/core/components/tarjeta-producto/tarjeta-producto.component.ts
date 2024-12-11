@@ -6,12 +6,13 @@ import { CarritoService } from '../../services/carrito.service';
 import Swal from 'sweetalert2';
 import { ProductosService } from '../../services/productos.service';
 import { ElegirMonedaComponent } from "../elegir-moneda/elegir-moneda.component";
+import { ProductoShowcaseComponent } from "../producto-showcase/producto-showcase.component";
 
 
 @Component({
   selector: 'app-tarjeta-producto',
   standalone: true,
-  imports: [CommonModule, ElegirMonedaComponent],
+  imports: [CommonModule, ElegirMonedaComponent, ProductoShowcaseComponent],
   templateUrl: './tarjeta-producto.component.html',
   styleUrl: './tarjeta-producto.component.css'
 })
@@ -20,7 +21,7 @@ export class TarjetaProductoComponent{
   // monedaProducto = computed( () => this.moneda() );
   precio = computed( () => {
     const idMoneda = this.carritoService.moneda()!.idMoneda;
-    return this.getPrecio(idMoneda);
+    return this.productsService.getPrecio(true, this.producto);
   } );
   @Input({ required: true }) producto!: Producto;
   localidades: number[] = [102, 103, 105];
@@ -37,21 +38,7 @@ export class TarjetaProductoComponent{
     return 'descargar.jpg'
   }
 
-  getPrecio(idMoneda: number){
-
-    if (idMoneda == 1){
-      return this.producto.precio.precio;
-    }
-    const precios = this.producto.precios;
-    for (let i = 0; i < precios.length; i++) {
-      const precio = precios[i];
-      if (precio.idMoneda == idMoneda) {
-        return precio.precio;
-      }
-    }
-    const taza = this.carritoService.getTazaCambio();
-    return (Math.round(this.producto.precio.precio / (taza?taza:300) * 10) / 10)
-  }
+  
 
   fullDescription(){
     if(this.producto.codigo){

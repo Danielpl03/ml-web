@@ -1,6 +1,7 @@
 import { Component, EventEmitter, Input, OnInit, Output, computed, inject } from '@angular/core';
 import { Moneda } from '../../interfaces/producto';
 import { CarritoService } from '../../services/carrito.service';
+import { MonedaService } from '../../services/moneda.service';
 
 @Component({
   selector: 'app-elegir-moneda',
@@ -12,28 +13,25 @@ import { CarritoService } from '../../services/carrito.service';
 export class ElegirMonedaComponent implements OnInit{
 
   ngOnInit(): void {
-    this.carritoService.getMonedas().then( monedas => {
+    this.monedasService.getMonedas().then( monedas => {
       this.monedas = monedas;
     });
   }
 
   monedas: Moneda[] = [];
   carritoService = inject(CarritoService);
-  moneda = computed( () => this.carritoService.moneda() );
+  monedasService = inject(MonedaService);
+  moneda = computed( () => this.monedasService.moneda() );
 
-  @Output() idMoneda = new EventEmitter<Moneda>();
+  // @Output() idMoneda = new EventEmitter<Moneda>();
 
-  actualizarPrecios(idMoneda: number = 1){
-
-  }
 
   cambiarMoneda(){
     if(this.moneda()?.idMoneda == 1){
-      this.carritoService.moneda.set(this.monedas[1]);
+      this.monedasService.updateMoneda(this.monedas[1]);
     }else{
-      this.carritoService.moneda.set(this.monedas[0]);
+      this.monedasService.updateMoneda(this.monedas[0]);
     }
-    this.idMoneda.emit( this.moneda() );
   }
 
   

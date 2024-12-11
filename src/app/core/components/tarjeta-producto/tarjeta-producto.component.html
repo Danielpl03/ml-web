@@ -1,7 +1,24 @@
-<!-- @defer (on viewport ) { -->
-
 @if (tieneStock()) {
-<div id="producto-container">
+<div class="producto">
+  <img [src]="getImage()" [alt]="fullDescription()">
+  <h3>{{ fullDescription() }}</h3>
+  <p class="precio-original" *ngIf="producto.descuentos && carritoService.moneda()?.idMoneda == 1">
+    <del>${{ this.productsService.getPrecio(false, producto) }}</del>
+  </p>
+  <p class="descuento" *ngIf="producto.descuentos && carritoService.moneda()?.idMoneda == 1">
+    {{ (producto.descuentos[0].valor * 100) }}% de descuento
+  </p>
+  <p class="precio" [class.con-descuento]="producto.descuentos">
+    ${{ precio() }}
+  </p>
+  <button (click)="agregarACarrito()" class="btn-agregar-carrito">
+    Añadir al carrito
+  </button>
+</div>
+}
+
+<!-- </div> -->
+<!-- <div id="producto-container">
     <img src="{{getImage()}}" alt="{{fullDescription()}}" class="img-producto">
     <div class="detalles">
         <div class="detalles-superior">
@@ -9,15 +26,6 @@
             <h4>{{producto.descripcion}}<span *ngIf="producto.codigo"> -{{producto.codigo}}</span></h4>
             <div class="detalles-botones">
                 <button class="cart-button" (click)="agregarACarrito()" ><img class="cart-icon" src="addCart.svg" alt="carrito" ></button>
-                <!-- <div class="monedas-container">
-                    <label for="moneda" class="moneda">
-                        <button (click)="cambiarMoneda()" class="moneda-check" id="moneda">
-                            <span>{{moneda()?.siglas}} <span class="emoji">🔃</span></span>
-                           
-                        </button>
-                    </label>
-                </div> -->
-
             </div>
         </div>
 
@@ -45,9 +53,4 @@
             <p id="precio">${{precio()}}</p>
         </div>
     </div>
-</div>
-}
-<!-- }@placeholder {
-    <div class="l"></div>
-
-} -->
+</div> -->

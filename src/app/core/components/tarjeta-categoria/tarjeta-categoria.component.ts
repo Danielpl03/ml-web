@@ -26,6 +26,8 @@ export class TarjetaCategoriaComponent implements OnInit {
   @Input({ required: true }) categoria!: Categoria;
   localidades: number[] = [102, 103, 105];
 
+  isExpanded: boolean = false;
+
 
   async getItems() {
     // this.productosService.getByCategoria(this.categoria.idCategoria).then(productos => {
@@ -52,6 +54,8 @@ export class TarjetaCategoriaComponent implements OnInit {
   }
 
 
-
+  toggleExpanded() {
+    this.isExpanded = !this.isExpanded;
+  }
 
 }

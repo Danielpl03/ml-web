@@ -26,7 +26,7 @@ h2 {
 }
 
 .item {
-  height: 100px;
+  height: 110px;
   display: flex;
   background-color: #373737;
   border-radius: 10px;
@@ -71,6 +71,7 @@ hr {
 
 .footer-cart {
   display: flex;
+  flex-direction: column;
   text-align: start;
   justify-content: space-between;
   padding: 10px;
@@ -126,4 +127,62 @@ a{
     margin-top: 10px;
     border-radius: 10px;
     font-size: larger;
+}
+
+.precios{
+  display: flex;
+  flex-direction: column;
+}
+
+.precio {
+  font-size: 1.125rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.precio-con-descuento {
+  color: #ffffff;
+  text-align: center;
+}
+
+.precio-original {
+  font-size: 0.875rem;
+  color: #999;
+  margin: 0.25rem 0;
+}
+
+.precios-descuento{
+  display: flex;
+  align-items: center;
+  gap: .3rem;
+}
+
+.descuento {
+  font-size: .8rem;
+  color: #4caf50;
+  font-weight: bold;
+}
+
+.descuento-grande {
+  font-size: 1.2rem;
+  color: #4caf50;
+  font-weight: bold;
+}
+
+.subtotal{
+  display: flex;
+  width: -webkit-fill-available;
+  justify-content: space-between;
+}
+
+.importe-descuento{
+  display: flex;
+  width: -webkit-fill-available;
+  justify-content: space-between;
+}
+
+.total{
+  display: flex;
+  width: -webkit-fill-available;
+  justify-content: space-between;
 }

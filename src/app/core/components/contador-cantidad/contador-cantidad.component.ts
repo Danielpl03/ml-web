@@ -1,4 +1,4 @@
-import { Component, EventEmitter, Input, OnInit, Output, signal } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output, WritableSignal, signal } from '@angular/core';
 
 @Component({
   selector: 'app-contador-cantidad',
@@ -16,7 +16,7 @@ export class ContadorCantidadComponent implements OnInit{
   @Input({required:true}) cantidadInicial!: number; 
 
 
-  numero = signal(this.cantidadInicial);
+  numero : WritableSignal<number> = signal(this.cantidadInicial);
 
   actualizarNumero( valor: number ){
     this.numero.set( Math.max(this.numero()+valor, 1) );
