@@ -4,15 +4,22 @@ import { Moneda } from '../interfaces/producto';
 @Injectable({
   providedIn: 'root'
 })
-export class MonedaService implements OnInit{
+export class MonedaService{
 
   moneda: WritableSignal<Moneda | undefined> = signal(undefined);
   monedas: Moneda[] = [];
 
-  constructor() { }
-  ngOnInit(): void {
-    this.getMonedas().then( (monedas) => this.monedas = monedas );
+  constructor() { 
+    this.getMonedas().then( (monedas) => {
+      this.monedas = monedas
+      if( this.moneda() == undefined ){
+        console.log(this.monedas[0])
+        this.moneda.set(this.monedas[0]);
+      }
+    } );
   }
+
+
 
   updateMoneda(moneda: Moneda) {
     if (moneda.idMoneda != this.moneda()?.idMoneda){

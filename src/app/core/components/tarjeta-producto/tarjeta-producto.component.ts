@@ -20,7 +20,8 @@ export class TarjetaProductoComponent{
   
   // monedaProducto = computed( () => this.moneda() );
   precio = computed( () => {
-    const idMoneda = this.carritoService.moneda()!.idMoneda;
+    let idMoneda = this.carritoService.moneda()?.idMoneda;
+    if(idMoneda == undefined) idMoneda = 1;
     return this.productsService.getPrecio(true, this.producto);
   } );
   @Input({ required: true }) producto!: Producto;

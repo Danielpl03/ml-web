@@ -167,6 +167,7 @@ span {
 
 .producto h3 {
   font-size: 1rem;
+  text-transform: uppercase;
 }
 
 .precio {
