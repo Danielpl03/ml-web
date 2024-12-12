@@ -202,6 +202,7 @@
         "precio": 350.0
       }
     ],
+    "image_name": "Capote P\u0026adulto -RC1000.webp",
     "activo": true,
     "idDepartamento": 8,
     "movimientos": [],
@@ -225,7 +226,7 @@
     "stocks": {
       "102": 14,
       "103": 41,
-      "105": 19
+      "105": 18
     }
   },
   {
@@ -311,8 +312,9 @@
       }
     ],
     "stocks": {
+      "102": 1,
       "103": 2,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -333,6 +335,7 @@
         "precio": 1500.0
       }
     ],
+    "image_name": "ESCOBA CANDY -ESC002.webp",
     "activo": true,
     "idDepartamento": 6,
     "movimientos": [],
@@ -354,9 +357,9 @@
       }
     ],
     "stocks": {
-      "102": 52,
+      "102": 44,
       "103": 13,
-      "105": 15
+      "105": 10
     }
   },
   {
@@ -444,7 +447,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -581,14 +584,14 @@
       "idPrecio": 597,
       "idProducto": 785,
       "idMoneda": 1,
-      "precio": 17000.0
+      "precio": 25200.0
     },
     "precios": [
       {
         "idPrecio": 597,
         "idProducto": 785,
         "idMoneda": 1,
-        "precio": 17000.0
+        "precio": 25200.0
       }
     ],
     "activo": false,
@@ -613,7 +616,7 @@
       }
     ],
     "stocks": {
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -628,18 +631,19 @@
     },
     "precios": [
       {
-        "idPrecio": 1358,
-        "idProducto": 1821,
-        "idMoneda": 2,
-        "precio": 72.0
-      },
-      {
         "idPrecio": 808,
         "idProducto": 1821,
         "idMoneda": 1,
         "precio": 28000.0
+      },
+      {
+        "idPrecio": 1358,
+        "idProducto": 1821,
+        "idMoneda": 2,
+        "precio": 80.0
       }
     ],
+    "image_name": "Olla a presion Automatica -ML-OPM-6L.jpg",
     "activo": true,
     "idCategoria": 56,
     "idDepartamento": 3,
@@ -663,7 +667,7 @@
     ],
     "stocks": {
       "103": 9,
-      "105": 23
+      "105": 27
     }
   },
   {
@@ -825,7 +829,7 @@
         "precio": 60.0
       }
     ],
-    "image_name": "RELOJ SMART WATCH -8474L.jpg",
+    "image_name": "RELOJ SMART WATCH -8474L.webp",
     "activo": false,
     "idDepartamento": 9,
     "movimientos": [],
@@ -888,7 +892,7 @@
       }
     ],
     "stocks": {
-      "103": 16
+      "103": 13
     }
   },
   {
@@ -981,7 +985,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -1112,7 +1116,7 @@
       }
     ],
     "stocks": {
-      "102": 4,
+      "102": 3,
       "103": 2,
       "105": 1
     }
@@ -1157,7 +1161,7 @@
       }
     ],
     "stocks": {
-      "102": 5,
+      "102": 4,
       "105": 1
     }
   },
@@ -1261,7 +1265,7 @@
       }
     ],
     "stocks": {
-      "102": 1,
+      "102": 3,
       "103": 2,
       "105": 1
     }
@@ -1334,6 +1338,50 @@
     }
   },
   {
+    "idProducto": 1950,
+    "codigo": "5210",
+    "descripcion": "VASOS DE VIDRIO 6PCS",
+    "precio": {
+      "idPrecio": 1424,
+      "idProducto": 1950,
+      "idMoneda": 1,
+      "precio": 350.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1424,
+        "idProducto": 1950,
+        "idMoneda": 1,
+        "precio": 350.0
+      }
+    ],
+    "activo": true,
+    "idCategoria": 25,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 76,
+        "idEtiqueta": 8,
+        "idProducto": 1950,
+        "valor": "2000.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 48,
+      "105": 12
+    }
+  },
+  {
     "idProducto": 660,
     "codigo": "S118",
     "descripcion": "Ventilador Pedestal",
@@ -1357,6 +1405,7 @@
         "precio": 60.0
       }
     ],
+    "image_name": "Ventilador Pedestal -S118.jpeg",
     "activo": true,
     "idCategoria": 35,
     "idDepartamento": 3,

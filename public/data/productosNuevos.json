@@ -38,7 +38,7 @@
     ],
     "stocks": {
       "103": 13,
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -59,6 +59,7 @@
         "precio": 70000.0
       }
     ],
+    "image_name": "CORTAGRAMA GASOLINA 1600W -1820.png",
     "activo": false,
     "idDepartamento": 2,
     "movimientos": [],
@@ -111,17 +112,8 @@
         "idProducto": 251
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "102": 5,
+      "102": 11,
       "103": 9,
       "105": 0
     }
@@ -407,7 +399,7 @@
     "stocks": {
       "102": 6,
       "103": 3,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -682,7 +674,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 1
     }
   },
   {
