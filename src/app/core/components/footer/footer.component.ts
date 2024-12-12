@@ -14,4 +14,17 @@ export class FooterComponent {
   wspLink = WSP_LINK;
   faceGroupLink = FACEBOOK_GROUP_LINK;
 
+
+  getCurrentYear(): number {
+    return new Date().getFullYear();
+  }
+
+  openWhatsApp(): void {
+    window.open(`https://wa.me/${this.wspLink}`, '_blank');
+  }
+
+  openFacebook(): void {
+    window.open(this.faceGroupLink, '_blank');
+  }
+
 }

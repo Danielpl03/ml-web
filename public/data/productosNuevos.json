@@ -17,6 +17,7 @@
         "precio": 15750.0
       }
     ],
+    "image_name": "BOMBA DE AGUA 1\u00262 HP -TR-60.webp",
     "activo": true,
     "idDepartamento": 2,
     "movimientos": [],
@@ -38,7 +39,7 @@
     ],
     "stocks": {
       "103": 13,
-      "105": 11
+      "105": 22
     }
   },
   {
@@ -114,7 +115,7 @@
     ],
     "stocks": {
       "102": 11,
-      "103": 9,
+      "103": 8,
       "105": 0
     }
   },
@@ -236,6 +237,7 @@
         "precio": 160.0
       }
     ],
+    "image_name": "Mesa Plegable De Domino -3134.jpg",
     "activo": true,
     "idCategoria": 87,
     "idDepartamento": 10,
@@ -449,7 +451,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -594,6 +596,7 @@
         "precio": 705.0
       }
     ],
+    "image_name": "TV 50\u0026 UHD SMART -8382.jpg",
     "activo": false,
     "idCategoria": 64,
     "idDepartamento": 3,

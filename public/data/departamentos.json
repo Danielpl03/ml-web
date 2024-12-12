@@ -1037,7 +1037,7 @@
             "stocks": {
               "102": 10,
               "103": 8,
-              "105": 3
+              "105": 0
             }
           },
           {
@@ -1687,7 +1687,7 @@
               }
             ],
             "stocks": {
-              "103": 1,
+              "103": 0,
               "105": 0
             }
           },
@@ -1731,7 +1731,7 @@
             ],
             "stocks": {
               "103": 1,
-              "105": 2
+              "105": 1
             }
           },
           {
@@ -1921,7 +1921,7 @@
               }
             ],
             "stocks": {
-              "105": 1
+              "105": 0
             }
           },
           {
@@ -1957,7 +1957,7 @@
               }
             ],
             "stocks": {
-              "105": 1
+              "105": 0
             }
           },
           {
@@ -2689,7 +2689,7 @@
             ],
             "stocks": {
               "102": 19,
-              "103": 9,
+              "103": 8,
               "105": 2
             }
           },
@@ -2897,6 +2897,7 @@
                 "precio": 2700.0
               }
             ],
+            "image_name": "Breker 60A Doble -2P60A.webp",
             "activo": true,
             "idCategoria": 16,
             "idDepartamento": 2,
@@ -3393,6 +3394,7 @@
                 "precio": 8200.0
               }
             ],
+            "image_name": "Cadena -C10.webp",
             "activo": true,
             "idCategoria": 10,
             "idDepartamento": 2,
@@ -3431,6 +3433,7 @@
                 "precio": 7000.0
               }
             ],
+            "image_name": "Cadena -C9.webp",
             "activo": true,
             "idCategoria": 10,
             "idDepartamento": 2,
@@ -3469,6 +3472,7 @@
                 "precio": 25400.0
               }
             ],
+            "image_name": "Cadena -X11.webp",
             "activo": true,
             "idCategoria": 10,
             "idDepartamento": 2,
@@ -3604,7 +3608,7 @@
             ],
             "stocks": {
               "103": 10,
-              "105": 5
+              "105": 16
             }
           },
           {
@@ -3904,7 +3908,7 @@
             ],
             "stocks": {
               "103": 6,
-              "105": 9
+              "105": 15
             }
           },
           {
@@ -3941,7 +3945,7 @@
             ],
             "stocks": {
               "103": 6,
-              "105": 8
+              "105": 7
             }
           },
           {
@@ -4036,6 +4040,7 @@
                 "precio": 4800.0
               }
             ],
+            "image_name": "Cerradura Sobreponer 10cm -6682.webp",
             "activo": true,
             "idCategoria": 43,
             "idDepartamento": 2,
@@ -4337,6 +4342,7 @@
                 "precio": 700.0
               }
             ],
+            "image_name": "Destornillador Pala -0109.webp",
             "activo": true,
             "idCategoria": 70,
             "idDepartamento": 2,
@@ -4391,7 +4397,7 @@
             ],
             "stocks": {
               "103": 2,
-              "105": 1
+              "105": 0
             }
           }
         ]
@@ -4435,7 +4441,7 @@
             ],
             "stocks": {
               "103": 8,
-              "105": 8
+              "105": 7
             }
           },
           {
@@ -4472,7 +4478,7 @@
             ],
             "stocks": {
               "103": 5,
-              "105": 10
+              "105": 5
             }
           },
           {
@@ -4626,7 +4632,7 @@
             "stocks": {
               "102": 20,
               "103": 9,
-              "105": 6
+              "105": 16
             }
           }
         ]
@@ -4882,7 +4888,7 @@
             ],
             "stocks": {
               "103": 13,
-              "105": 5
+              "105": 7
             }
           },
           {
@@ -4920,7 +4926,7 @@
             ],
             "stocks": {
               "103": 9,
-              "105": 24
+              "105": 21
             }
           }
         ]
@@ -5116,7 +5122,7 @@
               }
             ],
             "stocks": {
-              "103": 24,
+              "103": 22,
               "105": 6
             }
           },
@@ -5372,6 +5378,7 @@
                 "precio": 5100.0
               }
             ],
+            "image_name": "Grifo fregad flexible -H810.webp",
             "activo": false,
             "idCategoria": 14,
             "idDepartamento": 2,
@@ -5410,6 +5417,7 @@
                 "precio": 4500.0
               }
             ],
+            "image_name": "Grifo Fregad Flexible -3115C.webp",
             "activo": true,
             "idCategoria": 14,
             "idDepartamento": 2,
@@ -5516,6 +5524,7 @@
                 "precio": 850.0
               }
             ],
+            "image_name": "Llave De Angulo Individual -5213B.webp",
             "activo": true,
             "idCategoria": 14,
             "idDepartamento": 2,
@@ -5590,6 +5599,7 @@
                 "precio": 3500.0
               }
             ],
+            "image_name": "Llave De Lavamanos -1051A.webp",
             "activo": true,
             "idCategoria": 14,
             "idDepartamento": 2,
@@ -5628,6 +5638,7 @@
                 "precio": 3600.0
               }
             ],
+            "image_name": "Llave De Lavamanos -1085C.webp",
             "activo": true,
             "idCategoria": 14,
             "idDepartamento": 2,
@@ -5780,6 +5791,7 @@
                 "precio": 8300.0
               }
             ],
+            "image_name": "LLAVE INDIVIDUAL PESADA -3095.webp",
             "activo": false,
             "idCategoria": 14,
             "idDepartamento": 2,
@@ -6202,7 +6214,7 @@
               }
             ],
             "stocks": {
-              "105": 3
+              "105": 0
             }
           }
         ]
@@ -6543,7 +6555,7 @@
             "stocks": {
               "102": 8,
               "103": 3,
-              "105": 7
+              "105": 5
             }
           },
           {
@@ -7067,7 +7079,7 @@
               }
             ],
             "stocks": {
-              "103": 22,
+              "103": 21,
               "105": 7
             }
           },
@@ -7105,7 +7117,7 @@
             ],
             "stocks": {
               "103": 52,
-              "105": 1
+              "105": 0
             }
           },
           {
@@ -7162,6 +7174,7 @@
                 "precio": 250.0
               }
             ],
+            "image_name": "Codo 3\u00264 Rosca Rosca -H02-3\u00264.webp",
             "activo": true,
             "idCategoria": 13,
             "idDepartamento": 2,
@@ -7200,6 +7213,7 @@
                 "precio": 1400.0
               }
             ],
+            "image_name": "Codo 45 110m -45110.webp",
             "activo": true,
             "idCategoria": 13,
             "idDepartamento": 2,
@@ -7311,6 +7325,7 @@
                 "precio": 200.0
               }
             ],
+            "image_name": "Codo 90\u0026 Pvc 1\u00262\u0026 -H02-1\u00262.webp",
             "activo": true,
             "idCategoria": 13,
             "idDepartamento": 2,
@@ -7328,7 +7343,7 @@
             "stocks": {
               "102": 25,
               "103": 54,
-              "105": 10
+              "105": 8
             }
           },
           {
@@ -7386,6 +7401,7 @@
                 "precio": 350.0
               }
             ],
+            "image_name": "Niple 1\u0026 -H15-1.webp",
             "activo": true,
             "idCategoria": 13,
             "idDepartamento": 2,
@@ -7424,6 +7440,7 @@
                 "precio": 200.0
               }
             ],
+            "image_name": "NIPLE 1\u00262\u0026 -H15-1\u00262.webp",
             "activo": false,
             "idCategoria": 13,
             "idDepartamento": 2,
@@ -7646,6 +7663,7 @@
                 "precio": 350.0
               }
             ],
+            "image_name": "Tee 3\u00264\u0026 -H01-3\u00264.webp",
             "activo": true,
             "idCategoria": 13,
             "idDepartamento": 2,
@@ -7663,7 +7681,7 @@
             "stocks": {
               "102": 24,
               "103": 79,
-              "105": 4
+              "105": 3
             }
           },
           {
@@ -7757,6 +7775,7 @@
                 "precio": 400.0
               }
             ],
+            "image_name": "Union 1´´ -H04-1.webp",
             "activo": true,
             "idCategoria": 13,
             "idDepartamento": 2,
@@ -8059,6 +8078,7 @@
                 "precio": 6400.0
               }
             ],
+            "image_name": "Protector De Volt 220v -PRT07.webp",
             "activo": true,
             "idCategoria": 71,
             "idDepartamento": 2,
@@ -8156,7 +8176,7 @@
               }
             ],
             "stocks": {
-              "105": 1
+              "105": 4
             }
           },
           {
@@ -8228,7 +8248,7 @@
               }
             ],
             "stocks": {
-              "105": 2
+              "105": 5
             }
           },
           {
@@ -8299,7 +8319,7 @@
               }
             ],
             "stocks": {
-              "105": 0
+              "105": 1
             }
           }
         ]
@@ -8520,6 +8540,7 @@
             "precio": 4600.0
           }
         ],
+        "image_name": "Accesorio Inodoro Boton -1999.webp",
         "activo": true,
         "idCategoria": 0,
         "idDepartamento": 2,
@@ -8574,7 +8595,7 @@
         ],
         "stocks": {
           "103": 3,
-          "105": 1
+          "105": 0
         }
       },
       {
@@ -9324,7 +9345,7 @@
         "stocks": {
           "102": 10,
           "103": 8,
-          "105": 3
+          "105": 0
         }
       },
       {
@@ -9967,7 +9988,7 @@
           }
         ],
         "stocks": {
-          "103": 1,
+          "103": 0,
           "105": 0
         }
       },
@@ -10011,7 +10032,7 @@
         ],
         "stocks": {
           "103": 1,
-          "105": 2
+          "105": 1
         }
       },
       {
@@ -10201,7 +10222,7 @@
           }
         ],
         "stocks": {
-          "105": 1
+          "105": 0
         }
       },
       {
@@ -10237,7 +10258,7 @@
           }
         ],
         "stocks": {
-          "105": 1
+          "105": 0
         }
       },
       {
@@ -10896,6 +10917,7 @@
             "precio": 15750.0
           }
         ],
+        "image_name": "BOMBA DE AGUA 1\u00262 HP -TR-60.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -10917,7 +10939,7 @@
         ],
         "stocks": {
           "103": 13,
-          "105": 11
+          "105": 22
         }
       },
       {
@@ -11210,7 +11232,7 @@
         ],
         "stocks": {
           "102": 19,
-          "103": 9,
+          "103": 8,
           "105": 2
         }
       },
@@ -11418,6 +11440,7 @@
             "precio": 2700.0
           }
         ],
+        "image_name": "Breker 60A Doble -2P60A.webp",
         "activo": true,
         "idCategoria": 16,
         "idDepartamento": 2,
@@ -11908,7 +11931,7 @@
           }
         ],
         "stocks": {
-          "103": 22,
+          "103": 21,
           "105": 7
         }
       },
@@ -11946,7 +11969,7 @@
         ],
         "stocks": {
           "103": 52,
-          "105": 1
+          "105": 0
         }
       },
       {
@@ -12041,6 +12064,7 @@
             "precio": 8200.0
           }
         ],
+        "image_name": "Cadena -C10.webp",
         "activo": true,
         "idCategoria": 10,
         "idDepartamento": 2,
@@ -12079,6 +12103,7 @@
             "precio": 7000.0
           }
         ],
+        "image_name": "Cadena -C9.webp",
         "activo": true,
         "idCategoria": 10,
         "idDepartamento": 2,
@@ -12117,6 +12142,7 @@
             "precio": 25400.0
           }
         ],
+        "image_name": "Cadena -X11.webp",
         "activo": true,
         "idCategoria": 10,
         "idDepartamento": 2,
@@ -12346,7 +12372,7 @@
         ],
         "stocks": {
           "103": 10,
-          "105": 5
+          "105": 16
         }
       },
       {
@@ -12676,7 +12702,7 @@
         ],
         "stocks": {
           "103": 6,
-          "105": 9
+          "105": 15
         }
       },
       {
@@ -12713,7 +12739,7 @@
         ],
         "stocks": {
           "103": 6,
-          "105": 8
+          "105": 7
         }
       },
       {
@@ -12808,6 +12834,7 @@
             "precio": 4800.0
           }
         ],
+        "image_name": "Cerradura Sobreponer 10cm -6682.webp",
         "activo": true,
         "idCategoria": 43,
         "idDepartamento": 2,
@@ -12916,6 +12943,7 @@
             "precio": 2800.0
           }
         ],
+        "image_name": "Cinta De Bicicleta -335C.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -13004,7 +13032,7 @@
           }
         ],
         "stocks": {
-          "105": 11
+          "105": 9
         }
       },
       {
@@ -13061,6 +13089,7 @@
             "precio": 250.0
           }
         ],
+        "image_name": "Codo 3\u00264 Rosca Rosca -H02-3\u00264.webp",
         "activo": true,
         "idCategoria": 13,
         "idDepartamento": 2,
@@ -13099,6 +13128,7 @@
             "precio": 1400.0
           }
         ],
+        "image_name": "Codo 45 110m -45110.webp",
         "activo": true,
         "idCategoria": 13,
         "idDepartamento": 2,
@@ -13210,6 +13240,7 @@
             "precio": 200.0
           }
         ],
+        "image_name": "Codo 90\u0026 Pvc 1\u00262\u0026 -H02-1\u00262.webp",
         "activo": true,
         "idCategoria": 13,
         "idDepartamento": 2,
@@ -13227,7 +13258,7 @@
         "stocks": {
           "102": 25,
           "103": 54,
-          "105": 10
+          "105": 8
         }
       },
       {
@@ -13319,6 +13350,7 @@
             "precio": 18500.0
           }
         ],
+        "image_name": "Control Automatico P\u0026 Bomba.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -13795,6 +13827,7 @@
             "precio": 700.0
           }
         ],
+        "image_name": "Destornillador Pala -0109.webp",
         "activo": true,
         "idCategoria": 70,
         "idDepartamento": 2,
@@ -13885,7 +13918,7 @@
         ],
         "stocks": {
           "103": 8,
-          "105": 8
+          "105": 7
         }
       },
       {
@@ -13922,7 +13955,7 @@
         ],
         "stocks": {
           "103": 5,
-          "105": 10
+          "105": 5
         }
       },
       {
@@ -14076,7 +14109,7 @@
         "stocks": {
           "102": 20,
           "103": 9,
-          "105": 6
+          "105": 16
         }
       },
       {
@@ -14168,6 +14201,7 @@
             "precio": 620.0
           }
         ],
+        "image_name": "Eje Cuna Central -5216.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -14240,6 +14274,7 @@
             "precio": 700.0
           }
         ],
+        "image_name": "Espatula 2” -0020.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -14277,6 +14312,7 @@
             "precio": 800.0
           }
         ],
+        "image_name": "Espatula 4” -0040.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -14327,7 +14363,7 @@
           }
         ],
         "stocks": {
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -14576,7 +14612,7 @@
         ],
         "stocks": {
           "103": 13,
-          "105": 5
+          "105": 7
         }
       },
       {
@@ -14614,7 +14650,7 @@
         ],
         "stocks": {
           "103": 9,
-          "105": 24
+          "105": 21
         }
       },
       {
@@ -14987,6 +15023,7 @@
             "precio": 1700.0
           }
         ],
+        "image_name": "Filtro Fregadero -1902.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -15039,7 +15076,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 2
+          "105": 1
         }
       },
       {
@@ -15395,6 +15432,7 @@
             "precio": 5100.0
           }
         ],
+        "image_name": "Grifo fregad flexible -H810.webp",
         "activo": false,
         "idCategoria": 14,
         "idDepartamento": 2,
@@ -15433,6 +15471,7 @@
             "precio": 4500.0
           }
         ],
+        "image_name": "Grifo Fregad Flexible -3115C.webp",
         "activo": true,
         "idCategoria": 14,
         "idDepartamento": 2,
@@ -15503,6 +15542,7 @@
             "precio": 700.0
           }
         ],
+        "image_name": "Guantes -NN15.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -15540,6 +15580,7 @@
             "precio": 5400.0
           }
         ],
+        "image_name": "Guiador Trasero -H85C.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -15913,7 +15954,7 @@
         ],
         "stocks": {
           "103": 22,
-          "105": 10
+          "105": 9
         }
       },
       {
@@ -16737,7 +16778,7 @@
           }
         ],
         "stocks": {
-          "103": 24,
+          "103": 22,
           "105": 6
         }
       },
@@ -16910,6 +16951,7 @@
             "precio": 700.0
           }
         ],
+        "image_name": "Lima Redonda 8\u0026 -0332R.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -17103,8 +17145,8 @@
         ],
         "stocks": {
           "102": 4,
-          "103": 0,
-          "105": 4
+          "103": 4,
+          "105": 3
         }
       },
       {
@@ -17179,7 +17221,7 @@
         "stocks": {
           "102": 4,
           "103": 3,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -17200,6 +17242,7 @@
             "precio": 2100.0
           }
         ],
+        "image_name": "LLANA DENTADA 11¨ -1251.webp",
         "activo": false,
         "idDepartamento": 2,
         "movimientos": [],
@@ -17272,6 +17315,7 @@
             "precio": 850.0
           }
         ],
+        "image_name": "Llave De Angulo Individual -5213B.webp",
         "activo": true,
         "idCategoria": 14,
         "idDepartamento": 2,
@@ -17346,6 +17390,7 @@
             "precio": 3500.0
           }
         ],
+        "image_name": "Llave De Lavamanos -1051A.webp",
         "activo": true,
         "idCategoria": 14,
         "idDepartamento": 2,
@@ -17384,6 +17429,7 @@
             "precio": 3600.0
           }
         ],
+        "image_name": "Llave De Lavamanos -1085C.webp",
         "activo": true,
         "idCategoria": 14,
         "idDepartamento": 2,
@@ -17499,6 +17545,7 @@
             "precio": 6000.0
           }
         ],
+        "image_name": "LLAVE FILTRO DE ACEITE -5110.webp",
         "activo": false,
         "idDepartamento": 2,
         "movimientos": [],
@@ -17572,6 +17619,7 @@
             "precio": 8300.0
           }
         ],
+        "image_name": "LLAVE INDIVIDUAL PESADA -3095.webp",
         "activo": false,
         "idCategoria": 14,
         "idDepartamento": 2,
@@ -17766,7 +17814,7 @@
         "stocks": {
           "102": 6,
           "103": 4,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -17930,6 +17978,7 @@
             "precio": 2500.0
           }
         ],
+        "image_name": "Mango Rachet -0072.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -18595,7 +18644,7 @@
           }
         ],
         "stocks": {
-          "105": 3
+          "105": 0
         }
       },
       {
@@ -18616,6 +18665,7 @@
             "precio": 350.0
           }
         ],
+        "image_name": "Niple 1\u0026 -H15-1.webp",
         "activo": true,
         "idCategoria": 13,
         "idDepartamento": 2,
@@ -18654,6 +18704,7 @@
             "precio": 200.0
           }
         ],
+        "image_name": "NIPLE 1\u00262\u0026 -H15-1\u00262.webp",
         "activo": false,
         "idCategoria": 13,
         "idDepartamento": 2,
@@ -19027,6 +19078,7 @@
             "precio": 3700.0
           }
         ],
+        "image_name": "Pedal De Aluminio -A07A.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -19080,7 +19132,7 @@
         ],
         "stocks": {
           "102": 48,
-          "103": 58,
+          "103": 55,
           "105": 20
         }
       },
@@ -19298,7 +19350,7 @@
         "stocks": {
           "102": 8,
           "103": 3,
-          "105": 7
+          "105": 5
         }
       },
       {
@@ -20044,6 +20096,7 @@
             "precio": 6400.0
           }
         ],
+        "image_name": "Protector De Volt 220v -PRT07.webp",
         "activo": true,
         "idCategoria": 71,
         "idDepartamento": 2,
@@ -20134,7 +20187,7 @@
           }
         ],
         "stocks": {
-          "105": 1
+          "105": 4
         }
       },
       {
@@ -20206,7 +20259,7 @@
           }
         ],
         "stocks": {
-          "105": 2
+          "105": 5
         }
       },
       {
@@ -20277,7 +20330,7 @@
           }
         ],
         "stocks": {
-          "105": 0
+          "105": 1
         }
       },
       {
@@ -20414,6 +20467,7 @@
             "precio": 700.0
           }
         ],
+        "image_name": "Repuesto De Ducha -A01R.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -20451,6 +20505,7 @@
             "precio": 1200.0
           }
         ],
+        "image_name": "Resistencia Eléctrica -1307.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -20467,7 +20522,7 @@
         "stocks": {
           "102": 14,
           "103": 13,
-          "105": 2
+          "105": 0
         }
       },
       {
@@ -20787,6 +20842,7 @@
             "precio": 1200.0
           }
         ],
+        "image_name": "Salida De Tanque 1\u0026 -H24-1.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -20824,6 +20880,7 @@
             "precio": 800.0
           }
         ],
+        "image_name": "Salida De Tanque 1\u00262\u0026 -H24-1\u00262.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -20861,6 +20918,7 @@
             "precio": 1000.0
           }
         ],
+        "image_name": "Salida De Tanque 3\u00264\u0026 -H24-3\u00264.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -20951,7 +21009,7 @@
         ],
         "stocks": {
           "102": 10,
-          "105": 10
+          "105": 8
         }
       },
       {
@@ -20988,7 +21046,7 @@
         ],
         "stocks": {
           "103": 2,
-          "105": 1
+          "105": 0
         }
       },
       {
@@ -21047,6 +21105,7 @@
             "precio": 700.0
           }
         ],
+        "image_name": "Sifon Flexible -1631A.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -21528,6 +21587,7 @@
             "precio": 350.0
           }
         ],
+        "image_name": "Tee 3\u00264\u0026 -H01-3\u00264.webp",
         "activo": true,
         "idCategoria": 13,
         "idDepartamento": 2,
@@ -21545,7 +21605,7 @@
         "stocks": {
           "102": 24,
           "103": 79,
-          "105": 4
+          "105": 3
         }
       },
       {
@@ -21724,7 +21784,7 @@
         "stocks": {
           "102": 60,
           "103": 21,
-          "105": 8
+          "105": 7
         }
       },
       {
@@ -21852,6 +21912,7 @@
             "precio": 1000.0
           }
         ],
+        "image_name": "Trampa 2 En 1 C\u0026drenaje -1621.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -21924,6 +21985,7 @@
             "precio": 1100.0
           }
         ],
+        "image_name": "Trampa P\u0026fregadero -Q7-192.webp",
         "activo": true,
         "idDepartamento": 2,
         "movimientos": [],
@@ -22115,6 +22177,7 @@
             "precio": 400.0
           }
         ],
+        "image_name": "Union 1´´ -H04-1.webp",
         "activo": true,
         "idCategoria": 13,
         "idDepartamento": 2,
@@ -22958,7 +23021,7 @@
               }
             ],
             "stocks": {
-              "105": 1
+              "105": 0
             }
           },
           {
@@ -24862,7 +24925,7 @@
               }
             ],
             "stocks": {
-              "103": 9,
+              "103": 7,
               "105": 27
             }
           },
@@ -24990,7 +25053,7 @@
               }
             ],
             "stocks": {
-              "103": 1,
+              "103": 0,
               "105": 1
             }
           },
@@ -25455,7 +25518,7 @@
             ],
             "stocks": {
               "103": 0,
-              "105": 3
+              "105": 1
             }
           },
           {
@@ -25884,6 +25947,7 @@
                 "precio": 705.0
               }
             ],
+            "image_name": "TV 50\u0026 UHD SMART -8382.jpg",
             "activo": false,
             "idCategoria": 64,
             "idDepartamento": 3,
@@ -26981,7 +27045,7 @@
           }
         ],
         "stocks": {
-          "105": 1
+          "105": 0
         }
       },
       {
@@ -27763,7 +27827,7 @@
         ],
         "stocks": {
           "103": 1,
-          "105": 2
+          "105": 0
         }
       },
       {
@@ -29272,7 +29336,7 @@
           }
         ],
         "stocks": {
-          "103": 9,
+          "103": 7,
           "105": 27
         }
       },
@@ -29400,7 +29464,7 @@
           }
         ],
         "stocks": {
-          "103": 1,
+          "103": 0,
           "105": 1
         }
       },
@@ -29697,7 +29761,7 @@
         "stocks": {
           "102": 4,
           "103": 3,
-          "105": 2
+          "105": 3
         }
       },
       {
@@ -30063,7 +30127,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 3
+          "105": 1
         }
       },
       {
@@ -30700,6 +30764,7 @@
             "precio": 705.0
           }
         ],
+        "image_name": "TV 50\u0026 UHD SMART -8382.jpg",
         "activo": false,
         "idCategoria": 64,
         "idDepartamento": 3,
@@ -32370,7 +32435,7 @@
             "etiquetasProductos": [],
             "stocks": {
               "102": 15,
-              "103": 14,
+              "103": 13,
               "105": 0
             }
           },
@@ -32619,7 +32684,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
-              "103": 38
+              "103": 37
             }
           },
           {
@@ -32830,7 +32895,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
-              "103": 11
+              "103": 10
             }
           },
           {
@@ -33551,7 +33616,7 @@
         ],
         "stocks": {
           "102": 20,
-          "105": 11
+          "105": 10
         }
       },
       {
@@ -33626,7 +33691,7 @@
           }
         ],
         "stocks": {
-          "105": 31
+          "105": 30
         }
       },
       {
@@ -34318,7 +34383,7 @@
         "etiquetasProductos": [],
         "stocks": {
           "102": 15,
-          "103": 14,
+          "103": 13,
           "105": 0
         }
       },
@@ -34560,7 +34625,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
-          "103": 38
+          "103": 37
         }
       },
       {
@@ -34771,7 +34836,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
-          "103": 11
+          "103": 10
         }
       },
       {
@@ -34968,6 +35033,7 @@
                 "precio": 2200.0
               }
             ],
+            "image_name": "Acond Amalfi Keratina Mojitos -5018.webp",
             "activo": true,
             "idCategoria": 1,
             "idDepartamento": 5,
@@ -34984,7 +35050,7 @@
             ],
             "stocks": {
               "103": 7,
-              "105": 3
+              "105": 9
             }
           },
           {
@@ -35320,7 +35386,7 @@
             ],
             "stocks": {
               "102": 8,
-              "105": 7
+              "105": 6
             }
           },
           {
@@ -35393,7 +35459,7 @@
             "stocks": {
               "102": 8,
               "103": 10,
-              "105": 7
+              "105": 6
             }
           },
           {
@@ -35876,8 +35942,8 @@
               }
             ],
             "stocks": {
-              "103": 15,
-              "105": 7
+              "103": 14,
+              "105": 6
             }
           },
           {
@@ -36217,7 +36283,7 @@
               }
             ],
             "stocks": {
-              "105": 6
+              "105": 5
             }
           },
           {
@@ -36255,7 +36321,7 @@
             ],
             "stocks": {
               "102": 1,
-              "105": 7
+              "105": 6
             }
           },
           {
@@ -36368,7 +36434,7 @@
             "stocks": {
               "102": 5,
               "103": 11,
-              "105": 7
+              "105": 5
             }
           },
           {
@@ -36481,7 +36547,7 @@
             ],
             "stocks": {
               "102": 12,
-              "103": 12,
+              "103": 11,
               "105": 4
             }
           },
@@ -36557,7 +36623,7 @@
             ],
             "stocks": {
               "102": 3,
-              "105": 6
+              "105": 4
             }
           },
           {
@@ -36596,7 +36662,7 @@
             "stocks": {
               "102": 8,
               "103": 8,
-              "105": 0
+              "105": 5
             }
           }
         ]
@@ -36680,7 +36746,7 @@
             "stocks": {
               "102": 10,
               "103": 6,
-              "105": 11
+              "105": 7
             }
           },
           {
@@ -37720,7 +37786,7 @@
             ],
             "stocks": {
               "102": 22,
-              "105": 4
+              "105": 2
             }
           },
           {
@@ -37796,7 +37862,7 @@
             "stocks": {
               "102": 10,
               "103": 4,
-              "105": 4
+              "105": 2
             }
           },
           {
@@ -38026,7 +38092,7 @@
             ],
             "stocks": {
               "102": 7,
-              "103": 6,
+              "103": 5,
               "105": 2
             }
           },
@@ -39708,8 +39774,8 @@
               }
             ],
             "stocks": {
-              "103": 3,
-              "105": 3
+              "103": 9,
+              "105": 2
             }
           },
           {
@@ -39891,7 +39957,7 @@
               }
             ],
             "stocks": {
-              "103": 4,
+              "103": 10,
               "105": 6
             }
           },
@@ -40031,7 +40097,7 @@
             ],
             "stocks": {
               "103": 7,
-              "105": 15
+              "105": 14
             }
           },
           {
@@ -40067,7 +40133,7 @@
               }
             ],
             "stocks": {
-              "103": 8
+              "103": 7
             }
           },
           {
@@ -40233,6 +40299,7 @@
                 "precio": 900.0
               }
             ],
+            "image_name": "SHAMPO NOXES ALOE VERA EXTRACT -9081.webp",
             "activo": false,
             "idCategoria": 2,
             "idDepartamento": 5,
@@ -40249,7 +40316,7 @@
             ],
             "stocks": {
               "102": 2,
-              "105": 6
+              "105": 5
             }
           },
           {
@@ -40717,6 +40784,7 @@
             "precio": 2200.0
           }
         ],
+        "image_name": "Acond Amalfi Keratina Mojitos -5018.webp",
         "activo": true,
         "idCategoria": 1,
         "idDepartamento": 5,
@@ -40733,7 +40801,7 @@
         ],
         "stocks": {
           "103": 7,
-          "105": 3
+          "105": 9
         }
       },
       {
@@ -40986,7 +41054,7 @@
         "stocks": {
           "102": 10,
           "103": 6,
-          "105": 11
+          "105": 7
         }
       },
       {
@@ -41619,7 +41687,7 @@
         "stocks": {
           "102": 18,
           "103": 19,
-          "105": 6
+          "105": 11
         }
       },
       {
@@ -41657,7 +41725,7 @@
         "stocks": {
           "102": 120,
           "103": 124,
-          "105": 50
+          "105": 47
         }
       },
       {
@@ -42226,7 +42294,7 @@
         ],
         "stocks": {
           "102": 22,
-          "105": 4
+          "105": 2
         }
       },
       {
@@ -42302,7 +42370,7 @@
         "stocks": {
           "102": 10,
           "103": 4,
-          "105": 4
+          "105": 2
         }
       },
       {
@@ -42532,7 +42600,7 @@
         ],
         "stocks": {
           "102": 7,
-          "103": 6,
+          "103": 5,
           "105": 2
         }
       },
@@ -44364,8 +44432,8 @@
           }
         ],
         "stocks": {
-          "103": 3,
-          "105": 3
+          "103": 9,
+          "105": 2
         }
       },
       {
@@ -44547,7 +44615,7 @@
           }
         ],
         "stocks": {
-          "103": 4,
+          "103": 10,
           "105": 6
         }
       },
@@ -44687,7 +44755,7 @@
         ],
         "stocks": {
           "103": 7,
-          "105": 15
+          "105": 14
         }
       },
       {
@@ -44723,7 +44791,7 @@
           }
         ],
         "stocks": {
-          "103": 8
+          "103": 7
         }
       },
       {
@@ -44889,6 +44957,7 @@
             "precio": 900.0
           }
         ],
+        "image_name": "SHAMPO NOXES ALOE VERA EXTRACT -9081.webp",
         "activo": false,
         "idCategoria": 2,
         "idDepartamento": 5,
@@ -44905,7 +44974,7 @@
         ],
         "stocks": {
           "102": 2,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -45427,7 +45496,7 @@
         ],
         "stocks": {
           "102": 8,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -45500,7 +45569,7 @@
         "stocks": {
           "102": 8,
           "103": 10,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -45983,8 +46052,8 @@
           }
         ],
         "stocks": {
-          "103": 15,
-          "105": 7
+          "103": 14,
+          "105": 6
         }
       },
       {
@@ -46324,7 +46393,7 @@
           }
         ],
         "stocks": {
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -46362,7 +46431,7 @@
         ],
         "stocks": {
           "102": 1,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -46475,7 +46544,7 @@
         "stocks": {
           "102": 5,
           "103": 11,
-          "105": 7
+          "105": 5
         }
       },
       {
@@ -46588,7 +46657,7 @@
         ],
         "stocks": {
           "102": 12,
-          "103": 12,
+          "103": 11,
           "105": 4
         }
       },
@@ -46664,7 +46733,7 @@
         ],
         "stocks": {
           "102": 3,
-          "105": 6
+          "105": 4
         }
       },
       {
@@ -46703,7 +46772,7 @@
         "stocks": {
           "102": 8,
           "103": 8,
-          "105": 0
+          "105": 5
         }
       }
     ]
@@ -47446,7 +47515,7 @@
               }
             ],
             "stocks": {
-              "103": 5,
+              "103": 8,
               "105": 0
             }
           },
@@ -48777,7 +48846,7 @@
               }
             ],
             "stocks": {
-              "103": 2,
+              "103": 1,
               "105": 0
             }
           },
@@ -49681,7 +49750,7 @@
             ],
             "stocks": {
               "103": 20,
-              "105": 3
+              "105": 2
             }
           },
           {
@@ -49758,7 +49827,7 @@
             ],
             "stocks": {
               "102": 10,
-              "103": 3,
+              "103": 15,
               "105": 5
             }
           },
@@ -49798,7 +49867,7 @@
             "stocks": {
               "102": 5,
               "103": 6,
-              "105": 6
+              "105": 4
             }
           },
           {
@@ -49836,7 +49905,7 @@
             "stocks": {
               "102": 3,
               "103": 11,
-              "105": 2
+              "105": 1
             }
           },
           {
@@ -50057,7 +50126,7 @@
             ],
             "stocks": {
               "103": 9,
-              "105": 18
+              "105": 17
             }
           },
           {
@@ -50131,7 +50200,7 @@
             "stocks": {
               "102": 12,
               "103": 2,
-              "105": 2
+              "105": 12
             }
           },
           {
@@ -50205,7 +50274,7 @@
             ],
             "stocks": {
               "103": 5,
-              "105": 14
+              "105": 13
             }
           },
           {
@@ -50391,7 +50460,7 @@
             "stocks": {
               "102": 6,
               "103": 4,
-              "105": 6
+              "105": 3
             }
           },
           {
@@ -50428,7 +50497,7 @@
             ],
             "stocks": {
               "103": 12,
-              "105": 10
+              "105": 7
             }
           },
           {
@@ -50483,6 +50552,7 @@
                 "precio": 1600.0
               }
             ],
+            "image_name": "Tenedor 6pcs -267F.webp",
             "activo": true,
             "idCategoria": 23,
             "idDepartamento": 6,
@@ -50538,7 +50608,7 @@
             "stocks": {
               "102": 10,
               "103": 8,
-              "105": 10
+              "105": 9
             }
           },
           {
@@ -51161,8 +51231,8 @@
               }
             ],
             "stocks": {
-              "103": 14,
-              "105": 17
+              "103": 39,
+              "105": 48
             }
           },
           {
@@ -51380,7 +51450,7 @@
             ],
             "stocks": {
               "103": 2,
-              "105": 10
+              "105": 8
             }
           },
           {
@@ -51417,7 +51487,7 @@
             ],
             "stocks": {
               "103": 1,
-              "105": 2
+              "105": 0
             }
           },
           {
@@ -51454,7 +51524,7 @@
             ],
             "stocks": {
               "103": 1,
-              "105": 2
+              "105": 0
             }
           },
           {
@@ -51801,7 +51871,7 @@
               }
             ],
             "stocks": {
-              "103": 8
+              "103": 7
             }
           },
           {
@@ -51858,6 +51928,7 @@
                 "precio": 1000.0
               }
             ],
+            "image_name": "Espejo Para Baño Cuadrado -7144.webp",
             "activo": true,
             "idCategoria": 38,
             "idDepartamento": 6,
@@ -51875,7 +51946,7 @@
             "stocks": {
               "102": 18,
               "103": 18,
-              "105": 8
+              "105": 7
             }
           },
           {
@@ -51896,6 +51967,7 @@
                 "precio": 1000.0
               }
             ],
+            "image_name": "Espejo Para Baño Redondo -7143.webp",
             "activo": true,
             "idCategoria": 38,
             "idDepartamento": 6,
@@ -52066,7 +52138,7 @@
             ],
             "stocks": {
               "103": 4,
-              "105": 18
+              "105": 16
             }
           },
           {
@@ -52102,8 +52174,8 @@
               }
             ],
             "stocks": {
-              "103": 2,
-              "105": 7
+              "103": 6,
+              "105": 6
             }
           },
           {
@@ -52440,7 +52512,7 @@
             ],
             "stocks": {
               "102": 4,
-              "103": 6,
+              "103": 5,
               "105": 1
             }
           },
@@ -52478,7 +52550,7 @@
             ],
             "stocks": {
               "103": 9,
-              "105": 13
+              "105": 12
             }
           },
           {
@@ -52802,7 +52874,7 @@
             "stocks": {
               "102": 11,
               "103": 1,
-              "105": 7
+              "105": 6
             }
           },
           {
@@ -52877,7 +52949,7 @@
             "stocks": {
               "102": 8,
               "103": 5,
-              "105": 4
+              "105": 3
             }
           },
           {
@@ -53126,6 +53198,7 @@
                 "precio": 2800.0
               }
             ],
+            "image_name": "Lampara De Kerosene -215.webp",
             "activo": true,
             "idCategoria": 27,
             "idDepartamento": 6,
@@ -53164,6 +53237,7 @@
                 "precio": 2500.0
               }
             ],
+            "image_name": "Lampara De Kerosene -235.webp",
             "activo": true,
             "idCategoria": 27,
             "idDepartamento": 6,
@@ -53444,7 +53518,7 @@
               }
             ],
             "stocks": {
-              "103": 0,
+              "103": 1,
               "105": 2
             }
           }
@@ -53641,7 +53715,7 @@
             ],
             "stocks": {
               "103": 7,
-              "105": 6
+              "105": 24
             }
           },
           {
@@ -54049,7 +54123,7 @@
             ],
             "stocks": {
               "102": 22,
-              "103": 10,
+              "103": 9,
               "105": 14
             }
           },
@@ -54347,7 +54421,7 @@
             ],
             "stocks": {
               "103": 11,
-              "105": 15
+              "105": 13
             }
           },
           {
@@ -54384,7 +54458,7 @@
               }
             ],
             "stocks": {
-              "103": 5,
+              "103": 4,
               "105": 10
             }
           }
@@ -55029,8 +55103,8 @@
               }
             ],
             "stocks": {
-              "103": 5,
-              "105": 5
+              "103": 4,
+              "105": 12
             }
           },
           {
@@ -55068,7 +55142,7 @@
             ],
             "stocks": {
               "103": 9,
-              "105": 18
+              "105": 16
             }
           },
           {
@@ -55140,7 +55214,7 @@
               }
             ],
             "stocks": {
-              "103": 2,
+              "103": 8,
               "105": 12
             }
           },
@@ -55215,7 +55289,7 @@
             ],
             "stocks": {
               "103": 3,
-              "105": 2
+              "105": 0
             }
           },
           {
@@ -55476,7 +55550,7 @@
             ],
             "stocks": {
               "103": 0,
-              "105": 5
+              "105": 3
             }
           },
           {
@@ -55730,7 +55804,7 @@
             ],
             "stocks": {
               "103": 0,
-              "105": 8
+              "105": 7
             }
           },
           {
@@ -56083,7 +56157,7 @@
               }
             ],
             "image_name": "TABLA DE PICAR -2002.webp",
-            "activo": false,
+            "activo": true,
             "idCategoria": 94,
             "idDepartamento": 6,
             "movimientos": [],
@@ -56098,6 +56172,7 @@
               }
             ],
             "stocks": {
+              "103": 3,
               "105": 6
             }
           },
@@ -56193,7 +56268,7 @@
                 "precio": 1050.0
               }
             ],
-            "activo": false,
+            "activo": true,
             "idCategoria": 94,
             "idDepartamento": 6,
             "movimientos": [],
@@ -56208,7 +56283,8 @@
               }
             ],
             "stocks": {
-              "105": 7
+              "103": 1,
+              "105": 5
             }
           },
           {
@@ -56730,8 +56806,8 @@
               }
             ],
             "stocks": {
-              "103": 0,
-              "105": 8
+              "103": 10,
+              "105": 1
             }
           },
           {
@@ -56913,7 +56989,7 @@
             ],
             "stocks": {
               "103": 0,
-              "105": 7
+              "105": 4
             }
           },
           {
@@ -57475,7 +57551,8 @@
               }
             ],
             "stocks": {
-              "103": 3
+              "103": 3,
+              "105": 2
             }
           },
           {
@@ -57547,7 +57624,8 @@
               }
             ],
             "stocks": {
-              "103": 0
+              "103": 0,
+              "105": 1
             }
           },
           {
@@ -57604,6 +57682,7 @@
                 "precio": 4340.0
               }
             ],
+            "image_name": "TERMO CON CARRIZO 40 ONZAS -768-MIX.webp",
             "activo": false,
             "idCategoria": 73,
             "idDepartamento": 6,
@@ -57620,7 +57699,7 @@
             ],
             "stocks": {
               "102": 8,
-              "105": 6
+              "105": 4
             }
           },
           {
@@ -57811,8 +57890,8 @@
             ],
             "stocks": {
               "102": 24,
-              "103": 37,
-              "105": 13
+              "103": 57,
+              "105": 75
             }
           },
           {
@@ -57848,7 +57927,7 @@
               }
             ],
             "stocks": {
-              "105": 22
+              "105": 21
             }
           },
           {
@@ -58033,8 +58112,8 @@
               }
             ],
             "stocks": {
-              "103": 2,
-              "105": 15
+              "103": 14,
+              "105": 13
             }
           },
           {
@@ -58071,7 +58150,7 @@
             ],
             "stocks": {
               "103": 0,
-              "105": 3
+              "105": 2
             }
           },
           {
@@ -58108,7 +58187,7 @@
             ],
             "stocks": {
               "103": 8,
-              "105": 10
+              "105": 8
             }
           },
           {
@@ -58296,7 +58375,7 @@
             ],
             "stocks": {
               "103": 48,
-              "105": 12
+              "105": 3
             }
           },
           {
@@ -58983,7 +59062,7 @@
         "stocks": {
           "102": 12,
           "103": 3,
-          "105": 12
+          "105": 11
         }
       },
       {
@@ -59234,7 +59313,7 @@
         ],
         "stocks": {
           "103": 8,
-          "105": 9
+          "105": 17
         }
       },
       {
@@ -59740,8 +59819,8 @@
           }
         ],
         "stocks": {
-          "103": 5,
-          "105": 5
+          "103": 4,
+          "105": 12
         }
       },
       {
@@ -59779,7 +59858,7 @@
         ],
         "stocks": {
           "103": 9,
-          "105": 18
+          "105": 16
         }
       },
       {
@@ -59851,7 +59930,7 @@
           }
         ],
         "stocks": {
-          "103": 2,
+          "103": 8,
           "105": 12
         }
       },
@@ -59926,7 +60005,7 @@
         ],
         "stocks": {
           "103": 3,
-          "105": 2
+          "105": 0
         }
       },
       {
@@ -60250,7 +60329,7 @@
           }
         ],
         "stocks": {
-          "103": 5,
+          "103": 8,
           "105": 0
         }
       },
@@ -60470,7 +60549,7 @@
           }
         ],
         "stocks": {
-          "103": 1,
+          "103": 0,
           "105": 0
         }
       },
@@ -60550,7 +60629,7 @@
           }
         ],
         "stocks": {
-          "103": 14
+          "103": 11
         }
       },
       {
@@ -60833,7 +60912,7 @@
         ],
         "stocks": {
           "103": 4,
-          "105": 6
+          "105": 3
         }
       },
       {
@@ -60939,7 +61018,7 @@
         ],
         "stocks": {
           "103": 3,
-          "105": 7
+          "105": 5
         }
       },
       {
@@ -61219,8 +61298,8 @@
         ],
         "stocks": {
           "102": 6,
-          "103": 3,
-          "105": 2
+          "103": 2,
+          "105": 1
         }
       },
       {
@@ -62160,7 +62239,7 @@
           }
         ],
         "stocks": {
-          "103": 2,
+          "103": 1,
           "105": 0
         }
       },
@@ -63053,7 +63132,7 @@
         ],
         "stocks": {
           "103": 4,
-          "105": 4
+          "105": 3
         }
       },
       {
@@ -63163,7 +63242,7 @@
         ],
         "stocks": {
           "103": 20,
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -63240,7 +63319,7 @@
         ],
         "stocks": {
           "102": 10,
-          "103": 3,
+          "103": 15,
           "105": 5
         }
       },
@@ -63280,7 +63359,7 @@
         "stocks": {
           "102": 5,
           "103": 6,
-          "105": 6
+          "105": 4
         }
       },
       {
@@ -63318,7 +63397,7 @@
         "stocks": {
           "102": 3,
           "103": 11,
-          "105": 2
+          "105": 1
         }
       },
       {
@@ -63539,7 +63618,7 @@
         ],
         "stocks": {
           "103": 9,
-          "105": 18
+          "105": 17
         }
       },
       {
@@ -63613,7 +63692,7 @@
         "stocks": {
           "102": 12,
           "103": 2,
-          "105": 2
+          "105": 12
         }
       },
       {
@@ -63687,7 +63766,7 @@
         ],
         "stocks": {
           "103": 5,
-          "105": 14
+          "105": 13
         }
       },
       {
@@ -64310,8 +64389,8 @@
           }
         ],
         "stocks": {
-          "103": 14,
-          "105": 17
+          "103": 39,
+          "105": 48
         }
       },
       {
@@ -64428,7 +64507,7 @@
         "stocks": {
           "102": 44,
           "103": 13,
-          "105": 10
+          "105": 18
         }
       },
       {
@@ -64767,7 +64846,7 @@
           }
         ],
         "stocks": {
-          "103": 8
+          "103": 7
         }
       },
       {
@@ -64824,6 +64903,7 @@
             "precio": 1000.0
           }
         ],
+        "image_name": "Espejo Para Baño Cuadrado -7144.webp",
         "activo": true,
         "idCategoria": 38,
         "idDepartamento": 6,
@@ -64841,7 +64921,7 @@
         "stocks": {
           "102": 18,
           "103": 18,
-          "105": 8
+          "105": 7
         }
       },
       {
@@ -64862,6 +64942,7 @@
             "precio": 1000.0
           }
         ],
+        "image_name": "Espejo Para Baño Redondo -7143.webp",
         "activo": true,
         "idCategoria": 38,
         "idDepartamento": 6,
@@ -64971,6 +65052,7 @@
             "precio": 1500.0
           }
         ],
+        "image_name": "Estante Superior Para Pantalla -0058.webp",
         "activo": true,
         "idDepartamento": 6,
         "movimientos": [],
@@ -64993,7 +65075,7 @@
         "stocks": {
           "102": 5,
           "103": 4,
-          "105": 12
+          "105": 11
         }
       },
       {
@@ -65173,7 +65255,7 @@
         ],
         "stocks": {
           "103": 4,
-          "105": 18
+          "105": 16
         }
       },
       {
@@ -65209,8 +65291,8 @@
           }
         ],
         "stocks": {
-          "103": 2,
-          "105": 7
+          "103": 6,
+          "105": 6
         }
       },
       {
@@ -65540,7 +65622,7 @@
         ],
         "stocks": {
           "102": 4,
-          "103": 6,
+          "103": 5,
           "105": 1
         }
       },
@@ -65578,7 +65660,7 @@
         ],
         "stocks": {
           "103": 9,
-          "105": 13
+          "105": 12
         }
       },
       {
@@ -65902,7 +65984,7 @@
         "stocks": {
           "102": 11,
           "103": 1,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -65977,7 +66059,7 @@
         "stocks": {
           "102": 8,
           "103": 5,
-          "105": 4
+          "105": 3
         }
       },
       {
@@ -66201,7 +66283,7 @@
         "stocks": {
           "102": 6,
           "103": 4,
-          "105": 6
+          "105": 3
         }
       },
       {
@@ -66238,7 +66320,7 @@
         ],
         "stocks": {
           "103": 12,
-          "105": 10
+          "105": 7
         }
       },
       {
@@ -66350,7 +66432,7 @@
         ],
         "stocks": {
           "102": 2,
-          "103": 7,
+          "103": 6,
           "105": 1
         }
       },
@@ -66649,8 +66731,8 @@
         ],
         "stocks": {
           "102": 24,
-          "103": 37,
-          "105": 13
+          "103": 57,
+          "105": 75
         }
       },
       {
@@ -66686,7 +66768,7 @@
           }
         ],
         "stocks": {
-          "105": 22
+          "105": 21
         }
       },
       {
@@ -66887,6 +66969,7 @@
             "precio": 2800.0
           }
         ],
+        "image_name": "Lampara De Kerosene -215.webp",
         "activo": true,
         "idCategoria": 27,
         "idDepartamento": 6,
@@ -66925,6 +67008,7 @@
             "precio": 2500.0
           }
         ],
+        "image_name": "Lampara De Kerosene -235.webp",
         "activo": true,
         "idCategoria": 27,
         "idDepartamento": 6,
@@ -67205,7 +67289,7 @@
           }
         ],
         "stocks": {
-          "103": 0,
+          "103": 1,
           "105": 2
         }
       },
@@ -67276,7 +67360,8 @@
           }
         ],
         "stocks": {
-          "103": 0
+          "103": 0,
+          "105": 2
         }
       },
       {
@@ -67387,7 +67472,7 @@
         ],
         "stocks": {
           "103": 7,
-          "105": 6
+          "105": 24
         }
       },
       {
@@ -67929,7 +68014,7 @@
         ],
         "stocks": {
           "102": 22,
-          "103": 10,
+          "103": 9,
           "105": 14
         }
       },
@@ -68227,7 +68312,7 @@
         ],
         "stocks": {
           "103": 11,
-          "105": 15
+          "105": 13
         }
       },
       {
@@ -68264,7 +68349,7 @@
           }
         ],
         "stocks": {
-          "103": 5,
+          "103": 4,
           "105": 10
         }
       },
@@ -68636,7 +68721,7 @@
         ],
         "stocks": {
           "103": 4,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -68853,7 +68938,7 @@
         ],
         "stocks": {
           "103": 2,
-          "105": 10
+          "105": 8
         }
       },
       {
@@ -68890,7 +68975,7 @@
         ],
         "stocks": {
           "103": 1,
-          "105": 2
+          "105": 0
         }
       },
       {
@@ -68927,7 +69012,7 @@
         ],
         "stocks": {
           "103": 1,
-          "105": 2
+          "105": 0
         }
       },
       {
@@ -69104,7 +69189,7 @@
         ],
         "stocks": {
           "103": 3,
-          "105": 9
+          "105": 8
         }
       },
       {
@@ -69213,7 +69298,7 @@
         "stocks": {
           "102": 6,
           "103": 3,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -69431,7 +69516,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 5
+          "105": 3
         }
       },
       {
@@ -69685,7 +69770,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 8
+          "105": 7
         }
       },
       {
@@ -70149,7 +70234,7 @@
         ],
         "stocks": {
           "103": 2,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -70294,7 +70379,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 9
+          "105": 7
         }
       },
       {
@@ -70389,7 +70474,7 @@
           }
         ],
         "image_name": "TABLA DE PICAR -2002.webp",
-        "activo": false,
+        "activo": true,
         "idCategoria": 94,
         "idDepartamento": 6,
         "movimientos": [],
@@ -70404,6 +70489,7 @@
           }
         ],
         "stocks": {
+          "103": 3,
           "105": 6
         }
       },
@@ -70499,7 +70585,7 @@
             "precio": 1050.0
           }
         ],
-        "activo": false,
+        "activo": true,
         "idCategoria": 94,
         "idDepartamento": 6,
         "movimientos": [],
@@ -70514,7 +70600,8 @@
           }
         ],
         "stocks": {
-          "105": 7
+          "103": 1,
+          "105": 5
         }
       },
       {
@@ -71127,8 +71214,8 @@
           }
         ],
         "stocks": {
-          "103": 0,
-          "105": 8
+          "103": 10,
+          "105": 1
         }
       },
       {
@@ -71310,7 +71397,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 7
+          "105": 4
         }
       },
       {
@@ -71730,6 +71817,7 @@
             "precio": 1600.0
           }
         ],
+        "image_name": "Tenedor 6pcs -267F.webp",
         "activo": true,
         "idCategoria": 23,
         "idDepartamento": 6,
@@ -71785,7 +71873,7 @@
         "stocks": {
           "102": 10,
           "103": 8,
-          "105": 10
+          "105": 9
         }
       },
       {
@@ -71963,7 +72051,8 @@
           }
         ],
         "stocks": {
-          "103": 3
+          "103": 3,
+          "105": 2
         }
       },
       {
@@ -72035,7 +72124,8 @@
           }
         ],
         "stocks": {
-          "103": 0
+          "103": 0,
+          "105": 1
         }
       },
       {
@@ -72092,6 +72182,7 @@
             "precio": 4340.0
           }
         ],
+        "image_name": "TERMO CON CARRIZO 40 ONZAS -768-MIX.webp",
         "activo": false,
         "idCategoria": 73,
         "idDepartamento": 6,
@@ -72108,7 +72199,7 @@
         ],
         "stocks": {
           "102": 8,
-          "105": 6
+          "105": 4
         }
       },
       {
@@ -72436,8 +72527,8 @@
           }
         ],
         "stocks": {
-          "103": 2,
-          "105": 15
+          "103": 14,
+          "105": 13
         }
       },
       {
@@ -72474,7 +72565,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -72511,7 +72602,7 @@
         ],
         "stocks": {
           "103": 8,
-          "105": 10
+          "105": 8
         }
       },
       {
@@ -72699,7 +72790,7 @@
         ],
         "stocks": {
           "103": 48,
-          "105": 12
+          "105": 3
         }
       },
       {
@@ -73214,7 +73305,7 @@
                 "precio": 2520.0
               }
             ],
-            "activo": false,
+            "activo": true,
             "idCategoria": 59,
             "idDepartamento": 7,
             "movimientos": [],
@@ -73229,7 +73320,8 @@
               }
             ],
             "stocks": {
-              "105": 3
+              "103": 2,
+              "105": 1
             }
           },
           {
@@ -73303,7 +73395,7 @@
             ],
             "stocks": {
               "103": 0,
-              "105": 6
+              "105": 1
             }
           },
           {
@@ -74495,7 +74587,7 @@
             ],
             "stocks": {
               "103": 6,
-              "105": 1
+              "105": 0
             }
           },
           {
@@ -74571,7 +74663,7 @@
             ],
             "stocks": {
               "103": 3,
-              "105": 3
+              "105": 2
             }
           },
           {
@@ -74757,7 +74849,7 @@
             ],
             "stocks": {
               "103": 4,
-              "105": 7
+              "105": 6
             }
           },
           {
@@ -74830,7 +74922,7 @@
               }
             ],
             "stocks": {
-              "105": 10
+              "105": 9
             }
           },
           {
@@ -74943,7 +75035,7 @@
             ],
             "stocks": {
               "103": 5,
-              "105": 9
+              "105": 6
             }
           },
           {
@@ -76517,7 +76609,7 @@
         ],
         "stocks": {
           "103": 24,
-          "105": 12
+          "105": 11
         }
       },
       {
@@ -76702,7 +76794,7 @@
         ],
         "stocks": {
           "103": 26,
-          "105": 34
+          "105": 27
         }
       },
       {
@@ -76773,7 +76865,7 @@
           }
         ],
         "stocks": {
-          "103": 2,
+          "103": 1,
           "105": 3
         }
       },
@@ -77021,7 +77113,7 @@
         ],
         "stocks": {
           "102": 11,
-          "103": 9,
+          "103": 8,
           "105": 0
         }
       },
@@ -77057,7 +77149,7 @@
           }
         ],
         "stocks": {
-          "103": 3,
+          "103": 6,
           "105": 3
         }
       },
@@ -77079,7 +77171,7 @@
             "precio": 2520.0
           }
         ],
-        "activo": false,
+        "activo": true,
         "idCategoria": 59,
         "idDepartamento": 7,
         "movimientos": [],
@@ -77094,7 +77186,8 @@
           }
         ],
         "stocks": {
-          "105": 3
+          "103": 2,
+          "105": 1
         }
       },
       {
@@ -77202,7 +77295,7 @@
           }
         ],
         "stocks": {
-          "103": 2,
+          "103": 1,
           "105": 0
         }
       },
@@ -77562,7 +77655,7 @@
           }
         ],
         "stocks": {
-          "103": 16
+          "103": 15
         }
       },
       {
@@ -77882,7 +77975,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 6
+          "105": 1
         }
       },
       {
@@ -79160,7 +79253,7 @@
         ],
         "stocks": {
           "103": 6,
-          "105": 1
+          "105": 0
         }
       },
       {
@@ -79236,7 +79329,7 @@
         ],
         "stocks": {
           "103": 3,
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -79422,7 +79515,7 @@
         ],
         "stocks": {
           "103": 4,
-          "105": 7
+          "105": 6
         }
       },
       {
@@ -79495,7 +79588,7 @@
           }
         ],
         "stocks": {
-          "105": 10
+          "105": 9
         }
       },
       {
@@ -79608,7 +79701,7 @@
         ],
         "stocks": {
           "103": 5,
-          "105": 9
+          "105": 6
         }
       },
       {
@@ -80363,7 +80456,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 2
+          "105": 0
         }
       },
       {
@@ -80854,8 +80947,8 @@
               }
             ],
             "stocks": {
-              "103": 3,
-              "105": 0
+              "103": 27,
+              "105": 46
             }
           }
         ]
@@ -81644,8 +81737,8 @@
             ],
             "stocks": {
               "102": 14,
-              "103": 31,
-              "105": 13
+              "103": 30,
+              "105": 16
             }
           },
           {
@@ -81683,8 +81776,8 @@
             ],
             "stocks": {
               "102": 28,
-              "103": 30,
-              "105": 19
+              "103": 26,
+              "105": 16
             }
           },
           {
@@ -81874,7 +81967,7 @@
               }
             ],
             "stocks": {
-              "103": 5,
+              "103": 4,
               "105": 13
             }
           },
@@ -82023,7 +82116,7 @@
             ],
             "stocks": {
               "103": 7,
-              "105": 2
+              "105": 1
             }
           },
           {
@@ -82245,8 +82338,8 @@
         ],
         "stocks": {
           "102": 14,
-          "103": 31,
-          "105": 13
+          "103": 30,
+          "105": 16
         }
       },
       {
@@ -82284,8 +82377,8 @@
         ],
         "stocks": {
           "102": 28,
-          "103": 30,
-          "105": 19
+          "103": 26,
+          "105": 16
         }
       },
       {
@@ -82347,8 +82440,8 @@
         "etiquetasProductos": [],
         "stocks": {
           "102": 1400,
-          "103": 32,
-          "105": 52
+          "103": 24,
+          "105": 13
         }
       },
       {
@@ -82719,7 +82812,7 @@
         "stocks": {
           "102": 48,
           "103": 14,
-          "105": 31
+          "105": 23
         }
       },
       {
@@ -82755,8 +82848,8 @@
         ],
         "stocks": {
           "102": 24,
-          "103": 8,
-          "105": 4
+          "103": 4,
+          "105": 12
         }
       },
       {
@@ -82792,7 +82885,7 @@
         ],
         "stocks": {
           "102": 15,
-          "103": 10,
+          "103": 45,
           "105": 9
         }
       },
@@ -82907,7 +83000,7 @@
         "stocks": {
           "102": 36,
           "103": 24,
-          "105": 15
+          "105": 14
         }
       },
       {
@@ -83090,8 +83183,8 @@
           }
         ],
         "stocks": {
-          "103": 3,
-          "105": 0
+          "103": 27,
+          "105": 46
         }
       },
       {
@@ -83784,7 +83877,7 @@
         "stocks": {
           "102": 5,
           "103": 27,
-          "105": 17
+          "105": 16
         }
       },
       {
@@ -84142,8 +84235,8 @@
         ],
         "stocks": {
           "102": 80,
-          "103": 22,
-          "105": 28
+          "103": 18,
+          "105": 18
         }
       },
       {
@@ -84178,8 +84271,8 @@
         ],
         "stocks": {
           "102": 71,
-          "103": 33,
-          "105": 27
+          "103": 29,
+          "105": 23
         }
       },
       {
@@ -84391,7 +84484,7 @@
           }
         ],
         "stocks": {
-          "103": 5,
+          "103": 4,
           "105": 13
         }
       },
@@ -84540,7 +84633,7 @@
         ],
         "stocks": {
           "103": 7,
-          "105": 2
+          "105": 1
         }
       },
       {
@@ -84646,7 +84739,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
-          "105": 1
+          "105": 0
         }
       },
       {
@@ -84683,7 +84776,7 @@
         "stocks": {
           "102": 144,
           "103": 90,
-          "105": 45
+          "105": 36
         }
       },
       {
@@ -84721,7 +84814,7 @@
         "stocks": {
           "102": 120,
           "103": 34,
-          "105": 90
+          "105": 86
         }
       },
       {
@@ -84780,6 +84873,7 @@
             "precio": 1700.0
           }
         ],
+        "image_name": "Control Universal -1440.webp",
         "activo": true,
         "idDepartamento": 9,
         "movimientos": [],
@@ -84871,7 +84965,7 @@
         "stocks": {
           "102": 24,
           "103": 17,
-          "105": 5
+          "105": 16
         }
       },
       {
@@ -84927,6 +85021,7 @@
             "precio": 880.0
           }
         ],
+        "image_name": "Folder Con Protector -SF60.webp",
         "activo": true,
         "idDepartamento": 9,
         "movimientos": [],
@@ -84943,7 +85038,7 @@
         "stocks": {
           "102": 11,
           "103": 8,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -85048,7 +85143,7 @@
           }
         ],
         "stocks": {
-          "103": 23,
+          "103": 22,
           "105": 0
         }
       },
@@ -85121,8 +85216,8 @@
         ],
         "stocks": {
           "102": 254,
-          "103": 21,
-          "105": 54
+          "103": 19,
+          "105": 52
         }
       },
       {
@@ -85195,7 +85290,7 @@
         "stocks": {
           "102": 40,
           "103": 12,
-          "105": 40
+          "105": 39
         }
       },
       {
@@ -85302,7 +85397,7 @@
         "stocks": {
           "102": 12,
           "103": 16,
-          "105": 12
+          "105": 19
         }
       },
       {
@@ -85670,6 +85765,7 @@
             "precio": 875.0
           }
         ],
+        "image_name": "Tape Transparente -PVCIT.webp",
         "activo": true,
         "idDepartamento": 9,
         "movimientos": [],
@@ -85686,7 +85782,7 @@
         "stocks": {
           "102": 12,
           "103": 6,
-          "105": 6
+          "105": 3
         }
       },
       {
@@ -85810,7 +85906,7 @@
               }
             ],
             "stocks": {
-              "105": 8
+              "105": 4
             }
           },
           {
@@ -85847,7 +85943,7 @@
               }
             ],
             "stocks": {
-              "105": 28
+              "105": 23
             }
           },
           {
@@ -85884,7 +85980,7 @@
               }
             ],
             "stocks": {
-              "105": 26
+              "105": 24
             }
           },
           {
@@ -85996,7 +86092,7 @@
             ],
             "stocks": {
               "103": 3,
-              "105": 6
+              "105": 5
             }
           },
           {
@@ -86184,8 +86280,8 @@
               }
             ],
             "stocks": {
-              "103": 0,
-              "105": 11
+              "103": 5,
+              "105": 10
             }
           },
           {
@@ -86341,7 +86437,7 @@
             ],
             "stocks": {
               "103": 7,
-              "105": 11
+              "105": 8
             }
           },
           {
@@ -86378,7 +86474,7 @@
             ],
             "stocks": {
               "103": 9,
-              "105": 35
+              "105": 34
             }
           },
           {
@@ -86452,7 +86548,7 @@
             ],
             "stocks": {
               "103": 8,
-              "105": 6
+              "105": 5
             }
           },
           {
@@ -86526,7 +86622,7 @@
             ],
             "stocks": {
               "103": 6,
-              "105": 8
+              "105": 2
             }
           },
           {
@@ -86563,7 +86659,7 @@
             ],
             "stocks": {
               "103": 7,
-              "105": 10
+              "105": 6
             }
           },
           {
@@ -86600,7 +86696,7 @@
             ],
             "stocks": {
               "103": 12,
-              "105": 8
+              "105": 2
             }
           },
           {
@@ -86637,7 +86733,7 @@
             ],
             "stocks": {
               "103": 0,
-              "105": 2
+              "105": 0
             }
           },
           {
@@ -86782,7 +86878,7 @@
               }
             ],
             "stocks": {
-              "105": 8
+              "105": 6
             }
           },
           {
@@ -86854,7 +86950,7 @@
               }
             ],
             "stocks": {
-              "105": 6
+              "105": 0
             }
           }
         ]
@@ -87531,7 +87627,7 @@
             ],
             "stocks": {
               "103": 4,
-              "105": 9
+              "105": 5
             }
           },
           {
@@ -88019,6 +88115,7 @@
                 "precio": 160.0
               }
             ],
+            "image_name": "Mesa Plegable De Domino -3134.jpg",
             "activo": true,
             "idCategoria": 87,
             "idDepartamento": 10,
@@ -88086,7 +88183,7 @@
             ],
             "stocks": {
               "103": 1,
-              "105": 3
+              "105": 2
             }
           },
           {
@@ -88160,7 +88257,7 @@
             ],
             "stocks": {
               "103": 0,
-              "105": 1
+              "105": 0
             }
           },
           {
@@ -88197,7 +88294,7 @@
             ],
             "stocks": {
               "103": 0,
-              "105": 2
+              "105": 1
             }
           },
           {
@@ -88460,7 +88557,7 @@
             ],
             "stocks": {
               "103": 0,
-              "105": 8
+              "105": 11
             }
           },
           {
@@ -88720,7 +88817,7 @@
             ],
             "stocks": {
               "103": 1,
-              "105": 9
+              "105": 7
             }
           },
           {
@@ -88796,7 +88893,7 @@
             ],
             "stocks": {
               "103": 1,
-              "105": 4
+              "105": 3
             }
           },
           {
@@ -88834,7 +88931,7 @@
             ],
             "stocks": {
               "103": 0,
-              "105": 0
+              "105": 21
             }
           },
           {
@@ -89060,7 +89157,7 @@
             ],
             "stocks": {
               "103": 3,
-              "105": 26
+              "105": 20
             }
           },
           {
@@ -89573,7 +89670,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
-              "105": 12
+              "105": 10
             }
           },
           {
@@ -89636,7 +89733,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
-              "105": 2
+              "105": 0
             }
           },
           {
@@ -89827,7 +89924,7 @@
               }
             ],
             "stocks": {
-              "103": 13,
+              "103": 19,
               "105": 0
             }
           },
@@ -89865,7 +89962,7 @@
               }
             ],
             "stocks": {
-              "103": 12,
+              "103": 17,
               "105": 0
             }
           },
@@ -89903,7 +90000,7 @@
               }
             ],
             "stocks": {
-              "103": 3,
+              "103": 9,
               "105": 0
             }
           },
@@ -90240,7 +90337,7 @@
               }
             ],
             "stocks": {
-              "105": 2
+              "105": 1
             }
           },
           {
@@ -90422,7 +90519,7 @@
         ],
         "stocks": {
           "103": 1,
-          "105": 3
+          "105": 2
         }
       },
       {
@@ -90496,7 +90593,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 1
+          "105": 0
         }
       },
       {
@@ -90533,7 +90630,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 2
+          "105": 1
         }
       },
       {
@@ -90796,7 +90893,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 8
+          "105": 11
         }
       },
       {
@@ -91056,7 +91153,7 @@
         ],
         "stocks": {
           "103": 1,
-          "105": 9
+          "105": 7
         }
       },
       {
@@ -91132,7 +91229,7 @@
         ],
         "stocks": {
           "103": 1,
-          "105": 4
+          "105": 3
         }
       },
       {
@@ -91170,7 +91267,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 0
+          "105": 21
         }
       },
       {
@@ -91396,7 +91493,7 @@
         ],
         "stocks": {
           "103": 3,
-          "105": 26
+          "105": 20
         }
       },
       {
@@ -91583,7 +91680,7 @@
           }
         ],
         "stocks": {
-          "105": 8
+          "105": 4
         }
       },
       {
@@ -91620,7 +91717,7 @@
           }
         ],
         "stocks": {
-          "105": 28
+          "105": 23
         }
       },
       {
@@ -91657,7 +91754,7 @@
           }
         ],
         "stocks": {
-          "105": 26
+          "105": 24
         }
       },
       {
@@ -91988,7 +92085,7 @@
         "stocks": {
           "102": 1,
           "103": 2,
-          "105": 1
+          "105": 0
         }
       },
       {
@@ -92137,7 +92234,7 @@
         ],
         "stocks": {
           "103": 3,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -92325,7 +92422,7 @@
         ],
         "stocks": {
           "103": 7,
-          "105": 11
+          "105": 8
         }
       },
       {
@@ -92362,7 +92459,7 @@
         ],
         "stocks": {
           "103": 9,
-          "105": 35
+          "105": 34
         }
       },
       {
@@ -92436,7 +92533,7 @@
         ],
         "stocks": {
           "103": 8,
-          "105": 6
+          "105": 5
         }
       },
       {
@@ -92510,7 +92607,7 @@
         ],
         "stocks": {
           "103": 6,
-          "105": 8
+          "105": 2
         }
       },
       {
@@ -92547,7 +92644,7 @@
         ],
         "stocks": {
           "103": 7,
-          "105": 10
+          "105": 6
         }
       },
       {
@@ -92584,7 +92681,7 @@
         ],
         "stocks": {
           "103": 12,
-          "105": 8
+          "105": 2
         }
       },
       {
@@ -92621,7 +92718,7 @@
         ],
         "stocks": {
           "103": 0,
-          "105": 2
+          "105": 0
         }
       },
       {
@@ -92766,7 +92863,7 @@
           }
         ],
         "stocks": {
-          "105": 8
+          "105": 6
         }
       },
       {
@@ -92838,7 +92935,7 @@
           }
         ],
         "stocks": {
-          "105": 6
+          "105": 0
         }
       },
       {
@@ -92948,8 +93045,8 @@
           }
         ],
         "stocks": {
-          "103": 0,
-          "105": 11
+          "103": 5,
+          "105": 10
         }
       },
       {
@@ -93612,7 +93709,7 @@
         ],
         "stocks": {
           "103": 4,
-          "105": 9
+          "105": 5
         }
       },
       {
@@ -94199,6 +94296,7 @@
             "precio": 160.0
           }
         ],
+        "image_name": "Mesa Plegable De Domino -3134.jpg",
         "activo": true,
         "idCategoria": 87,
         "idDepartamento": 10,
@@ -94504,7 +94602,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
-          "105": 12
+          "105": 10
         }
       },
       {
@@ -94567,7 +94665,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
-          "105": 2
+          "105": 0
         }
       },
       {
@@ -94751,7 +94849,7 @@
           }
         ],
         "stocks": {
-          "103": 13,
+          "103": 19,
           "105": 0
         }
       },
@@ -94789,7 +94887,7 @@
           }
         ],
         "stocks": {
-          "103": 12,
+          "103": 17,
           "105": 0
         }
       },
@@ -94827,7 +94925,7 @@
           }
         ],
         "stocks": {
-          "103": 3,
+          "103": 9,
           "105": 0
         }
       },
@@ -95256,7 +95354,7 @@
           }
         ],
         "stocks": {
-          "105": 2
+          "105": 1
         }
       },
       {
