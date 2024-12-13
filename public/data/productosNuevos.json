@@ -18,6 +18,7 @@
       }
     ],
     "image_name": "BOMBA DE AGUA 1\u00262 HP -TR-60.webp",
+    "ipv": true,
     "activo": true,
     "idDepartamento": 2,
     "movimientos": [],
@@ -61,7 +62,8 @@
       }
     ],
     "image_name": "CORTAGRAMA GASOLINA 1600W -1820.png",
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
@@ -103,6 +105,7 @@
       }
     ],
     "image_name": "Jgo De Domino -3213.jpg",
+    "ipv": true,
     "activo": true,
     "idDepartamento": 7,
     "movimientos": [],
@@ -137,7 +140,8 @@
         "precio": 57750.0
       }
     ],
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idCategoria": 87,
     "idDepartamento": 10,
     "movimientos": [],
@@ -184,7 +188,8 @@
         "precio": 28000.0
       }
     ],
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idCategoria": 87,
     "idDepartamento": 10,
     "movimientos": [],
@@ -238,6 +243,7 @@
       }
     ],
     "image_name": "Mesa Plegable De Domino -3134.jpg",
+    "ipv": true,
     "activo": true,
     "idCategoria": 87,
     "idDepartamento": 10,
@@ -264,48 +270,6 @@
     }
   },
   {
-    "idProducto": 390,
-    "codigo": "5001",
-    "descripcion": "Pulidora 1300w",
-    "precio": {
-      "idPrecio": 951,
-      "idProducto": 390,
-      "idMoneda": 1,
-      "precio": 21000.0
-    },
-    "precios": [
-      {
-        "idPrecio": 951,
-        "idProducto": 390,
-        "idMoneda": 1,
-        "precio": 21000.0
-      }
-    ],
-    "activo": true,
-    "idDepartamento": 2,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 33,
-        "idEtiqueta": 7,
-        "idProducto": 390
-      }
-    ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
-    "stocks": {
-      "103": 1,
-      "105": 0
-    }
-  },
-  {
     "idProducto": 1021,
     "codigo": "8374",
     "descripcion": "Sandwichera",
@@ -329,7 +293,8 @@
         "precio": 20.0
       }
     ],
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idCategoria": 63,
     "idDepartamento": 3,
     "movimientos": [],
@@ -378,6 +343,7 @@
       }
     ],
     "image_name": "Sandwichera -8457.jpg",
+    "ipv": true,
     "activo": true,
     "idCategoria": 63,
     "idDepartamento": 3,
@@ -429,7 +395,8 @@
       }
     ],
     "image_name": "Sandwichera -8507.jpg",
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idCategoria": 63,
     "idDepartamento": 3,
     "movimientos": [],
@@ -479,6 +446,7 @@
       }
     ],
     "image_name": "SANDWICHERA -8458.jpg",
+    "ipv": true,
     "activo": true,
     "idCategoria": 63,
     "idDepartamento": 3,
@@ -530,6 +498,7 @@
       }
     ],
     "image_name": "TV 43\u0026 FHD Smart -8727.jpg",
+    "ipv": true,
     "activo": true,
     "idCategoria": 64,
     "idDepartamento": 3,
@@ -597,7 +566,8 @@
       }
     ],
     "image_name": "TV 50\u0026 UHD SMART -8382.jpg",
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idCategoria": 64,
     "idDepartamento": 3,
     "movimientos": [],
@@ -651,7 +621,8 @@
       }
     ],
     "image_name": "TV 60\u0026 UHD SMART -8450.jpg",
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idCategoria": 64,
     "idDepartamento": 3,
     "movimientos": [],
@@ -705,7 +676,8 @@
       }
     ],
     "image_name": "TV 70\u0026 UHD SMART -8452.jpg",
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idCategoria": 64,
     "idDepartamento": 3,
     "movimientos": [],

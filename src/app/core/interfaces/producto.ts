@@ -30,6 +30,7 @@ export interface Producto {
     precio: Precio;
     precios: Precio[];
     image_name?: string;
+    ipv: boolean;
     activo: boolean;
     idCategoria?: number;
     idDepartamento: number;

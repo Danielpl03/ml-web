@@ -17,6 +17,7 @@
         "precio": 1400.0
       }
     ],
+    "ipv": true,
     "activo": true,
     "idDepartamento": 7,
     "movimientos": [],
@@ -66,7 +67,8 @@
         "precio": 96250.0
       }
     ],
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idCategoria": 60,
     "idDepartamento": 2,
     "movimientos": [],
@@ -115,7 +117,8 @@
         "precio": 275.7143
       }
     ],
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idCategoria": 60,
     "idDepartamento": 2,
     "movimientos": [],
@@ -158,6 +161,7 @@
         "precio": 15050.0
       }
     ],
+    "ipv": true,
     "activo": true,
     "idCategoria": 34,
     "idDepartamento": 6,
@@ -203,6 +207,7 @@
       }
     ],
     "image_name": "Capote P\u0026adulto -RC1000.webp",
+    "ipv": true,
     "activo": true,
     "idDepartamento": 8,
     "movimientos": [],
@@ -248,7 +253,8 @@
       }
     ],
     "image_name": "CASA DE JGO INFANTIL -561.jpg",
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
@@ -291,6 +297,7 @@
       }
     ],
     "image_name": "COLGADOR DE ROPA -CR01.jpeg",
+    "ipv": true,
     "activo": true,
     "idDepartamento": 10,
     "movimientos": [],
@@ -336,6 +343,7 @@
       }
     ],
     "image_name": "ESCOBA CANDY -ESC002.webp",
+    "ipv": true,
     "activo": true,
     "idDepartamento": 6,
     "movimientos": [],
@@ -380,6 +388,7 @@
         "precio": 26250.0
       }
     ],
+    "ipv": true,
     "activo": true,
     "idCategoria": 38,
     "idDepartamento": 6,
@@ -424,6 +433,7 @@
       }
     ],
     "image_name": "Espejo Decorativo -5048.jpg",
+    "ipv": true,
     "activo": true,
     "idCategoria": 38,
     "idDepartamento": 6,
@@ -468,7 +478,8 @@
         "precio": 35000.0
       }
     ],
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
@@ -510,7 +521,8 @@
         "precio": 50050.0
       }
     ],
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
@@ -553,7 +565,8 @@
       }
     ],
     "image_name": "JGO MARTILLO Y EXTRACTOR P\u0026AUTO -JUH801.jpg",
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
@@ -594,7 +607,8 @@
         "precio": 25200.0
       }
     ],
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idCategoria": 26,
     "idDepartamento": 6,
     "movimientos": [],
@@ -644,6 +658,7 @@
       }
     ],
     "image_name": "Olla a presion Automatica -ML-OPM-6L.jpg",
+    "ipv": true,
     "activo": true,
     "idCategoria": 56,
     "idDepartamento": 3,
@@ -687,7 +702,8 @@
         "precio": 30800.0
       }
     ],
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
@@ -730,6 +746,7 @@
       }
     ],
     "image_name": "Plato Hondo De Metal -SP24.jpeg",
+    "ipv": true,
     "activo": true,
     "idCategoria": 61,
     "idDepartamento": 6,
@@ -781,7 +798,8 @@
       }
     ],
     "image_name": "RELOJ SMART WATCH -8474B.jpg",
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idDepartamento": 9,
     "movimientos": [],
     "etiquetasProductos": [
@@ -830,7 +848,8 @@
       }
     ],
     "image_name": "RELOJ SMART WATCH -8474L.webp",
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idDepartamento": 9,
     "movimientos": [],
     "etiquetasProductos": [
@@ -871,7 +890,8 @@
         "precio": 850.0
       }
     ],
-    "activo": true,
+    "ipv": true,
+    "activo": false,
     "idDepartamento": 4,
     "movimientos": [],
     "etiquetasProductos": [
@@ -913,6 +933,7 @@
         "precio": 5250.0
       }
     ],
+    "ipv": true,
     "activo": true,
     "idDepartamento": 7,
     "movimientos": [],
@@ -963,6 +984,7 @@
       }
     ],
     "image_name": "Split 12000 BTU.jpg",
+    "ipv": true,
     "activo": true,
     "idDepartamento": 3,
     "movimientos": [],
@@ -1006,6 +1028,7 @@
         "precio": 9800.0
       }
     ],
+    "ipv": true,
     "activo": true,
     "idCategoria": 98,
     "idDepartamento": 10,
@@ -1050,6 +1073,7 @@
         "precio": 12250.0
       }
     ],
+    "ipv": true,
     "activo": true,
     "idCategoria": 98,
     "idDepartamento": 10,
@@ -1094,6 +1118,7 @@
         "precio": 12250.0
       }
     ],
+    "ipv": true,
     "activo": true,
     "idCategoria": 98,
     "idDepartamento": 10,
@@ -1139,7 +1164,8 @@
         "precio": 7000.0
       }
     ],
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idCategoria": 98,
     "idDepartamento": 10,
     "movimientos": [],
@@ -1189,7 +1215,8 @@
         "precio": 200.0
       }
     ],
-    "activo": false,
+    "ipv": false,
+    "activo": true,
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
@@ -1238,6 +1265,7 @@
       }
     ],
     "image_name": "TV 32\u0026 HD SMART -8764.jpg",
+    "ipv": true,
     "activo": true,
     "idCategoria": 64,
     "idDepartamento": 3,
@@ -1295,6 +1323,7 @@
       }
     ],
     "image_name": "TV 43\u0026 FHD Smart -8727.jpg",
+    "ipv": true,
     "activo": true,
     "idCategoria": 64,
     "idDepartamento": 3,
@@ -1355,6 +1384,7 @@
         "precio": 350.0
       }
     ],
+    "ipv": true,
     "activo": true,
     "idCategoria": 25,
     "idDepartamento": 6,
@@ -1406,6 +1436,7 @@
       }
     ],
     "image_name": "Ventilador Pedestal -S118.jpeg",
+    "ipv": true,
     "activo": true,
     "idCategoria": 35,
     "idDepartamento": 3,
