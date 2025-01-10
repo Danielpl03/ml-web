@@ -109,17 +109,17 @@ export class ProductosService{
     const productos: Producto[] = await res.json();
 
 
-    const productosFiltrados = productos.filter(producto => {
-      if (producto.stocks) {
-        for (let index = 0; index < this.localidades.length; index++) {
-          const element = producto.stocks[this.localidades[index]];
-          if (element > 0) return true;
-        }
-      }
-      return false;
-    })
+    // const productosFiltrados = productos.filter(producto => {
+    //   if (producto.stocks) {
+    //     for (let index = 0; index < this.localidades.length; index++) {
+    //       const element = producto.stocks[this.localidades[index]];
+    //       if (element > 0) return true;
+    //     }
+    //   }
+    //   return false;
+    // })
 
-    return productosFiltrados;
+    return productos;
   }
 
 

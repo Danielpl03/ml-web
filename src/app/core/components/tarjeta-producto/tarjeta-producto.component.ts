@@ -52,7 +52,7 @@ export class TarjetaProductoComponent{
     if (this.producto.stocks) {
       for (let index = 0; index < this.localidades.length; index++) {
         const element = this.producto.stocks[this.localidades[index]];
-        if (element > 0) return true;
+        if (element > 0 || this.producto.etiquetasProductos != null && this.producto.etiquetasProductos.filter(ep => ep.idEtiqueta==7)) return true;
       }
 
     }

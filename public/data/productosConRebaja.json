@@ -19,6 +19,7 @@
     ],
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
@@ -29,18 +30,9 @@
         "valor": "1400"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "103": 3,
-      "105": 8
+      "103": 2,
+      "105": 4
     }
   },
   {
@@ -69,6 +61,7 @@
     ],
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idCategoria": 60,
     "idDepartamento": 2,
     "movimientos": [],
@@ -78,15 +71,6 @@
         "idEtiqueta": 8,
         "idProducto": 686,
         "valor": "96500"
-      }
-    ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
       }
     ],
     "stocks": {
@@ -119,6 +103,7 @@
     ],
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idCategoria": 60,
     "idDepartamento": 2,
     "movimientos": [],
@@ -130,18 +115,106 @@
         "valor": "96500.0"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
       "105": 1
     }
+  },
+  {
+    "idProducto": 2114,
+    "codigo": "8514",
+    "descripcion": "BOCINA 12\"",
+    "precio": {
+      "idPrecio": 1588,
+      "idProducto": 2114,
+      "idMoneda": 1,
+      "precio": 35000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1608,
+        "idProducto": 2114,
+        "idMoneda": 2,
+        "precio": 110.0
+      },
+      {
+        "idPrecio": 1588,
+        "idProducto": 2114,
+        "idMoneda": 1,
+        "precio": 35000.0
+      }
+    ],
+    "image_name": "BOCINA 12\u0026 -8514.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 333,
+        "idEtiqueta": 7,
+        "idProducto": 2114,
+        "valor": "10/01"
+      },
+      {
+        "idRelacion": 293,
+        "idEtiqueta": 8,
+        "idProducto": 2114,
+        "valor": "38500.0"
+      }
+    ],
+    "stocks": {
+      "103": 0,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 1015,
+    "codigo": "7867",
+    "descripcion": "BOCINA 15\"",
+    "precio": {
+      "idPrecio": 130,
+      "idProducto": 1015,
+      "idMoneda": 1,
+      "precio": 52500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1319,
+        "idProducto": 1015,
+        "idMoneda": 2,
+        "precio": 160.0
+      },
+      {
+        "idPrecio": 130,
+        "idProducto": 1015,
+        "idMoneda": 1,
+        "precio": 52500.0
+      }
+    ],
+    "image_name": "BOCINA 15\u0026 -7867.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 334,
+        "idEtiqueta": 7,
+        "idProducto": 1015,
+        "valor": "10/01"
+      },
+      {
+        "idRelacion": 292,
+        "idEtiqueta": 8,
+        "idProducto": 1015,
+        "valor": "56000.0"
+      }
+    ],
+    "stocks": {}
   },
   {
     "idProducto": 89,
@@ -163,6 +236,7 @@
     ],
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idCategoria": 34,
     "idDepartamento": 6,
     "movimientos": [],
@@ -172,15 +246,6 @@
         "idEtiqueta": 8,
         "idProducto": 89,
         "valor": "15100"
-      }
-    ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
       }
     ],
     "stocks": {
@@ -209,6 +274,7 @@
     "image_name": "Capote P\u0026adulto -RC1000.webp",
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idDepartamento": 8,
     "movimientos": [],
     "etiquetasProductos": [
@@ -219,19 +285,9 @@
         "valor": "350"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "102": 14,
-      "103": 41,
-      "105": 18
+      "103": 40,
+      "105": 10
     }
   },
   {
@@ -255,6 +311,7 @@
     "image_name": "CASA DE JGO INFANTIL -561.jpg",
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
@@ -265,17 +322,8 @@
         "valor": "59500"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -299,6 +347,7 @@
     "image_name": "COLGADOR DE ROPA -CR01.jpeg",
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
@@ -309,19 +358,9 @@
         "valor": "7000"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "102": 1,
       "103": 2,
-      "105": 0
+      "105": 2
     }
   },
   {
@@ -345,6 +384,7 @@
     "image_name": "ESCOBA CANDY -ESC002.webp",
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
@@ -355,19 +395,9 @@
         "valor": "1500"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "102": 44,
-      "103": 13,
-      "105": 18
+      "103": 15,
+      "105": 10
     }
   },
   {
@@ -390,6 +420,7 @@
     ],
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idCategoria": 38,
     "idDepartamento": 6,
     "movimientos": [],
@@ -399,15 +430,6 @@
         "idEtiqueta": 8,
         "idProducto": 171,
         "valor": "26300"
-      }
-    ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
       }
     ],
     "stocks": {
@@ -433,8 +455,9 @@
       }
     ],
     "image_name": "Espejo Decorativo -5048.jpg",
-    "ipv": true,
+    "ipv": false,
     "activo": true,
+    "combo": false,
     "idCategoria": 38,
     "idDepartamento": 6,
     "movimientos": [],
@@ -446,18 +469,83 @@
         "valor": "26300"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
       "103": 0,
       "105": 0
+    }
+  },
+  {
+    "idProducto": 178,
+    "codigo": "7359",
+    "descripcion": "Estufa Gas 3Q",
+    "precio": {
+      "idPrecio": 445,
+      "idProducto": 178,
+      "idMoneda": 1,
+      "precio": 15750.0
+    },
+    "precios": [
+      {
+        "idPrecio": 445,
+        "idProducto": 178,
+        "idMoneda": 1,
+        "precio": 15750.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 39,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 290,
+        "idEtiqueta": 8,
+        "idProducto": 178,
+        "valor": "18200.0"
+      }
+    ],
+    "stocks": {
+      "103": 12,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 2259,
+    "codigo": "G03B",
+    "descripcion": "ESTUFA GAS 3Q",
+    "precio": {
+      "idPrecio": 1765,
+      "idProducto": 2259,
+      "idMoneda": 1,
+      "precio": 15750.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1765,
+        "idProducto": 2259,
+        "idMoneda": 1,
+        "precio": 15750.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 39,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 289,
+        "idEtiqueta": 8,
+        "idProducto": 2259,
+        "valor": "18200.0"
+      }
+    ],
+    "stocks": {
+      "103": 6,
+      "105": 4
     }
   },
   {
@@ -480,6 +568,7 @@
     ],
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
@@ -488,15 +577,6 @@
         "idEtiqueta": 8,
         "idProducto": 756,
         "valor": "35000"
-      }
-    ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
       }
     ],
     "stocks": {
@@ -523,6 +603,7 @@
     ],
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
@@ -531,15 +612,6 @@
         "idEtiqueta": 8,
         "idProducto": 757,
         "valor": "50200"
-      }
-    ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
       }
     ],
     "stocks": {
@@ -567,6 +639,7 @@
     "image_name": "JGO MARTILLO Y EXTRACTOR P\u0026AUTO -JUH801.jpg",
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
@@ -575,15 +648,6 @@
         "idEtiqueta": 8,
         "idProducto": 784,
         "valor": "32000"
-      }
-    ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
       }
     ],
     "stocks": {
@@ -609,6 +673,7 @@
     ],
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idCategoria": 26,
     "idDepartamento": 6,
     "movimientos": [],
@@ -620,17 +685,82 @@
         "valor": "25000"
       }
     ],
-    "descuentos": [
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 1784,
+    "codigo": "1725",
+    "descripcion": "LIMPIONES 30x30CM",
+    "precio": {
+      "idPrecio": 767,
+      "idProducto": 1784,
+      "idMoneda": 1,
+      "precio": 175.0
+    },
+    "precios": [
       {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
+        "idPrecio": 767,
+        "idProducto": 1784,
+        "idMoneda": 1,
+        "precio": 175.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 85,
+    "idDepartamento": 8,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 265,
+        "idEtiqueta": 8,
+        "idProducto": 1784,
+        "valor": "2100.0"
       }
     ],
     "stocks": {
-      "105": 3
+      "103": 24,
+      "105": 36
+    }
+  },
+  {
+    "idProducto": 1898,
+    "codigo": "3058",
+    "descripcion": "LINTERNA MULTIF. RECARGABLE",
+    "precio": {
+      "idPrecio": 682,
+      "idProducto": 1898,
+      "idMoneda": 1,
+      "precio": 2800.0
+    },
+    "precios": [
+      {
+        "idPrecio": 682,
+        "idProducto": 1898,
+        "idMoneda": 1,
+        "precio": 2800.0
+      }
+    ],
+    "image_name": "LINTERNA MULTIF. RECARGABLE -3058.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 287,
+        "idEtiqueta": 8,
+        "idProducto": 1898,
+        "valor": "3600.0"
+      }
+    ],
+    "stocks": {
+      "103": 7,
+      "105": 7
     }
   },
   {
@@ -645,21 +775,22 @@
     },
     "precios": [
       {
-        "idPrecio": 808,
-        "idProducto": 1821,
-        "idMoneda": 1,
-        "precio": 28000.0
-      },
-      {
         "idPrecio": 1358,
         "idProducto": 1821,
         "idMoneda": 2,
         "precio": 80.0
+      },
+      {
+        "idPrecio": 808,
+        "idProducto": 1821,
+        "idMoneda": 1,
+        "precio": 28000.0
       }
     ],
     "image_name": "Olla a presion Automatica -ML-OPM-6L.jpg",
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idCategoria": 56,
     "idDepartamento": 3,
     "movimientos": [],
@@ -669,24 +800,59 @@
         "idEtiqueta": 8,
         "idProducto": 1821,
         "valor": "28000"
-      }
-    ],
-    "descuentos": [
+      },
       {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
+        "idRelacion": 233,
+        "idEtiqueta": 8,
+        "idProducto": 1821,
+        "valor": "28000.0"
       }
     ],
     "stocks": {
-      "103": 7,
-      "105": 27
+      "103": 3,
+      "105": 76
+    }
+  },
+  {
+    "idProducto": 1913,
+    "codigo": "2023",
+    "descripcion": "PARAGUAS AUTO NEGRO Y AZUL",
+    "precio": {
+      "idPrecio": 837,
+      "idProducto": 1913,
+      "idMoneda": 1,
+      "precio": 2500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 837,
+        "idProducto": 1913,
+        "idMoneda": 1,
+        "precio": 2500.0
+      }
+    ],
+    "image_name": "PARAGUAS AUTO NEGRO Y AZUL -2023.webp",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 78,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 319,
+        "idEtiqueta": 8,
+        "idProducto": 1913,
+        "valor": "2800.0"
+      }
+    ],
+    "stocks": {
+      "105": 13
     }
   },
   {
     "idProducto": 819,
+    "codigo": "DLP-148",
     "descripcion": "PATINETA DE MECANICO",
     "precio": {
       "idPrecio": 852,
@@ -704,6 +870,7 @@
     ],
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
@@ -712,15 +879,6 @@
         "idEtiqueta": 8,
         "idProducto": 819,
         "valor": "31000"
-      }
-    ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
       }
     ],
     "stocks": {
@@ -748,6 +906,7 @@
     "image_name": "Plato Hondo De Metal -SP24.jpeg",
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idCategoria": 61,
     "idDepartamento": 6,
     "movimientos": [],
@@ -759,18 +918,9 @@
         "valor": "500"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "103": 9,
-      "105": 33
+      "103": 15,
+      "105": 8
     }
   },
   {
@@ -800,6 +950,7 @@
     "image_name": "RELOJ SMART WATCH -8474B.jpg",
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idDepartamento": 9,
     "movimientos": [],
     "etiquetasProductos": [
@@ -808,15 +959,6 @@
         "idEtiqueta": 8,
         "idProducto": 850,
         "valor": "30000"
-      }
-    ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
       }
     ],
     "stocks": {
@@ -847,9 +989,10 @@
         "precio": 60.0
       }
     ],
-    "image_name": "RELOJ SMART WATCH -8474L.webp",
+    "image_name": "RELOJ SMART WATCH -8474L.jpg",
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idDepartamento": 9,
     "movimientos": [],
     "etiquetasProductos": [
@@ -860,17 +1003,89 @@
         "valor": "30000"
       }
     ],
-    "descuentos": [
+    "stocks": {
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 411,
+    "codigo": "1644",
+    "descripcion": "Rollo Cesped",
+    "precio": {
+      "idPrecio": 996,
+      "idProducto": 411,
+      "idMoneda": 1,
+      "precio": 14000.0
+    },
+    "precios": [
       {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
+        "idPrecio": 996,
+        "idProducto": 411,
+        "idMoneda": 1,
+        "precio": 14000.0
+      }
+    ],
+    "image_name": "Rollo Cesped -1644.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 341,
+        "idEtiqueta": 7,
+        "idProducto": 411,
+        "valor": "10/01"
+      },
+      {
+        "idRelacion": 291,
+        "idEtiqueta": 8,
+        "idProducto": 411,
+        "valor": "15000.0"
       }
     ],
     "stocks": {
-      "105": 6
+      "103": 0,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 1928,
+    "codigo": "LIST-467",
+    "descripcion": "ROMPECABEZAS",
+    "precio": {
+      "idPrecio": 1004,
+      "idProducto": 1928,
+      "idMoneda": 1,
+      "precio": 1750.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1004,
+        "idProducto": 1928,
+        "idMoneda": 1,
+        "precio": 1750.0
+      }
+    ],
+    "image_name": "ROMPECABEZAS -LIST-467.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 62,
+    "idDepartamento": 7,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 288,
+        "idEtiqueta": 8,
+        "idProducto": 1928,
+        "valor": "10500.0"
+      }
+    ],
+    "stocks": {
+      "103": 3,
+      "105": 11
     }
   },
   {
@@ -891,7 +1106,8 @@
       }
     ],
     "ipv": true,
-    "activo": false,
+    "activo": true,
+    "combo": false,
     "idDepartamento": 4,
     "movimientos": [],
     "etiquetasProductos": [
@@ -902,17 +1118,45 @@
         "valor": "850"
       }
     ],
-    "descuentos": [
+    "stocks": {
+      "103": 18
+    }
+  },
+  {
+    "idProducto": 1626,
+    "codigo": "9957",
+    "descripcion": "Scooter",
+    "precio": {
+      "idPrecio": 1057,
+      "idProducto": 1626,
+      "idMoneda": 1,
+      "precio": 8750.0
+    },
+    "precios": [
       {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
+        "idPrecio": 1057,
+        "idProducto": 1626,
+        "idMoneda": 1,
+        "precio": 8750.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 58,
+    "idDepartamento": 7,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 232,
+        "idEtiqueta": 8,
+        "idProducto": 1626,
+        "valor": "8750.0"
       }
     ],
     "stocks": {
-      "103": 13
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -935,6 +1179,7 @@
     ],
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
@@ -945,17 +1190,7 @@
         "valor": "5300"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "102": 2,
       "103": 1,
       "105": 1
     }
@@ -986,6 +1221,7 @@
     "image_name": "Split 12000 BTU.jpg",
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idDepartamento": 3,
     "movimientos": [],
     "etiquetasProductos": [
@@ -996,18 +1232,9 @@
         "valor": "129500"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
       "103": 3,
-      "105": 1
+      "105": 6
     }
   },
   {
@@ -1030,6 +1257,7 @@
     ],
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idCategoria": 98,
     "idDepartamento": 10,
     "movimientos": [],
@@ -1041,18 +1269,9 @@
         "valor": "9800"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -1075,6 +1294,7 @@
     ],
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idCategoria": 98,
     "idDepartamento": 10,
     "movimientos": [],
@@ -1086,18 +1306,9 @@
         "valor": "12250"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
       "103": 2,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -1120,6 +1331,7 @@
     ],
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idCategoria": 98,
     "idDepartamento": 10,
     "movimientos": [],
@@ -1131,18 +1343,8 @@
         "valor": "12250"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "102": 3,
-      "103": 2,
+      "103": 1,
       "105": 1
     }
   },
@@ -1154,18 +1356,19 @@
       "idPrecio": 1476,
       "idProducto": 2002,
       "idMoneda": 1,
-      "precio": 7000.0
+      "precio": 8750.0
     },
     "precios": [
       {
         "idPrecio": 1476,
         "idProducto": 2002,
         "idMoneda": 1,
-        "precio": 7000.0
+        "precio": 8750.0
       }
     ],
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idCategoria": 98,
     "idDepartamento": 10,
     "movimientos": [],
@@ -1177,17 +1380,7 @@
         "valor": "8750"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "102": 4,
       "105": 1
     }
   },
@@ -1217,6 +1410,7 @@
     ],
     "ipv": false,
     "activo": true,
+    "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
@@ -1225,15 +1419,6 @@
         "idEtiqueta": 8,
         "idProducto": 942,
         "valor": "84000"
-      }
-    ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
       }
     ],
     "stocks": {
@@ -1267,6 +1452,7 @@
     "image_name": "TV 32\u0026 HD SMART -8764.jpg",
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idCategoria": 64,
     "idDepartamento": 3,
     "movimientos": [],
@@ -1283,19 +1469,9 @@
         "valor": "85750"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "102": 3,
-      "103": 2,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -1325,6 +1501,7 @@
     "image_name": "TV 43\u0026 FHD Smart -8727.jpg",
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idCategoria": 64,
     "idDepartamento": 3,
     "movimientos": [],
@@ -1340,29 +1517,52 @@
         "idProducto": 1199
       },
       {
-        "idRelacion": 35,
-        "idEtiqueta": 7,
-        "idProducto": 1199
-      },
-      {
         "idRelacion": 47,
         "idEtiqueta": 8,
         "idProducto": 1199,
         "valor": "143500"
       }
     ],
-    "descuentos": [
+    "stocks": {
+      "103": 3,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 510,
+    "codigo": "BG8",
+    "descripcion": "Vaso Metalico 8x12CM",
+    "precio": {
+      "idPrecio": 1276,
+      "idProducto": 510,
+      "idMoneda": 1,
+      "precio": 300.0
+    },
+    "precios": [
       {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
+        "idPrecio": 1276,
+        "idProducto": 510,
+        "idMoneda": 1,
+        "precio": 300.0
+      }
+    ],
+    "image_name": "Vaso Metalico 8x12CM -BG8.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 25,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 286,
+        "idEtiqueta": 8,
+        "idProducto": 510,
+        "valor": "350.0"
       }
     ],
     "stocks": {
-      "102": 1,
-      "103": 3,
+      "103": 31,
       "105": 1
     }
   },
@@ -1386,6 +1586,7 @@
     ],
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idCategoria": 25,
     "idDepartamento": 6,
     "movimientos": [],
@@ -1397,18 +1598,9 @@
         "valor": "2000.0"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
-      "103": 48,
-      "105": 3
+      "103": 24,
+      "105": 23
     }
   },
   {
@@ -1438,6 +1630,7 @@
     "image_name": "Ventilador Pedestal -S118.jpeg",
     "ipv": true,
     "activo": true,
+    "combo": false,
     "idCategoria": 35,
     "idDepartamento": 3,
     "movimientos": [],
@@ -1449,18 +1642,9 @@
         "valor": "28000"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
     "stocks": {
       "103": 6,
-      "105": 8
+      "105": 7
     }
   }
 ]
