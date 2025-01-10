@@ -22,6 +22,13 @@ export interface Descuento {
     activo: boolean;
 }
 
+export interface EtiquetaProducto {
+    idRelacion: number,
+    idEtiqueta: number,
+    idProducto: number,
+    valor: string
+}
+
 
 export interface Producto {
     idProducto: number;
@@ -32,10 +39,11 @@ export interface Producto {
     image_name?: string;
     ipv: boolean;
     activo: boolean;
+    combo: boolean;
     idCategoria?: number;
     idDepartamento: number;
     movimientos?: [];
-    etiquetasProductos?: [];
+    etiquetasProductos?: EtiquetaProducto[];
     descuentos?: Descuento[];
     stocks?: number[]
 }

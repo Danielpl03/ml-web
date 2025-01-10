@@ -20,7 +20,7 @@ export class FooterComponent {
   }
 
   openWhatsApp(): void {
-    window.open(`https://wa.me/${this.wspLink}`, '_blank');
+    window.open(`${this.wspLink}`, '_blank');
   }
 
   openFacebook(): void {

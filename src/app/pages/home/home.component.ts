@@ -32,12 +32,16 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
     this.departamentosService.getAll().then(res => this.departamentos.set(res));
-    this.seo.title.setTitle(`Página Departamentos | M&L SOLUCIONES`);
-    this.seo.meta.updateTag({ name: "description", content: `Departamentos en M&L SOLUCIONES` });
-    this.seo.setCanonicalUrl(`departamentos`);
+    this.seo.title.setTitle(`Página INICIO | M&L SOLUCIONES`);
+    this.seo.meta.updateTag({ name: "description", content: `Página de inicio en M&L SOLUCIONES` });
+    this.seo.setCanonicalUrl(`home`);
     this.seo.setIndexFollow(true);
 
-    this.productosService.getProductosNuevos().then( (productos) => this.productosNuevos.set(productos) )
+    this.productosService.getProductosNuevos().then( (productos) => {
+      this.productosNuevos.set(productos);
+      console.log(this.productosNuevos());
+    } )
+  
   }
 
 
