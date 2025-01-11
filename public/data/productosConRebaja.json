@@ -115,6 +115,7 @@
         "valor": "96500.0"
       }
     ],
+<<<<<<< HEAD
     "stocks": {
       "105": 1
     }
@@ -164,6 +165,8 @@
         "valor": "38500.0"
       }
     ],
+=======
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
     "stocks": {
       "103": 0,
       "105": 2
@@ -217,6 +220,103 @@
     "stocks": {
       "105": 2
     }
+  },
+  {
+    "idProducto": 2114,
+    "codigo": "8514",
+    "descripcion": "BOCINA 12\"",
+    "precio": {
+      "idPrecio": 1588,
+      "idProducto": 2114,
+      "idMoneda": 1,
+      "precio": 35000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1608,
+        "idProducto": 2114,
+        "idMoneda": 2,
+        "precio": 110.0
+      },
+      {
+        "idPrecio": 1588,
+        "idProducto": 2114,
+        "idMoneda": 1,
+        "precio": 35000.0
+      }
+    ],
+    "image_name": "BOCINA 12\u0026 -8514.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 333,
+        "idEtiqueta": 7,
+        "idProducto": 2114,
+        "valor": "10/01"
+      },
+      {
+        "idRelacion": 293,
+        "idEtiqueta": 8,
+        "idProducto": 2114,
+        "valor": "38500.0"
+      }
+    ],
+    "stocks": {
+      "103": 0,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 1015,
+    "codigo": "7867",
+    "descripcion": "BOCINA 15\"",
+    "precio": {
+      "idPrecio": 130,
+      "idProducto": 1015,
+      "idMoneda": 1,
+      "precio": 52500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1319,
+        "idProducto": 1015,
+        "idMoneda": 2,
+        "precio": 160.0
+      },
+      {
+        "idPrecio": 130,
+        "idProducto": 1015,
+        "idMoneda": 1,
+        "precio": 52500.0
+      }
+    ],
+    "image_name": "BOCINA 15\u0026 -7867.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 334,
+        "idEtiqueta": 7,
+        "idProducto": 1015,
+        "valor": "10/01"
+      },
+      {
+        "idRelacion": 292,
+        "idEtiqueta": 8,
+        "idProducto": 1015,
+        "valor": "56000.0"
+      }
+    ],
+    "stocks": {}
   },
   {
     "idProducto": 89,
@@ -288,7 +388,10 @@
       }
     ],
     "stocks": {
+<<<<<<< HEAD
       "102": 14,
+=======
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
       "103": 40,
       "105": 10
     }
@@ -399,9 +502,14 @@
       }
     ],
     "stocks": {
+<<<<<<< HEAD
       "102": 48,
       "103": 15,
       "105": 19
+=======
+      "103": 15,
+      "105": 10
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
     }
   },
   {
@@ -548,7 +656,11 @@
       }
     ],
     "stocks": {
+<<<<<<< HEAD
       "103": 5,
+=======
+      "103": 6,
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
       "105": 4
     }
   },
@@ -727,7 +839,11 @@
     ],
     "stocks": {
       "103": 24,
+<<<<<<< HEAD
       "105": 28
+=======
+      "105": 36
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
     }
   },
   {
@@ -813,8 +929,13 @@
       }
     ],
     "stocks": {
+<<<<<<< HEAD
       "103": 6,
       "105": 52
+=======
+      "103": 3,
+      "105": 76
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
     }
   },
   {
@@ -825,14 +946,22 @@
       "idPrecio": 837,
       "idProducto": 1913,
       "idMoneda": 1,
+<<<<<<< HEAD
       "precio": 2800.0
+=======
+      "precio": 2500.0
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
     },
     "precios": [
       {
         "idPrecio": 837,
         "idProducto": 1913,
         "idMoneda": 1,
+<<<<<<< HEAD
         "precio": 2800.0
+=======
+        "precio": 2500.0
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
       }
     ],
     "image_name": "PARAGUAS AUTO NEGRO Y AZUL -2023.webp",
@@ -851,7 +980,11 @@
       }
     ],
     "stocks": {
+<<<<<<< HEAD
       "105": 12
+=======
+      "105": 13
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
     }
   },
   {
@@ -1019,14 +1152,22 @@
       "idPrecio": 996,
       "idProducto": 411,
       "idMoneda": 1,
+<<<<<<< HEAD
       "precio": 15000.0
+=======
+      "precio": 14000.0
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
     },
     "precios": [
       {
         "idPrecio": 996,
         "idProducto": 411,
         "idMoneda": 1,
+<<<<<<< HEAD
         "precio": 15000.0
+=======
+        "precio": 14000.0
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
       }
     ],
     "image_name": "Rollo Cesped -1644.jpg",
@@ -1051,7 +1192,11 @@
     ],
     "stocks": {
       "103": 0,
+<<<<<<< HEAD
       "105": 4
+=======
+      "105": 0
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
     }
   },
   {
@@ -1195,7 +1340,6 @@
       }
     ],
     "stocks": {
-      "102": 2,
       "103": 1,
       "105": 1
     }
@@ -1349,7 +1493,10 @@
       }
     ],
     "stocks": {
+<<<<<<< HEAD
       "102": 1,
+=======
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
       "103": 1,
       "105": 1
     }
@@ -1387,7 +1534,10 @@
       }
     ],
     "stocks": {
+<<<<<<< HEAD
       "102": 3,
+=======
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
       "105": 1
     }
   },
@@ -1428,6 +1578,7 @@
         "valor": "84000"
       }
     ],
+<<<<<<< HEAD
     "stocks": {
       "105": 1
     }
@@ -1477,6 +1628,8 @@
         "valor": "85750.0"
       }
     ],
+=======
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
     "stocks": {
       "102": 3,
       "105": 1
@@ -1581,7 +1734,10 @@
       }
     ],
     "stocks": {
+<<<<<<< HEAD
       "102": 2,
+=======
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
       "103": 3,
       "105": 1
     }
@@ -1621,7 +1777,11 @@
     ],
     "stocks": {
       "103": 31,
+<<<<<<< HEAD
       "105": 46
+=======
+      "105": 1
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
     }
   },
   {
@@ -1657,7 +1817,10 @@
       }
     ],
     "stocks": {
+<<<<<<< HEAD
       "102": 36,
+=======
+>>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
       "103": 24,
       "105": 23
     }
