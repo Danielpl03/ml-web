@@ -1014,22 +1014,22 @@
   {
     "idProducto": 411,
     "codigo": "1644",
-    "descripcion": "Rollo Cesped",
+    "descripcion": "ROLLO CESPED ART 1X4 MT",
     "precio": {
       "idPrecio": 996,
       "idProducto": 411,
       "idMoneda": 1,
-      "precio": 15000.0
+      "precio": 15050.0
     },
     "precios": [
       {
         "idPrecio": 996,
         "idProducto": 411,
         "idMoneda": 1,
-        "precio": 15000.0
+        "precio": 15050.0
       }
     ],
-    "image_name": "Rollo Cesped -1644.jpg",
+    "image_name": "ROLLO CESPED ART 1X4 MT -1644.jpg",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -1440,20 +1440,20 @@
       "idPrecio": 1892,
       "idProducto": 2386,
       "idMoneda": 1,
-      "precio": 66500.0
+      "precio": 56000.0
     },
     "precios": [
-      {
-        "idPrecio": 1892,
-        "idProducto": 2386,
-        "idMoneda": 1,
-        "precio": 66500.0
-      },
       {
         "idPrecio": 1936,
         "idProducto": 2386,
         "idMoneda": 2,
-        "precio": 190.0
+        "precio": 160.0
+      },
+      {
+        "idPrecio": 1892,
+        "idProducto": 2386,
+        "idMoneda": 1,
+        "precio": 56000.0
       }
     ],
     "image_name": "TV 24\u0026 HD SMART -8744.jpg",
@@ -1469,6 +1469,12 @@
         "idEtiqueta": 7,
         "idProducto": 2386,
         "valor": "10/01"
+      },
+      {
+        "idRelacion": 343,
+        "idEtiqueta": 8,
+        "idProducto": 2386,
+        "valor": "66500.0"
       },
       {
         "idRelacion": 342,
