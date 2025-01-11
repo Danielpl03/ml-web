@@ -20,25 +20,27 @@
     </div>
 </li> -->
 
-
-<section class="productos-showcase">
-    <div class="container">
-        <div class="card">
-            <div class="card-header" (click)="toggleExpanded()">
-                <h2>{{ categoria.nombre }}</h2>
-                <button [attr.aria-expanded]="isExpanded"
-                    [attr.aria-label]="isExpanded ? 'Ocultar lista de productos' : 'Mostrar lista de productos'">
-                    <span class="chevron" [class.up]="isExpanded"></span>
-                </button>
-            </div>
-            <div class="card-content" *ngIf="isExpanded">
-                <div class="productos-grid">
-                    @for (producto of productos(); track $index) {
-                    <app-tarjeta-producto [producto]="producto">
-                    </app-tarjeta-producto>
-                    }
+@if (cantidad()>0) {
+    <section class="productos-showcase">
+        <div class="container">
+            <div class="card">
+                <div class="card-header" (click)="toggleExpanded()">
+                    <h2>{{ categoria.nombre }}</h2>
+                    <button [attr.aria-expanded]="isExpanded"
+                        [attr.aria-label]="isExpanded ? 'Ocultar lista de productos' : 'Mostrar lista de productos'">
+                        <span class="chevron" [class.up]="isExpanded"></span>
+                    </button>
+                </div>
+                <div class="card-content" *ngIf="isExpanded">
+                    <div class="productos-grid">
+                        @for (producto of productos(); track $index) {
+                        <app-tarjeta-producto [producto]="producto">
+                        </app-tarjeta-producto>
+                        }
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
+    
+}

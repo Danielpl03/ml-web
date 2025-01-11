@@ -14,6 +14,7 @@ import { LoadingComponent } from '../../core/components/loading/loading.componen
 import { SeoService } from '../../core/services/seo.service';
 import { ElegirMonedaComponent } from '../../core/components/elegir-moneda/elegir-moneda.component';
 import { CarritoService } from '../../core/services/carrito.service';
+import { T } from '@angular/cdk/keycodes';
 
 @Component({
   selector: 'app-departamento',
@@ -53,6 +54,7 @@ export class DepartamentoComponent implements OnInit {
 
   constructor(private router: Router) {
   }
+  localidades: number[] = [102, 103, 105];
 
   departamento?: Departamento
   ac = inject(ActivatedRoute)
@@ -79,6 +81,25 @@ export class DepartamentoComponent implements OnInit {
 
   async getProductosByDepartamento(id: number) {
     this.productos.set(await this.productosService.getByDepartamento(id));
+  }
+
+  getItems(categorias: Categoria[]|undefined) {
+    if(categorias == undefined){
+      return false;
+    }
+    for(const categoria of categorias){
+      if (categoria.productos && categoria.productos.length > 0){
+        for(const producto of categoria.productos){
+          if (producto.stocks) {
+            for (let index = 0; index < this.localidades.length; index++) {
+              const element = producto.stocks[this.localidades[index]];
+              if (element > 0) return true;
+            }
+          }
+        }
+      }
+    }
+    return false;
   }
 
 

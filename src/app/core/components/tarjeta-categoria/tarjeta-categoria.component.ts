@@ -49,7 +49,9 @@ export class TarjetaCategoriaComponent implements OnInit {
 
 
     if(this.productos()){
-      this.cantidad.set(this.productos()!.length)
+      this.cantidad.set(this.productos()!.length);
+    }else{
+      this.cantidad.set(0);
     }
   }
 

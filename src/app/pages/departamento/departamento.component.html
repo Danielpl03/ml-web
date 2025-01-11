@@ -37,14 +37,13 @@
         <div class="card-header">
             <h2>{{ departamento?.nombre }}</h2>
         </div>
-        @if (categorias()) {
+        @if (categorias() && getItems(categorias())) {
         <div class="card-header">
             <h2>Categorías</h2>
         </div>
         <ul>
             @for (cat of categorias(); track $index) {
             <app-tarjeta-categoria [categoria]="cat"></app-tarjeta-categoria>
-
             }
         </ul>
         }

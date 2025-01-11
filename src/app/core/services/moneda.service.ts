@@ -13,7 +13,6 @@ export class MonedaService{
     this.getMonedas().then( (monedas) => {
       this.monedas = monedas
       if( this.moneda() == undefined ){
-        console.log(this.monedas[0])
         this.moneda.set(this.monedas[0]);
       }
     } );

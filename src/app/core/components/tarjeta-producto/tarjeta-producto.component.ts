@@ -33,7 +33,7 @@ export class TarjetaProductoComponent{
 
   getImage() {
     if (this.producto.image_name) {
-      const image = this.producto.image_name.replaceAll(' ', '_').split('.')[0];
+      const image = this.producto.image_name.substring(0,this.producto.image_name.lastIndexOf('.')).replaceAll(' ', '_')
       return this.url + image.replaceAll( '&', '_')
     }
     return 'descargar.jpg'

@@ -626,6 +626,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 1,
               "103": 0,
               "105": 1
             }
@@ -835,6 +836,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 30,
               "103": 4,
               "105": 8
             }
@@ -895,6 +897,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 30,
               "103": 10,
               "105": 3
             }
@@ -956,6 +959,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 20,
               "103": 10,
               "105": 4
             }
@@ -1018,6 +1022,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 30,
               "103": 4,
               "105": 5
             }
@@ -1049,6 +1054,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 10,
               "103": 7,
               "105": 9
             }
@@ -1140,6 +1146,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 25,
               "103": 13,
               "105": 4
             }
@@ -1228,6 +1235,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 36,
               "103": 19,
               "105": 2
             }
@@ -1258,6 +1266,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "103": 21,
               "105": 1
             }
@@ -1288,6 +1297,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 30,
               "103": 18,
               "105": 2
             }
@@ -2160,6 +2170,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 0,
               "105": 5
             }
@@ -2190,6 +2201,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 15,
               "103": 11,
               "105": 5
             }
@@ -2220,6 +2232,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 15,
               "105": 6
             }
@@ -2257,6 +2270,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 14,
               "103": 6,
               "105": 6
             }
@@ -2287,6 +2301,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 24,
               "103": 20,
               "105": 5
             }
@@ -2406,6 +2421,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "103": 4,
               "105": 2
             }
@@ -2467,6 +2483,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 52,
               "103": 6,
               "105": 8
             }
@@ -2589,6 +2606,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 200,
               "103": 92,
               "105": 76
             }
@@ -2840,6 +2858,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "103": 1,
               "105": 1
             }
@@ -2871,6 +2890,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 8,
               "105": 4
             }
@@ -2902,6 +2922,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 9,
               "103": 1,
               "105": 7
             }
@@ -3211,6 +3232,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 18,
               "103": 5,
               "105": 0
             }
@@ -3271,6 +3293,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 4,
               "105": 13
             }
@@ -3638,6 +3661,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 24,
               "103": 8,
               "105": 4
             }
@@ -3797,6 +3821,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 10,
               "103": 12,
               "105": 3
             }
@@ -3858,6 +3883,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 10,
               "103": 9,
               "105": 11
             }
@@ -4392,6 +4418,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 20,
               "103": 29,
               "105": 4
             }
@@ -4423,6 +4450,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 10,
               "103": 17,
               "105": 7
             }
@@ -4491,6 +4519,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 17,
               "103": 6,
               "105": 5
             }
@@ -4521,6 +4550,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "105": 1
             }
           },
@@ -4551,6 +4581,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "103": 0,
               "105": 2
             }
@@ -4728,7 +4759,9 @@
             "idDepartamento": 2,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 4
+            }
           },
           {
             "idProducto": 291,
@@ -4757,6 +4790,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 20,
               "103": 1,
               "105": 2
             }
@@ -4788,6 +4822,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "103": 2,
               "105": 2
             }
@@ -4818,6 +4853,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 14,
               "103": 5,
               "105": 3
             }
@@ -4849,6 +4885,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 9,
               "103": 8,
               "105": 6
             }
@@ -4909,6 +4946,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "105": 1
             }
           },
@@ -5714,6 +5752,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "103": 4,
               "105": 10
             }
@@ -5810,6 +5849,7 @@
               }
             ],
             "stocks": {
+              "102": 9,
               "105": 3
             }
           },
@@ -5846,6 +5886,7 @@
               }
             ],
             "stocks": {
+              "102": 9,
               "105": 3
             }
           },
@@ -5882,6 +5923,7 @@
               }
             ],
             "stocks": {
+              "102": 9,
               "105": 3
             }
           },
@@ -5954,6 +5996,7 @@
               }
             ],
             "stocks": {
+              "102": 9,
               "105": 3
             }
           },
@@ -5990,6 +6033,7 @@
               }
             ],
             "stocks": {
+              "102": 9,
               "105": 3
             }
           }
@@ -6026,6 +6070,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 1,
               "105": 1
             }
@@ -6056,6 +6101,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 1,
               "105": 1
             }
@@ -6086,6 +6132,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 3,
               "103": 2,
               "105": 1
             }
@@ -6273,6 +6320,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 3,
               "103": 8,
               "105": 3
             }
@@ -6303,6 +6351,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 9,
               "105": 3
             }
           },
@@ -6424,6 +6473,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "103": 34,
               "105": 4
             }
@@ -6455,6 +6505,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 104,
               "105": 3
             }
           },
@@ -6514,6 +6565,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 16,
               "105": 0
             }
           },
@@ -6573,6 +6625,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 4,
               "105": 0
             }
@@ -6634,6 +6687,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 16,
               "103": 77,
               "105": 8
             }
@@ -6664,6 +6718,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 23,
               "105": 5
             }
           },
@@ -6723,6 +6778,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 15,
               "103": 17,
               "105": 9
             }
@@ -6812,6 +6868,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 38,
               "103": 19,
               "105": 2
             }
@@ -6872,6 +6929,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 16,
               "103": 12,
               "105": 2
             }
@@ -6968,6 +7026,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "103": 6,
               "105": 2
             }
@@ -7186,6 +7245,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 24,
               "103": 21,
               "105": 2
             }
@@ -7216,6 +7276,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 14,
               "103": 20,
               "105": 2
             }
@@ -7276,6 +7337,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 18,
               "103": 18,
               "105": 2
             }
@@ -7306,6 +7368,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 18,
               "103": 14,
               "105": 0
             }
@@ -7341,6 +7404,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "103": 3,
           "105": 2
         }
@@ -7628,6 +7692,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "103": 0,
           "105": 1
         }
@@ -7970,6 +8035,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 30,
           "103": 4,
           "105": 8
         }
@@ -8030,6 +8096,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 30,
           "103": 10,
           "105": 3
         }
@@ -8091,6 +8158,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 20,
           "103": 10,
           "105": 4
         }
@@ -8153,6 +8221,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 30,
           "103": 4,
           "105": 5
         }
@@ -8184,6 +8253,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 7,
           "105": 9
         }
@@ -8275,6 +8345,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 25,
           "103": 13,
           "105": 4
         }
@@ -8363,6 +8434,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 36,
           "103": 19,
           "105": 2
         }
@@ -8393,6 +8465,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 21,
           "105": 1
         }
@@ -8423,6 +8496,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 30,
           "103": 18,
           "105": 2
         }
@@ -9281,6 +9355,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "105": 10
         }
       },
@@ -9452,6 +9527,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 0,
           "105": 5
         }
@@ -9482,6 +9558,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 15,
           "103": 11,
           "105": 5
         }
@@ -9512,6 +9589,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 15,
           "105": 6
         }
@@ -9572,6 +9650,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "103": 6,
           "105": 6
         }
@@ -9602,6 +9681,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 24,
           "103": 20,
           "105": 5
         }
@@ -9721,6 +9801,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 4,
           "105": 2
         }
@@ -9782,6 +9863,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 52,
           "103": 6,
           "105": 8
         }
@@ -9897,6 +9979,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 200,
           "103": 92,
           "105": 76
         }
@@ -10192,6 +10275,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 13,
           "105": 3
         }
@@ -10252,6 +10336,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 1,
           "105": 1
         }
@@ -10283,6 +10368,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 8,
           "105": 4
         }
@@ -10314,6 +10400,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 9,
           "103": 1,
           "105": 7
         }
@@ -10719,6 +10806,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 18,
           "103": 5,
           "105": 0
         }
@@ -10779,6 +10867,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 4,
           "105": 13
         }
@@ -10987,6 +11076,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 11,
           "103": 6,
           "105": 4
         }
@@ -11107,6 +11197,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 8,
           "105": 3
         }
@@ -11137,6 +11228,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 9,
           "105": 3
         }
       },
@@ -11284,6 +11376,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 2,
           "105": 1
         }
@@ -11314,6 +11407,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "105": 2
         }
       },
@@ -11663,6 +11757,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 24,
           "103": 8,
           "105": 4
         }
@@ -11813,6 +11908,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 12,
           "105": 3
         }
@@ -11874,6 +11970,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 9,
           "105": 11
         }
@@ -11961,6 +12058,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 23,
           "103": 7,
           "105": 3
         }
@@ -12047,6 +12145,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 13,
           "103": 6,
           "105": 2
         }
@@ -12077,6 +12176,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 6,
           "105": 0
         }
@@ -12606,6 +12706,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 0
         }
       },
@@ -12691,6 +12792,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 6,
           "105": 0
         }
@@ -12990,6 +13092,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 17,
           "103": 6,
           "105": 5
         }
@@ -13020,6 +13123,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "105": 1
         }
       },
@@ -13050,6 +13154,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 0,
           "105": 2
         }
@@ -13139,6 +13244,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 6,
           "105": 0
         }
@@ -13253,6 +13359,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 20,
           "103": 8,
           "105": 11
         }
@@ -13339,6 +13446,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 9,
           "105": 4
         }
@@ -13368,6 +13476,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "105": 4
         }
       },
@@ -13540,6 +13649,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 1,
           "105": 1
         }
@@ -13772,6 +13882,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "105": 1
         }
       },
@@ -13855,6 +13966,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 4,
           "105": 1
         }
@@ -14054,6 +14166,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 9,
           "105": 9
         }
@@ -14205,6 +14318,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 20,
           "103": 29,
           "105": 4
         }
@@ -14236,6 +14350,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 17,
           "105": 7
         }
@@ -14296,6 +14411,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 4,
           "105": 0
         }
@@ -14379,6 +14495,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 15,
           "103": 4,
           "105": 2
         }
@@ -14563,6 +14680,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "105": 1
         }
       },
@@ -14680,7 +14798,9 @@
         "idDepartamento": 2,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 4
+        }
       },
       {
         "idProducto": 291,
@@ -14709,6 +14829,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 20,
           "103": 1,
           "105": 2
         }
@@ -14740,6 +14861,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 2,
           "105": 2
         }
@@ -14770,6 +14892,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "103": 5,
           "105": 3
         }
@@ -14801,6 +14924,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 9,
           "103": 8,
           "105": 6
         }
@@ -14831,6 +14955,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 2
         }
       },
@@ -14890,6 +15015,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "105": 1
         }
       },
@@ -15205,6 +15331,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 8,
           "105": 0
         }
@@ -15234,6 +15361,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 10,
           "105": 2
         }
@@ -15407,6 +15535,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 2,
           "105": 2
         }
@@ -15911,6 +16040,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 34,
           "105": 4
         }
@@ -15942,6 +16072,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 104,
           "105": 3
         }
       },
@@ -16120,6 +16251,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 16,
           "105": 0
         }
       },
@@ -16243,6 +16375,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "103": 5,
           "105": 0
         }
@@ -16302,6 +16435,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "103": 13,
           "105": 6
         }
@@ -16646,6 +16780,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "103": 4,
           "105": 10
         }
@@ -16742,6 +16877,7 @@
           }
         ],
         "stocks": {
+          "102": 9,
           "105": 3
         }
       },
@@ -16778,6 +16914,7 @@
           }
         ],
         "stocks": {
+          "102": 9,
           "105": 3
         }
       },
@@ -16814,6 +16951,7 @@
           }
         ],
         "stocks": {
+          "102": 9,
           "105": 3
         }
       },
@@ -16886,6 +17024,7 @@
           }
         ],
         "stocks": {
+          "102": 9,
           "105": 3
         }
       },
@@ -16922,6 +17061,7 @@
           }
         ],
         "stocks": {
+          "102": 9,
           "105": 3
         }
       },
@@ -16979,6 +17119,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 1,
           "105": 1
         }
@@ -17009,6 +17150,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 1,
           "105": 1
         }
@@ -17039,6 +17181,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 2,
           "105": 1
         }
@@ -17273,6 +17416,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 6,
           "105": 2
         }
@@ -17566,6 +17710,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 13,
           "103": 4,
           "105": 3
         }
@@ -17625,6 +17770,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 19,
           "105": 0
         }
@@ -17655,6 +17801,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 24,
           "103": 21,
           "105": 2
         }
@@ -17685,6 +17832,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "103": 20,
           "105": 2
         }
@@ -17745,6 +17893,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 18,
           "103": 18,
           "105": 2
         }
@@ -17775,6 +17924,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 18,
           "103": 14,
           "105": 0
         }
@@ -17847,6 +17997,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "105": 3
         }
       },
@@ -17876,6 +18027,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "103": 5,
           "105": 1
         }
@@ -17906,6 +18058,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 20,
           "103": 8,
           "105": 5
         }
@@ -17936,6 +18089,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 17,
           "103": 13,
           "105": 2
         }
@@ -18001,6 +18155,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 24,
           "105": 0
         }
       },
@@ -18030,6 +18185,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "105": 7
         }
       },
@@ -18089,6 +18245,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "103": 2,
           "105": 1
         }
@@ -18119,6 +18276,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 9,
           "103": 7,
           "105": 0
         }
@@ -18233,6 +18391,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 2,
           "105": 1
         }
@@ -18262,6 +18421,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 11,
           "103": 2,
           "105": 1
         }
@@ -18291,6 +18451,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 11,
           "103": 2,
           "105": 1
         }
@@ -18385,6 +18546,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 4,
           "105": 0
         }
@@ -18445,6 +18607,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "103": 1,
           "105": 1
         }
@@ -18506,6 +18669,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 16,
           "103": 77,
           "105": 8
         }
@@ -18536,6 +18700,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 23,
           "105": 5
         }
       },
@@ -18649,6 +18814,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 30,
           "103": 19,
           "105": 2
         }
@@ -18764,6 +18930,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "103": 4,
           "105": 2
         }
@@ -18822,6 +18989,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 4,
           "105": 2
         }
@@ -18918,6 +19086,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 2,
           "105": 0
         }
@@ -18978,6 +19147,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 15,
           "103": 17,
           "105": 9
         }
@@ -19067,6 +19237,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 38,
           "103": 19,
           "105": 2
         }
@@ -19127,6 +19298,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 16,
           "103": 12,
           "105": 2
         }
@@ -19156,6 +19328,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "105": 0
         }
       }
@@ -19205,6 +19378,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 3,
               "103": 1,
               "105": 1
             }
@@ -19286,6 +19460,7 @@
               }
             ],
             "stocks": {
+              "102": 3,
               "103": 1,
               "105": 1
             }
@@ -20313,6 +20488,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 3,
               "103": 2,
               "105": 1
             }
@@ -20350,6 +20526,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 3,
               "103": 1,
               "105": 1
             }
@@ -20387,6 +20564,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "105": 1
             }
           }
@@ -21268,6 +21446,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "103": 1,
               "105": 1
             }
@@ -22280,6 +22459,7 @@
               }
             ],
             "stocks": {
+              "102": 12,
               "103": 0,
               "105": 7
             }
@@ -22324,6 +22504,7 @@
               }
             ],
             "stocks": {
+              "102": 6,
               "103": 0,
               "105": 4
             }
@@ -22368,6 +22549,7 @@
               }
             ],
             "stocks": {
+              "102": 6,
               "103": 0,
               "105": 4
             }
@@ -22412,6 +22594,7 @@
               }
             ],
             "stocks": {
+              "102": 12,
               "103": 0,
               "105": 8
             }
@@ -22534,20 +22717,20 @@
               "idPrecio": 1892,
               "idProducto": 2386,
               "idMoneda": 1,
-              "precio": 85750.0
+              "precio": 66500.0
             },
             "precios": [
               {
                 "idPrecio": 1892,
                 "idProducto": 2386,
                 "idMoneda": 1,
-                "precio": 85750.0
+                "precio": 66500.0
               },
               {
                 "idPrecio": 1936,
                 "idProducto": 2386,
                 "idMoneda": 2,
-                "precio": 245.0
+                "precio": 190.0
               }
             ],
             "image_name": "TV 24\u0026 HD SMART -8744.jpg",
@@ -22563,9 +22746,16 @@
                 "idEtiqueta": 7,
                 "idProducto": 2386,
                 "valor": "10/01"
+              },
+              {
+                "idRelacion": 342,
+                "idEtiqueta": 8,
+                "idProducto": 2386,
+                "valor": "85750.0"
               }
             ],
             "stocks": {
+              "102": 3,
               "105": 1
             }
           },
@@ -22650,6 +22840,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 1
             }
           },
@@ -22738,6 +22929,7 @@
               }
             ],
             "stocks": {
+              "102": 2,
               "103": 3,
               "105": 1
             }
@@ -23266,6 +23458,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 1,
           "105": 1
         }
@@ -23347,6 +23540,7 @@
           }
         ],
         "stocks": {
+          "102": 3,
           "103": 1,
           "105": 1
         }
@@ -24433,6 +24627,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "103": 0,
           "105": 2
         }
@@ -24506,6 +24701,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 2,
           "105": 1
         }
@@ -24543,6 +24739,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 1,
           "105": 1
         }
@@ -24580,6 +24777,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "105": 1
         }
       },
@@ -25632,6 +25830,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 1,
           "105": 1
         }
@@ -26846,6 +27045,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 5,
           "105": 1
         }
@@ -27108,6 +27308,7 @@
           }
         ],
         "stocks": {
+          "102": 12,
           "103": 0,
           "105": 7
         }
@@ -27152,6 +27353,7 @@
           }
         ],
         "stocks": {
+          "102": 6,
           "103": 0,
           "105": 4
         }
@@ -27196,6 +27398,7 @@
           }
         ],
         "stocks": {
+          "102": 6,
           "103": 0,
           "105": 4
         }
@@ -27240,6 +27443,7 @@
           }
         ],
         "stocks": {
+          "102": 12,
           "103": 0,
           "105": 8
         }
@@ -27571,20 +27775,20 @@
           "idPrecio": 1892,
           "idProducto": 2386,
           "idMoneda": 1,
-          "precio": 85750.0
+          "precio": 66500.0
         },
         "precios": [
           {
             "idPrecio": 1892,
             "idProducto": 2386,
             "idMoneda": 1,
-            "precio": 85750.0
+            "precio": 66500.0
           },
           {
             "idPrecio": 1936,
             "idProducto": 2386,
             "idMoneda": 2,
-            "precio": 245.0
+            "precio": 190.0
           }
         ],
         "image_name": "TV 24\u0026 HD SMART -8744.jpg",
@@ -27600,9 +27804,16 @@
             "idEtiqueta": 7,
             "idProducto": 2386,
             "valor": "10/01"
+          },
+          {
+            "idRelacion": 342,
+            "idEtiqueta": 8,
+            "idProducto": 2386,
+            "valor": "85750.0"
           }
         ],
         "stocks": {
+          "102": 3,
           "105": 1
         }
       },
@@ -27687,6 +27898,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 1
         }
       },
@@ -27775,6 +27987,7 @@
           }
         ],
         "stocks": {
+          "102": 2,
           "103": 3,
           "105": 1
         }
@@ -28326,6 +28539,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 9,
               "105": 0
             }
           },
@@ -28354,7 +28568,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 3
+            }
           },
           {
             "idProducto": 860,
@@ -28382,6 +28598,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 1,
               "105": 0
             }
           },
@@ -28410,7 +28627,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 4
+            }
           },
           {
             "idProducto": 862,
@@ -28438,6 +28657,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 22,
               "105": 0
             }
           },
@@ -28495,6 +28715,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 1,
               "105": 0
             }
           },
@@ -28637,6 +28858,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 96,
               "105": 0
             }
           },
@@ -28695,6 +28917,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 11,
               "105": 0
             }
           },
@@ -28723,7 +28946,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 34
+            }
           },
           {
             "idProducto": 867,
@@ -28750,6 +28975,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 24,
               "105": 0
             }
           }
@@ -28786,6 +29012,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 27,
               "105": 0
             }
           },
@@ -28815,6 +29042,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 42,
               "105": 0
             }
           },
@@ -28899,7 +29127,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 3
+            }
           },
           {
             "idProducto": 907,
@@ -28925,7 +29155,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 4
+            }
           },
           {
             "idProducto": 908,
@@ -28951,7 +29183,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 1
+            }
           },
           {
             "idProducto": 909,
@@ -28978,6 +29212,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "105": 0
             }
           },
@@ -29006,6 +29241,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 0
             }
           },
@@ -29034,6 +29270,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 3,
               "105": 0
             }
           },
@@ -29062,6 +29299,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "105": 0
             }
           },
@@ -29090,6 +29328,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 0
             }
           },
@@ -29117,7 +29356,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 10
+            }
           },
           {
             "idProducto": 915,
@@ -29143,7 +29384,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 5
+            }
           },
           {
             "idProducto": 916,
@@ -29170,6 +29413,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "105": 0
             }
           },
@@ -29197,7 +29441,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 12
+            }
           },
           {
             "idProducto": 918,
@@ -29224,6 +29470,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "105": 0
             }
           },
@@ -29251,7 +29498,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 4
+            }
           },
           {
             "idProducto": 920,
@@ -29303,7 +29552,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 3
+            }
           },
           {
             "idProducto": 924,
@@ -29329,7 +29580,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 5
+            }
           },
           {
             "idProducto": 925,
@@ -29356,6 +29609,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 1,
               "105": 0
             }
           }
@@ -29391,6 +29645,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 48,
               "105": 0
             }
           },
@@ -29420,6 +29675,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 2,
               "105": 0
             }
           },
@@ -29449,6 +29705,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 2,
               "103": 12,
               "105": 0
             }
@@ -29479,6 +29736,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 6,
               "105": 0
             }
@@ -29622,6 +29880,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 2,
               "105": 0
             }
           },
@@ -29650,7 +29909,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 1
+            }
           }
         ]
       },
@@ -29911,7 +30172,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 34
+            }
           },
           {
             "idProducto": 1841,
@@ -29938,7 +30201,9 @@
             "idDepartamento": 4,
             "movimientos": [],
             "etiquetasProductos": [],
-            "stocks": {}
+            "stocks": {
+              "102": 20
+            }
           },
           {
             "idProducto": 527,
@@ -29994,6 +30259,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 1,
               "105": 0
             }
           },
@@ -30054,7 +30320,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 6
+        }
       },
       {
         "idProducto": 692,
@@ -30081,6 +30349,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "105": 0
         }
       },
@@ -30108,7 +30377,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 1
+        }
       },
       {
         "idProducto": 106,
@@ -30135,6 +30406,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 18,
           "103": 23,
           "105": 10
         }
@@ -30249,6 +30521,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 9,
           "105": 0
         }
       },
@@ -30277,7 +30550,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 3
+        }
       },
       {
         "idProducto": 860,
@@ -30305,6 +30580,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "105": 0
         }
       },
@@ -30333,7 +30609,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 4
+        }
       },
       {
         "idProducto": 862,
@@ -30361,6 +30639,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 22,
           "105": 0
         }
       },
@@ -30418,6 +30697,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "105": 0
         }
       },
@@ -30560,6 +30840,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 96,
           "105": 0
         }
       },
@@ -30618,6 +30899,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 11,
           "105": 0
         }
       },
@@ -30646,7 +30928,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 34
+        }
       },
       {
         "idProducto": 867,
@@ -30673,6 +30957,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 24,
           "105": 0
         }
       },
@@ -30701,6 +30986,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 20,
           "105": 3
         }
       },
@@ -30764,6 +31050,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 27,
           "105": 0
         }
       },
@@ -30793,6 +31080,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 42,
           "105": 0
         }
       },
@@ -30877,7 +31165,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 3
+        }
       },
       {
         "idProducto": 907,
@@ -30903,7 +31193,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 4
+        }
       },
       {
         "idProducto": 908,
@@ -30929,7 +31221,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 1
+        }
       },
       {
         "idProducto": 909,
@@ -30956,6 +31250,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "105": 0
         }
       },
@@ -30984,6 +31279,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 0
         }
       },
@@ -31012,6 +31308,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "105": 0
         }
       },
@@ -31040,6 +31337,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "105": 0
         }
       },
@@ -31068,6 +31366,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 0
         }
       },
@@ -31095,7 +31394,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 10
+        }
       },
       {
         "idProducto": 915,
@@ -31121,7 +31422,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 5
+        }
       },
       {
         "idProducto": 916,
@@ -31148,6 +31451,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "105": 0
         }
       },
@@ -31175,7 +31479,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 12
+        }
       },
       {
         "idProducto": 918,
@@ -31202,6 +31508,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "105": 0
         }
       },
@@ -31229,7 +31536,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 4
+        }
       },
       {
         "idProducto": 920,
@@ -31281,7 +31590,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 3
+        }
       },
       {
         "idProducto": 924,
@@ -31307,7 +31618,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 5
+        }
       },
       {
         "idProducto": 925,
@@ -31334,6 +31647,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "105": 0
         }
       },
@@ -31362,6 +31676,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 48,
           "105": 0
         }
       },
@@ -31391,6 +31706,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "105": 0
         }
       },
@@ -31420,6 +31736,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "103": 12,
           "105": 0
         }
@@ -31450,6 +31767,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 6,
           "105": 0
         }
@@ -31593,6 +31911,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "105": 0
         }
       },
@@ -31621,7 +31940,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 1
+        }
       },
       {
         "idProducto": 520,
@@ -31875,7 +32196,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 34
+        }
       },
       {
         "idProducto": 1841,
@@ -31902,7 +32225,9 @@
         "idDepartamento": 4,
         "movimientos": [],
         "etiquetasProductos": [],
-        "stocks": {}
+        "stocks": {
+          "102": 20
+        }
       },
       {
         "idProducto": 527,
@@ -31958,6 +32283,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "105": 0
         }
       },
@@ -32117,6 +32443,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "103": 2,
               "105": 8
             }
@@ -32269,6 +32596,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 7,
               "105": 5
             }
@@ -32299,6 +32627,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 6
             }
           },
@@ -32329,6 +32658,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "105": 7
             }
           },
@@ -32358,6 +32688,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 6
             }
           },
@@ -32387,6 +32718,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 15,
               "105": 6
             }
           },
@@ -32444,6 +32776,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "103": 7,
               "105": 7
             }
@@ -32475,6 +32808,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 14,
               "105": 6
             }
           },
@@ -32505,6 +32839,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 11
             }
           },
@@ -32535,6 +32870,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 34,
               "103": 6,
               "105": 25
             }
@@ -32594,6 +32930,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "105": 7
             }
           },
@@ -32624,6 +32961,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "103": 6,
               "105": 4
             }
@@ -32713,6 +33051,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 11
             }
           },
@@ -32742,6 +33081,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "105": 4
             }
           },
@@ -32772,6 +33112,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 3,
               "105": 4
             }
           },
@@ -32802,6 +33143,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 5
             }
           },
@@ -32831,6 +33173,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 13,
               "105": 7
             }
@@ -32862,6 +33205,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 13,
               "105": 6
             }
           },
@@ -32892,6 +33236,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "105": 6
             }
           },
@@ -32922,6 +33267,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "105": 7
             }
           },
@@ -32952,6 +33298,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 7
             }
           },
@@ -33012,6 +33359,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 3,
               "103": 13,
               "105": 5
             }
@@ -33043,6 +33391,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "105": 4
             }
           },
@@ -33072,6 +33421,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 15,
               "103": 5,
               "105": 7
             }
@@ -33102,6 +33452,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 14,
               "105": 3
             }
           },
@@ -33162,6 +33513,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "105": 4
             }
           },
@@ -33220,6 +33572,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "103": 13,
               "105": 7
             }
@@ -33251,6 +33604,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 5
             }
           },
@@ -33281,6 +33635,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 15,
               "105": 7
             }
           },
@@ -33310,6 +33665,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 11,
               "105": 5
             }
@@ -33340,6 +33696,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "105": 6
             }
           },
@@ -33370,6 +33727,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 14,
               "105": 5
             }
           },
@@ -33400,6 +33758,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "103": 8,
               "105": 7
             }
@@ -33438,6 +33797,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "105": 4
             }
           },
@@ -33468,6 +33828,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 4,
               "105": 8
             }
@@ -33499,6 +33860,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 16,
               "103": 6,
               "105": 6
             }
@@ -33530,6 +33892,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 11,
               "103": 13,
               "105": 2
             }
@@ -33561,6 +33924,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 10,
               "103": 4,
               "105": 7
             }
@@ -33592,6 +33956,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "105": 4
             }
           },
@@ -33622,6 +33987,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 5,
               "105": 7
             }
@@ -33713,6 +34079,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 19,
               "103": 4,
               "105": 4
             }
@@ -33772,6 +34139,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 23,
               "105": 4
             }
           },
@@ -33898,6 +34266,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 2,
               "105": 3
             }
@@ -33929,6 +34298,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "103": 7,
               "105": 3
             }
@@ -33960,6 +34330,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 1,
               "105": 6
             }
           },
@@ -33990,6 +34361,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 3,
               "105": 2
             }
           },
@@ -34020,6 +34392,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "103": 3,
               "105": 3
             }
@@ -34051,6 +34424,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 21,
               "105": 3
             }
           },
@@ -34081,6 +34455,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "103": 4,
               "105": 0
             }
@@ -34112,6 +34487,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 2,
               "105": 2
             }
           },
@@ -34142,6 +34518,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "105": 3
             }
           },
@@ -34172,6 +34549,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "105": 1
             }
           },
@@ -34202,6 +34580,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 1,
               "103": 1,
               "105": 4
             }
@@ -34269,6 +34648,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 11,
               "105": 6
             }
           },
@@ -34299,6 +34679,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 10,
               "105": 3
             }
           },
@@ -34328,6 +34709,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 6,
               "105": 2
             }
@@ -34390,6 +34772,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "105": 7
             }
           },
@@ -34420,6 +34803,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 10,
               "103": 14,
               "105": 2
             }
@@ -34451,6 +34835,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 9,
               "105": 5
             }
           },
@@ -34481,6 +34866,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 4,
               "105": 6
             }
@@ -34512,6 +34898,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 2,
               "105": 5
             }
           },
@@ -34542,6 +34929,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "103": 3,
               "105": 5
             }
@@ -34602,6 +34990,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 1,
               "103": 6,
               "105": 6
             }
@@ -34662,6 +35051,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 14,
               "105": 5
             }
           },
@@ -34691,6 +35081,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "103": 4,
               "105": 5
             }
@@ -34751,6 +35142,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "103": 0,
               "105": 3
             }
@@ -34782,6 +35174,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "105": 3
             }
           },
@@ -34841,6 +35234,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 2,
               "103": 5,
               "105": 5
             }
@@ -34872,6 +35266,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 17,
               "103": 9,
               "105": 3
             }
@@ -34903,6 +35298,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 3,
               "103": 8,
               "105": 1
             }
@@ -34934,6 +35330,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "105": 3
             }
           },
@@ -34964,6 +35361,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 5,
               "105": 3
             }
@@ -35024,6 +35422,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 19,
               "105": 6
             }
           },
@@ -35054,6 +35453,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "103": 2,
               "105": 3
             }
@@ -35209,6 +35609,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 11,
               "105": 7
             }
           },
@@ -35239,6 +35640,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 2,
               "105": 7
             }
           },
@@ -35269,6 +35671,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "105": 5
             }
           },
@@ -35392,6 +35795,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 7
             }
           },
@@ -35450,6 +35854,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 13,
               "105": 6
             }
           },
@@ -35535,6 +35940,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 13,
               "105": 3
             }
           },
@@ -35564,6 +35970,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 14,
               "105": 4
             }
           },
@@ -35593,6 +36000,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "105": 5
             }
           },
@@ -35622,6 +36030,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "105": 7
             }
           },
@@ -35736,6 +36145,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 8,
               "105": 1
             }
           },
@@ -35887,6 +36297,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 21,
               "103": 7,
               "105": 5
             }
@@ -35917,6 +36328,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 1,
               "103": 0,
               "105": 0
             }
@@ -36004,6 +36416,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 19,
               "103": 6,
               "105": 7
             }
@@ -36063,6 +36476,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 10,
               "103": 10,
               "105": 7
             }
@@ -36093,6 +36507,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 14,
               "103": 1,
               "105": 10
             }
@@ -36153,6 +36568,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 10,
               "103": 9,
               "105": 10
             }
@@ -36300,6 +36716,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "103": 6,
               "105": 5
             }
@@ -36360,6 +36777,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "105": 2
             }
           },
@@ -36389,6 +36807,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 20,
               "105": 2
             }
           },
@@ -36448,6 +36867,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 36,
               "105": 8
             }
           },
@@ -36477,6 +36897,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 7,
               "105": 8
             }
@@ -36507,6 +36928,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "103": 6,
               "105": 1
             }
@@ -36537,6 +36959,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 30,
               "103": 11,
               "105": 5
             }
@@ -36659,6 +37082,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 2,
           "105": 8
         }
@@ -36804,6 +37228,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "105": 4
         }
       },
@@ -36834,6 +37259,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 4,
           "105": 8
         }
@@ -36865,6 +37291,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 16,
           "103": 6,
           "105": 6
         }
@@ -36896,6 +37323,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 11,
           "103": 13,
           "105": 2
         }
@@ -36927,6 +37355,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 4,
           "105": 7
         }
@@ -36958,6 +37387,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "105": 4
         }
       },
@@ -36988,6 +37418,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 5,
           "105": 7
         }
@@ -37079,6 +37510,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 19,
           "103": 4,
           "105": 4
         }
@@ -37138,6 +37570,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 23,
           "105": 4
         }
       },
@@ -37339,6 +37772,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 32,
           "103": 2,
           "105": 3
         }
@@ -37369,6 +37803,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 50,
           "103": 86,
           "105": 69
         }
@@ -37400,6 +37835,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 2,
           "105": 3
         }
@@ -37431,6 +37867,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "103": 7,
           "105": 3
         }
@@ -37462,6 +37899,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "105": 6
         }
       },
@@ -37492,6 +37930,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "105": 2
         }
       },
@@ -37522,6 +37961,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 3,
           "105": 3
         }
@@ -37553,6 +37993,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 21,
           "105": 3
         }
       },
@@ -37583,6 +38024,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "103": 4,
           "105": 0
         }
@@ -37614,6 +38056,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "105": 2
         }
       },
@@ -37644,6 +38087,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "105": 3
         }
       },
@@ -37674,6 +38118,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "105": 1
         }
       },
@@ -37704,6 +38149,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "103": 1,
           "105": 4
         }
@@ -37791,6 +38237,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 11,
           "105": 6
         }
       },
@@ -37821,6 +38268,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "105": 3
         }
       },
@@ -37850,6 +38298,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 6,
           "105": 2
         }
@@ -37912,6 +38361,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "105": 7
         }
       },
@@ -37942,6 +38392,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 14,
           "105": 2
         }
@@ -37973,6 +38424,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 9,
           "105": 5
         }
       },
@@ -38003,6 +38455,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 4,
           "105": 6
         }
@@ -38034,6 +38487,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "105": 5
         }
       },
@@ -38064,6 +38518,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 3,
           "105": 5
         }
@@ -38124,6 +38579,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "103": 6,
           "105": 6
         }
@@ -38184,6 +38640,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "105": 5
         }
       },
@@ -38213,6 +38670,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 4,
           "105": 5
         }
@@ -38273,6 +38731,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "103": 0,
           "105": 3
         }
@@ -38304,6 +38763,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "105": 3
         }
       },
@@ -38363,6 +38823,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "103": 5,
           "105": 5
         }
@@ -38394,6 +38855,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 17,
           "103": 9,
           "105": 3
         }
@@ -38425,6 +38887,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 8,
           "105": 1
         }
@@ -38456,6 +38919,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "105": 3
         }
       },
@@ -38486,6 +38950,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 5,
           "105": 3
         }
@@ -38546,6 +39011,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 19,
           "105": 6
         }
       },
@@ -38576,6 +39042,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "103": 2,
           "105": 3
         }
@@ -38724,6 +39191,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 11,
           "105": 7
         }
       },
@@ -38754,6 +39222,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "105": 7
         }
       },
@@ -38784,6 +39253,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "105": 5
         }
       },
@@ -39097,6 +39567,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 7
         }
       },
@@ -39155,6 +39626,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 13,
           "105": 6
         }
       },
@@ -39240,6 +39712,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 13,
           "105": 3
         }
       },
@@ -39269,6 +39742,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "105": 4
         }
       },
@@ -39298,6 +39772,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 5
         }
       },
@@ -39327,6 +39802,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "105": 7
         }
       },
@@ -39441,6 +39917,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "105": 1
         }
       },
@@ -39610,6 +40087,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 21,
           "103": 7,
           "105": 5
         }
@@ -39640,6 +40118,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1,
           "103": 0,
           "105": 0
         }
@@ -39727,6 +40206,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 19,
           "103": 6,
           "105": 7
         }
@@ -39786,6 +40266,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 10,
           "105": 7
         }
@@ -39816,6 +40297,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "103": 1,
           "105": 10
         }
@@ -39876,6 +40358,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 9,
           "105": 10
         }
@@ -40023,6 +40506,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "103": 6,
           "105": 5
         }
@@ -40083,6 +40567,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "105": 2
         }
       },
@@ -40112,6 +40597,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 20,
           "105": 2
         }
       },
@@ -40171,6 +40657,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 36,
           "105": 8
         }
       },
@@ -40200,6 +40687,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 7,
           "105": 8
         }
@@ -40230,6 +40718,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "103": 6,
           "105": 1
         }
@@ -40260,6 +40749,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 30,
           "103": 11,
           "105": 5
         }
@@ -40291,6 +40781,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 7,
           "105": 5
         }
@@ -40321,6 +40812,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 6
         }
       },
@@ -40351,6 +40843,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "105": 7
         }
       },
@@ -40380,6 +40873,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 6
         }
       },
@@ -40409,6 +40903,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 15,
           "105": 6
         }
       },
@@ -40466,6 +40961,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 7,
           "105": 7
         }
@@ -40497,6 +40993,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "105": 6
         }
       },
@@ -40527,6 +41024,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 11
         }
       },
@@ -40557,6 +41055,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 34,
           "103": 6,
           "105": 25
         }
@@ -40616,6 +41115,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "105": 7
         }
       },
@@ -40646,6 +41146,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "103": 6,
           "105": 4
         }
@@ -40735,6 +41236,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 11
         }
       },
@@ -40764,6 +41266,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "105": 4
         }
       },
@@ -40794,6 +41297,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "105": 4
         }
       },
@@ -40824,6 +41328,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 5
         }
       },
@@ -40853,6 +41358,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 13,
           "105": 7
         }
@@ -40884,6 +41390,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 13,
           "105": 6
         }
       },
@@ -40914,6 +41421,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "105": 6
         }
       },
@@ -40944,6 +41452,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "105": 7
         }
       },
@@ -40974,6 +41483,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 7
         }
       },
@@ -41034,6 +41544,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 13,
           "105": 5
         }
@@ -41065,6 +41576,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "105": 4
         }
       },
@@ -41094,6 +41606,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 15,
           "103": 5,
           "105": 7
         }
@@ -41124,6 +41637,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "105": 3
         }
       },
@@ -41184,6 +41698,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "105": 4
         }
       },
@@ -41242,6 +41757,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 13,
           "105": 7
         }
@@ -41273,6 +41789,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "105": 5
         }
       },
@@ -41303,6 +41820,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 15,
           "105": 7
         }
       },
@@ -41332,6 +41850,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 11,
           "105": 5
         }
@@ -41362,6 +41881,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "105": 6
         }
       },
@@ -41392,6 +41912,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "105": 5
         }
       },
@@ -41422,6 +41943,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 8,
           "105": 7
         }
@@ -41582,6 +42104,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 13,
               "103": 4,
               "105": 3
             }
@@ -44855,6 +45378,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "103": 3,
               "105": 4
             }
@@ -44885,6 +45409,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 19,
               "105": 6
             }
@@ -44947,6 +45472,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 20,
               "103": 14,
               "105": 9
             }
@@ -45008,6 +45534,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 11,
               "105": 6
             }
@@ -45307,6 +45834,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "103": 10,
               "105": 8
             }
@@ -45604,6 +46132,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 14,
               "103": 6,
               "105": 6
             }
@@ -45635,6 +46164,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 14,
               "105": 1
             }
           }
@@ -46758,6 +47288,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 25,
               "103": 15,
               "105": 14
             }
@@ -47216,6 +47747,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 8,
               "105": 4
             }
@@ -47415,6 +47947,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "105": 3
             }
           },
@@ -47444,6 +47977,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "103": 2,
               "105": 5
             }
@@ -47474,6 +48008,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 7,
               "105": 5
             }
@@ -47504,6 +48039,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 3,
               "105": 2
             }
@@ -47594,6 +48130,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "103": 4,
               "105": 0
             }
@@ -47624,6 +48161,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 5,
               "105": 0
             }
@@ -47816,6 +48354,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 5,
               "103": 7,
               "105": 4
             }
@@ -47847,6 +48386,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "103": 6,
               "105": 3
             }
@@ -48850,6 +49390,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 22,
               "103": 7,
               "105": 6
             }
@@ -49294,6 +49835,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 34,
               "103": 38,
               "105": 3
             }
@@ -49685,6 +50227,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 10,
               "103": 7,
               "105": 10
             }
@@ -51059,6 +51602,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "105": 3
             }
           },
@@ -51118,6 +51662,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 13,
               "103": 5,
               "105": 0
             }
@@ -53258,6 +53803,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 48,
               "103": 24,
               "105": 50
             }
@@ -53543,6 +54089,7 @@
               }
             ],
             "stocks": {
+              "102": 36,
               "103": 24,
               "105": 23
             }
@@ -53752,6 +54299,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 13,
           "103": 4,
           "105": 3
         }
@@ -55296,6 +55844,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 7,
           "105": 10
         }
@@ -56703,6 +57252,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 5,
           "105": 2
         }
@@ -58396,6 +58946,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "103": 3,
           "105": 4
         }
@@ -58426,6 +58977,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 19,
           "105": 6
         }
@@ -58488,6 +59040,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 20,
           "103": 14,
           "105": 9
         }
@@ -58549,6 +59102,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 11,
           "105": 6
         }
@@ -58848,6 +59402,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "103": 10,
           "105": 8
         }
@@ -59477,6 +60032,7 @@
           }
         ],
         "stocks": {
+          "102": 48,
           "103": 15,
           "105": 19
         }
@@ -59902,6 +60458,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 25,
           "103": 15,
           "105": 14
         }
@@ -60053,6 +60610,7 @@
           }
         ],
         "stocks": {
+          "102": 5,
           "103": 4,
           "105": 8
         }
@@ -60524,6 +61082,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 8,
           "105": 4
         }
@@ -60723,6 +61282,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "105": 3
         }
       },
@@ -60752,6 +61312,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 2,
           "105": 5
         }
@@ -60782,6 +61343,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 7,
           "105": 5
         }
@@ -60812,6 +61374,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 3,
           "105": 2
         }
@@ -60902,6 +61465,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 4,
           "105": 0
         }
@@ -60932,6 +61496,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 5,
           "105": 0
         }
@@ -61316,6 +61881,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 4,
           "105": 1
         }
@@ -61346,6 +61912,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 4,
           "105": 2
         }
@@ -61887,6 +62454,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 7,
           "105": 4
         }
@@ -61918,6 +62486,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "103": 6,
           "105": 3
         }
@@ -62285,6 +62854,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 20,
           "103": 1,
           "105": 1
         }
@@ -62783,6 +63353,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 22,
           "103": 7,
           "105": 6
         }
@@ -63220,6 +63791,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 34,
           "103": 38,
           "105": 3
         }
@@ -63950,6 +64522,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "103": 2,
           "105": 4
         }
@@ -64946,6 +65519,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "105": 3
         }
       },
@@ -65005,6 +65579,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 13,
           "103": 5,
           "105": 0
         }
@@ -65152,6 +65727,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 130,
           "103": 100,
           "105": 44
         }
@@ -66969,6 +67545,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "103": 6,
           "105": 6
         }
@@ -67000,6 +67577,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "105": 1
         }
       },
@@ -67445,6 +68023,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 48,
           "103": 24,
           "105": 50
         }
@@ -67730,6 +68309,7 @@
           }
         ],
         "stocks": {
+          "102": 36,
           "103": 24,
           "105": 23
         }
@@ -67869,6 +68449,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 3,
           "105": 1
         }
@@ -67999,6 +68580,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 13,
               "103": 15,
               "105": 7
             }
@@ -68783,6 +69365,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 4,
               "105": 4
             }
           }
@@ -70312,6 +70895,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 13,
           "103": 15,
           "105": 7
         }
@@ -72298,6 +72882,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 20,
           "103": 0,
           "105": 19
         }
@@ -72383,6 +72968,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 16,
           "105": 9
         }
       },
@@ -72439,6 +73025,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 32,
           "105": 15
         }
       },
@@ -72467,6 +73054,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "105": 10
         }
       },
@@ -72524,6 +73112,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "105": 12
         }
       },
@@ -72723,6 +73312,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 36,
           "105": 16
         }
       },
@@ -73286,6 +73876,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 1,
           "105": 7
         }
@@ -73399,6 +73990,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 66,
           "103": 0,
           "105": 10
         }
@@ -73484,6 +74076,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 18,
           "105": 8
         }
       },
@@ -73884,6 +74477,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 14,
           "105": 8
         }
       },
@@ -74895,6 +75489,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "105": 4
         }
       },
@@ -74923,6 +75518,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 2,
           "105": 6
         }
@@ -75010,6 +75606,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 23,
           "103": 1,
           "105": 8
         }
@@ -75039,6 +75636,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 2,
           "105": 6
         }
@@ -76659,6 +77257,7 @@
           }
         ],
         "stocks": {
+          "102": 2,
           "103": 1,
           "105": 1
         }
@@ -76688,6 +77287,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 1,
           "105": 2
         }
@@ -76717,6 +77317,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 4,
           "103": 1,
           "105": 2
         }
@@ -77329,6 +77930,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 2,
               "103": 3,
               "105": 1
             }
@@ -77359,6 +77961,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 2,
               "103": 2
             }
           },
@@ -77388,6 +77991,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 7,
               "103": 3,
               "105": 2
             }
@@ -77418,6 +78022,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 6,
               "103": 0,
               "105": 2
             }
@@ -77477,6 +78082,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 3,
               "103": 8
             }
           },
@@ -77506,6 +78112,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 9,
               "103": 0,
               "105": 1
             }
@@ -77694,6 +78301,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 12,
               "103": 20,
               "105": 9
             }
@@ -77724,6 +78332,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 108,
               "103": 21,
               "105": 2
             }
@@ -77755,6 +78364,7 @@
             "movimientos": [],
             "etiquetasProductos": [],
             "stocks": {
+              "102": 49,
               "103": 21,
               "105": 12
             }
@@ -78124,6 +78734,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "103": 20,
           "105": 9
         }
@@ -78152,6 +78763,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 12,
           "103": 14,
           "105": 18
         }
@@ -78209,6 +78821,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 108,
           "103": 21,
           "105": 2
         }
@@ -78240,6 +78853,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 49,
           "103": 21,
           "105": 12
         }
@@ -78297,6 +78911,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 1200,
           "103": 149,
           "105": 47
         }
@@ -78354,6 +78969,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "103": 3,
           "105": 4
         }
@@ -78442,6 +79058,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 40,
           "103": 42,
           "105": 16
         }
@@ -78479,6 +79096,7 @@
           }
         ],
         "stocks": {
+          "102": 14,
           "103": 40,
           "105": 10
         }
@@ -78623,6 +79241,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 63,
           "103": 14,
           "105": 13
         }
@@ -78652,6 +79271,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 16,
           "103": 4,
           "105": 8
         }
@@ -78681,6 +79301,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 23,
           "103": 5,
           "105": 10
         }
@@ -78711,6 +79332,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 9,
           "103": 2,
           "105": 6
         }
@@ -78741,6 +79363,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 20,
           "103": 5,
           "105": 7
         }
@@ -78771,6 +79394,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 60,
           "103": 23,
           "105": 8
         }
@@ -79273,6 +79897,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "103": 3,
           "105": 1
         }
@@ -79303,6 +79928,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 2,
           "103": 2
         }
       },
@@ -79332,6 +79958,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "103": 3,
           "105": 2
         }
@@ -79362,6 +79989,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 6,
           "103": 0,
           "105": 2
         }
@@ -79421,6 +80049,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 8
         }
       },
@@ -79450,6 +80079,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 9,
           "103": 0,
           "105": 1
         }
@@ -79510,6 +80140,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 5,
           "103": 26,
           "105": 4
         }
@@ -79539,6 +80170,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 24,
           "103": 43,
           "105": 3
         }
@@ -79567,6 +80199,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 35,
           "105": 9
         }
       },
@@ -79595,6 +80228,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 56,
           "103": 35,
           "105": 0
         }
@@ -79652,6 +80286,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 7,
           "103": 9,
           "105": 2
         }
@@ -79823,6 +80458,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 46,
           "103": 35,
           "105": 14
         }
@@ -79851,6 +80487,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 61,
           "103": 32,
           "105": 9
         }
@@ -80295,6 +80932,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 64,
           "103": 60,
           "105": 61
         }
@@ -80325,6 +80963,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 3,
           "103": 3,
           "105": 5
         }
@@ -80384,6 +81023,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 24,
           "103": 7,
           "105": 40
         }
@@ -80472,6 +81112,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 6,
           "105": 16
         }
@@ -80557,6 +81198,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 35,
           "103": 20,
           "105": 10
         }
@@ -80615,6 +81257,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 154,
           "103": 36,
           "105": 56
         }
@@ -80673,6 +81316,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 40,
           "103": 11,
           "105": 30
         }
@@ -80703,6 +81347,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 162,
           "103": 14,
           "105": 37
         }
@@ -80786,6 +81431,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 10,
           "103": 1,
           "105": 2
         }
@@ -80957,6 +81603,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 24,
           "103": 6,
           "105": 32
         }
@@ -81102,6 +81749,7 @@
         "movimientos": [],
         "etiquetasProductos": [],
         "stocks": {
+          "102": 8,
           "103": 8,
           "105": 6
         }
@@ -83924,6 +84572,7 @@
               }
             ],
             "stocks": {
+              "102": 1,
               "103": 1,
               "105": 1
             }
@@ -83961,6 +84610,7 @@
               }
             ],
             "stocks": {
+              "102": 3,
               "105": 1
             }
           }
@@ -87347,6 +87997,7 @@
           }
         ],
         "stocks": {
+          "102": 1,
           "103": 1,
           "105": 1
         }
@@ -87384,6 +88035,7 @@
           }
         ],
         "stocks": {
+          "102": 3,
           "105": 1
         }
       },

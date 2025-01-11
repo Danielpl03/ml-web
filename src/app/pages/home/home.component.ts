@@ -39,7 +39,6 @@ export class HomeComponent implements OnInit {
 
     this.productosService.getProductosNuevos().then( (productos) => {
       this.productosNuevos.set(productos);
-      console.log(this.productosNuevos());
     } )
   
   }
@@ -53,21 +52,21 @@ export class HomeComponent implements OnInit {
       nombre: "Amanecer",
       imageName: "tienda-Amanecer.jpg",
       direccion: "Calle Martí #128, Pinar del Río",
-      coordenadas: "22.4144804, -83.6923232" // Ejemplo de coordenadas (Nueva York)
+      coordenadas: "22.4144804, -83.6923232"
     },
     {
       idTienda: 2,
       nombre: "La Quincallera",
-      imageName: "tiendas-Amanecer.jpg",
+      imageName: "tienda-Quincallera.png",
       direccion: "Calle Martí #123, Pinar del Río",
-      coordenadas: "22.4165366, -83.6991112" // Ejemplo de coordenadas (Chicago)
+      coordenadas: "22.4165366, -83.6991112"
     },
     {
       idTienda: 3,
       nombre: "La Mariposa",
       imageName: "tienda-Mariposa.png",
       direccion: "Calle Rafael Morales #14 E/ Calle Martí y Calle Máximo Gómez",
-      coordenadas: "22.4157534, -83.6985201" // Ejemplo de coordenadas (Los Ángeles)
+      coordenadas: "22.4157534, -83.6985201"
     }
   ];
 
