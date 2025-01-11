@@ -122,6 +122,14 @@ export class ProductosService{
     return productos;
   }
 
+  async getProductosDestacados(): Promise<Producto[]> {
+    const url = new URL('./data/productosConRebaja.json', import.meta.url);
+    const res = await fetch(url);
+    const productos: Producto[] = await res.json();
+
+    return productos;
+  }
+
 
   getPrecio(descuento: boolean, producto: Producto){
     

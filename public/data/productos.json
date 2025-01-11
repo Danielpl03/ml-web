@@ -32200,7 +32200,7 @@
       "idPrecio": 808,
       "idProducto": 1821,
       "idMoneda": 1,
-      "precio": 28000.0
+      "precio": 20000.0
     },
     "precios": [
       {
@@ -32213,7 +32213,7 @@
         "idPrecio": 808,
         "idProducto": 1821,
         "idMoneda": 1,
-        "precio": 28000.0
+        "precio": 20000.0
       }
     ],
     "image_name": "Olla a presion Automatica -ML-OPM-6L.jpg",

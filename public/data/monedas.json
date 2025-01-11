@@ -11,6 +11,6 @@
     "nombre": "Dolar Estadounidense",
     "siglas": "USD",
     "porDefecto": false,
-    "tazaCambio": 300.0
+    "tazaCambio": 350.0
   }
 ]

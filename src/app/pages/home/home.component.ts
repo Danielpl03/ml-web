@@ -11,13 +11,14 @@ import { Tienda } from '../../core/interfaces/tienda';
 import { ProductoShowcaseComponent } from '../../core/components/producto-showcase/producto-showcase.component';
 import { ProductosService } from '../../core/services/productos.service';
 import { Producto } from '../../core/interfaces/producto';
+import { ProductoCarruselComponent } from "../../core/components/producto-carrusel/producto-carrusel.component";
 
 @Component({
   selector: 'app-home',
   standalone: true,
   templateUrl: './home.component.html',
   styleUrl: './home.component.css',
-  imports: [ProductoShowcaseComponent, LoadingComponent, DepartamentoComponent, RouterModule, TarjetaDepartamentoComponent, CommonModule]
+  imports: [ProductoShowcaseComponent, LoadingComponent, DepartamentoComponent, RouterModule, TarjetaDepartamentoComponent, CommonModule, ProductoCarruselComponent]
 })
 
 export class HomeComponent implements OnInit {
@@ -25,6 +26,7 @@ export class HomeComponent implements OnInit {
   departamentosService = inject(DepartamentosService);
   departamentos: WritableSignal<Departamento[]> = signal([]);
   productosNuevos: WritableSignal<Producto[]> = signal([]);
+  productosDestacados: WritableSignal<Producto[]> = signal([]);
 
   seo = inject(SeoService);
   productosService = inject(ProductosService);
@@ -37,10 +39,14 @@ export class HomeComponent implements OnInit {
     this.seo.setCanonicalUrl(`home`);
     this.seo.setIndexFollow(true);
 
-    this.productosService.getProductosNuevos().then( (productos) => {
+    this.productosService.getProductosNuevos().then((productos) => {
       this.productosNuevos.set(productos);
-    } )
-  
+    });
+
+    this.productosService.getProductosDestacados().then((productos) => {
+      this.productosDestacados.set(productos);
+    });
+
   }
 
 
