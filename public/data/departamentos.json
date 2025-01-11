@@ -5834,6 +5834,7 @@
                 "precio": 3850.0
               }
             ],
+            "image_name": "PINTURA ESMALTE BLANCO -Q7-200.webp",
             "ipv": false,
             "activo": true,
             "combo": false,
@@ -5871,6 +5872,7 @@
                 "precio": 3850.0
               }
             ],
+            "image_name": "PINTURA ESMALTE CAOBA -Q7-204.webp",
             "ipv": false,
             "activo": true,
             "combo": false,
@@ -5908,6 +5910,7 @@
                 "precio": 3850.0
               }
             ],
+            "image_name": "PINTURA ESMALTE NEGRO -Q7-201.webp",
             "ipv": false,
             "activo": true,
             "combo": false,
@@ -5945,6 +5948,7 @@
                 "precio": 3850.0
               }
             ],
+            "image_name": "PINTURA ESMALTE SINTETICO BARNIZ -Q7-300.webp",
             "ipv": false,
             "activo": true,
             "combo": false,
@@ -5981,6 +5985,7 @@
                 "precio": 3850.0
               }
             ],
+            "image_name": "PINTURA ESMALTE SINTETICO GRIS -Q7-206.webp",
             "ipv": false,
             "activo": true,
             "combo": false,
@@ -6018,6 +6023,7 @@
                 "precio": 3850.0
               }
             ],
+            "image_name": "PINTURA ESMALTE SINTETICO NEGRO -Q7-332.webp",
             "ipv": false,
             "activo": true,
             "combo": false,
@@ -16862,6 +16868,7 @@
             "precio": 3850.0
           }
         ],
+        "image_name": "PINTURA ESMALTE BLANCO -Q7-200.webp",
         "ipv": false,
         "activo": true,
         "combo": false,
@@ -16899,6 +16906,7 @@
             "precio": 3850.0
           }
         ],
+        "image_name": "PINTURA ESMALTE CAOBA -Q7-204.webp",
         "ipv": false,
         "activo": true,
         "combo": false,
@@ -16936,6 +16944,7 @@
             "precio": 3850.0
           }
         ],
+        "image_name": "PINTURA ESMALTE NEGRO -Q7-201.webp",
         "ipv": false,
         "activo": true,
         "combo": false,
@@ -16973,6 +16982,7 @@
             "precio": 3850.0
           }
         ],
+        "image_name": "PINTURA ESMALTE SINTETICO BARNIZ -Q7-300.webp",
         "ipv": false,
         "activo": true,
         "combo": false,
@@ -17009,6 +17019,7 @@
             "precio": 3850.0
           }
         ],
+        "image_name": "PINTURA ESMALTE SINTETICO GRIS -Q7-206.webp",
         "ipv": false,
         "activo": true,
         "combo": false,
@@ -17046,6 +17057,7 @@
             "precio": 3850.0
           }
         ],
+        "image_name": "PINTURA ESMALTE SINTETICO NEGRO -Q7-332.webp",
         "ipv": false,
         "activo": true,
         "combo": false,
@@ -18112,6 +18124,7 @@
             "precio": 14000.0
           }
         ],
+        "image_name": "SELLADOR NITRO PARA MADERA -Q7-05.webp",
         "ipv": false,
         "activo": true,
         "combo": false,
@@ -20576,42 +20589,6 @@
         "nombre": "Lavadoras",
         "productos": [
           {
-            "idProducto": 275,
-            "codigo": "WM9",
-            "descripcion": "Lavadora 9kg",
-            "precio": {
-              "idPrecio": 645,
-              "idProducto": 275,
-              "idMoneda": 1,
-              "precio": 98000.0
-            },
-            "precios": [
-              {
-                "idPrecio": 645,
-                "idProducto": 275,
-                "idMoneda": 1,
-                "precio": 98000.0
-              },
-              {
-                "idPrecio": 1335,
-                "idProducto": 275,
-                "idMoneda": 2,
-                "precio": 280.0
-              }
-            ],
-            "ipv": true,
-            "activo": true,
-            "combo": false,
-            "idCategoria": 54,
-            "idDepartamento": 3,
-            "movimientos": [],
-            "etiquetasProductos": [],
-            "stocks": {
-              "103": 2,
-              "105": 0
-            }
-          },
-          {
             "idProducto": 2383,
             "codigo": "8112",
             "descripcion": "LAVADORA AUTOMATICA 10.1KG",
@@ -21110,6 +21087,7 @@
                 "precio": 240.0
               }
             ],
+            "image_name": "Lavadora Semiautomatica 7kg -WM7.jpeg",
             "ipv": true,
             "activo": true,
             "combo": false,
@@ -21120,6 +21098,43 @@
             "stocks": {
               "103": 3,
               "105": 2
+            }
+          },
+          {
+            "idProducto": 275,
+            "codigo": "WM9",
+            "descripcion": "Lavadora Semiautomatica 9kg",
+            "precio": {
+              "idPrecio": 645,
+              "idProducto": 275,
+              "idMoneda": 1,
+              "precio": 98000.0
+            },
+            "precios": [
+              {
+                "idPrecio": 645,
+                "idProducto": 275,
+                "idMoneda": 1,
+                "precio": 98000.0
+              },
+              {
+                "idPrecio": 1335,
+                "idProducto": 275,
+                "idMoneda": 2,
+                "precio": 280.0
+              }
+            ],
+            "image_name": "Lavadora Semiautomatica 9kg -WM9.jpg",
+            "ipv": true,
+            "activo": true,
+            "combo": false,
+            "idCategoria": 54,
+            "idDepartamento": 3,
+            "movimientos": [],
+            "etiquetasProductos": [],
+            "stocks": {
+              "103": 2,
+              "105": 0
             }
           }
         ]
@@ -24974,42 +24989,6 @@
         }
       },
       {
-        "idProducto": 275,
-        "codigo": "WM9",
-        "descripcion": "Lavadora 9kg",
-        "precio": {
-          "idPrecio": 645,
-          "idProducto": 275,
-          "idMoneda": 1,
-          "precio": 98000.0
-        },
-        "precios": [
-          {
-            "idPrecio": 645,
-            "idProducto": 275,
-            "idMoneda": 1,
-            "precio": 98000.0
-          },
-          {
-            "idPrecio": 1335,
-            "idProducto": 275,
-            "idMoneda": 2,
-            "precio": 280.0
-          }
-        ],
-        "ipv": true,
-        "activo": true,
-        "combo": false,
-        "idCategoria": 54,
-        "idDepartamento": 3,
-        "movimientos": [],
-        "etiquetasProductos": [],
-        "stocks": {
-          "103": 2,
-          "105": 0
-        }
-      },
-      {
         "idProducto": 2383,
         "codigo": "8112",
         "descripcion": "LAVADORA AUTOMATICA 10.1KG",
@@ -25508,6 +25487,7 @@
             "precio": 240.0
           }
         ],
+        "image_name": "Lavadora Semiautomatica 7kg -WM7.jpeg",
         "ipv": true,
         "activo": true,
         "combo": false,
@@ -25518,6 +25498,43 @@
         "stocks": {
           "103": 3,
           "105": 2
+        }
+      },
+      {
+        "idProducto": 275,
+        "codigo": "WM9",
+        "descripcion": "Lavadora Semiautomatica 9kg",
+        "precio": {
+          "idPrecio": 645,
+          "idProducto": 275,
+          "idMoneda": 1,
+          "precio": 98000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 645,
+            "idProducto": 275,
+            "idMoneda": 1,
+            "precio": 98000.0
+          },
+          {
+            "idPrecio": 1335,
+            "idProducto": 275,
+            "idMoneda": 2,
+            "precio": 280.0
+          }
+        ],
+        "image_name": "Lavadora Semiautomatica 9kg -WM9.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 54,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [],
+        "stocks": {
+          "103": 2,
+          "105": 0
         }
       },
       {

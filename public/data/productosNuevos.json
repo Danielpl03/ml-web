@@ -531,6 +531,45 @@
     }
   },
   {
+    "idProducto": 2405,
+    "descripcion": "CEMENTO GRIS 350",
+    "precio": {
+      "idPrecio": 1940,
+      "idProducto": 2405,
+      "idMoneda": 1,
+      "precio": 8000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1940,
+        "idProducto": 2405,
+        "idMoneda": 1,
+        "precio": 8000.0
+      },
+      {
+        "idPrecio": 1941,
+        "idProducto": 2405,
+        "idMoneda": 2,
+        "precio": 23.0
+      }
+    ],
+    "image_name": "CEMENTO GRIS 350.jpeg",
+    "ipv": false,
+    "activo": false,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 344,
+        "idEtiqueta": 7,
+        "idProducto": 2405,
+        "valor": "11/01"
+      }
+    ],
+    "stocks": {}
+  },
+  {
     "idProducto": 180,
     "codigo": "8016",
     "descripcion": "Estufa Ind C/olla",
@@ -1085,6 +1124,7 @@
         "precio": 3850.0
       }
     ],
+    "image_name": "PINTURA ESMALTE BLANCO -Q7-200.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -1122,6 +1162,7 @@
         "precio": 3850.0
       }
     ],
+    "image_name": "PINTURA ESMALTE CAOBA -Q7-204.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -1159,6 +1200,7 @@
         "precio": 3850.0
       }
     ],
+    "image_name": "PINTURA ESMALTE NEGRO -Q7-201.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -1196,6 +1238,7 @@
         "precio": 3850.0
       }
     ],
+    "image_name": "PINTURA ESMALTE SINTETICO BARNIZ -Q7-300.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -1232,6 +1275,7 @@
         "precio": 3850.0
       }
     ],
+    "image_name": "PINTURA ESMALTE SINTETICO GRIS -Q7-206.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -1269,6 +1313,7 @@
         "precio": 3850.0
       }
     ],
+    "image_name": "PINTURA ESMALTE SINTETICO NEGRO -Q7-332.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -1529,6 +1574,7 @@
         "precio": 14000.0
       }
     ],
+    "image_name": "SELLADOR NITRO PARA MADERA -Q7-05.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
