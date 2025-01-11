@@ -25777,16 +25777,16 @@
     },
     "precios": [
       {
-        "idPrecio": 1925,
-        "idProducto": 2382,
-        "idMoneda": 2,
-        "precio": 885.0
-      },
-      {
         "idPrecio": 1888,
         "idProducto": 2382,
         "idMoneda": 1,
         "precio": 309750.0
+      },
+      {
+        "idPrecio": 1925,
+        "idProducto": 2382,
+        "idMoneda": 2,
+        "precio": 885.0
       }
     ],
     "ipv": false,
@@ -32221,16 +32221,16 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 48,
-        "idEtiqueta": 8,
-        "idProducto": 1821,
-        "valor": "28000"
-      },
-      {
         "idRelacion": 233,
         "idEtiqueta": 8,
         "idProducto": 1821,
         "valor": "28000.0"
+      },
+      {
+        "idRelacion": 48,
+        "idEtiqueta": 8,
+        "idProducto": 1821,
+        "valor": "28000"
       }
     ],
     "stocks": {
@@ -49937,16 +49937,16 @@
     },
     "precios": [
       {
-        "idPrecio": 1936,
-        "idProducto": 2386,
-        "idMoneda": 2,
-        "precio": 160.0
-      },
-      {
         "idPrecio": 1892,
         "idProducto": 2386,
         "idMoneda": 1,
         "precio": 56000.0
+      },
+      {
+        "idPrecio": 1936,
+        "idProducto": 2386,
+        "idMoneda": 2,
+        "precio": 160.0
       }
     ],
     "image_name": "TV 24\u0026 HD SMART -8744.jpg",
@@ -49964,16 +49964,16 @@
         "valor": "10/01"
       },
       {
-        "idRelacion": 343,
-        "idEtiqueta": 8,
-        "idProducto": 2386,
-        "valor": "66500.0"
-      },
-      {
         "idRelacion": 342,
         "idEtiqueta": 8,
         "idProducto": 2386,
         "valor": "85750.0"
+      },
+      {
+        "idRelacion": 343,
+        "idEtiqueta": 8,
+        "idProducto": 2386,
+        "valor": "66500.0"
       }
     ],
     "stocks": {
@@ -50042,18 +50042,19 @@
     },
     "precios": [
       {
-        "idPrecio": 1937,
-        "idProducto": 2404,
-        "idMoneda": 2,
-        "precio": 200.0
-      },
-      {
         "idPrecio": 1910,
         "idProducto": 2404,
         "idMoneda": 1,
         "precio": 70000.0
+      },
+      {
+        "idPrecio": 1937,
+        "idProducto": 2404,
+        "idMoneda": 2,
+        "precio": 200.0
       }
     ],
+    "image_name": "TV 32\u0026 HD SMART -8867.jpg",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -50210,16 +50211,16 @@
     },
     "precios": [
       {
-        "idPrecio": 1938,
-        "idProducto": 2389,
-        "idMoneda": 2,
-        "precio": 580.0
-      },
-      {
         "idPrecio": 1895,
         "idProducto": 2389,
         "idMoneda": 1,
         "precio": 203000.0
+      },
+      {
+        "idPrecio": 1938,
+        "idProducto": 2389,
+        "idMoneda": 2,
+        "precio": 580.0
       }
     ],
     "image_name": "TV 50\u0026 UHD SMART -8835.jpg",
@@ -50295,16 +50296,16 @@
     },
     "precios": [
       {
-        "idPrecio": 1939,
-        "idProducto": 2388,
-        "idMoneda": 2,
-        "precio": 930.0
-      },
-      {
         "idPrecio": 1894,
         "idProducto": 2388,
         "idMoneda": 1,
         "precio": 325500.0
+      },
+      {
+        "idPrecio": 1939,
+        "idProducto": 2388,
+        "idMoneda": 2,
+        "precio": 930.0
       }
     ],
     "image_name": "TV 65\u0026 UHD SMART -8344.jpg",
@@ -50338,16 +50339,16 @@
     },
     "precios": [
       {
-        "idPrecio": 1630,
-        "idProducto": 2109,
-        "idMoneda": 2,
-        "precio": 1050.0
-      },
-      {
         "idPrecio": 1583,
         "idProducto": 2109,
         "idMoneda": 1,
         "precio": 367500.0
+      },
+      {
+        "idPrecio": 1630,
+        "idProducto": 2109,
+        "idMoneda": 2,
+        "precio": 1050.0
       }
     ],
     "image_name": "TV 70\u0026 UHD SMART -8452.jpg",

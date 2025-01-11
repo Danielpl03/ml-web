@@ -174,39 +174,6 @@
     }
   },
   {
-    "idProducto": 2392,
-    "codigo": "2024",
-    "descripcion": "BLUSA TEJIDO PLANO",
-    "precio": {
-      "idPrecio": 1898,
-      "idProducto": 2392,
-      "idMoneda": 1,
-      "precio": 2500.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1898,
-        "idProducto": 2392,
-        "idMoneda": 1,
-        "precio": 2500.0
-      }
-    ],
-    "ipv": false,
-    "activo": false,
-    "combo": false,
-    "idDepartamento": 1,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 320,
-        "idEtiqueta": 7,
-        "idProducto": 2392,
-        "valor": "10/01"
-      }
-    ],
-    "stocks": {}
-  },
-  {
     "idProducto": 2114,
     "codigo": "8514",
     "descripcion": "BOCINA 12\"",
@@ -564,72 +531,6 @@
     }
   },
   {
-    "idProducto": 2390,
-    "codigo": "2021",
-    "descripcion": "CAMISA TEJIDO PLANO",
-    "precio": {
-      "idPrecio": 1896,
-      "idProducto": 2390,
-      "idMoneda": 1,
-      "precio": 2500.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1896,
-        "idProducto": 2390,
-        "idMoneda": 1,
-        "precio": 2500.0
-      }
-    ],
-    "ipv": false,
-    "activo": false,
-    "combo": false,
-    "idDepartamento": 1,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 317,
-        "idEtiqueta": 7,
-        "idProducto": 2390,
-        "valor": "10/01"
-      }
-    ],
-    "stocks": {}
-  },
-  {
-    "idProducto": 2393,
-    "codigo": "2025",
-    "descripcion": "CONJUNTO SHORT Y PULLOVER",
-    "precio": {
-      "idPrecio": 1899,
-      "idProducto": 2393,
-      "idMoneda": 1,
-      "precio": 2500.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1899,
-        "idProducto": 2393,
-        "idMoneda": 1,
-        "precio": 2500.0
-      }
-    ],
-    "ipv": false,
-    "activo": false,
-    "combo": false,
-    "idDepartamento": 1,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 321,
-        "idEtiqueta": 7,
-        "idProducto": 2393,
-        "valor": "10/01"
-      }
-    ],
-    "stocks": {}
-  },
-  {
     "idProducto": 180,
     "codigo": "8016",
     "descripcion": "Estufa Ind C/olla",
@@ -850,16 +751,16 @@
     },
     "precios": [
       {
-        "idPrecio": 1925,
-        "idProducto": 2382,
-        "idMoneda": 2,
-        "precio": 885.0
-      },
-      {
         "idPrecio": 1888,
         "idProducto": 2382,
         "idMoneda": 1,
         "precio": 309750.0
+      },
+      {
+        "idPrecio": 1925,
+        "idProducto": 2382,
+        "idMoneda": 2,
+        "precio": 885.0
       }
     ],
     "ipv": false,
@@ -1081,105 +982,6 @@
     "stocks": {
       "105": 3
     }
-  },
-  {
-    "idProducto": 2391,
-    "codigo": "2022",
-    "descripcion": "PANTALON TEJIDO PLANO",
-    "precio": {
-      "idPrecio": 1897,
-      "idProducto": 2391,
-      "idMoneda": 1,
-      "precio": 2500.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1897,
-        "idProducto": 2391,
-        "idMoneda": 1,
-        "precio": 2500.0
-      }
-    ],
-    "ipv": false,
-    "activo": false,
-    "combo": false,
-    "idDepartamento": 1,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 318,
-        "idEtiqueta": 7,
-        "idProducto": 2391,
-        "valor": "10/01"
-      }
-    ],
-    "stocks": {}
-  },
-  {
-    "idProducto": 2395,
-    "codigo": "JEANS-A",
-    "descripcion": "PANTALONES TEJIDO MEZCLILLA",
-    "precio": {
-      "idPrecio": 1901,
-      "idProducto": 2395,
-      "idMoneda": 1,
-      "precio": 700.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1901,
-        "idProducto": 2395,
-        "idMoneda": 1,
-        "precio": 700.0
-      }
-    ],
-    "ipv": false,
-    "activo": false,
-    "combo": false,
-    "idDepartamento": 1,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 323,
-        "idEtiqueta": 7,
-        "idProducto": 2395,
-        "valor": "10/01"
-      }
-    ],
-    "stocks": {}
-  },
-  {
-    "idProducto": 2396,
-    "codigo": "JEANS-B",
-    "descripcion": "PANTALONES TEJIDO MEZCLILLA",
-    "precio": {
-      "idPrecio": 1902,
-      "idProducto": 2396,
-      "idMoneda": 1,
-      "precio": 700.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1902,
-        "idProducto": 2396,
-        "idMoneda": 1,
-        "precio": 700.0
-      }
-    ],
-    "ipv": false,
-    "activo": false,
-    "combo": false,
-    "idDepartamento": 1,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 324,
-        "idEtiqueta": 7,
-        "idProducto": 2396,
-        "valor": "10/01"
-      }
-    ],
-    "stocks": {}
   },
   {
     "idProducto": 2376,
@@ -1745,39 +1547,6 @@
     }
   },
   {
-    "idProducto": 2394,
-    "codigo": "2026",
-    "descripcion": "SHORT TEJIDO PLANO",
-    "precio": {
-      "idPrecio": 1900,
-      "idProducto": 2394,
-      "idMoneda": 1,
-      "precio": 2500.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1900,
-        "idProducto": 2394,
-        "idMoneda": 1,
-        "precio": 2500.0
-      }
-    ],
-    "ipv": false,
-    "activo": false,
-    "combo": false,
-    "idDepartamento": 1,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 322,
-        "idEtiqueta": 7,
-        "idProducto": 2394,
-        "valor": "10/01"
-      }
-    ],
-    "stocks": {}
-  },
-  {
     "idProducto": 2386,
     "codigo": "8744",
     "descripcion": "TV 24\" HD SMART",
@@ -1789,16 +1558,16 @@
     },
     "precios": [
       {
-        "idPrecio": 1936,
-        "idProducto": 2386,
-        "idMoneda": 2,
-        "precio": 160.0
-      },
-      {
         "idPrecio": 1892,
         "idProducto": 2386,
         "idMoneda": 1,
         "precio": 56000.0
+      },
+      {
+        "idPrecio": 1936,
+        "idProducto": 2386,
+        "idMoneda": 2,
+        "precio": 160.0
       }
     ],
     "image_name": "TV 24\u0026 HD SMART -8744.jpg",
@@ -1816,16 +1585,16 @@
         "valor": "10/01"
       },
       {
-        "idRelacion": 343,
-        "idEtiqueta": 8,
-        "idProducto": 2386,
-        "valor": "66500.0"
-      },
-      {
         "idRelacion": 342,
         "idEtiqueta": 8,
         "idProducto": 2386,
         "valor": "85750.0"
+      },
+      {
+        "idRelacion": 343,
+        "idEtiqueta": 8,
+        "idProducto": 2386,
+        "valor": "66500.0"
       }
     ],
     "stocks": {
@@ -1845,16 +1614,16 @@
     },
     "precios": [
       {
-        "idPrecio": 1938,
-        "idProducto": 2389,
-        "idMoneda": 2,
-        "precio": 580.0
-      },
-      {
         "idPrecio": 1895,
         "idProducto": 2389,
         "idMoneda": 1,
         "precio": 203000.0
+      },
+      {
+        "idPrecio": 1938,
+        "idProducto": 2389,
+        "idMoneda": 2,
+        "precio": 580.0
       }
     ],
     "image_name": "TV 50\u0026 UHD SMART -8835.jpg",
@@ -1888,16 +1657,16 @@
     },
     "precios": [
       {
-        "idPrecio": 1939,
-        "idProducto": 2388,
-        "idMoneda": 2,
-        "precio": 930.0
-      },
-      {
         "idPrecio": 1894,
         "idProducto": 2388,
         "idMoneda": 1,
         "precio": 325500.0
+      },
+      {
+        "idPrecio": 1939,
+        "idProducto": 2388,
+        "idMoneda": 2,
+        "precio": 930.0
       }
     ],
     "image_name": "TV 65\u0026 UHD SMART -8344.jpg",

@@ -800,16 +800,16 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 48,
-        "idEtiqueta": 8,
-        "idProducto": 1821,
-        "valor": "28000"
-      },
-      {
         "idRelacion": 233,
         "idEtiqueta": 8,
         "idProducto": 1821,
         "valor": "28000.0"
+      },
+      {
+        "idRelacion": 48,
+        "idEtiqueta": 8,
+        "idProducto": 1821,
+        "valor": "28000"
       }
     ],
     "stocks": {
@@ -1444,16 +1444,16 @@
     },
     "precios": [
       {
-        "idPrecio": 1936,
-        "idProducto": 2386,
-        "idMoneda": 2,
-        "precio": 160.0
-      },
-      {
         "idPrecio": 1892,
         "idProducto": 2386,
         "idMoneda": 1,
         "precio": 56000.0
+      },
+      {
+        "idPrecio": 1936,
+        "idProducto": 2386,
+        "idMoneda": 2,
+        "precio": 160.0
       }
     ],
     "image_name": "TV 24\u0026 HD SMART -8744.jpg",
@@ -1471,16 +1471,16 @@
         "valor": "10/01"
       },
       {
-        "idRelacion": 343,
-        "idEtiqueta": 8,
-        "idProducto": 2386,
-        "valor": "66500.0"
-      },
-      {
         "idRelacion": 342,
         "idEtiqueta": 8,
         "idProducto": 2386,
         "valor": "85750.0"
+      },
+      {
+        "idRelacion": 343,
+        "idEtiqueta": 8,
+        "idProducto": 2386,
+        "valor": "66500.0"
       }
     ],
     "stocks": {
