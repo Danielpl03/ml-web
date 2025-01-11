@@ -42,12 +42,14 @@ export class CarritoComponent {
     let pedido = '';
     for (let i = 0; i < this.carritoService.getItems().length; i++) {
       const item = this.carritoService.getItems()[i];
-      pedido += `- ${item.cantidad} ${item.cantidad > 9 ? '*' : ' *'} ${this.fullDescription(item.producto)}\n`;
+      pedido += `- ${item.cantidad} ${item.cantidad > 9 ? '*' : ' *'} ${this.fullDescription(item.producto)} \$${item.importe}\n`;
     }
     const mensaje =
       `
 Hola!, quiero hacer el siguiente pedido:
 ${pedido}
+
+Total: \$${this.carritoService.getImporte(true)}
 Espero su respuesta. Muchas gracias!
 `
     this.clipboard.copyFromContent(mensaje);

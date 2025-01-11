@@ -631,6 +631,7 @@
         "precio": 10500.0
       }
     ],
+    "image_name": "LAMPARA DE EMERGENCIA -8643F.jpg",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -802,6 +803,7 @@
         "precio": 885.0
       }
     ],
+    "image_name": "LAVADORA AUTOMATICA 20KG -7976.jpg",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -1645,6 +1647,50 @@
     ],
     "stocks": {
       "102": 3,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2404,
+    "codigo": "8867",
+    "descripcion": "TV 32\" HD SMART",
+    "precio": {
+      "idPrecio": 1910,
+      "idProducto": 2404,
+      "idMoneda": 1,
+      "precio": 70000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1910,
+        "idProducto": 2404,
+        "idMoneda": 1,
+        "precio": 70000.0
+      },
+      {
+        "idPrecio": 1937,
+        "idProducto": 2404,
+        "idMoneda": 2,
+        "precio": 200.0
+      }
+    ],
+    "image_name": "TV 32\u0026 HD SMART -8867.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 64,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 345,
+        "idEtiqueta": 7,
+        "idProducto": 2404,
+        "valor": "10/01"
+      }
+    ],
+    "stocks": {
+      "102": 5,
       "105": 1
     }
   },

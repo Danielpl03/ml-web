@@ -20848,6 +20848,7 @@
                 "precio": 885.0
               }
             ],
+            "image_name": "LAVADORA AUTOMATICA 20KG -7976.jpg",
             "ipv": false,
             "activo": true,
             "combo": false,
@@ -22860,7 +22861,14 @@
             "idCategoria": 64,
             "idDepartamento": 3,
             "movimientos": [],
-            "etiquetasProductos": [],
+            "etiquetasProductos": [
+              {
+                "idRelacion": 345,
+                "idEtiqueta": 7,
+                "idProducto": 2404,
+                "valor": "10/01"
+              }
+            ],
             "stocks": {
               "102": 5,
               "105": 1
@@ -25248,6 +25256,7 @@
             "precio": 885.0
           }
         ],
+        "image_name": "LAVADORA AUTOMATICA 20KG -7976.jpg",
         "ipv": false,
         "activo": true,
         "combo": false,
@@ -27927,7 +27936,14 @@
         "idCategoria": 64,
         "idDepartamento": 3,
         "movimientos": [],
-        "etiquetasProductos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 345,
+            "idEtiqueta": 7,
+            "idProducto": 2404,
+            "valor": "10/01"
+          }
+        ],
         "stocks": {
           "102": 5,
           "105": 1
@@ -48340,6 +48356,7 @@
                 "precio": 10500.0
               }
             ],
+            "image_name": "LAMPARA DE EMERGENCIA -8643F.jpg",
             "ipv": false,
             "activo": true,
             "combo": false,
@@ -62440,6 +62457,7 @@
             "precio": 10500.0
           }
         ],
+        "image_name": "LAMPARA DE EMERGENCIA -8643F.jpg",
         "ipv": false,
         "activo": true,
         "combo": false,

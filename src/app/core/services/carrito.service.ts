@@ -41,7 +41,7 @@ export class CarritoService {
   tieneDescuento = computed(() => {
     const moneda = this.moneda();
     if (moneda!.idMoneda == 1 ) {
-      return true;
+      return false;
     }
     return false;
   })
