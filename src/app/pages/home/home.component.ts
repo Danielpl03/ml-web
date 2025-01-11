@@ -39,10 +39,7 @@ export class HomeComponent implements OnInit {
 
     this.productosService.getProductosNuevos().then( (productos) => {
       this.productosNuevos.set(productos);
-<<<<<<< HEAD
-=======
       console.log(this.productosNuevos());
->>>>>>> 1a66c28ef5ece87760e97ba0eac77c7bfac4d7c9
     } )
   
   }
