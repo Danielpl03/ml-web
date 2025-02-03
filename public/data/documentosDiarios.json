@@ -1,0 +1,4274 @@
+[
+  {
+    "idDocumento": "BA1-4126",
+    "fecha": "Jan 25, 2025, 4:20:01 PM",
+    "tipo": "VENTA",
+    "razon": "VENTA EN CAJA",
+    "comentario": "REBAJA MANUAL",
+    "idLocalidad": 103,
+    "importe": 202245.0,
+    "descuento": 0.0,
+    "idSistema": 1001,
+    "idUsuario": 10001,
+    "consec": 4126,
+    "movimientos": [
+      {
+        "idMovimiento": "BA1-52514",
+        "idProducto": 1821,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 22750.0,
+        "importe": 45500.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52514
+      },
+      {
+        "idMovimiento": "BA1-52515",
+        "idProducto": 262,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 1800.0,
+        "importe": 3600.0,
+        "saldoProducto": 8,
+        "espejo": false,
+        "consec": 52515
+      },
+      {
+        "idMovimiento": "BA1-52516",
+        "idProducto": 48,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 6,
+        "idPago": 1,
+        "precio_producto": 10.0,
+        "importe": 60.0,
+        "saldoProducto": 32,
+        "espejo": false,
+        "consec": 52516
+      },
+      {
+        "idMovimiento": "BA1-52517",
+        "idProducto": 349,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 14000.0,
+        "importe": 14000.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52517
+      },
+      {
+        "idMovimiento": "BA1-52518",
+        "idProducto": 2416,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 6,
+        "idPago": 1,
+        "precio_producto": 2500.0,
+        "importe": 15000.0,
+        "saldoProducto": 41,
+        "espejo": false,
+        "consec": 52518
+      },
+      {
+        "idMovimiento": "BA1-52519",
+        "idProducto": 2378,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 5250.0,
+        "importe": 5250.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52519
+      },
+      {
+        "idMovimiento": "BA1-52520",
+        "idProducto": 238,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 3200.0,
+        "importe": 3200.0,
+        "saldoProducto": 11,
+        "espejo": false,
+        "consec": 52520
+      },
+      {
+        "idMovimiento": "BA1-52521",
+        "idProducto": 180,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 19250.0,
+        "importe": 38500.0,
+        "saldoProducto": 4,
+        "espejo": false,
+        "consec": 52521
+      },
+      {
+        "idMovimiento": "BA1-52522",
+        "idProducto": 2182,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 4550.0,
+        "importe": 4550.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52522
+      },
+      {
+        "idMovimiento": "BA1-52523",
+        "idProducto": 8,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 2200.0,
+        "importe": 2200.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52523
+      },
+      {
+        "idMovimiento": "BA1-52524",
+        "idProducto": 932,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 2185.0,
+        "importe": 4370.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52524
+      },
+      {
+        "idMovimiento": "BA1-52525",
+        "idProducto": 1074,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 2185.0,
+        "importe": 2185.0,
+        "saldoProducto": 9,
+        "espejo": false,
+        "consec": 52525
+      },
+      {
+        "idMovimiento": "BA1-52526",
+        "idProducto": 2335,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 2450.0,
+        "importe": 2450.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52526
+      },
+      {
+        "idMovimiento": "BA1-52527",
+        "idProducto": 1933,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 600.0,
+        "importe": 600.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52527
+      },
+      {
+        "idMovimiento": "BA1-52528",
+        "idProducto": 2159,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 350.0,
+        "importe": 350.0,
+        "saldoProducto": 12,
+        "espejo": false,
+        "consec": 52528
+      },
+      {
+        "idMovimiento": "BA1-52529",
+        "idProducto": 510,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 350.0,
+        "importe": 350.0,
+        "saldoProducto": 20,
+        "espejo": false,
+        "consec": 52529
+      },
+      {
+        "idMovimiento": "BA1-52530",
+        "idProducto": 2408,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 31500.0,
+        "importe": 31500.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52530
+      },
+      {
+        "idMovimiento": "BA1-52531",
+        "idProducto": 1146,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 4000.0,
+        "importe": 4000.0,
+        "saldoProducto": 13,
+        "espejo": false,
+        "consec": 52531
+      },
+      {
+        "idMovimiento": "BA1-52532",
+        "idProducto": 1105,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1000.0,
+        "importe": 1000.0,
+        "saldoProducto": 9,
+        "espejo": false,
+        "consec": 52532
+      },
+      {
+        "idMovimiento": "BA1-52533",
+        "idProducto": 2399,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 3850.0,
+        "importe": 3850.0,
+        "saldoProducto": 8,
+        "espejo": false,
+        "consec": 52533
+      },
+      {
+        "idMovimiento": "BA1-52534",
+        "idProducto": 2373,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 8750.0,
+        "importe": 8750.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52534
+      },
+      {
+        "idMovimiento": "BA1-52535",
+        "idProducto": 64,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1250.0,
+        "importe": 1250.0,
+        "saldoProducto": 22,
+        "espejo": false,
+        "consec": 52535
+      },
+      {
+        "idMovimiento": "BA1-52536",
+        "idProducto": 2161,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 980.0,
+        "importe": 980.0,
+        "saldoProducto": 5,
+        "espejo": false,
+        "consec": 52536
+      },
+      {
+        "idMovimiento": "BA1-52537",
+        "idProducto": 2260,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 2100.0,
+        "importe": 2100.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52537
+      },
+      {
+        "idMovimiento": "BA1-52538",
+        "idProducto": 414,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 3,
+        "idPago": 1,
+        "precio_producto": 1200.0,
+        "importe": 3600.0,
+        "saldoProducto": 8,
+        "espejo": false,
+        "consec": 52538
+      },
+      {
+        "idMovimiento": "BA1-52539",
+        "idProducto": 2338,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 175.0,
+        "importe": 175.0,
+        "saldoProducto": 37,
+        "espejo": false,
+        "consec": 52539
+      },
+      {
+        "idMovimiento": "BA1-52540",
+        "idProducto": 1944,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1800.0,
+        "importe": 1800.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52540
+      },
+      {
+        "idMovimiento": "BA1-52541",
+        "idProducto": 2337,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 175.0,
+        "importe": 175.0,
+        "saldoProducto": 50,
+        "espejo": false,
+        "consec": 52541
+      },
+      {
+        "idMovimiento": "BA1-52542",
+        "idProducto": 130,
+        "idDocumento": "BA1-4126",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 900.0,
+        "importe": 900.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52542
+      }
+    ]
+  },
+  {
+    "idDocumento": "BA1-4127",
+    "fecha": "Jan 25, 2025, 4:21:01 PM",
+    "tipo": "VENTA",
+    "razon": "VENTA EN CAJA",
+    "comentario": "REBAJA MANUAL",
+    "idLocalidad": 103,
+    "importe": 12300.0,
+    "descuento": 0.0,
+    "idSistema": 1001,
+    "idUsuario": 10001,
+    "consec": 4127,
+    "movimientos": [
+      {
+        "idMovimiento": "BA1-52543",
+        "idProducto": 1105,
+        "idDocumento": "BA1-4127",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 2,
+        "precio_producto": 1000.0,
+        "importe": 1000.0,
+        "saldoProducto": 8,
+        "espejo": false,
+        "consec": 52543
+      },
+      {
+        "idMovimiento": "BA1-52544",
+        "idProducto": 2005,
+        "idDocumento": "BA1-4127",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 2,
+        "precio_producto": 7000.0,
+        "importe": 7000.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52544
+      },
+      {
+        "idMovimiento": "BA1-52545",
+        "idProducto": 141,
+        "idDocumento": "BA1-4127",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 2,
+        "precio_producto": 1100.0,
+        "importe": 1100.0,
+        "saldoProducto": 7,
+        "espejo": false,
+        "consec": 52545
+      },
+      {
+        "idMovimiento": "BA1-52546",
+        "idProducto": 1918,
+        "idDocumento": "BA1-4127",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 2,
+        "precio_producto": 3200.0,
+        "importe": 3200.0,
+        "saldoProducto": 7,
+        "espejo": false,
+        "consec": 52546
+      }
+    ]
+  },
+  {
+    "idDocumento": "BA1-4129",
+    "fecha": "Jan 25, 2025, 6:11:05 PM",
+    "tipo": "VENTA",
+    "razon": "VENTA EN CAJA",
+    "comentario": "REBAJA DE PLU ::118",
+    "idLocalidad": 105,
+    "importe": 2372595.0,
+    "descuento": 0.0,
+    "idSistema": 1001,
+    "idUsuario": 10001,
+    "consec": 4129,
+    "movimientos": [
+      {
+        "idMovimiento": "BA1-52593",
+        "idProducto": 1923,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 2000.0,
+        "importe": 2000.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52593
+      },
+      {
+        "idMovimiento": "BA1-52594",
+        "idProducto": 2072,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 26250.0,
+        "importe": 26250.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52594
+      },
+      {
+        "idMovimiento": "BA1-52595",
+        "idProducto": 514,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 14000.0,
+        "importe": 28000.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52595
+      },
+      {
+        "idMovimiento": "BA1-52596",
+        "idProducto": 1153,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 7000.0,
+        "importe": 7000.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52596
+      },
+      {
+        "idMovimiento": "BA1-52597",
+        "idProducto": 2119,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 7000.0,
+        "importe": 7000.0,
+        "saldoProducto": 4,
+        "espejo": false,
+        "consec": 52597
+      },
+      {
+        "idMovimiento": "BA1-52598",
+        "idProducto": 1847,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 280000.0,
+        "importe": 280000.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52598
+      },
+      {
+        "idMovimiento": "BA1-52599",
+        "idProducto": 346,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 6,
+        "idPago": 1,
+        "precio_producto": 15750.0,
+        "importe": 94500.0,
+        "saldoProducto": 15,
+        "espejo": false,
+        "consec": 52599
+      },
+      {
+        "idMovimiento": "BA1-52600",
+        "idProducto": 345,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 3,
+        "idPago": 1,
+        "precio_producto": 12250.0,
+        "importe": 36750.0,
+        "saldoProducto": 41,
+        "espejo": false,
+        "consec": 52600
+      },
+      {
+        "idMovimiento": "BA1-52601",
+        "idProducto": 1821,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 13,
+        "idPago": 1,
+        "precio_producto": 22750.0,
+        "importe": 295750.0,
+        "saldoProducto": 16,
+        "espejo": false,
+        "consec": 52601
+      },
+      {
+        "idMovimiento": "BA1-52602",
+        "idProducto": 963,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 105000.0,
+        "importe": 210000.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52602
+      },
+      {
+        "idMovimiento": "BA1-52603",
+        "idProducto": 1069,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 22050.0,
+        "importe": 22050.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52603
+      },
+      {
+        "idMovimiento": "BA1-52604",
+        "idProducto": 1955,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 14000.0,
+        "importe": 28000.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52604
+      },
+      {
+        "idMovimiento": "BA1-52605",
+        "idProducto": 275,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 3,
+        "idPago": 1,
+        "precio_producto": 98000.0,
+        "importe": 294000.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52605
+      },
+      {
+        "idMovimiento": "BA1-52606",
+        "idProducto": 274,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 84000.0,
+        "importe": 168000.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52606
+      },
+      {
+        "idMovimiento": "BA1-52607",
+        "idProducto": 2106,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 143500.0,
+        "importe": 287000.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52607
+      },
+      {
+        "idMovimiento": "BA1-52608",
+        "idProducto": 1933,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 600.0,
+        "importe": 600.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52608
+      },
+      {
+        "idMovimiento": "BA1-52609",
+        "idProducto": 1931,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 600.0,
+        "importe": 1200.0,
+        "saldoProducto": 8,
+        "espejo": false,
+        "consec": 52609
+      },
+      {
+        "idMovimiento": "BA1-52610",
+        "idProducto": 1794,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 7700.0,
+        "importe": 7700.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52610
+      },
+      {
+        "idMovimiento": "BA1-52611",
+        "idProducto": 2279,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 4200.0,
+        "importe": 4200.0,
+        "saldoProducto": 17,
+        "espejo": false,
+        "consec": 52611
+      },
+      {
+        "idMovimiento": "BA1-52612",
+        "idProducto": 2224,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 3150.0,
+        "importe": 6300.0,
+        "saldoProducto": 4,
+        "espejo": false,
+        "consec": 52612
+      },
+      {
+        "idMovimiento": "BA1-52613",
+        "idProducto": 2297,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 3,
+        "idPago": 1,
+        "precio_producto": 1050.0,
+        "importe": 3150.0,
+        "saldoProducto": 14,
+        "espejo": false,
+        "consec": 52613
+      },
+      {
+        "idMovimiento": "BA1-52614",
+        "idProducto": 2228,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1050.0,
+        "importe": 1050.0,
+        "saldoProducto": 18,
+        "espejo": false,
+        "consec": 52614
+      },
+      {
+        "idMovimiento": "BA1-52615",
+        "idProducto": 2289,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 350.0,
+        "importe": 350.0,
+        "saldoProducto": 2,
+        "espejo": false,
+        "consec": 52615
+      },
+      {
+        "idMovimiento": "BA1-52616",
+        "idProducto": 2288,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1050.0,
+        "importe": 1050.0,
+        "saldoProducto": 5,
+        "espejo": false,
+        "consec": 52616
+      },
+      {
+        "idMovimiento": "BA1-52617",
+        "idProducto": 2283,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1400.0,
+        "importe": 1400.0,
+        "saldoProducto": 7,
+        "espejo": false,
+        "consec": 52617
+      },
+      {
+        "idMovimiento": "BA1-52618",
+        "idProducto": 2282,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1400.0,
+        "importe": 1400.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52618
+      },
+      {
+        "idMovimiento": "BA1-52619",
+        "idProducto": 2280,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1750.0,
+        "importe": 1750.0,
+        "saldoProducto": 8,
+        "espejo": false,
+        "consec": 52619
+      },
+      {
+        "idMovimiento": "BA1-52620",
+        "idProducto": 2152,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1050.0,
+        "importe": 1050.0,
+        "saldoProducto": 34,
+        "espejo": false,
+        "consec": 52620
+      },
+      {
+        "idMovimiento": "BA1-52621",
+        "idProducto": 2328,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 7000.0,
+        "importe": 14000.0,
+        "saldoProducto": 2,
+        "espejo": false,
+        "consec": 52621
+      },
+      {
+        "idMovimiento": "BA1-52622",
+        "idProducto": 235,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 5,
+        "idPago": 1,
+        "precio_producto": 500.0,
+        "importe": 2500.0,
+        "saldoProducto": 5,
+        "espejo": false,
+        "consec": 52622
+      },
+      {
+        "idMovimiento": "BA1-52623",
+        "idProducto": 2331,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 5250.0,
+        "importe": 10500.0,
+        "saldoProducto": 5,
+        "espejo": false,
+        "consec": 52623
+      },
+      {
+        "idMovimiento": "BA1-52624",
+        "idProducto": 95,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 300.0,
+        "importe": 300.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52624
+      },
+      {
+        "idMovimiento": "BA1-52625",
+        "idProducto": 1039,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 8750.0,
+        "importe": 8750.0,
+        "saldoProducto": 2,
+        "espejo": false,
+        "consec": 52625
+      },
+      {
+        "idMovimiento": "BA1-52626",
+        "idProducto": 358,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 5,
+        "idPago": 1,
+        "precio_producto": 900.0,
+        "importe": 4500.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52626
+      },
+      {
+        "idMovimiento": "BA1-52627",
+        "idProducto": 1888,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 4,
+        "idPago": 1,
+        "precio_producto": 400.0,
+        "importe": 1600.0,
+        "saldoProducto": 19,
+        "espejo": false,
+        "consec": 52627
+      },
+      {
+        "idMovimiento": "BA1-52628",
+        "idProducto": 2077,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1610.0,
+        "importe": 1610.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52628
+      },
+      {
+        "idMovimiento": "BA1-52629",
+        "idProducto": 414,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 3,
+        "idPago": 1,
+        "precio_producto": 1200.0,
+        "importe": 3600.0,
+        "saldoProducto": 17,
+        "espejo": false,
+        "consec": 52629
+      },
+      {
+        "idMovimiento": "BA1-52630",
+        "idProducto": 413,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 11,
+        "idPago": 1,
+        "precio_producto": 1400.0,
+        "importe": 15400.0,
+        "saldoProducto": 25,
+        "espejo": false,
+        "consec": 52630
+      },
+      {
+        "idMovimiento": "BA1-52631",
+        "idProducto": 2416,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 9,
+        "idPago": 1,
+        "precio_producto": 2500.0,
+        "importe": 22500.0,
+        "saldoProducto": 199,
+        "espejo": false,
+        "consec": 52631
+      },
+      {
+        "idMovimiento": "BA1-52632",
+        "idProducto": 2360,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 21,
+        "idPago": 1,
+        "precio_producto": 1200.0,
+        "importe": 25200.0,
+        "espejo": false,
+        "consec": 52632
+      },
+      {
+        "idMovimiento": "BA1-52633",
+        "idProducto": 2336,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 45,
+        "idPago": 1,
+        "precio_producto": 175.0,
+        "importe": 7875.0,
+        "saldoProducto": 14,
+        "espejo": false,
+        "consec": 52633
+      },
+      {
+        "idMovimiento": "BA1-52634",
+        "idProducto": 120,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 10,
+        "idPago": 1,
+        "precio_producto": 1600.0,
+        "importe": 16000.0,
+        "saldoProducto": 4,
+        "espejo": false,
+        "consec": 52634
+      },
+      {
+        "idMovimiento": "BA1-52635",
+        "idProducto": 45,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 300.0,
+        "importe": 300.0,
+        "saldoProducto": 12,
+        "espejo": false,
+        "consec": 52635
+      },
+      {
+        "idMovimiento": "BA1-52636",
+        "idProducto": 46,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 3,
+        "idPago": 1,
+        "precio_producto": 480.0,
+        "importe": 1440.0,
+        "saldoProducto": 14,
+        "espejo": false,
+        "consec": 52636
+      },
+      {
+        "idMovimiento": "BA1-52637",
+        "idProducto": 438,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 3,
+        "idPago": 1,
+        "precio_producto": 300.0,
+        "importe": 900.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52637
+      },
+      {
+        "idMovimiento": "BA1-52638",
+        "idProducto": 418,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 4,
+        "idPago": 1,
+        "precio_producto": 40.0,
+        "importe": 160.0,
+        "saldoProducto": 56,
+        "espejo": false,
+        "consec": 52638
+      },
+      {
+        "idMovimiento": "BA1-52639",
+        "idProducto": 214,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 350.0,
+        "importe": 350.0,
+        "saldoProducto": 2,
+        "espejo": false,
+        "consec": 52639
+      },
+      {
+        "idMovimiento": "BA1-52640",
+        "idProducto": 271,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 13,
+        "idPago": 1,
+        "precio_producto": 40.0,
+        "importe": 520.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52640
+      },
+      {
+        "idMovimiento": "BA1-52641",
+        "idProducto": 125,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 350.0,
+        "importe": 700.0,
+        "saldoProducto": 16,
+        "espejo": false,
+        "consec": 52641
+      },
+      {
+        "idMovimiento": "BA1-52642",
+        "idProducto": 42,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 160.0,
+        "importe": 320.0,
+        "saldoProducto": 36,
+        "espejo": false,
+        "consec": 52642
+      },
+      {
+        "idMovimiento": "BA1-52643",
+        "idProducto": 1147,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 6000.0,
+        "importe": 6000.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52643
+      },
+      {
+        "idMovimiento": "BA1-52644",
+        "idProducto": 510,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 31,
+        "idPago": 1,
+        "precio_producto": 350.0,
+        "importe": 10850.0,
+        "saldoProducto": 54,
+        "espejo": false,
+        "consec": 52644
+      },
+      {
+        "idMovimiento": "BA1-52645",
+        "idProducto": 511,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 26,
+        "idPago": 1,
+        "precio_producto": 400.0,
+        "importe": 10400.0,
+        "saldoProducto": 17,
+        "espejo": false,
+        "consec": 52645
+      },
+      {
+        "idMovimiento": "BA1-52646",
+        "idProducto": 1950,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 6,
+        "idPago": 1,
+        "precio_producto": 350.0,
+        "importe": 2100.0,
+        "saldoProducto": 14,
+        "espejo": false,
+        "consec": 52646
+      },
+      {
+        "idMovimiento": "BA1-52647",
+        "idProducto": 490,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1100.0,
+        "importe": 1100.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52647
+      },
+      {
+        "idMovimiento": "BA1-52648",
+        "idProducto": 2212,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 560.0,
+        "importe": 560.0,
+        "saldoProducto": 5,
+        "espejo": false,
+        "consec": 52648
+      },
+      {
+        "idMovimiento": "BA1-52649",
+        "idProducto": 2248,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 2800.0,
+        "importe": 2800.0,
+        "saldoProducto": 2,
+        "espejo": false,
+        "consec": 52649
+      },
+      {
+        "idMovimiento": "BA1-52650",
+        "idProducto": 850,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 29750.0,
+        "importe": 29750.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52650
+      },
+      {
+        "idMovimiento": "BA1-52651",
+        "idProducto": 2183,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 4550.0,
+        "importe": 4550.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52651
+      },
+      {
+        "idMovimiento": "BA1-52652",
+        "idProducto": 2160,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1050.0,
+        "importe": 1050.0,
+        "saldoProducto": 13,
+        "espejo": false,
+        "consec": 52652
+      },
+      {
+        "idMovimiento": "BA1-52653",
+        "idProducto": 2162,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 980.0,
+        "importe": 980.0,
+        "saldoProducto": 14,
+        "espejo": false,
+        "consec": 52653
+      },
+      {
+        "idMovimiento": "BA1-52654",
+        "idProducto": 2161,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 980.0,
+        "importe": 1960.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52654
+      },
+      {
+        "idMovimiento": "BA1-52655",
+        "idProducto": 394,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 700.0,
+        "importe": 1400.0,
+        "saldoProducto": 21,
+        "espejo": false,
+        "consec": 52655
+      },
+      {
+        "idMovimiento": "BA1-52656",
+        "idProducto": 2319,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 15750.0,
+        "importe": 15750.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52656
+      },
+      {
+        "idMovimiento": "BA1-52657",
+        "idProducto": 352,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 16100.0,
+        "importe": 16100.0,
+        "saldoProducto": 5,
+        "espejo": false,
+        "consec": 52657
+      },
+      {
+        "idMovimiento": "BA1-52658",
+        "idProducto": 351,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 13300.0,
+        "importe": 13300.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52658
+      },
+      {
+        "idMovimiento": "BA1-52659",
+        "idProducto": 2387,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 14000.0,
+        "importe": 14000.0,
+        "saldoProducto": 2,
+        "espejo": false,
+        "consec": 52659
+      },
+      {
+        "idMovimiento": "BA1-52660",
+        "idProducto": 2175,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 2590.0,
+        "importe": 2590.0,
+        "saldoProducto": 14,
+        "espejo": false,
+        "consec": 52660
+      },
+      {
+        "idMovimiento": "BA1-52661",
+        "idProducto": 254,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 5100.0,
+        "importe": 5100.0,
+        "saldoProducto": 2,
+        "espejo": false,
+        "consec": 52661
+      },
+      {
+        "idMovimiento": "BA1-52662",
+        "idProducto": 141,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1100.0,
+        "importe": 1100.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52662
+      },
+      {
+        "idMovimiento": "BA1-52663",
+        "idProducto": 48,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 28,
+        "idPago": 1,
+        "precio_producto": 10.0,
+        "importe": 280.0,
+        "saldoProducto": 9,
+        "espejo": false,
+        "consec": 52663
+      },
+      {
+        "idMovimiento": "BA1-52664",
+        "idProducto": 226,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 4,
+        "idPago": 1,
+        "precio_producto": 400.0,
+        "importe": 1600.0,
+        "saldoProducto": 10,
+        "espejo": false,
+        "consec": 52664
+      },
+      {
+        "idMovimiento": "BA1-52665",
+        "idProducto": 180,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 5,
+        "idPago": 1,
+        "precio_producto": 19250.0,
+        "importe": 96250.0,
+        "saldoProducto": 13,
+        "espejo": false,
+        "consec": 52665
+      },
+      {
+        "idMovimiento": "BA1-52666",
+        "idProducto": 2259,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 15750.0,
+        "importe": 15750.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52666
+      },
+      {
+        "idMovimiento": "BA1-52667",
+        "idProducto": 2277,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 770.0,
+        "importe": 770.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52667
+      },
+      {
+        "idMovimiento": "BA1-52668",
+        "idProducto": 1105,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 4,
+        "idPago": 1,
+        "precio_producto": 1000.0,
+        "importe": 4000.0,
+        "saldoProducto": 17,
+        "espejo": false,
+        "consec": 52668
+      },
+      {
+        "idMovimiento": "BA1-52669",
+        "idProducto": 170,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 800.0,
+        "importe": 800.0,
+        "saldoProducto": 11,
+        "espejo": false,
+        "consec": 52669
+      },
+      {
+        "idMovimiento": "BA1-52670",
+        "idProducto": 1861,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1500.0,
+        "importe": 1500.0,
+        "saldoProducto": 17,
+        "espejo": false,
+        "consec": 52670
+      },
+      {
+        "idMovimiento": "BA1-52671",
+        "idProducto": 148,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1400.0,
+        "importe": 1400.0,
+        "saldoProducto": 18,
+        "espejo": false,
+        "consec": 52671
+      },
+      {
+        "idMovimiento": "BA1-52672",
+        "idProducto": 152,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1800.0,
+        "importe": 1800.0,
+        "saldoProducto": 4,
+        "espejo": false,
+        "consec": 52672
+      },
+      {
+        "idMovimiento": "BA1-52673",
+        "idProducto": 151,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 1300.0,
+        "importe": 2600.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52673
+      },
+      {
+        "idMovimiento": "BA1-52674",
+        "idProducto": 139,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1150.0,
+        "importe": 1150.0,
+        "saldoProducto": 2,
+        "espejo": false,
+        "consec": 52674
+      },
+      {
+        "idMovimiento": "BA1-52675",
+        "idProducto": 2188,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1260.0,
+        "importe": 1260.0,
+        "saldoProducto": 11,
+        "espejo": false,
+        "consec": 52675
+      },
+      {
+        "idMovimiento": "BA1-52676",
+        "idProducto": 2159,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 5,
+        "idPago": 1,
+        "precio_producto": 350.0,
+        "importe": 1750.0,
+        "saldoProducto": 7,
+        "espejo": false,
+        "consec": 52676
+      },
+      {
+        "idMovimiento": "BA1-52677",
+        "idProducto": 1969,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1190.0,
+        "importe": 1190.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52677
+      },
+      {
+        "idMovimiento": "BA1-52678",
+        "idProducto": 2260,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 2100.0,
+        "importe": 2100.0,
+        "saldoProducto": 5,
+        "espejo": false,
+        "consec": 52678
+      },
+      {
+        "idMovimiento": "BA1-52679",
+        "idProducto": 2190,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 3500.0,
+        "importe": 3500.0,
+        "saldoProducto": 9,
+        "espejo": false,
+        "consec": 52679
+      },
+      {
+        "idMovimiento": "BA1-52680",
+        "idProducto": 1128,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 5,
+        "idPago": 1,
+        "precio_producto": 1800.0,
+        "importe": 9000.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52680
+      },
+      {
+        "idMovimiento": "BA1-52681",
+        "idProducto": 2192,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 3,
+        "idPago": 1,
+        "precio_producto": 700.0,
+        "importe": 2100.0,
+        "saldoProducto": 9,
+        "espejo": false,
+        "consec": 52681
+      },
+      {
+        "idMovimiento": "BA1-52682",
+        "idProducto": 1104,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 875.0,
+        "importe": 875.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52682
+      },
+      {
+        "idMovimiento": "BA1-52683",
+        "idProducto": 411,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 15050.0,
+        "importe": 15050.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52683
+      },
+      {
+        "idMovimiento": "BA1-52684",
+        "idProducto": 1146,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 4000.0,
+        "importe": 4000.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52684
+      },
+      {
+        "idMovimiento": "BA1-52685",
+        "idProducto": 403,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 3,
+        "idPago": 1,
+        "precio_producto": 700.0,
+        "importe": 2100.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52685
+      },
+      {
+        "idMovimiento": "BA1-52686",
+        "idProducto": 1052,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1600.0,
+        "importe": 1600.0,
+        "saldoProducto": 11,
+        "espejo": false,
+        "consec": 52686
+      },
+      {
+        "idMovimiento": "BA1-52687",
+        "idProducto": 2378,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 5250.0,
+        "importe": 10500.0,
+        "saldoProducto": 2,
+        "espejo": false,
+        "consec": 52687
+      },
+      {
+        "idMovimiento": "BA1-52688",
+        "idProducto": 1214,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 2500.0,
+        "importe": 2500.0,
+        "saldoProducto": 10,
+        "espejo": false,
+        "consec": 52688
+      },
+      {
+        "idMovimiento": "BA1-52689",
+        "idProducto": 2123,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 15750.0,
+        "importe": 15750.0,
+        "saldoProducto": 18,
+        "espejo": false,
+        "consec": 52689
+      },
+      {
+        "idMovimiento": "BA1-52690",
+        "idProducto": 2363,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 26500.0,
+        "importe": 26500.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52690
+      },
+      {
+        "idMovimiento": "BA1-52691",
+        "idProducto": 677,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1050.0,
+        "importe": 1050.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52691
+      },
+      {
+        "idMovimiento": "BA1-52692",
+        "idProducto": 1945,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1800.0,
+        "importe": 1800.0,
+        "saldoProducto": 4,
+        "espejo": false,
+        "consec": 52692
+      },
+      {
+        "idMovimiento": "BA1-52693",
+        "idProducto": 901,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1800.0,
+        "importe": 1800.0,
+        "saldoProducto": 4,
+        "espejo": false,
+        "consec": 52693
+      },
+      {
+        "idMovimiento": "BA1-52694",
+        "idProducto": 1944,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1800.0,
+        "importe": 1800.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52694
+      },
+      {
+        "idMovimiento": "BA1-52695",
+        "idProducto": 469,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1800.0,
+        "importe": 1800.0,
+        "saldoProducto": 16,
+        "espejo": false,
+        "consec": 52695
+      },
+      {
+        "idMovimiento": "BA1-52696",
+        "idProducto": 798,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 1500.0,
+        "importe": 3000.0,
+        "saldoProducto": 9,
+        "espejo": false,
+        "consec": 52696
+      },
+      {
+        "idMovimiento": "BA1-52697",
+        "idProducto": 211,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1750.0,
+        "importe": 1750.0,
+        "saldoProducto": 5,
+        "espejo": false,
+        "consec": 52697
+      },
+      {
+        "idMovimiento": "BA1-52698",
+        "idProducto": 208,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1500.0,
+        "importe": 1500.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52698
+      },
+      {
+        "idMovimiento": "BA1-52699",
+        "idProducto": 207,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1500.0,
+        "importe": 1500.0,
+        "saldoProducto": 4,
+        "espejo": false,
+        "consec": 52699
+      },
+      {
+        "idMovimiento": "BA1-52700",
+        "idProducto": 201,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1500.0,
+        "importe": 1500.0,
+        "saldoProducto": 4,
+        "espejo": false,
+        "consec": 52700
+      },
+      {
+        "idMovimiento": "BA1-52701",
+        "idProducto": 763,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 2200.0,
+        "importe": 2200.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52701
+      },
+      {
+        "idMovimiento": "BA1-52702",
+        "idProducto": 197,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 3,
+        "idPago": 1,
+        "precio_producto": 1500.0,
+        "importe": 4500.0,
+        "saldoProducto": 1,
+        "espejo": false,
+        "consec": 52702
+      },
+      {
+        "idMovimiento": "BA1-52703",
+        "idProducto": 191,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 1350.0,
+        "importe": 1350.0,
+        "saldoProducto": 2,
+        "espejo": false,
+        "consec": 52703
+      },
+      {
+        "idMovimiento": "BA1-52704",
+        "idProducto": 187,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 3,
+        "idPago": 1,
+        "precio_producto": 300.0,
+        "importe": 900.0,
+        "saldoProducto": 58,
+        "espejo": false,
+        "consec": 52704
+      },
+      {
+        "idMovimiento": "BA1-52705",
+        "idProducto": 158,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 4,
+        "idPago": 1,
+        "precio_producto": 620.0,
+        "importe": 2480.0,
+        "saldoProducto": 7,
+        "espejo": false,
+        "consec": 52705
+      },
+      {
+        "idMovimiento": "BA1-52706",
+        "idProducto": 1064,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 500.0,
+        "importe": 500.0,
+        "saldoProducto": 6,
+        "espejo": false,
+        "consec": 52706
+      },
+      {
+        "idMovimiento": "BA1-52707",
+        "idProducto": 112,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 6,
+        "idPago": 1,
+        "precio_producto": 250.0,
+        "importe": 1500.0,
+        "saldoProducto": 3,
+        "espejo": false,
+        "consec": 52707
+      },
+      {
+        "idMovimiento": "BA1-52708",
+        "idProducto": 936,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 2185.0,
+        "importe": 2185.0,
+        "saldoProducto": -1,
+        "espejo": false,
+        "consec": 52708
+      },
+      {
+        "idMovimiento": "BA1-52709",
+        "idProducto": 930,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 2,
+        "idPago": 1,
+        "precio_producto": 5380.0,
+        "importe": 10760.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52709
+      },
+      {
+        "idMovimiento": "BA1-52710",
+        "idProducto": 701,
+        "idDocumento": "BA1-4129",
+        "documento": {
+          "importe": 0.0,
+          "idSistema": 0,
+          "idUsuario": 0,
+          "consec": 0,
+          "movimientos": []
+        },
+        "producto": {
+          "idProducto": 0,
+          "ipv": false,
+          "activo": false,
+          "combo": false,
+          "idDepartamento": 0,
+          "movimientos": [],
+          "stocks": {}
+        },
+        "cantidad": 1,
+        "idPago": 1,
+        "precio_producto": 3080.0,
+        "importe": 3080.0,
+        "saldoProducto": 0,
+        "espejo": false,
+        "consec": 52710
+      }
+    ]
+  }
+]

@@ -1,7 +1,19 @@
 [
   {
+    "idEtiqueta": 7,
+    "nombre": "Capacidad",
+    "color": 0,
+    "fichaTecnica": true
+  },
+  {
     "idEtiqueta": 4,
     "nombre": "Color",
+    "color": 0,
+    "fichaTecnica": true
+  },
+  {
+    "idEtiqueta": 3,
+    "nombre": "Destacado",
     "color": 0,
     "fichaTecnica": true
   },
@@ -12,22 +24,3497 @@
     "fichaTecnica": false
   },
   {
-    "idEtiqueta": 7,
+    "idEtiqueta": 1,
     "nombre": "Producto_nuevo",
     "color": 0,
-    "fichaTecnica": false
-  },
-  {
-    "idEtiqueta": 8,
-    "nombre": "Rebaja",
-    "color": 0,
-    "fichaTecnica": false
+    "fichaTecnica": true,
+    "productos": [
+      {
+        "idProducto": 1184,
+        "codigo": "8641",
+        "descripcion": "Barra De Sonido",
+        "precio": {
+          "idPrecio": 97,
+          "idProducto": 1184,
+          "idMoneda": 1,
+          "precio": 57750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 97,
+            "idProducto": 1184,
+            "idMoneda": 1,
+            "precio": 57750.0
+          },
+          {
+            "idPrecio": 1315,
+            "idProducto": 1184,
+            "idMoneda": 2,
+            "precio": 165.0
+          }
+        ],
+        "image_name": "Barra De Sonido -8641.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 340,
+            "idEtiqueta": 1,
+            "idProducto": 1184,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 1,
+          "103": 2,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2368,
+        "codigo": "8375",
+        "descripcion": "BARRA DE SONIDO",
+        "precio": {
+          "idPrecio": 1874,
+          "idProducto": 2368,
+          "idMoneda": 1,
+          "precio": 8750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1874,
+            "idProducto": 2368,
+            "idMoneda": 1,
+            "precio": 8750.0
+          },
+          {
+            "idPrecio": 1911,
+            "idProducto": 2368,
+            "idMoneda": 2,
+            "precio": 25.0
+          }
+        ],
+        "image_name": "BARRA DE SONIDO -8375.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 295,
+            "idEtiqueta": 1,
+            "idProducto": 2368,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "103": 2,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 2369,
+        "codigo": "8376",
+        "descripcion": "BARRA DE SONIDO",
+        "precio": {
+          "idPrecio": 1875,
+          "idProducto": 2369,
+          "idMoneda": 1,
+          "precio": 8750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1875,
+            "idProducto": 2369,
+            "idMoneda": 1,
+            "precio": 8750.0
+          },
+          {
+            "idPrecio": 1912,
+            "idProducto": 2369,
+            "idMoneda": 2,
+            "precio": 25.0
+          }
+        ],
+        "image_name": "BARRA DE SONIDO -8376.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 296,
+            "idEtiqueta": 1,
+            "idProducto": 2369,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "103": 2,
+          "105": 3
+        }
+      },
+      {
+        "idProducto": 2370,
+        "codigo": "8421",
+        "descripcion": "BARRA DE SONIDO",
+        "precio": {
+          "idPrecio": 1876,
+          "idProducto": 2370,
+          "idMoneda": 1,
+          "precio": 8750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1876,
+            "idProducto": 2370,
+            "idMoneda": 1,
+            "precio": 8750.0
+          },
+          {
+            "idPrecio": 1913,
+            "idProducto": 2370,
+            "idMoneda": 2,
+            "precio": 25.0
+          }
+        ],
+        "image_name": "BARRA DE SONIDO -8421.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 297,
+            "idEtiqueta": 1,
+            "idProducto": 2370,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 5,
+          "103": 2,
+          "105": 7
+        }
+      },
+      {
+        "idProducto": 2114,
+        "codigo": "8514",
+        "descripcion": "BOCINA 12\"",
+        "precio": {
+          "idPrecio": 1588,
+          "idProducto": 2114,
+          "idMoneda": 1,
+          "precio": 35000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1608,
+            "idProducto": 2114,
+            "idMoneda": 2,
+            "precio": 100.0
+          },
+          {
+            "idPrecio": 1588,
+            "idProducto": 2114,
+            "idMoneda": 1,
+            "precio": 35000.0
+          }
+        ],
+        "image_name": "BOCINA 12\u0026 -8514.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 333,
+            "idEtiqueta": 1,
+            "idProducto": 2114,
+            "valor": "10/01"
+          },
+          {
+            "idRelacion": 293,
+            "idEtiqueta": 2,
+            "idProducto": 2114,
+            "valor": "38500.0"
+          }
+        ],
+        "stocks": {
+          "103": 0,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 1015,
+        "codigo": "7867",
+        "descripcion": "BOCINA 15\"",
+        "precio": {
+          "idPrecio": 130,
+          "idProducto": 1015,
+          "idMoneda": 1,
+          "precio": 52500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 130,
+            "idProducto": 1015,
+            "idMoneda": 1,
+            "precio": 52500.0
+          },
+          {
+            "idPrecio": 1319,
+            "idProducto": 1015,
+            "idMoneda": 2,
+            "precio": 150.0
+          }
+        ],
+        "image_name": "BOCINA 15\u0026 -7867.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 334,
+            "idEtiqueta": 1,
+            "idProducto": 1015,
+            "valor": "10/01"
+          },
+          {
+            "idRelacion": 292,
+            "idEtiqueta": 2,
+            "idProducto": 1015,
+            "valor": "56000.0"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2367,
+        "codigo": "7868",
+        "descripcion": "BOCINA 15\"",
+        "precio": {
+          "idPrecio": 1873,
+          "idProducto": 2367,
+          "idMoneda": 1,
+          "precio": 52500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1873,
+            "idProducto": 2367,
+            "idMoneda": 1,
+            "precio": 52500.0
+          },
+          {
+            "idPrecio": 1916,
+            "idProducto": 2367,
+            "idMoneda": 2,
+            "precio": 150.0
+          }
+        ],
+        "image_name": "BOCINA 15\u0026 -7868.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 294,
+            "idEtiqueta": 1,
+            "idProducto": 2367,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "103": 0,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 2371,
+        "codigo": "8428",
+        "descripcion": "BOCINA 15\"",
+        "precio": {
+          "idPrecio": 1877,
+          "idProducto": 2371,
+          "idMoneda": 1,
+          "precio": 52500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1877,
+            "idProducto": 2371,
+            "idMoneda": 1,
+            "precio": 52500.0
+          },
+          {
+            "idPrecio": 1917,
+            "idProducto": 2371,
+            "idMoneda": 2,
+            "precio": 150.0
+          }
+        ],
+        "image_name": "BOCINA 15\u0026 -8428.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 298,
+            "idEtiqueta": 1,
+            "idProducto": 2371,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "103": 0,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 2372,
+        "codigo": "8807",
+        "descripcion": "BOCINA 2X2\"",
+        "precio": {
+          "idPrecio": 1878,
+          "idProducto": 2372,
+          "idMoneda": 1,
+          "precio": 8400.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1878,
+            "idProducto": 2372,
+            "idMoneda": 1,
+            "precio": 8400.0
+          },
+          {
+            "idPrecio": 1918,
+            "idProducto": 2372,
+            "idMoneda": 2,
+            "precio": 24.0
+          }
+        ],
+        "image_name": "BOCINA 2X2\u0026 -8807.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 299,
+            "idEtiqueta": 1,
+            "idProducto": 2372,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 10,
+          "103": 2,
+          "105": 5
+        }
+      },
+      {
+        "idProducto": 2373,
+        "codigo": "8808",
+        "descripcion": "BOCINA 2X3\"",
+        "precio": {
+          "idPrecio": 1879,
+          "idProducto": 2373,
+          "idMoneda": 1,
+          "precio": 8750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1879,
+            "idProducto": 2373,
+            "idMoneda": 1,
+            "precio": 8750.0
+          },
+          {
+            "idPrecio": 1919,
+            "idProducto": 2373,
+            "idMoneda": 2,
+            "precio": 25.0
+          }
+        ],
+        "image_name": "BOCINA 2X3\u0026 -8808.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 300,
+            "idEtiqueta": 1,
+            "idProducto": 2373,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 10,
+          "103": 1,
+          "105": 5
+        }
+      },
+      {
+        "idProducto": 2374,
+        "codigo": "8809",
+        "descripcion": "BOCINA 2X3\"",
+        "precio": {
+          "idPrecio": 1880,
+          "idProducto": 2374,
+          "idMoneda": 1,
+          "precio": 8750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1880,
+            "idProducto": 2374,
+            "idMoneda": 1,
+            "precio": 8750.0
+          },
+          {
+            "idPrecio": 1920,
+            "idProducto": 2374,
+            "idMoneda": 2,
+            "precio": 25.0
+          }
+        ],
+        "image_name": "BOCINA 2X3\u0026 -8809.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 301,
+            "idEtiqueta": 1,
+            "idProducto": 2374,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 10,
+          "103": 2,
+          "105": 3
+        }
+      },
+      {
+        "idProducto": 2375,
+        "codigo": "8810",
+        "descripcion": "BOCINA 2X3\"",
+        "precio": {
+          "idPrecio": 1881,
+          "idProducto": 2375,
+          "idMoneda": 1,
+          "precio": 8400.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1881,
+            "idProducto": 2375,
+            "idMoneda": 1,
+            "precio": 8400.0
+          },
+          {
+            "idPrecio": 1921,
+            "idProducto": 2375,
+            "idMoneda": 2,
+            "precio": 24.0
+          }
+        ],
+        "image_name": "BOCINA 2X3\u0026 -8810.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 302,
+            "idEtiqueta": 1,
+            "idProducto": 2375,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 2,
+          "103": 2,
+          "105": 5
+        }
+      },
+      {
+        "idProducto": 2405,
+        "descripcion": "CEMENTO GRIS 350",
+        "precio": {
+          "idPrecio": 1940,
+          "idProducto": 2405,
+          "idMoneda": 1,
+          "precio": 8000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1940,
+            "idProducto": 2405,
+            "idMoneda": 1,
+            "precio": 8000.0
+          },
+          {
+            "idPrecio": 1941,
+            "idProducto": 2405,
+            "idMoneda": 2,
+            "precio": 23.0
+          }
+        ],
+        "image_name": "CEMENTO GRIS 350.jpeg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 344,
+            "idEtiqueta": 1,
+            "idProducto": 2405,
+            "valor": "11/01"
+          }
+        ],
+        "stocks": {
+          "103": 0,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 180,
+        "codigo": "8016",
+        "descripcion": "Estufa Ind C/olla",
+        "precio": {
+          "idPrecio": 447,
+          "idProducto": 180,
+          "idMoneda": 1,
+          "precio": 19250.0
+        },
+        "precios": [
+          {
+            "idPrecio": 447,
+            "idProducto": 180,
+            "idMoneda": 1,
+            "precio": 19250.0
+          },
+          {
+            "idPrecio": 1330,
+            "idProducto": 180,
+            "idMoneda": 2,
+            "precio": 55.0
+          }
+        ],
+        "image_name": "Estufa ind C\u0026Olla -8016.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 56,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 332,
+            "idEtiqueta": 1,
+            "idProducto": 180,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "103": 4,
+          "105": 13
+        }
+      },
+      {
+        "idProducto": 2379,
+        "codigo": "8643F",
+        "descripcion": "LAMPARA DE EMERGENCIA",
+        "precio": {
+          "idPrecio": 1885,
+          "idProducto": 2379,
+          "idMoneda": 1,
+          "precio": 10500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1885,
+            "idProducto": 2379,
+            "idMoneda": 1,
+            "precio": 10500.0
+          }
+        ],
+        "image_name": "LAMPARA DE EMERGENCIA -8643F.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 27,
+        "idDepartamento": 6,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 306,
+            "idEtiqueta": 1,
+            "idProducto": 2379,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "105": 6
+        }
+      },
+      {
+        "idProducto": 2383,
+        "codigo": "8112",
+        "descripcion": "LAVADORA AUTOMATICA 10.1KG",
+        "precio": {
+          "idPrecio": 1889,
+          "idProducto": 2383,
+          "idMoneda": 1,
+          "precio": 133000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1889,
+            "idProducto": 2383,
+            "idMoneda": 1,
+            "precio": 133000.0
+          },
+          {
+            "idPrecio": 1923,
+            "idProducto": 2383,
+            "idMoneda": 2,
+            "precio": 380.0
+          }
+        ],
+        "image_name": "LAVADORA AUTOMATICA 10.1KG -8112.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 54,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 310,
+            "idEtiqueta": 1,
+            "idProducto": 2383,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2380,
+        "codigo": "7356",
+        "descripcion": "LAVADORA AUTOMATICA 11KG",
+        "precio": {
+          "idPrecio": 1886,
+          "idProducto": 2380,
+          "idMoneda": 1,
+          "precio": 159250.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1886,
+            "idProducto": 2380,
+            "idMoneda": 1,
+            "precio": 159250.0
+          },
+          {
+            "idPrecio": 1924,
+            "idProducto": 2380,
+            "idMoneda": 2,
+            "precio": 455.0
+          }
+        ],
+        "image_name": "LAVADORA AUTOMATICA 11KG -7356.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 54,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 307,
+            "idEtiqueta": 1,
+            "idProducto": 2380,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "103": 1,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 1202,
+        "codigo": "7736",
+        "descripcion": "LAVADORA AUTOMATICA 12KG",
+        "precio": {
+          "idPrecio": 649,
+          "idProducto": 1202,
+          "idMoneda": 1,
+          "precio": 192500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 649,
+            "idProducto": 1202,
+            "idMoneda": 1,
+            "precio": 192500.0
+          },
+          {
+            "idPrecio": 1339,
+            "idProducto": 1202,
+            "idMoneda": 2,
+            "precio": 550.0
+          }
+        ],
+        "image_name": "LAVADORA AUTOMATICA 12KG -7736.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 54,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 339,
+            "idEtiqueta": 1,
+            "idProducto": 1202,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2382,
+        "codigo": "7976",
+        "descripcion": "LAVADORA AUTOMATICA 20KG",
+        "precio": {
+          "idPrecio": 1888,
+          "idProducto": 2382,
+          "idMoneda": 1,
+          "precio": 309750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1888,
+            "idProducto": 2382,
+            "idMoneda": 1,
+            "precio": 309750.0
+          },
+          {
+            "idPrecio": 1925,
+            "idProducto": 2382,
+            "idMoneda": 2,
+            "precio": 885.0
+          }
+        ],
+        "image_name": "LAVADORA AUTOMATICA 20KG -7976.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 54,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 309,
+            "idEtiqueta": 1,
+            "idProducto": 2382,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2385,
+        "codigo": "8300",
+        "descripcion": "LAVADORA SEMI AUTOMATICA 15KG",
+        "precio": {
+          "idPrecio": 1891,
+          "idProducto": 2385,
+          "idMoneda": 1,
+          "precio": 169750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1891,
+            "idProducto": 2385,
+            "idMoneda": 1,
+            "precio": 169750.0
+          },
+          {
+            "idPrecio": 1926,
+            "idProducto": 2385,
+            "idMoneda": 2,
+            "precio": 485.0
+          }
+        ],
+        "image_name": "LAVADORA SEMI AUTOMATICA 15KG -8300.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 54,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 312,
+            "idEtiqueta": 1,
+            "idProducto": 2385,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2381,
+        "codigo": "7842",
+        "descripcion": "LAVADORA SEMI AUTOMATICA 16KG",
+        "precio": {
+          "idPrecio": 1887,
+          "idProducto": 2381,
+          "idMoneda": 1,
+          "precio": 155750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1887,
+            "idProducto": 2381,
+            "idMoneda": 1,
+            "precio": 155750.0
+          },
+          {
+            "idPrecio": 1927,
+            "idProducto": 2381,
+            "idMoneda": 2,
+            "precio": 445.0
+          }
+        ],
+        "image_name": "LAVADORA SEMI AUTOMATICA 16KG -7842.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 54,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 308,
+            "idEtiqueta": 1,
+            "idProducto": 2381,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2384,
+        "codigo": "8272",
+        "descripcion": "LAVADORA SEMI AUTOMATICA 18KG",
+        "precio": {
+          "idPrecio": 1890,
+          "idProducto": 2384,
+          "idMoneda": 1,
+          "precio": 201250.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1890,
+            "idProducto": 2384,
+            "idMoneda": 1,
+            "precio": 201250.0
+          },
+          {
+            "idPrecio": 1928,
+            "idProducto": 2384,
+            "idMoneda": 2,
+            "precio": 575.0
+          }
+        ],
+        "image_name": "LAVADORA SEMI AUTOMATICA 18KG -8272.png",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 54,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 311,
+            "idEtiqueta": 1,
+            "idProducto": 2384,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2378,
+        "codigo": "7332",
+        "descripcion": "LINTERNA LED RECARGABLE",
+        "precio": {
+          "idPrecio": 1884,
+          "idProducto": 2378,
+          "idMoneda": 1,
+          "precio": 5250.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1884,
+            "idProducto": 2378,
+            "idMoneda": 1,
+            "precio": 5250.0
+          }
+        ],
+        "image_name": "LINTERNA LED RECARGABLE -7332.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 27,
+        "idDepartamento": 6,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 305,
+            "idEtiqueta": 1,
+            "idProducto": 2378,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "103": 3,
+          "105": 2
+        }
+      },
+      {
+        "idProducto": 2387,
+        "codigo": "8270",
+        "descripcion": "MOLEDOR DE MAIZ MANUAL",
+        "precio": {
+          "idPrecio": 1893,
+          "idProducto": 2387,
+          "idMoneda": 1,
+          "precio": 14000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1893,
+            "idProducto": 2387,
+            "idMoneda": 1,
+            "precio": 14000.0
+          }
+        ],
+        "image_name": "MOLEDOR DE MAIZ MANUAL -8270.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 314,
+            "idEtiqueta": 1,
+            "idProducto": 2387,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "103": 3,
+          "105": 2
+        }
+      },
+      {
+        "idProducto": 2376,
+        "codigo": "5207",
+        "descripcion": "PICATODO 350ML",
+        "precio": {
+          "idPrecio": 1882,
+          "idProducto": 2376,
+          "idMoneda": 1,
+          "precio": 8750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1882,
+            "idProducto": 2376,
+            "idMoneda": 1,
+            "precio": 8750.0
+          },
+          {
+            "idPrecio": 1930,
+            "idProducto": 2376,
+            "idMoneda": 2,
+            "precio": 25.0
+          }
+        ],
+        "image_name": "PICATODO 350ML -5207.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 303,
+            "idEtiqueta": 1,
+            "idProducto": 2376,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "103": 4,
+          "105": 8
+        }
+      },
+      {
+        "idProducto": 2377,
+        "codigo": "7511",
+        "descripcion": "PICATODO 350ML",
+        "precio": {
+          "idPrecio": 1883,
+          "idProducto": 2377,
+          "idMoneda": 1,
+          "precio": 8750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1883,
+            "idProducto": 2377,
+            "idMoneda": 1,
+            "precio": 8750.0
+          },
+          {
+            "idPrecio": 1931,
+            "idProducto": 2377,
+            "idMoneda": 2,
+            "precio": 25.0
+          }
+        ],
+        "image_name": "PICATODO 350ML -7511.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 304,
+            "idEtiqueta": 1,
+            "idProducto": 2377,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "103": 4,
+          "105": 7
+        }
+      },
+      {
+        "idProducto": 2397,
+        "codigo": "Q7-200",
+        "descripcion": "PINTURA ESMALTE BLANCO",
+        "precio": {
+          "idPrecio": 1903,
+          "idProducto": 2397,
+          "idMoneda": 1,
+          "precio": 3850.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1903,
+            "idProducto": 2397,
+            "idMoneda": 1,
+            "precio": 3850.0
+          }
+        ],
+        "image_name": "PINTURA ESMALTE BLANCO -Q7-200.webp",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 46,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 325,
+            "idEtiqueta": 1,
+            "idProducto": 2397,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 5,
+          "103": 5,
+          "105": 3
+        }
+      },
+      {
+        "idProducto": 2399,
+        "codigo": "Q7-204",
+        "descripcion": "PINTURA ESMALTE CAOBA",
+        "precio": {
+          "idPrecio": 1905,
+          "idProducto": 2399,
+          "idMoneda": 1,
+          "precio": 3850.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1905,
+            "idProducto": 2399,
+            "idMoneda": 1,
+            "precio": 3850.0
+          }
+        ],
+        "image_name": "PINTURA ESMALTE CAOBA -Q7-204.webp",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 46,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 327,
+            "idEtiqueta": 1,
+            "idProducto": 2399,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 12,
+          "103": 8,
+          "105": 3
+        }
+      },
+      {
+        "idProducto": 2398,
+        "codigo": "Q7-201",
+        "descripcion": "PINTURA ESMALTE NEGRO",
+        "precio": {
+          "idPrecio": 1904,
+          "idProducto": 2398,
+          "idMoneda": 1,
+          "precio": 3850.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1904,
+            "idProducto": 2398,
+            "idMoneda": 1,
+            "precio": 3850.0
+          }
+        ],
+        "image_name": "PINTURA ESMALTE NEGRO -Q7-201.webp",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 46,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 326,
+            "idEtiqueta": 1,
+            "idProducto": 2398,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 9,
+          "103": 11,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 2401,
+        "codigo": "Q7-300",
+        "descripcion": "PINTURA ESMALTE SINTETICO BARNIZ",
+        "precio": {
+          "idPrecio": 1907,
+          "idProducto": 2401,
+          "idMoneda": 1,
+          "precio": 3850.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1907,
+            "idProducto": 2401,
+            "idMoneda": 1,
+            "precio": 3850.0
+          }
+        ],
+        "image_name": "PINTURA ESMALTE SINTETICO BARNIZ -Q7-300.webp",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 46,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 329,
+            "idEtiqueta": 1,
+            "idProducto": 2401,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 9,
+          "105": 4
+        }
+      },
+      {
+        "idProducto": 2400,
+        "codigo": "Q7-206",
+        "descripcion": "PINTURA ESMALTE SINTETICO GRIS",
+        "precio": {
+          "idPrecio": 1906,
+          "idProducto": 2400,
+          "idMoneda": 1,
+          "precio": 3850.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1906,
+            "idProducto": 2400,
+            "idMoneda": 1,
+            "precio": 3850.0
+          }
+        ],
+        "image_name": "PINTURA ESMALTE SINTETICO GRIS -Q7-206.webp",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 46,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 328,
+            "idEtiqueta": 1,
+            "idProducto": 2400,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 12,
+          "103": 9,
+          "105": 5
+        }
+      },
+      {
+        "idProducto": 2402,
+        "codigo": "Q7-332",
+        "descripcion": "PINTURA ESMALTE SINTETICO NEGRO",
+        "precio": {
+          "idPrecio": 1908,
+          "idProducto": 2402,
+          "idMoneda": 1,
+          "precio": 3850.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1908,
+            "idProducto": 2402,
+            "idMoneda": 1,
+            "precio": 3850.0
+          }
+        ],
+        "image_name": "PINTURA ESMALTE SINTETICO NEGRO -Q7-332.webp",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 46,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 330,
+            "idEtiqueta": 1,
+            "idProducto": 2402,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 9,
+          "103": 12,
+          "105": 3
+        }
+      },
+      {
+        "idProducto": 411,
+        "codigo": "1644",
+        "descripcion": "ROLLO CESPED ART 1X4 MT",
+        "precio": {
+          "idPrecio": 996,
+          "idProducto": 411,
+          "idMoneda": 1,
+          "precio": 15050.0
+        },
+        "precios": [
+          {
+            "idPrecio": 996,
+            "idProducto": 411,
+            "idMoneda": 1,
+            "precio": 15050.0
+          }
+        ],
+        "image_name": "ROLLO CESPED ART 1X4 MT -1644.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 341,
+            "idEtiqueta": 1,
+            "idProducto": 411,
+            "valor": "10/01"
+          },
+          {
+            "idRelacion": 291,
+            "idEtiqueta": 2,
+            "idProducto": 411,
+            "valor": "15000.0"
+          }
+        ],
+        "stocks": {
+          "103": 4,
+          "105": 6
+        }
+      },
+      {
+        "idProducto": 1022,
+        "codigo": "8457",
+        "descripcion": "Sandwichera",
+        "precio": {
+          "idPrecio": 1047,
+          "idProducto": 1022,
+          "idMoneda": 1,
+          "precio": 7000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1047,
+            "idProducto": 1022,
+            "idMoneda": 1,
+            "precio": 7000.0
+          },
+          {
+            "idPrecio": 1375,
+            "idProducto": 1022,
+            "idMoneda": 2,
+            "precio": 20.0
+          }
+        ],
+        "image_name": "Sandwichera -8457.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 63,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 335,
+            "idEtiqueta": 1,
+            "idProducto": 1022,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 6,
+          "103": 22,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 1153,
+        "codigo": "8507",
+        "descripcion": "Sandwichera",
+        "precio": {
+          "idPrecio": 1048,
+          "idProducto": 1153,
+          "idMoneda": 1,
+          "precio": 7000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1048,
+            "idProducto": 1153,
+            "idMoneda": 1,
+            "precio": 7000.0
+          },
+          {
+            "idPrecio": 1376,
+            "idProducto": 1153,
+            "idMoneda": 2,
+            "precio": 20.0
+          }
+        ],
+        "image_name": "Sandwichera -8507.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 63,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 337,
+            "idEtiqueta": 1,
+            "idProducto": 1153,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 2,
+          "103": 10,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 1154,
+        "codigo": "8510",
+        "descripcion": "Sandwichera",
+        "precio": {
+          "idPrecio": 1049,
+          "idProducto": 1154,
+          "idMoneda": 1,
+          "precio": 7000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1049,
+            "idProducto": 1154,
+            "idMoneda": 1,
+            "precio": 7000.0
+          },
+          {
+            "idPrecio": 1377,
+            "idProducto": 1154,
+            "idMoneda": 2,
+            "precio": 20.0
+          }
+        ],
+        "image_name": "Sandwichera -8510.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 63,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 338,
+            "idEtiqueta": 1,
+            "idProducto": 1154,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 2,
+          "103": 9,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 2119,
+        "codigo": "8458",
+        "descripcion": "SANDWICHERA",
+        "precio": {
+          "idPrecio": 1593,
+          "idProducto": 2119,
+          "idMoneda": 1,
+          "precio": 7000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1593,
+            "idProducto": 2119,
+            "idMoneda": 1,
+            "precio": 7000.0
+          },
+          {
+            "idPrecio": 1626,
+            "idProducto": 2119,
+            "idMoneda": 2,
+            "precio": 20.0
+          }
+        ],
+        "image_name": "SANDWICHERA -8458.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 63,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 336,
+            "idEtiqueta": 1,
+            "idProducto": 2119,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 12,
+          "103": 23,
+          "105": 4
+        }
+      },
+      {
+        "idProducto": 2403,
+        "codigo": "Q7-05",
+        "descripcion": "SELLADOR NITRO PARA MADERA",
+        "precio": {
+          "idPrecio": 1909,
+          "idProducto": 2403,
+          "idMoneda": 1,
+          "precio": 14000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1909,
+            "idProducto": 2403,
+            "idMoneda": 1,
+            "precio": 14000.0
+          }
+        ],
+        "image_name": "SELLADOR NITRO PARA MADERA -Q7-05.webp",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 331,
+            "idEtiqueta": 1,
+            "idProducto": 2403,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "103": 2,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2386,
+        "codigo": "8744",
+        "descripcion": "TV 24\" HD SMART",
+        "precio": {
+          "idPrecio": 1892,
+          "idProducto": 2386,
+          "idMoneda": 1,
+          "precio": 56000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1892,
+            "idProducto": 2386,
+            "idMoneda": 1,
+            "precio": 56000.0
+          },
+          {
+            "idPrecio": 1936,
+            "idProducto": 2386,
+            "idMoneda": 2,
+            "precio": 160.0
+          }
+        ],
+        "image_name": "TV 24\u0026 HD SMART -8744.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 64,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 313,
+            "idEtiqueta": 1,
+            "idProducto": 2386,
+            "valor": "10/01"
+          },
+          {
+            "idRelacion": 343,
+            "idEtiqueta": 2,
+            "idProducto": 2386,
+            "valor": "66500.0"
+          },
+          {
+            "idRelacion": 342,
+            "idEtiqueta": 2,
+            "idProducto": 2386,
+            "valor": "85750.0"
+          }
+        ],
+        "stocks": {
+          "102": 2,
+          "103": 2,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2404,
+        "codigo": "8867",
+        "descripcion": "TV 32\" HD SMART",
+        "precio": {
+          "idPrecio": 1910,
+          "idProducto": 2404,
+          "idMoneda": 1,
+          "precio": 70000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1910,
+            "idProducto": 2404,
+            "idMoneda": 1,
+            "precio": 70000.0
+          },
+          {
+            "idPrecio": 1937,
+            "idProducto": 2404,
+            "idMoneda": 2,
+            "precio": 200.0
+          }
+        ],
+        "image_name": "TV 32\u0026 HD SMART -8867.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 64,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 345,
+            "idEtiqueta": 1,
+            "idProducto": 2404,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "102": 4,
+          "103": 2,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2389,
+        "codigo": "8835",
+        "descripcion": "TV 50\" UHD SMART",
+        "precio": {
+          "idPrecio": 1895,
+          "idProducto": 2389,
+          "idMoneda": 1,
+          "precio": 203000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1895,
+            "idProducto": 2389,
+            "idMoneda": 1,
+            "precio": 203000.0
+          },
+          {
+            "idPrecio": 1938,
+            "idProducto": 2389,
+            "idMoneda": 2,
+            "precio": 580.0
+          }
+        ],
+        "image_name": "TV 50\u0026 UHD SMART -8835.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 64,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 316,
+            "idEtiqueta": 1,
+            "idProducto": 2389,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2388,
+        "codigo": "8344",
+        "descripcion": "TV 65\" UHD SMART",
+        "precio": {
+          "idPrecio": 1894,
+          "idProducto": 2388,
+          "idMoneda": 1,
+          "precio": 325500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1894,
+            "idProducto": 2388,
+            "idMoneda": 1,
+            "precio": 325500.0
+          },
+          {
+            "idPrecio": 1939,
+            "idProducto": 2388,
+            "idMoneda": 2,
+            "precio": 930.0
+          }
+        ],
+        "image_name": "TV 65\u0026 UHD SMART -8344.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 64,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 315,
+            "idEtiqueta": 1,
+            "idProducto": 2388,
+            "valor": "10/01"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      }
+    ]
   },
   {
     "idEtiqueta": 2,
-    "nombre": "TCP",
+    "nombre": "Rebaja",
     "color": 0,
-    "fichaTecnica": false
+    "fichaTecnica": true,
+    "productos": [
+      {
+        "idProducto": 14,
+        "codigo": "6191",
+        "descripcion": "Alcancia De Metal",
+        "precio": {
+          "idPrecio": 22,
+          "idProducto": 14,
+          "idMoneda": 1,
+          "precio": 1400.0
+        },
+        "precios": [
+          {
+            "idPrecio": 22,
+            "idProducto": 14,
+            "idMoneda": 1,
+            "precio": 1400.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 7,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 51,
+            "idEtiqueta": 2,
+            "idProducto": 14,
+            "valor": "1400"
+          }
+        ],
+        "stocks": {
+          "103": 2,
+          "105": 4
+        }
+      },
+      {
+        "idProducto": 686,
+        "codigo": "BL2",
+        "descripcion": "BICICLETA TRICICLO BLANCO",
+        "precio": {
+          "idPrecio": 120,
+          "idProducto": 686,
+          "idMoneda": 1,
+          "precio": 96250.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1410,
+            "idProducto": 686,
+            "idMoneda": 2,
+            "precio": 220.0
+          },
+          {
+            "idPrecio": 120,
+            "idProducto": 686,
+            "idMoneda": 1,
+            "precio": 96250.0
+          }
+        ],
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 60,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 50,
+            "idEtiqueta": 2,
+            "idProducto": 686,
+            "valor": "96500"
+          }
+        ],
+        "stocks": {
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 687,
+        "codigo": "BK1",
+        "descripcion": "BICICLETA TRICICLO NEGRO",
+        "precio": {
+          "idPrecio": 121,
+          "idProducto": 687,
+          "idMoneda": 1,
+          "precio": 96250.0
+        },
+        "precios": [
+          {
+            "idPrecio": 121,
+            "idProducto": 687,
+            "idMoneda": 1,
+            "precio": 96250.0
+          },
+          {
+            "idPrecio": 1411,
+            "idProducto": 687,
+            "idMoneda": 2,
+            "precio": 275.7143
+          }
+        ],
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 60,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 75,
+            "idEtiqueta": 2,
+            "idProducto": 687,
+            "valor": "96500.0"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2114,
+        "codigo": "8514",
+        "descripcion": "BOCINA 12\"",
+        "precio": {
+          "idPrecio": 1588,
+          "idProducto": 2114,
+          "idMoneda": 1,
+          "precio": 35000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1608,
+            "idProducto": 2114,
+            "idMoneda": 2,
+            "precio": 100.0
+          },
+          {
+            "idPrecio": 1588,
+            "idProducto": 2114,
+            "idMoneda": 1,
+            "precio": 35000.0
+          }
+        ],
+        "image_name": "BOCINA 12\u0026 -8514.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 333,
+            "idEtiqueta": 1,
+            "idProducto": 2114,
+            "valor": "10/01"
+          },
+          {
+            "idRelacion": 293,
+            "idEtiqueta": 2,
+            "idProducto": 2114,
+            "valor": "38500.0"
+          }
+        ],
+        "stocks": {
+          "103": 0,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 1015,
+        "codigo": "7867",
+        "descripcion": "BOCINA 15\"",
+        "precio": {
+          "idPrecio": 130,
+          "idProducto": 1015,
+          "idMoneda": 1,
+          "precio": 52500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 130,
+            "idProducto": 1015,
+            "idMoneda": 1,
+            "precio": 52500.0
+          },
+          {
+            "idPrecio": 1319,
+            "idProducto": 1015,
+            "idMoneda": 2,
+            "precio": 150.0
+          }
+        ],
+        "image_name": "BOCINA 15\u0026 -7867.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 36,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 334,
+            "idEtiqueta": 1,
+            "idProducto": 1015,
+            "valor": "10/01"
+          },
+          {
+            "idRelacion": 292,
+            "idEtiqueta": 2,
+            "idProducto": 1015,
+            "valor": "56000.0"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 89,
+        "codigo": "175-137",
+        "descripcion": "Cajon Multiuso C/ Jalador",
+        "precio": {
+          "idPrecio": 206,
+          "idProducto": 89,
+          "idMoneda": 1,
+          "precio": 15050.0
+        },
+        "precios": [
+          {
+            "idPrecio": 206,
+            "idProducto": 89,
+            "idMoneda": 1,
+            "precio": 15050.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 34,
+        "idDepartamento": 6,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 52,
+            "idEtiqueta": 2,
+            "idProducto": 89,
+            "valor": "15100"
+          }
+        ],
+        "stocks": {
+          "103": 2,
+          "105": 2
+        }
+      },
+      {
+        "idProducto": 94,
+        "codigo": "RC1000",
+        "descripcion": "Capote P/adulto",
+        "precio": {
+          "idPrecio": 221,
+          "idProducto": 94,
+          "idMoneda": 1,
+          "precio": 350.0
+        },
+        "precios": [
+          {
+            "idPrecio": 221,
+            "idProducto": 94,
+            "idMoneda": 1,
+            "precio": 350.0
+          }
+        ],
+        "image_name": "Capote P\u0026adulto -RC1000.webp",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 8,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 53,
+            "idEtiqueta": 2,
+            "idProducto": 94,
+            "valor": "350"
+          }
+        ],
+        "stocks": {
+          "102": 14,
+          "103": 37,
+          "105": 10
+        }
+      },
+      {
+        "idProducto": 707,
+        "codigo": "561",
+        "descripcion": "CASA DE JGO INFANTIL",
+        "precio": {
+          "idPrecio": 235,
+          "idProducto": 707,
+          "idMoneda": 1,
+          "precio": 59500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 235,
+            "idProducto": 707,
+            "idMoneda": 1,
+            "precio": 59500.0
+          }
+        ],
+        "image_name": "CASA DE JGO INFANTIL -561.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 7,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 54,
+            "idEtiqueta": 2,
+            "idProducto": 707,
+            "valor": "59500"
+          }
+        ],
+        "stocks": {
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 2005,
+        "codigo": "CR01",
+        "descripcion": "COLGADOR DE ROPA",
+        "precio": {
+          "idPrecio": 1479,
+          "idProducto": 2005,
+          "idMoneda": 1,
+          "precio": 7000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1479,
+            "idProducto": 2005,
+            "idMoneda": 1,
+            "precio": 7000.0
+          }
+        ],
+        "image_name": "COLGADOR DE ROPA -CR01.jpeg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 10,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 55,
+            "idEtiqueta": 2,
+            "idProducto": 2005,
+            "valor": "7000"
+          }
+        ],
+        "stocks": {
+          "103": 1,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 1861,
+        "codigo": "ESC002",
+        "descripcion": "ESCOBA CANDY",
+        "precio": {
+          "idPrecio": 420,
+          "idProducto": 1861,
+          "idMoneda": 1,
+          "precio": 1500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 420,
+            "idProducto": 1861,
+            "idMoneda": 1,
+            "precio": 1500.0
+          }
+        ],
+        "image_name": "ESCOBA CANDY -ESC002.webp",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 6,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 49,
+            "idEtiqueta": 2,
+            "idProducto": 1861,
+            "valor": "1500"
+          }
+        ],
+        "stocks": {
+          "102": 36,
+          "103": 19,
+          "105": 17
+        }
+      },
+      {
+        "idProducto": 171,
+        "codigo": "5047",
+        "descripcion": "Espejo Decorativo",
+        "precio": {
+          "idPrecio": 428,
+          "idProducto": 171,
+          "idMoneda": 1,
+          "precio": 26250.0
+        },
+        "precios": [
+          {
+            "idPrecio": 428,
+            "idProducto": 171,
+            "idMoneda": 1,
+            "precio": 26250.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 38,
+        "idDepartamento": 6,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 56,
+            "idEtiqueta": 2,
+            "idProducto": 171,
+            "valor": "26300"
+          }
+        ],
+        "stocks": {
+          "103": 0
+        }
+      },
+      {
+        "idProducto": 744,
+        "codigo": "5048",
+        "descripcion": "Espejo Decorativo",
+        "precio": {
+          "idPrecio": 429,
+          "idProducto": 744,
+          "idMoneda": 1,
+          "precio": 26250.0
+        },
+        "precios": [
+          {
+            "idPrecio": 429,
+            "idProducto": 744,
+            "idMoneda": 1,
+            "precio": 26250.0
+          }
+        ],
+        "image_name": "Espejo Decorativo -5048.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 38,
+        "idDepartamento": 6,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 57,
+            "idEtiqueta": 2,
+            "idProducto": 744,
+            "valor": "26300"
+          }
+        ],
+        "stocks": {
+          "103": 0,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 178,
+        "codigo": "7359",
+        "descripcion": "Estufa Gas 3Q",
+        "precio": {
+          "idPrecio": 445,
+          "idProducto": 178,
+          "idMoneda": 1,
+          "precio": 15750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 445,
+            "idProducto": 178,
+            "idMoneda": 1,
+            "precio": 15750.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 39,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 290,
+            "idEtiqueta": 2,
+            "idProducto": 178,
+            "valor": "18200.0"
+          }
+        ],
+        "stocks": {
+          "103": 11,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2259,
+        "codigo": "G03B",
+        "descripcion": "ESTUFA GAS 3Q",
+        "precio": {
+          "idPrecio": 1765,
+          "idProducto": 2259,
+          "idMoneda": 1,
+          "precio": 15750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1765,
+            "idProducto": 2259,
+            "idMoneda": 1,
+            "precio": 15750.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 39,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 289,
+            "idEtiqueta": 2,
+            "idProducto": 2259,
+            "valor": "18200.0"
+          }
+        ],
+        "stocks": {
+          "103": 3,
+          "105": 3
+        }
+      },
+      {
+        "idProducto": 756,
+        "codigo": "3N-1511",
+        "descripcion": "GAVETERO PLAST",
+        "precio": {
+          "idPrecio": 480,
+          "idProducto": 756,
+          "idMoneda": 1,
+          "precio": 35000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 480,
+            "idProducto": 756,
+            "idMoneda": 1,
+            "precio": 35000.0
+          }
+        ],
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 58,
+            "idEtiqueta": 2,
+            "idProducto": 756,
+            "valor": "35000"
+          }
+        ],
+        "stocks": {
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 757,
+        "codigo": "4N-08-09-10",
+        "descripcion": "GAVETERO PLAST",
+        "precio": {
+          "idPrecio": 481,
+          "idProducto": 757,
+          "idMoneda": 1,
+          "precio": 50050.0
+        },
+        "precios": [
+          {
+            "idPrecio": 481,
+            "idProducto": 757,
+            "idMoneda": 1,
+            "precio": 50050.0
+          }
+        ],
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 59,
+            "idEtiqueta": 2,
+            "idProducto": 757,
+            "valor": "50200"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 784,
+        "codigo": "JUH801",
+        "descripcion": "JGO MARTILLO Y EXTRACTOR P/AUTO",
+        "precio": {
+          "idPrecio": 594,
+          "idProducto": 784,
+          "idMoneda": 1,
+          "precio": 31500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 594,
+            "idProducto": 784,
+            "idMoneda": 1,
+            "precio": 31500.0
+          }
+        ],
+        "image_name": "JGO MARTILLO Y EXTRACTOR P\u0026AUTO -JUH801.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 60,
+            "idEtiqueta": 2,
+            "idProducto": 784,
+            "valor": "32000"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 785,
+        "descripcion": "JGO OLLAS CON TAPAS 5PCS",
+        "precio": {
+          "idPrecio": 597,
+          "idProducto": 785,
+          "idMoneda": 1,
+          "precio": 25200.0
+        },
+        "precios": [
+          {
+            "idPrecio": 597,
+            "idProducto": 785,
+            "idMoneda": 1,
+            "precio": 25200.0
+          }
+        ],
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 26,
+        "idDepartamento": 6,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 61,
+            "idEtiqueta": 2,
+            "idProducto": 785,
+            "valor": "25000"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 1784,
+        "codigo": "1725",
+        "descripcion": "LIMPIONES 30x30CM",
+        "precio": {
+          "idPrecio": 767,
+          "idProducto": 1784,
+          "idMoneda": 1,
+          "precio": 175.0
+        },
+        "precios": [
+          {
+            "idPrecio": 767,
+            "idProducto": 1784,
+            "idMoneda": 1,
+            "precio": 175.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 85,
+        "idDepartamento": 8,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 265,
+            "idEtiqueta": 2,
+            "idProducto": 1784,
+            "valor": "2100.0"
+          }
+        ],
+        "stocks": {
+          "103": 24,
+          "105": 13
+        }
+      },
+      {
+        "idProducto": 1898,
+        "codigo": "3058",
+        "descripcion": "LINTERNA MULTIF. RECARGABLE",
+        "precio": {
+          "idPrecio": 682,
+          "idProducto": 1898,
+          "idMoneda": 1,
+          "precio": 2800.0
+        },
+        "precios": [
+          {
+            "idPrecio": 682,
+            "idProducto": 1898,
+            "idMoneda": 1,
+            "precio": 2800.0
+          }
+        ],
+        "image_name": "LINTERNA MULTIF. RECARGABLE -3058.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 287,
+            "idEtiqueta": 2,
+            "idProducto": 1898,
+            "valor": "3600.0"
+          }
+        ],
+        "stocks": {
+          "103": 3,
+          "105": 2
+        }
+      },
+      {
+        "idProducto": 1913,
+        "codigo": "2023",
+        "descripcion": "PARAGUAS AUTO NEGRO Y AZUL",
+        "precio": {
+          "idPrecio": 837,
+          "idProducto": 1913,
+          "idMoneda": 1,
+          "precio": 2800.0
+        },
+        "precios": [
+          {
+            "idPrecio": 837,
+            "idProducto": 1913,
+            "idMoneda": 1,
+            "precio": 2800.0
+          }
+        ],
+        "image_name": "PARAGUAS AUTO NEGRO Y AZUL -2023.webp",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 78,
+        "idDepartamento": 6,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 319,
+            "idEtiqueta": 2,
+            "idProducto": 1913,
+            "valor": "2800.0"
+          }
+        ],
+        "stocks": {
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 819,
+        "codigo": "DLP-148",
+        "descripcion": "PATINETA DE MECANICO",
+        "precio": {
+          "idPrecio": 852,
+          "idProducto": 819,
+          "idMoneda": 1,
+          "precio": 30800.0
+        },
+        "precios": [
+          {
+            "idPrecio": 852,
+            "idProducto": 819,
+            "idMoneda": 1,
+            "precio": 30800.0
+          }
+        ],
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 62,
+            "idEtiqueta": 2,
+            "idProducto": 819,
+            "valor": "31000"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 375,
+        "codigo": "SP24",
+        "descripcion": "Plato Hondo De Metal",
+        "precio": {
+          "idPrecio": 921,
+          "idProducto": 375,
+          "idMoneda": 1,
+          "precio": 500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 921,
+            "idProducto": 375,
+            "idMoneda": 1,
+            "precio": 500.0
+          }
+        ],
+        "image_name": "Plato Hondo De Metal -SP24.jpeg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 61,
+        "idDepartamento": 6,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 63,
+            "idEtiqueta": 2,
+            "idProducto": 375,
+            "valor": "500"
+          }
+        ],
+        "stocks": {
+          "103": 13,
+          "105": 26
+        }
+      },
+      {
+        "idProducto": 850,
+        "codigo": "8474B",
+        "descripcion": "RELOJ SMART WATCH",
+        "precio": {
+          "idPrecio": 985,
+          "idProducto": 850,
+          "idMoneda": 1,
+          "precio": 29750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1637,
+            "idProducto": 850,
+            "idMoneda": 2,
+            "precio": 60.0
+          },
+          {
+            "idPrecio": 985,
+            "idProducto": 850,
+            "idMoneda": 1,
+            "precio": 29750.0
+          }
+        ],
+        "image_name": "RELOJ SMART WATCH -8474B.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 9,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 64,
+            "idEtiqueta": 2,
+            "idProducto": 850,
+            "valor": "30000"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 851,
+        "codigo": "8474L",
+        "descripcion": "RELOJ SMART WATCH",
+        "precio": {
+          "idPrecio": 986,
+          "idProducto": 851,
+          "idMoneda": 1,
+          "precio": 29750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 986,
+            "idProducto": 851,
+            "idMoneda": 1,
+            "precio": 29750.0
+          },
+          {
+            "idPrecio": 1638,
+            "idProducto": 851,
+            "idMoneda": 2,
+            "precio": 60.0
+          }
+        ],
+        "image_name": "RELOJ SMART WATCH -8474L.jpg",
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 9,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 65,
+            "idEtiqueta": 2,
+            "idProducto": 851,
+            "valor": "30000"
+          }
+        ],
+        "stocks": {
+          "105": 6
+        }
+      },
+      {
+        "idProducto": 411,
+        "codigo": "1644",
+        "descripcion": "ROLLO CESPED ART 1X4 MT",
+        "precio": {
+          "idPrecio": 996,
+          "idProducto": 411,
+          "idMoneda": 1,
+          "precio": 15050.0
+        },
+        "precios": [
+          {
+            "idPrecio": 996,
+            "idProducto": 411,
+            "idMoneda": 1,
+            "precio": 15050.0
+          }
+        ],
+        "image_name": "ROLLO CESPED ART 1X4 MT -1644.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 341,
+            "idEtiqueta": 1,
+            "idProducto": 411,
+            "valor": "10/01"
+          },
+          {
+            "idRelacion": 291,
+            "idEtiqueta": 2,
+            "idProducto": 411,
+            "valor": "15000.0"
+          }
+        ],
+        "stocks": {
+          "103": 4,
+          "105": 6
+        }
+      },
+      {
+        "idProducto": 1928,
+        "codigo": "LIST-467",
+        "descripcion": "ROMPECABEZAS",
+        "precio": {
+          "idPrecio": 1004,
+          "idProducto": 1928,
+          "idMoneda": 1,
+          "precio": 1750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1004,
+            "idProducto": 1928,
+            "idMoneda": 1,
+            "precio": 1750.0
+          }
+        ],
+        "image_name": "ROMPECABEZAS -LIST-467.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 62,
+        "idDepartamento": 7,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 288,
+            "idEtiqueta": 2,
+            "idProducto": 1928,
+            "valor": "10500.0"
+          }
+        ],
+        "stocks": {
+          "103": 2,
+          "105": 19
+        }
+      },
+      {
+        "idProducto": 427,
+        "descripcion": "Sapo De Adulto",
+        "precio": {
+          "idPrecio": 1052,
+          "idProducto": 427,
+          "idMoneda": 1,
+          "precio": 850.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1052,
+            "idProducto": 427,
+            "idMoneda": 1,
+            "precio": 850.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 4,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 66,
+            "idEtiqueta": 2,
+            "idProducto": 427,
+            "valor": "850"
+          }
+        ],
+        "stocks": {
+          "103": 15
+        }
+      },
+      {
+        "idProducto": 1626,
+        "codigo": "9957",
+        "descripcion": "Scooter",
+        "precio": {
+          "idPrecio": 1057,
+          "idProducto": 1626,
+          "idMoneda": 1,
+          "precio": 8750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1057,
+            "idProducto": 1626,
+            "idMoneda": 1,
+            "precio": 8750.0
+          }
+        ],
+        "image_name": "Scooter -9957.png",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 58,
+        "idDepartamento": 7,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 232,
+            "idEtiqueta": 2,
+            "idProducto": 1626,
+            "valor": "8750.0"
+          }
+        ],
+        "stocks": {
+          "103": 0,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 462,
+        "codigo": "BABYROCKER",
+        "descripcion": "Silla Plastica",
+        "precio": {
+          "idPrecio": 1117,
+          "idProducto": 462,
+          "idMoneda": 1,
+          "precio": 5250.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1117,
+            "idProducto": 462,
+            "idMoneda": 1,
+            "precio": 5250.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 7,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 67,
+            "idEtiqueta": 2,
+            "idProducto": 462,
+            "valor": "5300"
+          }
+        ],
+        "stocks": {
+          "102": 2,
+          "103": 1,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 651,
+        "descripcion": "Split 12000 BTU",
+        "precio": {
+          "idPrecio": 1164,
+          "idProducto": 651,
+          "idMoneda": 1,
+          "precio": 129500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1164,
+            "idProducto": 651,
+            "idMoneda": 1,
+            "precio": 129500.0
+          },
+          {
+            "idPrecio": 1381,
+            "idProducto": 651,
+            "idMoneda": 2,
+            "precio": 370.0
+          }
+        ],
+        "image_name": "Split 12000 BTU.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 68,
+            "idEtiqueta": 2,
+            "idProducto": 651,
+            "valor": "129500"
+          }
+        ],
+        "stocks": {
+          "103": 3,
+          "105": 6
+        }
+      },
+      {
+        "idProducto": 2007,
+        "codigo": "2051",
+        "descripcion": "TENDEDERO DE ROPA PLEGABLE",
+        "precio": {
+          "idPrecio": 1481,
+          "idProducto": 2007,
+          "idMoneda": 1,
+          "precio": 9800.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1481,
+            "idProducto": 2007,
+            "idMoneda": 1,
+            "precio": 9800.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 98,
+        "idDepartamento": 10,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 69,
+            "idEtiqueta": 2,
+            "idProducto": 2007,
+            "valor": "9800"
+          }
+        ],
+        "stocks": {
+          "103": 1,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 2001,
+        "codigo": "2052",
+        "descripcion": "TENDEDERO DE ROPA PLEGABLE",
+        "precio": {
+          "idPrecio": 1475,
+          "idProducto": 2001,
+          "idMoneda": 1,
+          "precio": 12250.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1475,
+            "idProducto": 2001,
+            "idMoneda": 1,
+            "precio": 12250.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 98,
+        "idDepartamento": 10,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 70,
+            "idEtiqueta": 2,
+            "idProducto": 2001,
+            "valor": "12250"
+          }
+        ],
+        "stocks": {
+          "103": 2,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 2003,
+        "codigo": "2992",
+        "descripcion": "TENDEDERO DE ROPA PLEGABLE",
+        "precio": {
+          "idPrecio": 1477,
+          "idProducto": 2003,
+          "idMoneda": 1,
+          "precio": 12250.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1477,
+            "idProducto": 2003,
+            "idMoneda": 1,
+            "precio": 12250.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 98,
+        "idDepartamento": 10,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 72,
+            "idEtiqueta": 2,
+            "idProducto": 2003,
+            "valor": "12250"
+          }
+        ],
+        "stocks": {
+          "102": 1,
+          "103": 1,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2002,
+        "codigo": "42129",
+        "descripcion": "TENDEDERO DE ROPA PLEGABLE",
+        "precio": {
+          "idPrecio": 1476,
+          "idProducto": 2002,
+          "idMoneda": 1,
+          "precio": 8750.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1476,
+            "idProducto": 2002,
+            "idMoneda": 1,
+            "precio": 8750.0
+          }
+        ],
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 98,
+        "idDepartamento": 10,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 71,
+            "idEtiqueta": 2,
+            "idProducto": 2002,
+            "valor": "8750"
+          }
+        ],
+        "stocks": {
+          "102": 3,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 942,
+        "codigo": "2511",
+        "descripcion": "TROZADORA",
+        "precio": {
+          "idPrecio": 1262,
+          "idProducto": 942,
+          "idMoneda": 1,
+          "precio": 84000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1262,
+            "idProducto": 942,
+            "idMoneda": 1,
+            "precio": 84000.0
+          },
+          {
+            "idPrecio": 1639,
+            "idProducto": 942,
+            "idMoneda": 2,
+            "precio": 200.0
+          }
+        ],
+        "ipv": false,
+        "activo": true,
+        "combo": false,
+        "idDepartamento": 2,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 73,
+            "idEtiqueta": 2,
+            "idProducto": 942,
+            "valor": "84000"
+          }
+        ],
+        "stocks": {
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2386,
+        "codigo": "8744",
+        "descripcion": "TV 24\" HD SMART",
+        "precio": {
+          "idPrecio": 1892,
+          "idProducto": 2386,
+          "idMoneda": 1,
+          "precio": 56000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1892,
+            "idProducto": 2386,
+            "idMoneda": 1,
+            "precio": 56000.0
+          },
+          {
+            "idPrecio": 1936,
+            "idProducto": 2386,
+            "idMoneda": 2,
+            "precio": 160.0
+          }
+        ],
+        "image_name": "TV 24\u0026 HD SMART -8744.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 64,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 313,
+            "idEtiqueta": 1,
+            "idProducto": 2386,
+            "valor": "10/01"
+          },
+          {
+            "idRelacion": 343,
+            "idEtiqueta": 2,
+            "idProducto": 2386,
+            "valor": "66500.0"
+          },
+          {
+            "idRelacion": 342,
+            "idEtiqueta": 2,
+            "idProducto": 2386,
+            "valor": "85750.0"
+          }
+        ],
+        "stocks": {
+          "102": 2,
+          "103": 2,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 2110,
+        "codigo": "8764",
+        "descripcion": "TV 32\" HD SMART",
+        "precio": {
+          "idPrecio": 1584,
+          "idProducto": 2110,
+          "idMoneda": 1,
+          "precio": 87500.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1584,
+            "idProducto": 2110,
+            "idMoneda": 1,
+            "precio": 87500.0
+          },
+          {
+            "idPrecio": 1627,
+            "idProducto": 2110,
+            "idMoneda": 2,
+            "precio": 250.0
+          }
+        ],
+        "image_name": "TV 32\u0026 HD SMART -8764.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 64,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 46,
+            "idEtiqueta": 2,
+            "idProducto": 2110,
+            "valor": "85750"
+          },
+          {
+            "idRelacion": 22,
+            "idEtiqueta": 6,
+            "idProducto": 2110
+          }
+        ],
+        "stocks": {
+          "103": 0,
+          "105": 0
+        }
+      },
+      {
+        "idProducto": 1199,
+        "codigo": "8727",
+        "descripcion": "TV 43\" FHD Smart",
+        "precio": {
+          "idPrecio": 1267,
+          "idProducto": 1199,
+          "idMoneda": 1,
+          "precio": 140000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1267,
+            "idProducto": 1199,
+            "idMoneda": 1,
+            "precio": 140000.0
+          },
+          {
+            "idPrecio": 1387,
+            "idProducto": 1199,
+            "idMoneda": 2,
+            "precio": 400.0
+          }
+        ],
+        "image_name": "TV 43\u0026 FHD Smart -8727.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 64,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 47,
+            "idEtiqueta": 2,
+            "idProducto": 1199,
+            "valor": "143500"
+          },
+          {
+            "idRelacion": 23,
+            "idEtiqueta": 6,
+            "idProducto": 1199
+          },
+          {
+            "idRelacion": 17,
+            "idEtiqueta": 6,
+            "idProducto": 1199
+          }
+        ],
+        "stocks": {
+          "102": 1,
+          "103": 3,
+          "105": 1
+        }
+      },
+      {
+        "idProducto": 510,
+        "codigo": "BG8",
+        "descripcion": "Vaso Metalico 8x12CM",
+        "precio": {
+          "idPrecio": 1276,
+          "idProducto": 510,
+          "idMoneda": 1,
+          "precio": 350.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1276,
+            "idProducto": 510,
+            "idMoneda": 1,
+            "precio": 350.0
+          }
+        ],
+        "image_name": "Vaso Metalico 8x12CM -BG8.jpg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 25,
+        "idDepartamento": 6,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 286,
+            "idEtiqueta": 2,
+            "idProducto": 510,
+            "valor": "350.0"
+          }
+        ],
+        "stocks": {
+          "103": 20,
+          "105": 54
+        }
+      },
+      {
+        "idProducto": 1950,
+        "codigo": "5210",
+        "descripcion": "VASOS DE VIDRIO 6PCS",
+        "precio": {
+          "idPrecio": 1424,
+          "idProducto": 1950,
+          "idMoneda": 1,
+          "precio": 350.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1424,
+            "idProducto": 1950,
+            "idMoneda": 1,
+            "precio": 350.0
+          }
+        ],
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 25,
+        "idDepartamento": 6,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 76,
+            "idEtiqueta": 2,
+            "idProducto": 1950,
+            "valor": "2000.0"
+          }
+        ],
+        "stocks": {
+          "102": 48,
+          "103": 10,
+          "105": 14
+        }
+      },
+      {
+        "idProducto": 660,
+        "codigo": "S118",
+        "descripcion": "Ventilador Pedestal",
+        "precio": {
+          "idPrecio": 1288,
+          "idProducto": 660,
+          "idMoneda": 1,
+          "precio": 21000.0
+        },
+        "precios": [
+          {
+            "idPrecio": 1288,
+            "idProducto": 660,
+            "idMoneda": 1,
+            "precio": 21000.0
+          },
+          {
+            "idPrecio": 1391,
+            "idProducto": 660,
+            "idMoneda": 2,
+            "precio": 60.0
+          }
+        ],
+        "image_name": "Ventilador Pedestal -S118.jpeg",
+        "ipv": true,
+        "activo": true,
+        "combo": false,
+        "idCategoria": 35,
+        "idDepartamento": 3,
+        "movimientos": [],
+        "etiquetasProductos": [
+          {
+            "idRelacion": 74,
+            "idEtiqueta": 2,
+            "idProducto": 660,
+            "valor": "28000"
+          }
+        ],
+        "stocks": {
+          "103": 6,
+          "105": 5
+        }
+      }
+    ]
   },
   {
     "idEtiqueta": 6,
