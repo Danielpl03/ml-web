@@ -31,12 +31,19 @@ export class ProductosService{
     const productos: Producto[] = await res.json();
 
     const productosFiltrados = productos.filter(producto => {
+      if (producto.etiquetasProductos){
+        for (let index = 0; index < producto.etiquetasProductos.length; index++){
+          const etiqueta = producto.etiquetasProductos[index];
+          if(etiqueta.idEtiqueta == 1) return true;
+        }
+      }
       if (producto.stocks) {
         for (let index = 0; index < this.localidades.length; index++) {
           const element = producto.stocks[this.localidades[index]];
           if (element > 0) return true;
         }
       }
+
       return false;
     })
 
@@ -149,7 +156,7 @@ export class ProductosService{
       }
     }
     const taza = this.monedaService.getTazaCambio();
-    return (Math.round(producto.precio.precio / (taza?taza:300) * 10) / 10)
+    return (Math.round(producto.precio.precio / (taza?taza:320) * 10) / 10)
   }
 
 }

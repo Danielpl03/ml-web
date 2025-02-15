@@ -30,6 +30,15 @@
         "valor": "1400"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
       "105": 4
@@ -71,6 +80,15 @@
         "idEtiqueta": 2,
         "idProducto": 686,
         "valor": "96500"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -115,6 +133,15 @@
         "valor": "96500.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 1
     }
@@ -152,16 +179,19 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 333,
-        "idEtiqueta": 1,
-        "idProducto": 2114,
-        "valor": "10/01"
-      },
-      {
         "idRelacion": 293,
         "idEtiqueta": 2,
         "idProducto": 2114,
         "valor": "38500.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -202,20 +232,23 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 334,
-        "idEtiqueta": 1,
-        "idProducto": 1015,
-        "valor": "10/01"
-      },
-      {
         "idRelacion": 292,
         "idEtiqueta": 2,
         "idProducto": 1015,
         "valor": "56000.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -250,9 +283,18 @@
         "valor": "15100"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -285,6 +327,15 @@
         "idEtiqueta": 2,
         "idProducto": 94,
         "valor": "350"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -325,6 +376,15 @@
         "valor": "59500"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 0
     }
@@ -359,6 +419,15 @@
         "idEtiqueta": 2,
         "idProducto": 2005,
         "valor": "7000"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -398,9 +467,18 @@
         "valor": "1500"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 36,
-      "103": 19,
+      "102": 8,
+      "103": 10,
       "105": 17
     }
   },
@@ -434,6 +512,15 @@
         "idEtiqueta": 2,
         "idProducto": 171,
         "valor": "26300"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -473,6 +560,15 @@
         "valor": "26300"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
       "105": 0
@@ -510,9 +606,18 @@
         "valor": "18200.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 11,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -547,9 +652,18 @@
         "valor": "18200.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
-      "105": 3
+      "103": 1,
+      "105": 11
     }
   },
   {
@@ -581,6 +695,15 @@
         "idEtiqueta": 2,
         "idProducto": 756,
         "valor": "35000"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -618,8 +741,17 @@
         "valor": "50200"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -652,6 +784,15 @@
         "idEtiqueta": 2,
         "idProducto": 784,
         "valor": "32000"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -689,7 +830,17 @@
         "valor": "25000"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "102": 3,
       "105": 1
     }
   },
@@ -725,9 +876,18 @@
         "valor": "2100.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 24,
-      "105": 13
+      "103": 36,
+      "105": 29
     }
   },
   {
@@ -762,9 +922,18 @@
         "valor": "3600.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
-      "105": 2
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -800,6 +969,15 @@
         "valor": "2800.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 0
     }
@@ -833,6 +1011,15 @@
         "idEtiqueta": 2,
         "idProducto": 819,
         "valor": "31000"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -872,9 +1059,18 @@
         "valor": "500"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 13,
-      "105": 26
+      "105": 10
     }
   },
   {
@@ -913,6 +1109,15 @@
         "idEtiqueta": 2,
         "idProducto": 850,
         "valor": "30000"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -957,6 +1162,15 @@
         "valor": "30000"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 6
     }
@@ -987,21 +1201,24 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 341,
-        "idEtiqueta": 1,
-        "idProducto": 411,
-        "valor": "10/01"
-      },
-      {
         "idRelacion": 291,
         "idEtiqueta": 2,
         "idProducto": 411,
         "valor": "15000.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 4,
-      "105": 6
+      "105": 3
     }
   },
   {
@@ -1037,9 +1254,18 @@
         "valor": "10500.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 19
+      "105": 17
     }
   },
   {
@@ -1072,46 +1298,17 @@
         "valor": "850"
       }
     ],
-    "stocks": {
-      "103": 15
-    }
-  },
-  {
-    "idProducto": 1626,
-    "codigo": "9957",
-    "descripcion": "Scooter",
-    "precio": {
-      "idPrecio": 1057,
-      "idProducto": 1626,
-      "idMoneda": 1,
-      "precio": 8750.0
-    },
-    "precios": [
+    "descuentos": [
       {
-        "idPrecio": 1057,
-        "idProducto": 1626,
-        "idMoneda": 1,
-        "precio": 8750.0
-      }
-    ],
-    "image_name": "Scooter -9957.png",
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 58,
-    "idDepartamento": 7,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 232,
-        "idEtiqueta": 2,
-        "idProducto": 1626,
-        "valor": "8750.0"
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "103": 13
     }
   },
   {
@@ -1145,8 +1342,17 @@
         "valor": "5300"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 2,
+      "102": 1,
       "103": 1,
       "105": 1
     }
@@ -1188,6 +1394,15 @@
         "valor": "129500"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
       "105": 6
@@ -1223,6 +1438,15 @@
         "idEtiqueta": 2,
         "idProducto": 2007,
         "valor": "9800"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1262,6 +1486,15 @@
         "valor": "12250"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
       "105": 0
@@ -1299,8 +1532,16 @@
         "valor": "12250"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 1,
       "103": 1,
       "105": 1
     }
@@ -1337,9 +1578,108 @@
         "valor": "8750"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "102": 3,
       "105": 1
+    }
+  },
+  {
+    "idProducto": 931,
+    "descripcion": "TENIS DE HOMBRE 001H",
+    "precio": {
+      "idPrecio": 1231,
+      "idProducto": 931,
+      "idMoneda": 1,
+      "precio": 2185.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1231,
+        "idProducto": 931,
+        "idMoneda": 1,
+        "precio": 2185.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 52,
+    "idDepartamento": 4,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 538,
+        "idEtiqueta": 2,
+        "idProducto": 931,
+        "valor": "3120.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 4,
+        "color": 42,
+        "valor": 0.2,
+        "nombre": "Descuento 20%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 20,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 937,
+    "codigo": "RP5257",
+    "descripcion": "TENIS DE NIÑO",
+    "precio": {
+      "idPrecio": 1235,
+      "idProducto": 937,
+      "idMoneda": 1,
+      "precio": 2185.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1235,
+        "idProducto": 937,
+        "idMoneda": 1,
+        "precio": 2185.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 52,
+    "idDepartamento": 4,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 537,
+        "idEtiqueta": 2,
+        "idProducto": 937,
+        "valor": "3120.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 4,
+        "color": 42,
+        "valor": 0.2,
+        "nombre": "Descuento 20%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 1
     }
   },
   {
@@ -1379,6 +1719,15 @@
         "valor": "84000"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 1
     }
@@ -1416,12 +1765,6 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 313,
-        "idEtiqueta": 1,
-        "idProducto": 2386,
-        "valor": "10/01"
-      },
-      {
         "idRelacion": 343,
         "idEtiqueta": 2,
         "idProducto": 2386,
@@ -1432,10 +1775,25 @@
         "idEtiqueta": 2,
         "idProducto": 2386,
         "valor": "85750.0"
+      },
+      {
+        "idRelacion": 350,
+        "idEtiqueta": 6,
+        "idProducto": 2386,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
-      "102": 2,
+      "102": 3,
       "103": 2,
       "105": 1
     }
@@ -1484,6 +1842,15 @@
         "idProducto": 2110
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
       "105": 0
@@ -1528,18 +1895,26 @@
         "valor": "143500"
       },
       {
-        "idRelacion": 23,
+        "idRelacion": 17,
         "idEtiqueta": 6,
         "idProducto": 1199
       },
       {
-        "idRelacion": 17,
+        "idRelacion": 23,
         "idEtiqueta": 6,
         "idProducto": 1199
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 1,
       "103": 3,
       "105": 1
     }
@@ -1577,9 +1952,18 @@
         "valor": "350.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 20,
-      "105": 54
+      "103": 23,
+      "105": 0
     }
   },
   {
@@ -1614,10 +1998,18 @@
         "valor": "2000.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 48,
-      "103": 10,
-      "105": 14
+      "103": 8,
+      "105": 2
     }
   },
   {
@@ -1659,9 +2051,18 @@
         "valor": "28000"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 5
+      "103": 3,
+      "105": 4
     }
   }
 ]

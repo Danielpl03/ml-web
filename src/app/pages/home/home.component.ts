@@ -36,7 +36,7 @@ export class HomeComponent implements OnInit {
     this.departamentosService.getAll().then(res => this.departamentos.set(res));
     this.seo.title.setTitle(`Página INICIO | M&L SOLUCIONES`);
     this.seo.meta.updateTag({ name: "description", content: `Página de inicio en M&L SOLUCIONES` });
-    this.seo.setCanonicalUrl(`home`);
+    this.seo.setCanonicalUrl(`departamentos`);
     this.seo.setIndexFollow(true);
 
     this.productosService.getProductosNuevos().then((productos) => {

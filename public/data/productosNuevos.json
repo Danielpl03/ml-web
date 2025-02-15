@@ -29,10 +29,25 @@
         "idEtiqueta": 1,
         "idProducto": 2435,
         "valor": "28/01"
+      },
+      {
+        "idRelacion": 548,
+        "idEtiqueta": 11,
+        "idProducto": 2435,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
-      "103": 0,
+      "103": 4,
       "105": 0
     }
   },
@@ -68,9 +83,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 4
+      "103": 9,
+      "105": 3
     }
   },
   {
@@ -105,9 +129,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 9
+      "103": 10,
+      "105": 11
     }
   },
   {
@@ -142,9 +175,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
-      "105": 4
+      "103": 14,
+      "105": 2
     }
   },
   {
@@ -177,6 +219,15 @@
         "idEtiqueta": 1,
         "idProducto": 2506,
         "valor": "28/01"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -216,9 +267,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 0,
-      "105": 4
+      "103": 8,
+      "105": 0
     }
   },
   {
@@ -253,9 +313,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -290,9 +359,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 0
+      "103": 7,
+      "105": 49
     }
   },
   {
@@ -327,9 +405,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 11
+      "105": 0
     }
   },
   {
@@ -364,8 +451,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
+      "103": 11,
       "105": 0
     }
   },
@@ -401,9 +497,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "103": 6,
+      "105": 18
     }
   },
   {
@@ -438,9 +543,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 22
+      "105": 0
     }
   },
   {
@@ -476,9 +590,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 11
+      "105": 0
     }
   },
   {
@@ -512,9 +635,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 7
+      "103": 5,
+      "105": 0
     }
   },
   {
@@ -548,9 +680,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 4,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -584,9 +725,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 11
+      "103": 4,
+      "105": 14
     }
   },
   {
@@ -620,8 +770,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 6,
+      "102": 3,
       "103": 4,
       "105": 1
     }
@@ -658,9 +817,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 1,
-      "105": 0
+      "105": 4
     }
   },
   {
@@ -695,9 +863,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
-      "105": 6
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -732,9 +909,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 4,
-      "105": 12
+      "103": 1,
+      "105": 18
     }
   },
   {
@@ -769,9 +955,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 4,
-      "105": 8
+      "103": 2,
+      "105": 9
     }
   },
   {
@@ -806,9 +1001,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 4,
-      "105": 13
+      "103": 3,
+      "105": 22
     }
   },
   {
@@ -843,9 +1047,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 4
+      "103": 4,
+      "105": 6
     }
   },
   {
@@ -928,9 +1141,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 6,
-      "105": 12
+      "105": 7
     }
   },
   {
@@ -963,11 +1185,26 @@
         "idEtiqueta": 1,
         "idProducto": 2527,
         "valor": "28/01"
+      },
+      {
+        "idRelacion": 549,
+        "idEtiqueta": 11,
+        "idProducto": 2527,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
-      "103": 5,
-      "105": 7
+      "103": 3,
+      "105": 26
     }
   },
   {
@@ -1000,11 +1237,26 @@
         "idEtiqueta": 1,
         "idProducto": 2526,
         "valor": "28/01"
+      },
+      {
+        "idRelacion": 550,
+        "idEtiqueta": 11,
+        "idProducto": 2526,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
-      "103": 5,
-      "105": 0
+      "103": 2,
+      "105": 33
     }
   },
   {
@@ -1038,9 +1290,19 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 0
+      "102": 6,
+      "103": 4,
+      "105": 4
     }
   },
   {
@@ -1074,9 +1336,19 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 2
+      "102": 9,
+      "103": 4,
+      "105": 7
     }
   },
   {
@@ -1110,9 +1382,19 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "102": 5,
       "103": 5,
-      "105": 3
+      "105": 12
     }
   },
   {
@@ -1147,9 +1429,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 12,
-      "105": 16
+      "103": 10,
+      "105": 21
     }
   },
   {
@@ -1184,9 +1475,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 24,
-      "105": 5
+      "103": 23,
+      "105": 0
     }
   },
   {
@@ -1221,9 +1521,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 12,
-      "105": 22
+      "105": 19
     }
   },
   {
@@ -1258,9 +1567,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 12,
-      "105": 24
+      "105": 13
     }
   },
   {
@@ -1295,9 +1613,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 12,
-      "105": 23
+      "103": 10,
+      "105": 16
     }
   },
   {
@@ -1332,9 +1659,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 12,
-      "105": 24
+      "103": 11,
+      "105": 15
     }
   },
   {
@@ -1369,9 +1705,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 6,
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -1406,9 +1751,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
-      "105": 11
+      "103": 10,
+      "105": 0
     }
   },
   {
@@ -1443,9 +1797,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 8
+      "103": 2,
+      "105": 15
     }
   },
   {
@@ -1480,9 +1843,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 8
+      "103": 4,
+      "105": 12
     }
   },
   {
@@ -1517,9 +1889,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 1
+      "103": 5,
+      "105": 5
     }
   },
   {
@@ -1554,9 +1935,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 4
+      "105": 1
     }
   },
   {
@@ -1591,9 +1981,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 6,
-      "105": 6
+      "105": 23
     }
   },
   {
@@ -1628,9 +2027,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 9
+      "105": 2
     }
   },
   {
@@ -1665,9 +2073,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 10
+      "103": 3,
+      "105": 12
     }
   },
   {
@@ -1702,8 +2119,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
+      "103": 4,
       "105": 6
     }
   },
@@ -1739,9 +2165,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -1776,8 +2211,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 9
+      "105": 3
     }
   },
   {
@@ -1812,9 +2256,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 6
+      "105": 0
     }
   },
   {
@@ -1849,9 +2302,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 8,
-      "105": 2
+      "103": 5,
+      "105": 0
     }
   },
   {
@@ -1886,9 +2348,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -1923,9 +2394,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -1960,9 +2440,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 6,
-      "105": 11
+      "105": 10
     }
   },
   {
@@ -1997,8 +2486,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 11
+      "105": 5
     }
   },
   {
@@ -2033,9 +2531,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 4,
-      "105": 7
+      "103": 2,
+      "105": 1
     }
   },
   {
@@ -2069,8 +2576,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -2105,9 +2621,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
-      "105": 2
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -2141,8 +2666,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 0,
+      "103": 3,
       "105": 6
     }
   },
@@ -2177,9 +2711,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 5
+      "103": 3,
+      "105": 6
     }
   },
   {
@@ -2213,9 +2756,19 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "102": 4,
       "103": 0,
-      "105": 8
+      "105": 2
     }
   },
   {
@@ -2249,9 +2802,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -2262,14 +2824,14 @@
       "idPrecio": 1973,
       "idProducto": 2437,
       "idMoneda": 1,
-      "precio": 16100.0
+      "precio": 17500.0
     },
     "precios": [
       {
         "idPrecio": 1973,
         "idProducto": 2437,
         "idMoneda": 1,
-        "precio": 16100.0
+        "precio": 17500.0
       }
     ],
     "ipv": true,
@@ -2283,12 +2845,26 @@
         "idEtiqueta": 1,
         "idProducto": 2437,
         "valor": "28/01"
+      },
+      {
+        "idRelacion": 551,
+        "idEtiqueta": 12,
+        "idProducto": 2437,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
-      "102": 3,
-      "103": 1,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -2323,9 +2899,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 5
+      "103": 2,
+      "105": 9
     }
   },
   {
@@ -2360,9 +2945,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 4
+      "103": 4,
+      "105": 18
     }
   },
   {
@@ -2397,9 +2991,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 8
+      "103": 1,
+      "105": 9
     }
   },
   {
@@ -2434,8 +3037,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
+      "103": 2,
       "105": 0
     }
   },
@@ -2471,9 +3083,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 12
+      "103": 12,
+      "105": 9
     }
   },
   {
@@ -2508,9 +3129,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 6,
-      "105": 8
+      "105": 9
     }
   },
   {
@@ -2544,9 +3174,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -2580,9 +3219,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
-      "105": 0
+      "103": 0,
+      "105": 2
     }
   },
   {
@@ -2616,9 +3264,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -2654,9 +3311,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 36
+      "103": 4,
+      "105": 23
     }
   },
   {
@@ -2691,9 +3357,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 6,
-      "103": 1,
+      "102": 11,
+      "103": 7,
       "105": 1
     }
   },
@@ -2715,7 +3390,7 @@
         "precio": 1225.0
       }
     ],
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idDepartamento": 6,
@@ -2728,8 +3403,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 8
+      "103": 2,
+      "105": 12
     }
   },
   {
@@ -2763,9 +3448,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 16,
-      "105": 2
+      "103": 11,
+      "105": 1
     }
   },
   {
@@ -2799,9 +3493,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 23,
-      "105": 12
+      "103": 21,
+      "105": 20
     }
   },
   {
@@ -2835,9 +3538,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 13,
-      "105": 5
+      "103": 3,
+      "105": 7
     }
   },
   {
@@ -2871,9 +3583,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 19,
-      "105": 17
+      "103": 13,
+      "105": 19
     }
   },
   {
@@ -2907,9 +3628,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 13,
-      "105": 3
+      "103": 5,
+      "105": 0
     }
   },
   {
@@ -2943,9 +3673,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 13,
-      "105": 14
+      "103": 6,
+      "105": 15
     }
   },
   {
@@ -2979,9 +3718,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 24,
-      "105": 20
+      "105": 9
     }
   },
   {
@@ -3015,9 +3763,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
-      "105": 5
+      "103": 2,
+      "105": 3
     }
   },
   {
@@ -3052,9 +3809,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 10
+      "103": 4,
+      "105": 14
     }
   },
   {
@@ -3089,9 +3855,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 11
+      "103": 5,
+      "105": 14
     }
   },
   {
@@ -3125,10 +3900,19 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 41,
+      "102": 10,
       "103": 0,
-      "105": 0
+      "105": 8
     }
   },
   {
@@ -3161,6 +3945,15 @@
         "idEtiqueta": 1,
         "idProducto": 2418,
         "valor": "28/01"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3200,8 +3993,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 2,
+      "103": 0,
       "105": 4
     }
   },
@@ -3235,6 +4037,15 @@
         "idEtiqueta": 1,
         "idProducto": 2572,
         "valor": "28/01"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3274,9 +4085,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 2
+      "105": 5
     }
   },
   {
@@ -3309,6 +4129,15 @@
         "idEtiqueta": 1,
         "idProducto": 2574,
         "valor": "28/01"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3346,11 +4175,26 @@
         "idEtiqueta": 1,
         "idProducto": 2590,
         "valor": "31/01"
+      },
+      {
+        "idRelacion": 544,
+        "idEtiqueta": 9,
+        "idProducto": 2590,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
-      "103": 6,
-      "105": 11
+      "103": 26,
+      "105": 4
     }
   },
   {
@@ -3383,10 +4227,25 @@
         "idEtiqueta": 1,
         "idProducto": 2594,
         "valor": "31/01"
+      },
+      {
+        "idRelacion": 543,
+        "idEtiqueta": 9,
+        "idProducto": 2594,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
-      "105": 4
+      "105": 0
     }
   },
   {
@@ -3419,11 +4278,26 @@
         "idEtiqueta": 1,
         "idProducto": 2591,
         "valor": "31/01"
+      },
+      {
+        "idRelacion": 541,
+        "idEtiqueta": 9,
+        "idProducto": 2591,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
-      "103": 6,
-      "105": 10
+      "103": 24,
+      "105": 13
     }
   },
   {
@@ -3456,11 +4330,26 @@
         "idEtiqueta": 1,
         "idProducto": 2592,
         "valor": "31/01"
+      },
+      {
+        "idRelacion": 540,
+        "idEtiqueta": 9,
+        "idProducto": 2592,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
-      "103": 6,
-      "105": 10
+      "103": 4,
+      "105": 11
     }
   },
   {
@@ -3493,11 +4382,26 @@
         "idEtiqueta": 1,
         "idProducto": 2593,
         "valor": "31/01"
+      },
+      {
+        "idRelacion": 539,
+        "idEtiqueta": 9,
+        "idProducto": 2593,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
-      "103": 6,
-      "105": 12
+      "103": 4,
+      "105": 9
     }
   },
   {
@@ -3508,14 +4412,14 @@
       "idPrecio": 1974,
       "idProducto": 2438,
       "idMoneda": 1,
-      "precio": 16100.0
+      "precio": 17500.0
     },
     "precios": [
       {
         "idPrecio": 1974,
         "idProducto": 2438,
         "idMoneda": 1,
-        "precio": 16100.0
+        "precio": 17500.0
       }
     ],
     "ipv": true,
@@ -3532,9 +4436,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 2,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -3569,9 +4482,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -3606,9 +4528,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -3641,6 +4572,15 @@
         "idEtiqueta": 1,
         "idProducto": 2578,
         "valor": "28/01"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3680,9 +4620,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -3717,9 +4666,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 3
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -3754,9 +4712,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -3791,9 +4758,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 2
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -3826,6 +4802,15 @@
         "idEtiqueta": 1,
         "idProducto": 2518,
         "valor": "28/01"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3865,9 +4850,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 0,
-      "105": 10
+      "103": 5,
+      "105": 13
     }
   },
   {
@@ -3902,9 +4896,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 7
+      "103": 9,
+      "105": 20
     }
   },
   {
@@ -3939,8 +4942,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
+      "103": 12,
       "105": 9
     }
   },
@@ -3976,9 +4988,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 10
+      "103": 9,
+      "105": 4
     }
   },
   {
@@ -4013,9 +5034,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
-      "105": 11
+      "103": 6,
+      "105": 2
     }
   },
   {
@@ -4048,11 +5078,27 @@
         "idEtiqueta": 1,
         "idProducto": 2459,
         "valor": "28/01"
+      },
+      {
+        "idRelacion": 562,
+        "idEtiqueta": 14,
+        "idProducto": 2459,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
+      "102": 120,
       "103": 0,
-      "105": 18
+      "105": 90
     }
   },
   {
@@ -4085,11 +5131,26 @@
         "idEtiqueta": 1,
         "idProducto": 2468,
         "valor": "28/01"
+      },
+      {
+        "idRelacion": 563,
+        "idEtiqueta": 14,
+        "idProducto": 2468,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
       "103": 0,
-      "105": 0
+      "105": 64
     }
   },
   {
@@ -4124,8 +5185,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 0
+      "105": 53
     }
   },
   {
@@ -4160,9 +5230,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 4
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -4197,9 +5276,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 27
+      "105": 0
     }
   },
   {
@@ -4233,8 +5321,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
+      "103": 7,
       "105": 4
     }
   },
@@ -4267,6 +5364,15 @@
         "idEtiqueta": 1,
         "idProducto": 2456,
         "valor": "28/01"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -4305,8 +5411,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
+      "103": 0,
       "105": 0
     }
   },
@@ -4342,9 +5457,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 11,
-      "105": 3
+      "103": 1,
+      "105": 0
     }
   },
   {
@@ -4379,9 +5503,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 9,
-      "105": 4
+      "103": 0,
+      "105": 8
     }
   },
   {
@@ -4416,9 +5549,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 7,
-      "105": 2
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -4453,9 +5595,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 2,
-      "105": 2
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -4490,8 +5641,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 8,
+      "103": 0,
       "105": 0
     }
   },
@@ -4527,8 +5687,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6
+      "103": 2,
+      "105": 11
     }
   },
   {
@@ -4563,7 +5733,18 @@
         "valor": "28/01"
       }
     ],
-    "stocks": {}
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "105": 22
+    }
   },
   {
     "idProducto": 2553,
@@ -4597,7 +5778,18 @@
         "valor": "28/01"
       }
     ],
-    "stocks": {}
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "105": 22
+    }
   },
   {
     "idProducto": 2551,
@@ -4631,7 +5823,18 @@
         "valor": "28/01"
       }
     ],
-    "stocks": {}
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "105": 20
+    }
   },
   {
     "idProducto": 2552,
@@ -4665,7 +5868,18 @@
         "valor": "28/01"
       }
     ],
-    "stocks": {}
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "105": 22
+    }
   },
   {
     "idProducto": 2555,
@@ -4697,6 +5911,15 @@
         "idEtiqueta": 1,
         "idProducto": 2555,
         "valor": "28/01"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {}
@@ -4733,7 +5956,18 @@
         "valor": "28/01"
       }
     ],
-    "stocks": {}
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "105": 24
+    }
   },
   {
     "idProducto": 2538,
@@ -4767,9 +6001,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 10
+      "103": 4,
+      "105": 9
     }
   },
   {
@@ -4804,9 +6047,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 10
+      "103": 4,
+      "105": 9
     }
   },
   {
@@ -4841,9 +6093,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 1,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -4878,8 +6139,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 0
     }
   },
@@ -4915,8 +6185,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -4952,8 +6231,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 2,
+      "103": 0,
       "105": 0
     }
   },
@@ -4988,9 +6276,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 2
+      "105": 9
     }
   },
   {
@@ -5024,10 +6321,19 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 12,
-      "103": 5,
-      "105": 4
+      "102": 18,
+      "103": 14,
+      "105": 8
     }
   },
   {
@@ -5062,9 +6368,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 4,
-      "105": 2
+      "105": 20
     }
   },
   {
@@ -5099,9 +6414,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 9
+      "103": 2,
+      "105": 7
     }
   },
   {
@@ -5136,9 +6460,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 4,
-      "105": 6
+      "103": 3,
+      "105": 3
     }
   },
   {
@@ -5173,9 +6506,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 2,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -5210,9 +6552,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 10
+      "103": 4,
+      "105": 5
     }
   },
   {
@@ -5247,9 +6598,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 12,
-      "105": 6
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -5284,9 +6644,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 10
+      "105": 0
     }
   },
   {
@@ -5321,9 +6690,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 11
+      "105": 0
     }
   },
   {
@@ -5358,9 +6736,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
-      "105": 17
+      "103": 0,
+      "105": 3
     }
   },
   {
@@ -5393,6 +6780,15 @@
         "idEtiqueta": 1,
         "idProducto": 2441,
         "valor": "28/01"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5432,9 +6828,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 4,
+      "105": 0
     }
   },
   {
@@ -5469,9 +6874,19 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "102": 10,
       "103": 8,
-      "105": 4
+      "105": 1
     }
   },
   {
@@ -5506,10 +6921,19 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 32,
-      "103": 24,
-      "105": 12
+      "102": 50,
+      "103": 21,
+      "105": 5
     }
   },
   {
@@ -5544,10 +6968,19 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 27,
-      "103": 22,
-      "105": 6
+      "102": 18,
+      "103": 18,
+      "105": 11
     }
   },
   {
@@ -5582,9 +7015,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 0,
-      "105": 9
+      "103": 7,
+      "105": 3
     }
   },
   {
@@ -5619,9 +7061,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
-      "105": 3
+      "103": 1,
+      "105": 0
     }
   },
   {
@@ -5656,9 +7107,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 5
+      "105": 12
     }
   },
   {
@@ -5693,9 +7153,19 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 4,
-      "105": 3
+      "102": 12,
+      "103": 3,
+      "105": 8
     }
   },
   {
@@ -5729,9 +7199,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -5763,6 +7242,15 @@
         "idEtiqueta": 1,
         "idProducto": 2534,
         "valor": "28/01"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5802,6 +7290,15 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {}
   },
   {
@@ -5834,6 +7331,15 @@
         "idEtiqueta": 1,
         "idProducto": 2567,
         "valor": "28/01"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {}
@@ -5870,6 +7376,15 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {}
   },
   {
@@ -5903,9 +7418,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -5939,9 +7463,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
-      "105": 3
+      "103": 2,
+      "105": 1
     }
   },
   {
@@ -5975,9 +7508,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 4
+      "105": 1
     }
   },
   {
@@ -6011,9 +7553,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
-      "105": 4
+      "103": 2,
+      "105": 3
     }
   },
   {
@@ -6048,9 +7599,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 12,
-      "105": 1
+      "105": 33
     }
   },
   {
@@ -6085,9 +7645,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 4
+      "105": 0
     }
   },
   {
@@ -6122,9 +7691,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 4,
-      "103": 8,
+      "103": 7,
       "105": 0
     }
   },
@@ -6160,8 +7737,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
+      "103": 3,
       "105": 1
     }
   },
@@ -6197,9 +7783,17 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 4,
-      "103": 8,
+      "103": 7,
       "105": 0
     }
   },
@@ -6236,9 +7830,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 4,
-      "105": 24
+      "105": 28
     }
   },
   {
@@ -6273,9 +7876,18 @@
         "valor": "28/01"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 5,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   }
 ]
