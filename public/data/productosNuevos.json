@@ -7,14 +7,14 @@
       "idPrecio": 1971,
       "idProducto": 2435,
       "idMoneda": 1,
-      "precio": 700.0
+      "precio": 740.0
     },
     "precios": [
       {
         "idPrecio": 1971,
         "idProducto": 2435,
         "idMoneda": 1,
-        "precio": 700.0
+        "precio": 740.0
       }
     ],
     "ipv": true,
@@ -38,7 +38,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -50,14 +50,14 @@
       "idPrecio": 2080,
       "idProducto": 2544,
       "idMoneda": 1,
-      "precio": 1330.0
+      "precio": 1410.0
     },
     "precios": [
       {
         "idPrecio": 2080,
         "idProducto": 2544,
         "idMoneda": 1,
-        "precio": 1330.0
+        "precio": 1410.0
       }
     ],
     "ipv": true,
@@ -76,7 +76,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 10
+      "105": 6
     }
   },
   {
@@ -87,14 +87,14 @@
       "idPrecio": 2085,
       "idProducto": 2549,
       "idMoneda": 1,
-      "precio": 1960.0
+      "precio": 2075.0
     },
     "precios": [
       {
         "idPrecio": 2085,
         "idProducto": 2549,
         "idMoneda": 1,
-        "precio": 1960.0
+        "precio": 2075.0
       }
     ],
     "ipv": true,
@@ -112,8 +112,8 @@
       }
     ],
     "stocks": {
-      "103": 7,
-      "105": 5
+      "103": 6,
+      "105": 16
     }
   },
   {
@@ -124,14 +124,14 @@
       "idPrecio": 2082,
       "idProducto": 2546,
       "idMoneda": 1,
-      "precio": 1330.0
+      "precio": 1410.0
     },
     "precios": [
       {
         "idPrecio": 2082,
         "idProducto": 2546,
         "idMoneda": 1,
-        "precio": 1330.0
+        "precio": 1410.0
       }
     ],
     "ipv": true,
@@ -149,8 +149,8 @@
       }
     ],
     "stocks": {
-      "103": 12,
-      "105": 9
+      "103": 9,
+      "105": 1
     }
   },
   {
@@ -161,14 +161,14 @@
       "idPrecio": 2042,
       "idProducto": 2506,
       "idMoneda": 1,
-      "precio": 26250.0
+      "precio": 27750.0
     },
     "precios": [
       {
         "idPrecio": 2042,
         "idProducto": 2506,
         "idMoneda": 1,
-        "precio": 26250.0
+        "precio": 27750.0
       }
     ],
     "ipv": true,
@@ -186,8 +186,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -223,7 +223,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 0,
       "105": 0
     }
   },
@@ -260,7 +260,7 @@
       }
     ],
     "stocks": {
-      "103": 5,
+      "103": 0,
       "105": 0
     }
   },
@@ -272,14 +272,14 @@
       "idPrecio": 2005,
       "idProducto": 2469,
       "idMoneda": 1,
-      "precio": 630.0
+      "precio": 670.0
     },
     "precios": [
       {
         "idPrecio": 2005,
         "idProducto": 2469,
         "idMoneda": 1,
-        "precio": 630.0
+        "precio": 670.0
       }
     ],
     "ipv": true,
@@ -297,8 +297,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 0
+      "103": 0,
+      "105": 5
     }
   },
   {
@@ -346,14 +346,14 @@
       "idPrecio": 2035,
       "idProducto": 2499,
       "idMoneda": 1,
-      "precio": 2100.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 2035,
         "idProducto": 2499,
         "idMoneda": 1,
-        "precio": 2100.0
+        "precio": 2220.0
       }
     ],
     "ipv": true,
@@ -382,14 +382,14 @@
       "idPrecio": 2036,
       "idProducto": 2500,
       "idMoneda": 1,
-      "precio": 2450.0
+      "precio": 2590.0
     },
     "precios": [
       {
         "idPrecio": 2036,
         "idProducto": 2500,
         "idMoneda": 1,
-        "precio": 2450.0
+        "precio": 2590.0
       }
     ],
     "ipv": true,
@@ -407,7 +407,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -418,14 +418,14 @@
       "idPrecio": 2113,
       "idProducto": 2577,
       "idMoneda": 1,
-      "precio": 4200.0
+      "precio": 4440.0
     },
     "precios": [
       {
         "idPrecio": 2113,
         "idProducto": 2577,
         "idMoneda": 1,
-        "precio": 4200.0
+        "precio": 4440.0
       }
     ],
     "ipv": true,
@@ -443,7 +443,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 5
+      "105": 10
     }
   },
   {
@@ -454,14 +454,14 @@
       "idPrecio": 1969,
       "idProducto": 2433,
       "idMoneda": 1,
-      "precio": 17500.0
+      "precio": 18500.0
     },
     "precios": [
       {
         "idPrecio": 1969,
         "idProducto": 2433,
         "idMoneda": 1,
-        "precio": 17500.0
+        "precio": 18500.0
       }
     ],
     "ipv": true,
@@ -478,8 +478,7 @@
       }
     ],
     "stocks": {
-      "102": 3,
-      "103": 3,
+      "103": 6,
       "105": 1
     }
   },
@@ -491,14 +490,14 @@
       "idPrecio": 2012,
       "idProducto": 2476,
       "idMoneda": 1,
-      "precio": 700.0
+      "precio": 740.0
     },
     "precios": [
       {
         "idPrecio": 2012,
         "idProducto": 2476,
         "idMoneda": 1,
-        "precio": 700.0
+        "precio": 740.0
       }
     ],
     "ipv": true,
@@ -528,14 +527,14 @@
       "idPrecio": 2013,
       "idProducto": 2477,
       "idMoneda": 1,
-      "precio": 1120.0
+      "precio": 1185.0
     },
     "precios": [
       {
         "idPrecio": 2013,
         "idProducto": 2477,
         "idMoneda": 1,
-        "precio": 1120.0
+        "precio": 1185.0
       }
     ],
     "ipv": true,
@@ -554,7 +553,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 9
+      "105": 0
     }
   },
   {
@@ -628,7 +627,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 5
+      "105": 0
     }
   },
   {
@@ -676,14 +675,14 @@
       "idPrecio": 2043,
       "idProducto": 2507,
       "idMoneda": 1,
-      "precio": 1540.0
+      "precio": 1630.0
     },
     "precios": [
       {
         "idPrecio": 2043,
         "idProducto": 2507,
         "idMoneda": 1,
-        "precio": 1540.0
+        "precio": 1630.0
       }
     ],
     "ipv": true,
@@ -702,7 +701,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 4
+      "105": 0
     }
   },
   {
@@ -713,14 +712,14 @@
       "idPrecio": 2063,
       "idProducto": 2527,
       "idMoneda": 1,
-      "precio": 1050.0
+      "precio": 1110.0
     },
     "precios": [
       {
         "idPrecio": 2063,
         "idProducto": 2527,
         "idMoneda": 1,
-        "precio": 1050.0
+        "precio": 1110.0
       }
     ],
     "ipv": true,
@@ -745,7 +744,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 20
+      "105": 17
     }
   },
   {
@@ -756,14 +755,14 @@
       "idPrecio": 2062,
       "idProducto": 2526,
       "idMoneda": 1,
-      "precio": 1470.0
+      "precio": 1560.0
     },
     "precios": [
       {
         "idPrecio": 2062,
         "idProducto": 2526,
         "idMoneda": 1,
-        "precio": 1470.0
+        "precio": 1560.0
       }
     ],
     "ipv": true,
@@ -799,14 +798,14 @@
       "idPrecio": 1983,
       "idProducto": 2447,
       "idMoneda": 1,
-      "precio": 1470.0
+      "precio": 1560.0
     },
     "precios": [
       {
         "idPrecio": 1983,
         "idProducto": 2447,
         "idMoneda": 1,
-        "precio": 1470.0
+        "precio": 1560.0
       }
     ],
     "ipv": true,
@@ -823,9 +822,8 @@
       }
     ],
     "stocks": {
-      "102": 6,
-      "103": 5,
-      "105": 6
+      "103": 1,
+      "105": 3
     }
   },
   {
@@ -836,14 +834,14 @@
       "idPrecio": 1984,
       "idProducto": 2448,
       "idMoneda": 1,
-      "precio": 1050.0
+      "precio": 1110.0
     },
     "precios": [
       {
         "idPrecio": 1984,
         "idProducto": 2448,
         "idMoneda": 1,
-        "precio": 1050.0
+        "precio": 1110.0
       }
     ],
     "ipv": true,
@@ -860,9 +858,8 @@
       }
     ],
     "stocks": {
-      "102": 12,
-      "103": 12,
-      "105": 2
+      "103": 11,
+      "105": 3
     }
   },
   {
@@ -873,14 +870,14 @@
       "idPrecio": 2106,
       "idProducto": 2570,
       "idMoneda": 1,
-      "precio": 700.0
+      "precio": 740.0
     },
     "precios": [
       {
         "idPrecio": 2106,
         "idProducto": 2570,
         "idMoneda": 1,
-        "precio": 700.0
+        "precio": 740.0
       }
     ],
     "ipv": true,
@@ -897,9 +894,8 @@
       }
     ],
     "stocks": {
-      "102": 24,
-      "103": 4,
-      "105": 6
+      "103": 3,
+      "105": 5
     }
   },
   {
@@ -910,14 +906,14 @@
       "idPrecio": 1991,
       "idProducto": 2455,
       "idMoneda": 1,
-      "precio": 1610.0
+      "precio": 1700.0
     },
     "precios": [
       {
         "idPrecio": 1991,
         "idProducto": 2455,
         "idMoneda": 1,
-        "precio": 1610.0
+        "precio": 1700.0
       }
     ],
     "ipv": true,
@@ -935,8 +931,8 @@
       }
     ],
     "stocks": {
-      "103": 9,
-      "105": 18
+      "103": 8,
+      "105": 15
     }
   },
   {
@@ -947,14 +943,14 @@
       "idPrecio": 1990,
       "idProducto": 2454,
       "idMoneda": 1,
-      "precio": 1200.0
+      "precio": 1270.0
     },
     "precios": [
       {
         "idPrecio": 1990,
         "idProducto": 2454,
         "idMoneda": 1,
-        "precio": 1200.0
+        "precio": 1270.0
       }
     ],
     "ipv": true,
@@ -973,7 +969,7 @@
     ],
     "stocks": {
       "103": 23,
-      "105": 15
+      "105": 9
     }
   },
   {
@@ -984,14 +980,14 @@
       "idPrecio": 1988,
       "idProducto": 2452,
       "idMoneda": 1,
-      "precio": 1200.0
+      "precio": 1300.0
     },
     "precios": [
       {
         "idPrecio": 1988,
         "idProducto": 2452,
         "idMoneda": 1,
-        "precio": 1200.0
+        "precio": 1300.0
       }
     ],
     "ipv": true,
@@ -1010,7 +1006,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 19
+      "105": 18
     }
   },
   {
@@ -1021,14 +1017,14 @@
       "idPrecio": 1987,
       "idProducto": 2451,
       "idMoneda": 1,
-      "precio": 1300.0
+      "precio": 1400.0
     },
     "precios": [
       {
         "idPrecio": 1987,
         "idProducto": 2451,
         "idMoneda": 1,
-        "precio": 1300.0
+        "precio": 1400.0
       }
     ],
     "ipv": true,
@@ -1058,14 +1054,14 @@
       "idPrecio": 1986,
       "idProducto": 2450,
       "idMoneda": 1,
-      "precio": 1400.0
+      "precio": 1500.0
     },
     "precios": [
       {
         "idPrecio": 1986,
         "idProducto": 2450,
         "idMoneda": 1,
-        "precio": 1400.0
+        "precio": 1500.0
       }
     ],
     "ipv": true,
@@ -1083,8 +1079,8 @@
       }
     ],
     "stocks": {
-      "103": 9,
-      "105": 13
+      "103": 8,
+      "105": 10
     }
   },
   {
@@ -1095,14 +1091,14 @@
       "idPrecio": 1985,
       "idProducto": 2449,
       "idMoneda": 1,
-      "precio": 1500.0
+      "precio": 1600.0
     },
     "precios": [
       {
         "idPrecio": 1985,
         "idProducto": 2449,
         "idMoneda": 1,
-        "precio": 1500.0
+        "precio": 1600.0
       }
     ],
     "ipv": true,
@@ -1121,7 +1117,7 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 15
+      "105": 13
     }
   },
   {
@@ -1132,14 +1128,14 @@
       "idPrecio": 2032,
       "idProducto": 2496,
       "idMoneda": 1,
-      "precio": 910.0
+      "precio": 960.0
     },
     "precios": [
       {
         "idPrecio": 2032,
         "idProducto": 2496,
         "idMoneda": 1,
-        "precio": 910.0
+        "precio": 960.0
       }
     ],
     "ipv": true,
@@ -1158,7 +1154,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -1169,14 +1165,14 @@
       "idPrecio": 2026,
       "idProducto": 2490,
       "idMoneda": 1,
-      "precio": 1260.0
+      "precio": 1330.0
     },
     "precios": [
       {
         "idPrecio": 2026,
         "idProducto": 2490,
         "idMoneda": 1,
-        "precio": 1260.0
+        "precio": 1330.0
       }
     ],
     "ipv": true,
@@ -1206,14 +1202,14 @@
       "idPrecio": 2024,
       "idProducto": 2488,
       "idMoneda": 1,
-      "precio": 1330.0
+      "precio": 1410.0
     },
     "precios": [
       {
         "idPrecio": 2024,
         "idProducto": 2488,
         "idMoneda": 1,
-        "precio": 1330.0
+        "precio": 1410.0
       }
     ],
     "ipv": true,
@@ -1231,8 +1227,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 3
+      "103": 1,
+      "105": 9
     }
   },
   {
@@ -1243,14 +1239,14 @@
       "idPrecio": 2023,
       "idProducto": 2487,
       "idMoneda": 1,
-      "precio": 1330.0
+      "precio": 1410.0
     },
     "precios": [
       {
         "idPrecio": 2023,
         "idProducto": 2487,
         "idMoneda": 1,
-        "precio": 1330.0
+        "precio": 1410.0
       }
     ],
     "ipv": true,
@@ -1269,7 +1265,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 7
+      "105": 0
     }
   },
   {
@@ -1280,14 +1276,14 @@
       "idPrecio": 2025,
       "idProducto": 2489,
       "idMoneda": 1,
-      "precio": 1260.0
+      "precio": 1330.0
     },
     "precios": [
       {
         "idPrecio": 2025,
         "idProducto": 2489,
         "idMoneda": 1,
-        "precio": 1260.0
+        "precio": 1330.0
       }
     ],
     "ipv": true,
@@ -1306,7 +1302,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -1317,14 +1313,14 @@
       "idPrecio": 2030,
       "idProducto": 2494,
       "idMoneda": 1,
-      "precio": 875.0
+      "precio": 930.0
     },
     "precios": [
       {
         "idPrecio": 2030,
         "idProducto": 2494,
         "idMoneda": 1,
-        "precio": 875.0
+        "precio": 930.0
       }
     ],
     "ipv": true,
@@ -1342,8 +1338,8 @@
       }
     ],
     "stocks": {
-      "103": 5,
-      "105": 0
+      "103": 4,
+      "105": 11
     }
   },
   {
@@ -1354,14 +1350,14 @@
       "idPrecio": 2027,
       "idProducto": 2491,
       "idMoneda": 1,
-      "precio": 910.0
+      "precio": 960.0
     },
     "precios": [
       {
         "idPrecio": 2027,
         "idProducto": 2491,
         "idMoneda": 1,
-        "precio": 910.0
+        "precio": 960.0
       }
     ],
     "ipv": true,
@@ -1380,7 +1376,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 19
+      "105": 16
     }
   },
   {
@@ -1428,14 +1424,14 @@
       "idPrecio": 2028,
       "idProducto": 2492,
       "idMoneda": 1,
-      "precio": 875.0
+      "precio": 925.0
     },
     "precios": [
       {
         "idPrecio": 2028,
         "idProducto": 2492,
         "idMoneda": 1,
-        "precio": 875.0
+        "precio": 925.0
       }
     ],
     "ipv": true,
@@ -1465,14 +1461,14 @@
       "idPrecio": 2031,
       "idProducto": 2495,
       "idMoneda": 1,
-      "precio": 1050.0
+      "precio": 1110.0
     },
     "precios": [
       {
         "idPrecio": 2031,
         "idProducto": 2495,
         "idMoneda": 1,
-        "precio": 1050.0
+        "precio": 1110.0
       }
     ],
     "ipv": true,
@@ -1490,8 +1486,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 6
+      "103": 2,
+      "105": 5
     }
   },
   {
@@ -1685,14 +1681,14 @@
       "idPrecio": 2018,
       "idProducto": 2482,
       "idMoneda": 1,
-      "precio": 2100.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 2018,
         "idProducto": 2482,
         "idMoneda": 1,
-        "precio": 2100.0
+        "precio": 2220.0
       }
     ],
     "ipv": true,
@@ -1758,14 +1754,14 @@
       "idPrecio": 2120,
       "idProducto": 2584,
       "idMoneda": 1,
-      "precio": 1960.0
+      "precio": 2075.0
     },
     "precios": [
       {
         "idPrecio": 2120,
         "idProducto": 2584,
         "idMoneda": 1,
-        "precio": 1960.0
+        "precio": 2075.0
       }
     ],
     "ipv": true,
@@ -1782,8 +1778,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 2
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -1819,7 +1815,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -1830,14 +1826,14 @@
       "idPrecio": 2077,
       "idProducto": 2541,
       "idMoneda": 1,
-      "precio": 1820.0
+      "precio": 1925.0
     },
     "precios": [
       {
         "idPrecio": 2077,
         "idProducto": 2541,
         "idMoneda": 1,
-        "precio": 1820.0
+        "precio": 1925.0
       }
     ],
     "ipv": true,
@@ -1867,14 +1863,14 @@
       "idPrecio": 2078,
       "idProducto": 2542,
       "idMoneda": 1,
-      "precio": 1820.0
+      "precio": 1925.0
     },
     "precios": [
       {
         "idPrecio": 2078,
         "idProducto": 2542,
         "idMoneda": 1,
-        "precio": 1820.0
+        "precio": 1925.0
       }
     ],
     "ipv": true,
@@ -1893,7 +1889,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -1904,14 +1900,14 @@
       "idPrecio": 2079,
       "idProducto": 2543,
       "idMoneda": 1,
-      "precio": 2380.0
+      "precio": 2520.0
     },
     "precios": [
       {
         "idPrecio": 2079,
         "idProducto": 2543,
         "idMoneda": 1,
-        "precio": 2380.0
+        "precio": 2520.0
       }
     ],
     "ipv": true,
@@ -1941,14 +1937,14 @@
       "idPrecio": 2076,
       "idProducto": 2540,
       "idMoneda": 1,
-      "precio": 2940.0
+      "precio": 3110.0
     },
     "precios": [
       {
         "idPrecio": 2076,
         "idProducto": 2540,
         "idMoneda": 1,
-        "precio": 2940.0
+        "precio": 3110.0
       }
     ],
     "ipv": true,
@@ -1978,14 +1974,14 @@
       "idPrecio": 2084,
       "idProducto": 2548,
       "idMoneda": 1,
-      "precio": 1750.0
+      "precio": 1850.0
     },
     "precios": [
       {
         "idPrecio": 2084,
         "idProducto": 2548,
         "idMoneda": 1,
-        "precio": 1750.0
+        "precio": 1850.0
       }
     ],
     "ipv": true,
@@ -2015,14 +2011,14 @@
       "idPrecio": 2083,
       "idProducto": 2547,
       "idMoneda": 1,
-      "precio": 1750.0
+      "precio": 1850.0
     },
     "precios": [
       {
         "idPrecio": 2083,
         "idProducto": 2547,
         "idMoneda": 1,
-        "precio": 1750.0
+        "precio": 1850.0
       }
     ],
     "ipv": true,
@@ -2040,7 +2036,7 @@
       }
     ],
     "stocks": {
-      "103": 5,
+      "103": 4,
       "105": 6
     }
   },
@@ -2052,14 +2048,14 @@
       "idPrecio": 2096,
       "idProducto": 2560,
       "idMoneda": 1,
-      "precio": 7000.0
+      "precio": 7400.0
     },
     "precios": [
       {
         "idPrecio": 2096,
         "idProducto": 2560,
         "idMoneda": 1,
-        "precio": 7000.0
+        "precio": 7400.0
       }
     ],
     "ipv": true,
@@ -2113,7 +2109,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -2124,14 +2120,14 @@
       "idPrecio": 2098,
       "idProducto": 2562,
       "idMoneda": 1,
-      "precio": 5250.0
+      "precio": 5550.0
     },
     "precios": [
       {
         "idPrecio": 2098,
         "idProducto": 2562,
         "idMoneda": 1,
-        "precio": 5250.0
+        "precio": 5550.0
       }
     ],
     "ipv": true,
@@ -2148,7 +2144,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -2161,14 +2157,14 @@
       "idPrecio": 1956,
       "idProducto": 2420,
       "idMoneda": 1,
-      "precio": 1000.0
+      "precio": 1060.0
     },
     "precios": [
       {
         "idPrecio": 1956,
         "idProducto": 2420,
         "idMoneda": 1,
-        "precio": 1000.0
+        "precio": 1060.0
       }
     ],
     "ipv": true,
@@ -2198,14 +2194,14 @@
       "idPrecio": 1961,
       "idProducto": 2425,
       "idMoneda": 1,
-      "precio": 5250.0
+      "precio": 5550.0
     },
     "precios": [
       {
         "idPrecio": 1961,
         "idProducto": 2425,
         "idMoneda": 1,
-        "precio": 5250.0
+        "precio": 5550.0
       }
     ],
     "ipv": true,
@@ -2223,8 +2219,7 @@
       }
     ],
     "stocks": {
-      "102": 7,
-      "103": 4,
+      "103": 8,
       "105": 1
     }
   },
@@ -2236,14 +2231,14 @@
       "idPrecio": 1989,
       "idProducto": 2453,
       "idMoneda": 1,
-      "precio": 1225.0
+      "precio": 1295.0
     },
     "precios": [
       {
         "idPrecio": 1989,
         "idProducto": 2453,
         "idMoneda": 1,
-        "precio": 1225.0
+        "precio": 1295.0
       }
     ],
     "ipv": true,
@@ -2261,7 +2256,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 4
+      "105": 1
     }
   },
   {
@@ -2272,14 +2267,14 @@
       "idPrecio": 2049,
       "idProducto": 2513,
       "idMoneda": 1,
-      "precio": 490.0
+      "precio": 520.0
     },
     "precios": [
       {
         "idPrecio": 2049,
         "idProducto": 2513,
         "idMoneda": 1,
-        "precio": 490.0
+        "precio": 520.0
       }
     ],
     "ipv": true,
@@ -2296,8 +2291,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 25
+      "103": 24,
+      "105": 32
     }
   },
   {
@@ -2308,14 +2303,14 @@
       "idPrecio": 2045,
       "idProducto": 2509,
       "idMoneda": 1,
-      "precio": 560.0
+      "precio": 595.0
     },
     "precios": [
       {
         "idPrecio": 2045,
         "idProducto": 2509,
         "idMoneda": 1,
-        "precio": 560.0
+        "precio": 595.0
       }
     ],
     "ipv": true,
@@ -2333,7 +2328,7 @@
     ],
     "stocks": {
       "103": 16,
-      "105": 12
+      "105": 17
     }
   },
   {
@@ -2344,14 +2339,14 @@
       "idPrecio": 2044,
       "idProducto": 2508,
       "idMoneda": 1,
-      "precio": 350.0
+      "precio": 370.0
     },
     "precios": [
       {
         "idPrecio": 2044,
         "idProducto": 2508,
         "idMoneda": 1,
-        "precio": 350.0
+        "precio": 370.0
       }
     ],
     "ipv": true,
@@ -2368,8 +2363,8 @@
       }
     ],
     "stocks": {
-      "103": 16,
-      "105": 3
+      "103": 7,
+      "105": 2
     }
   },
   {
@@ -2380,14 +2375,14 @@
       "idPrecio": 2050,
       "idProducto": 2514,
       "idMoneda": 1,
-      "precio": 490.0
+      "precio": 520.0
     },
     "precios": [
       {
         "idPrecio": 2050,
         "idProducto": 2514,
         "idMoneda": 1,
-        "precio": 490.0
+        "precio": 520.0
       }
     ],
     "ipv": true,
@@ -2404,8 +2399,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 13
+      "103": 0,
+      "105": 23
     }
   },
   {
@@ -2416,14 +2411,14 @@
       "idPrecio": 2048,
       "idProducto": 2512,
       "idMoneda": 1,
-      "precio": 490.0
+      "precio": 520.0
     },
     "precios": [
       {
         "idPrecio": 2048,
         "idProducto": 2512,
         "idMoneda": 1,
-        "precio": 490.0
+        "precio": 520.0
       }
     ],
     "ipv": true,
@@ -2440,8 +2435,8 @@
       }
     ],
     "stocks": {
-      "103": 9,
-      "105": 17
+      "103": 1,
+      "105": 22
     }
   },
   {
@@ -2452,14 +2447,14 @@
       "idPrecio": 2047,
       "idProducto": 2511,
       "idMoneda": 1,
-      "precio": 490.0
+      "precio": 520.0
     },
     "precios": [
       {
         "idPrecio": 2047,
         "idProducto": 2511,
         "idMoneda": 1,
-        "precio": 490.0
+        "precio": 520.0
       }
     ],
     "ipv": true,
@@ -2476,8 +2471,8 @@
       }
     ],
     "stocks": {
-      "103": 16,
-      "105": 16
+      "103": 13,
+      "105": 28
     }
   },
   {
@@ -2488,14 +2483,14 @@
       "idPrecio": 2046,
       "idProducto": 2510,
       "idMoneda": 1,
-      "precio": 490.0
+      "precio": 520.0
     },
     "precios": [
       {
         "idPrecio": 2046,
         "idProducto": 2510,
         "idMoneda": 1,
-        "precio": 490.0
+        "precio": 520.0
       }
     ],
     "ipv": true,
@@ -2513,7 +2508,7 @@
     ],
     "stocks": {
       "103": 22,
-      "105": 25
+      "105": 23
     }
   },
   {
@@ -2524,14 +2519,14 @@
       "idPrecio": 2053,
       "idProducto": 2517,
       "idMoneda": 1,
-      "precio": 4900.0
+      "precio": 5180.0
     },
     "precios": [
       {
         "idPrecio": 2053,
         "idProducto": 2517,
         "idMoneda": 1,
-        "precio": 4900.0
+        "precio": 5180.0
       }
     ],
     "ipv": true,
@@ -2549,7 +2544,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 4
+      "105": 6
     }
   },
   {
@@ -2560,16 +2555,17 @@
       "idPrecio": 2095,
       "idProducto": 2559,
       "idMoneda": 1,
-      "precio": 2100.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 2095,
         "idProducto": 2559,
         "idMoneda": 1,
-        "precio": 2100.0
+        "precio": 2220.0
       }
     ],
+    "image_name": "LAMPARA DE MESA -87111.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -2597,17 +2593,17 @@
       "idPrecio": 2073,
       "idProducto": 2537,
       "idMoneda": 1,
-      "precio": 2590.0
+      "precio": 2740.0
     },
     "precios": [
       {
         "idPrecio": 2073,
         "idProducto": 2537,
         "idMoneda": 1,
-        "precio": 2590.0
+        "precio": 2740.0
       }
     ],
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 55,
@@ -2623,7 +2619,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 8
+      "105": 18
     }
   },
   {
@@ -2634,14 +2630,14 @@
       "idPrecio": 2094,
       "idProducto": 2558,
       "idMoneda": 1,
-      "precio": 350.0
+      "precio": 370.0
     },
     "precios": [
       {
         "idPrecio": 2094,
         "idProducto": 2558,
         "idMoneda": 1,
-        "precio": 350.0
+        "precio": 370.0
       }
     ],
     "ipv": true,
@@ -2658,9 +2654,8 @@
       }
     ],
     "stocks": {
-      "102": 25,
       "103": 0,
-      "105": 12
+      "105": 5
     }
   },
   {
@@ -2671,14 +2666,14 @@
       "idPrecio": 1954,
       "idProducto": 2418,
       "idMoneda": 1,
-      "precio": 35000.0
+      "precio": 37000.0
     },
     "precios": [
       {
         "idPrecio": 1954,
         "idProducto": 2418,
         "idMoneda": 1,
-        "precio": 35000.0
+        "precio": 37000.0
       }
     ],
     "ipv": true,
@@ -2697,7 +2692,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -2708,14 +2703,14 @@
       "idPrecio": 2107,
       "idProducto": 2571,
       "idMoneda": 1,
-      "precio": 21000.0
+      "precio": 22200.0
     },
     "precios": [
       {
         "idPrecio": 2107,
         "idProducto": 2571,
         "idMoneda": 1,
-        "precio": 21000.0
+        "precio": 22200.0
       }
     ],
     "ipv": true,
@@ -2745,14 +2740,14 @@
       "idPrecio": 2108,
       "idProducto": 2572,
       "idMoneda": 1,
-      "precio": 22750.0
+      "precio": 24050.0
     },
     "precios": [
       {
         "idPrecio": 2108,
         "idProducto": 2572,
         "idMoneda": 1,
-        "precio": 22750.0
+        "precio": 24050.0
       }
     ],
     "ipv": true,
@@ -2770,7 +2765,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 0,
       "105": 3
     }
   },
@@ -2782,14 +2777,14 @@
       "idPrecio": 2109,
       "idProducto": 2573,
       "idMoneda": 1,
-      "precio": 26250.0
+      "precio": 27750.0
     },
     "precios": [
       {
         "idPrecio": 2109,
         "idProducto": 2573,
         "idMoneda": 1,
-        "precio": 26250.0
+        "precio": 27750.0
       }
     ],
     "ipv": true,
@@ -2819,14 +2814,14 @@
       "idPrecio": 2110,
       "idProducto": 2574,
       "idMoneda": 1,
-      "precio": 42000.0
+      "precio": 44400.0
     },
     "precios": [
       {
         "idPrecio": 2110,
         "idProducto": 2574,
         "idMoneda": 1,
-        "precio": 42000.0
+        "precio": 44400.0
       }
     ],
     "ipv": true,
@@ -2856,14 +2851,14 @@
       "idPrecio": 2126,
       "idProducto": 2590,
       "idMoneda": 1,
-      "precio": 14000.0
+      "precio": 14800.0
     },
     "precios": [
       {
         "idPrecio": 2126,
         "idProducto": 2590,
         "idMoneda": 1,
-        "precio": 14000.0
+        "precio": 14800.0
       }
     ],
     "ipv": true,
@@ -2887,8 +2882,8 @@
       }
     ],
     "stocks": {
-      "103": 19,
-      "105": 3
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -2899,14 +2894,14 @@
       "idPrecio": 2127,
       "idProducto": 2591,
       "idMoneda": 1,
-      "precio": 10500.0
+      "precio": 11100.0
     },
     "precios": [
       {
         "idPrecio": 2127,
         "idProducto": 2591,
         "idMoneda": 1,
-        "precio": 10500.0
+        "precio": 11100.0
       }
     ],
     "ipv": true,
@@ -2930,8 +2925,8 @@
       }
     ],
     "stocks": {
-      "103": 20,
-      "105": 12
+      "103": 11,
+      "105": 20
     }
   },
   {
@@ -2942,14 +2937,14 @@
       "idPrecio": 2128,
       "idProducto": 2592,
       "idMoneda": 1,
-      "precio": 12250.0
+      "precio": 12950.0
     },
     "precios": [
       {
         "idPrecio": 2128,
         "idProducto": 2592,
         "idMoneda": 1,
-        "precio": 12250.0
+        "precio": 12950.0
       }
     ],
     "ipv": true,
@@ -2973,8 +2968,8 @@
       }
     ],
     "stocks": {
-      "103": 9,
-      "105": 23
+      "103": 10,
+      "105": 19
     }
   },
   {
@@ -2985,14 +2980,14 @@
       "idPrecio": 2129,
       "idProducto": 2593,
       "idMoneda": 1,
-      "precio": 14000.0
+      "precio": 14800.0
     },
     "precios": [
       {
         "idPrecio": 2129,
         "idProducto": 2593,
         "idMoneda": 1,
-        "precio": 14000.0
+        "precio": 14800.0
       }
     ],
     "ipv": true,
@@ -3016,8 +3011,8 @@
       }
     ],
     "stocks": {
-      "103": 14,
-      "105": 28
+      "103": 12,
+      "105": 23
     }
   },
   {
@@ -3028,14 +3023,14 @@
       "idPrecio": 2059,
       "idProducto": 2523,
       "idMoneda": 1,
-      "precio": 3150.0
+      "precio": 3330.0
     },
     "precios": [
       {
         "idPrecio": 2059,
         "idProducto": 2523,
         "idMoneda": 1,
-        "precio": 3150.0
+        "precio": 3330.0
       }
     ],
     "ipv": true,
@@ -3054,7 +3049,7 @@
     ],
     "stocks": {
       "103": 5,
-      "105": 22
+      "105": 18
     }
   },
   {
@@ -3065,14 +3060,14 @@
       "idPrecio": 2061,
       "idProducto": 2525,
       "idMoneda": 1,
-      "precio": 2100.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 2061,
         "idProducto": 2525,
         "idMoneda": 1,
-        "precio": 2100.0
+        "precio": 2220.0
       }
     ],
     "ipv": true,
@@ -3091,7 +3086,7 @@
     ],
     "stocks": {
       "103": 7,
-      "105": 12
+      "105": 9
     }
   },
   {
@@ -3102,14 +3097,14 @@
       "idPrecio": 2060,
       "idProducto": 2524,
       "idMoneda": 1,
-      "precio": 2800.0
+      "precio": 2960.0
     },
     "precios": [
       {
         "idPrecio": 2060,
         "idProducto": 2524,
         "idMoneda": 1,
-        "precio": 2800.0
+        "precio": 2960.0
       }
     ],
     "ipv": true,
@@ -3139,14 +3134,14 @@
       "idPrecio": 2081,
       "idProducto": 2545,
       "idMoneda": 1,
-      "precio": 2940.0
+      "precio": 3110.0
     },
     "precios": [
       {
         "idPrecio": 2081,
         "idProducto": 2545,
         "idMoneda": 1,
-        "precio": 2940.0
+        "precio": 3110.0
       }
     ],
     "ipv": true,
@@ -3201,7 +3196,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -3359,7 +3354,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -3482,16 +3477,17 @@
       "idPrecio": 2090,
       "idProducto": 2554,
       "idMoneda": 1,
-      "precio": 2100.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 2090,
         "idProducto": 2554,
         "idMoneda": 1,
-        "precio": 2100.0
+        "precio": 2220.0
       }
     ],
+    "image_name": "PULLOVER PARA HOMBRE -4745-B.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -3507,7 +3503,7 @@
       }
     ],
     "stocks": {
-      "105": 14
+      "105": 16
     }
   },
   {
@@ -3518,14 +3514,14 @@
       "idPrecio": 2089,
       "idProducto": 2553,
       "idMoneda": 1,
-      "precio": 2100.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 2089,
         "idProducto": 2553,
         "idMoneda": 1,
-        "precio": 2100.0
+        "precio": 2220.0
       }
     ],
     "ipv": false,
@@ -3554,14 +3550,14 @@
       "idPrecio": 2087,
       "idProducto": 2551,
       "idMoneda": 1,
-      "precio": 2100.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 2087,
         "idProducto": 2551,
         "idMoneda": 1,
-        "precio": 2100.0
+        "precio": 2220.0
       }
     ],
     "ipv": false,
@@ -3590,14 +3586,14 @@
       "idPrecio": 2088,
       "idProducto": 2552,
       "idMoneda": 1,
-      "precio": 2100.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 2088,
         "idProducto": 2552,
         "idMoneda": 1,
-        "precio": 2100.0
+        "precio": 2220.0
       }
     ],
     "ipv": true,
@@ -3627,14 +3623,14 @@
       "idPrecio": 2092,
       "idProducto": 2556,
       "idMoneda": 1,
-      "precio": 2100.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 2092,
         "idProducto": 2556,
         "idMoneda": 1,
-        "precio": 2100.0
+        "precio": 2220.0
       }
     ],
     "ipv": false,
@@ -3663,14 +3659,14 @@
       "idPrecio": 2074,
       "idProducto": 2538,
       "idMoneda": 1,
-      "precio": 1540.0
+      "precio": 1630.0
     },
     "precios": [
       {
         "idPrecio": 2074,
         "idProducto": 2538,
         "idMoneda": 1,
-        "precio": 1540.0
+        "precio": 1630.0
       }
     ],
     "ipv": true,
@@ -3689,7 +3685,7 @@
     ],
     "stocks": {
       "103": 8,
-      "105": 8
+      "105": 18
     }
   },
   {
@@ -3700,14 +3696,14 @@
       "idPrecio": 2075,
       "idProducto": 2539,
       "idMoneda": 1,
-      "precio": 1540.0
+      "precio": 1630.0
     },
     "precios": [
       {
         "idPrecio": 2075,
         "idProducto": 2539,
         "idMoneda": 1,
-        "precio": 1540.0
+        "precio": 1630.0
       }
     ],
     "ipv": true,
@@ -3726,7 +3722,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 3
+      "105": 13
     }
   },
   {
@@ -3737,14 +3733,14 @@
       "idPrecio": 2072,
       "idProducto": 2536,
       "idMoneda": 1,
-      "precio": 4900.0
+      "precio": 5180.0
     },
     "precios": [
       {
         "idPrecio": 2072,
         "idProducto": 2536,
         "idMoneda": 1,
-        "precio": 4900.0
+        "precio": 5180.0
       }
     ],
     "ipv": true,
@@ -3763,7 +3759,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -3811,14 +3807,14 @@
       "idPrecio": 1972,
       "idProducto": 2436,
       "idMoneda": 1,
-      "precio": 5950.0
+      "precio": 6290.0
     },
     "precios": [
       {
         "idPrecio": 1972,
         "idProducto": 2436,
         "idMoneda": 1,
-        "precio": 5950.0
+        "precio": 6290.0
       }
     ],
     "ipv": true,
@@ -3847,14 +3843,14 @@
       "idPrecio": 2093,
       "idProducto": 2557,
       "idMoneda": 1,
-      "precio": 700.0
+      "precio": 740.0
     },
     "precios": [
       {
         "idPrecio": 2093,
         "idProducto": 2557,
         "idMoneda": 1,
-        "precio": 700.0
+        "precio": 740.0
       }
     ],
     "ipv": true,
@@ -3871,9 +3867,8 @@
       }
     ],
     "stocks": {
-      "102": 8,
-      "103": 14,
-      "105": 5
+      "103": 13,
+      "105": 7
     }
   },
   {
@@ -3884,14 +3879,14 @@
       "idPrecio": 1980,
       "idProducto": 2444,
       "idMoneda": 1,
-      "precio": 1050.0
+      "precio": 1110.0
     },
     "precios": [
       {
         "idPrecio": 1980,
         "idProducto": 2444,
         "idMoneda": 1,
-        "precio": 1050.0
+        "precio": 1110.0
       }
     ],
     "ipv": true,
@@ -3909,7 +3904,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 0,
       "105": 4
     }
   },
@@ -3921,14 +3916,14 @@
       "idPrecio": 1981,
       "idProducto": 2445,
       "idMoneda": 1,
-      "precio": 1400.0
+      "precio": 1480.0
     },
     "precios": [
       {
         "idPrecio": 1981,
         "idProducto": 2445,
         "idMoneda": 1,
-        "precio": 1400.0
+        "precio": 1480.0
       }
     ],
     "ipv": true,
@@ -3946,8 +3941,8 @@
       }
     ],
     "stocks": {
-      "103": 6,
-      "105": 2
+      "103": 3,
+      "105": 3
     }
   },
   {
@@ -3958,14 +3953,14 @@
       "idPrecio": 1982,
       "idProducto": 2446,
       "idMoneda": 1,
-      "precio": 1750.0
+      "precio": 1850.0
     },
     "precios": [
       {
         "idPrecio": 1982,
         "idProducto": 2446,
         "idMoneda": 1,
-        "precio": 1750.0
+        "precio": 1850.0
       }
     ],
     "ipv": true,
@@ -3983,8 +3978,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 0
+      "103": 2,
+      "105": 12
     }
   },
   {
@@ -3995,14 +3990,14 @@
       "idPrecio": 1967,
       "idProducto": 2431,
       "idMoneda": 1,
-      "precio": 3150.0
+      "precio": 3330.0
     },
     "precios": [
       {
         "idPrecio": 1967,
         "idProducto": 2431,
         "idMoneda": 1,
-        "precio": 3150.0
+        "precio": 3330.0
       }
     ],
     "ipv": true,
@@ -4021,7 +4016,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 4
+      "105": 0
     }
   },
   {
@@ -4106,14 +4101,14 @@
       "idPrecio": 1970,
       "idProducto": 2434,
       "idMoneda": 1,
-      "precio": 3500.0
+      "precio": 3700.0
     },
     "precios": [
       {
         "idPrecio": 1970,
         "idProducto": 2434,
         "idMoneda": 1,
-        "precio": 3500.0
+        "precio": 3700.0
       }
     ],
     "ipv": true,
@@ -4131,9 +4126,8 @@
       }
     ],
     "stocks": {
-      "102": 4,
-      "103": 3,
-      "105": 3
+      "103": 9,
+      "105": 9
     }
   },
   {
@@ -4144,14 +4138,14 @@
       "idPrecio": 2033,
       "idProducto": 2497,
       "idMoneda": 1,
-      "precio": 1400.0
+      "precio": 1480.0
     },
     "precios": [
       {
         "idPrecio": 2033,
         "idProducto": 2497,
         "idMoneda": 1,
-        "precio": 1400.0
+        "precio": 1480.0
       }
     ],
     "ipv": true,
@@ -4169,9 +4163,8 @@
       }
     ],
     "stocks": {
-      "102": 26,
-      "103": 14,
-      "105": 4
+      "103": 10,
+      "105": 14
     }
   },
   {
@@ -4182,14 +4175,14 @@
       "idPrecio": 2034,
       "idProducto": 2498,
       "idMoneda": 1,
-      "precio": 1400.0
+      "precio": 1480.0
     },
     "precios": [
       {
         "idPrecio": 2034,
         "idProducto": 2498,
         "idMoneda": 1,
-        "precio": 1400.0
+        "precio": 1480.0
       }
     ],
     "ipv": true,
@@ -4207,9 +4200,8 @@
       }
     ],
     "stocks": {
-      "102": 40,
       "103": 12,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -4220,14 +4212,14 @@
       "idPrecio": 2037,
       "idProducto": 2501,
       "idMoneda": 1,
-      "precio": 1750.0
+      "precio": 1850.0
     },
     "precios": [
       {
         "idPrecio": 2037,
         "idProducto": 2501,
         "idMoneda": 1,
-        "precio": 1750.0
+        "precio": 1850.0
       }
     ],
     "ipv": true,
@@ -4246,7 +4238,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -4257,14 +4249,14 @@
       "idPrecio": 2112,
       "idProducto": 2576,
       "idMoneda": 1,
-      "precio": 1750.0
+      "precio": 1850.0
     },
     "precios": [
       {
         "idPrecio": 2112,
         "idProducto": 2576,
         "idMoneda": 1,
-        "precio": 1750.0
+        "precio": 1850.0
       }
     ],
     "ipv": true,
@@ -4282,7 +4274,7 @@
       }
     ],
     "stocks": {
-      "103": 12,
+      "103": 9,
       "105": 0
     }
   },
@@ -4294,14 +4286,14 @@
       "idPrecio": 2111,
       "idProducto": 2575,
       "idMoneda": 1,
-      "precio": 1960.0
+      "precio": 2075.0
     },
     "precios": [
       {
         "idPrecio": 2111,
         "idProducto": 2575,
         "idMoneda": 1,
-        "precio": 1960.0
+        "precio": 2075.0
       }
     ],
     "ipv": true,
@@ -4319,8 +4311,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 4
+      "103": 1,
+      "105": 0
     }
   },
   {
@@ -4331,14 +4323,14 @@
       "idPrecio": 2038,
       "idProducto": 2502,
       "idMoneda": 1,
-      "precio": 1750.0
+      "precio": 1850.0
     },
     "precios": [
       {
         "idPrecio": 2038,
         "idProducto": 2502,
         "idMoneda": 1,
-        "precio": 1750.0
+        "precio": 1850.0
       }
     ],
     "ipv": true,
@@ -4357,7 +4349,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 6
+      "105": 0
     }
   },
   {
@@ -4368,14 +4360,14 @@
       "idPrecio": 2071,
       "idProducto": 2535,
       "idMoneda": 1,
-      "precio": 7700.0
+      "precio": 8140.0
     },
     "precios": [
       {
         "idPrecio": 2071,
         "idProducto": 2535,
         "idMoneda": 1,
-        "precio": 7700.0
+        "precio": 8140.0
       }
     ],
     "ipv": true,
@@ -4404,14 +4396,14 @@
       "idPrecio": 2070,
       "idProducto": 2534,
       "idMoneda": 1,
-      "precio": 7000.0
+      "precio": 7400.0
     },
     "precios": [
       {
         "idPrecio": 2070,
         "idProducto": 2534,
         "idMoneda": 1,
-        "precio": 7000.0
+        "precio": 7400.0
       }
     ],
     "ipv": true,
@@ -4429,7 +4421,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -4440,14 +4432,14 @@
       "idPrecio": 2102,
       "idProducto": 2566,
       "idMoneda": 1,
-      "precio": 14350.0
+      "precio": 15170.0
     },
     "precios": [
       {
         "idPrecio": 2102,
         "idProducto": 2566,
         "idMoneda": 1,
-        "precio": 14350.0
+        "precio": 15170.0
       }
     ],
     "ipv": true,
@@ -4465,7 +4457,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -4476,14 +4468,14 @@
       "idPrecio": 2039,
       "idProducto": 2503,
       "idMoneda": 1,
-      "precio": 1470.0
+      "precio": 1555.0
     },
     "precios": [
       {
         "idPrecio": 2039,
         "idProducto": 2503,
         "idMoneda": 1,
-        "precio": 1470.0
+        "precio": 1555.0
       }
     ],
     "ipv": true,
@@ -4500,8 +4492,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 2
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -4512,14 +4504,14 @@
       "idPrecio": 2041,
       "idProducto": 2505,
       "idMoneda": 1,
-      "precio": 1470.0
+      "precio": 1555.0
     },
     "precios": [
       {
         "idPrecio": 2041,
         "idProducto": 2505,
         "idMoneda": 1,
-        "precio": 1470.0
+        "precio": 1555.0
       }
     ],
     "ipv": true,
@@ -4537,7 +4529,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 4
+      "105": 5
     }
   },
   {
@@ -4548,14 +4540,14 @@
       "idPrecio": 2040,
       "idProducto": 2504,
       "idMoneda": 1,
-      "precio": 1470.0
+      "precio": 1555.0
     },
     "precios": [
       {
         "idPrecio": 2040,
         "idProducto": 2504,
         "idMoneda": 1,
-        "precio": 1470.0
+        "precio": 1555.0
       }
     ],
     "ipv": true,
@@ -4572,8 +4564,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 4
+      "103": 2,
+      "105": 6
     }
   },
   {
@@ -4584,14 +4576,14 @@
       "idPrecio": 1962,
       "idProducto": 2426,
       "idMoneda": 1,
-      "precio": 630.0
+      "precio": 670.0
     },
     "precios": [
       {
         "idPrecio": 1962,
         "idProducto": 2426,
         "idMoneda": 1,
-        "precio": 630.0
+        "precio": 670.0
       }
     ],
     "ipv": true,
@@ -4609,7 +4601,7 @@
       }
     ],
     "stocks": {
-      "103": 11,
+      "103": 15,
       "105": 14
     }
   },
@@ -4621,14 +4613,14 @@
       "idPrecio": 1957,
       "idProducto": 2421,
       "idMoneda": 1,
-      "precio": 7000.0
+      "precio": 7400.0
     },
     "precios": [
       {
         "idPrecio": 1957,
         "idProducto": 2421,
         "idMoneda": 1,
-        "precio": 7000.0
+        "precio": 7400.0
       }
     ],
     "ipv": true,
@@ -4658,14 +4650,14 @@
       "idPrecio": 1959,
       "idProducto": 2423,
       "idMoneda": 1,
-      "precio": 2730.0
+      "precio": 2890.0
     },
     "precios": [
       {
         "idPrecio": 1959,
         "idProducto": 2423,
         "idMoneda": 1,
-        "precio": 2730.0
+        "precio": 2890.0
       }
     ],
     "ipv": true,
@@ -4683,7 +4675,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 3,
       "105": 0
     }
   },
@@ -4695,14 +4687,14 @@
       "idPrecio": 1966,
       "idProducto": 2430,
       "idMoneda": 1,
-      "precio": 2450.0
+      "precio": 2590.0
     },
     "precios": [
       {
         "idPrecio": 1966,
         "idProducto": 2430,
         "idMoneda": 1,
-        "precio": 2450.0
+        "precio": 2590.0
       }
     ],
     "ipv": true,
@@ -4720,8 +4712,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 3
+      "103": 2,
+      "105": 1
     }
   },
   {
@@ -4732,14 +4724,14 @@
       "idPrecio": 1958,
       "idProducto": 2422,
       "idMoneda": 1,
-      "precio": 2275.0
+      "precio": 2410.0
     },
     "precios": [
       {
         "idPrecio": 1958,
         "idProducto": 2422,
         "idMoneda": 1,
-        "precio": 2275.0
+        "precio": 2410.0
       }
     ],
     "ipv": true,
@@ -4757,7 +4749,7 @@
       }
     ],
     "stocks": {
-      "103": 7,
+      "103": 4,
       "105": 1
     }
   },
@@ -4770,14 +4762,14 @@
       "idPrecio": 1955,
       "idProducto": 2419,
       "idMoneda": 1,
-      "precio": 1000.0
+      "precio": 1060.0
     },
     "precios": [
       {
         "idPrecio": 1955,
         "idProducto": 2419,
         "idMoneda": 1,
-        "precio": 1000.0
+        "precio": 1060.0
       }
     ],
     "ipv": true,
