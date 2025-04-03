@@ -1,3856 +1,1585 @@
 [
   {
-    "idProducto": 2435,
-    "codigo": "85578",
-    "descripcion": "ADORNO COFRE DE CORAZON",
+    "idProducto": 2784,
+    "codigo": "2348",
+    "descripcion": "ACUARELA LAVABLE 12 COLORES",
     "precio": {
-      "idPrecio": 1971,
-      "idProducto": 2435,
+      "idPrecio": 2330,
+      "idProducto": 2784,
       "idMoneda": 1,
-      "precio": 740.0
+      "precio": 815.0
     },
     "precios": [
       {
-        "idPrecio": 1971,
-        "idProducto": 2435,
+        "idPrecio": 2330,
+        "idProducto": 2784,
         "idMoneda": 1,
-        "precio": 740.0
+        "precio": 815.0
       }
     ],
+    "image_name": "ACUARELA LAVABLE 12 COLORES -2348.jpg",
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 86,
     "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 371,
+        "idRelacion": 823,
         "idEtiqueta": 1,
-        "idProducto": 2435,
-        "valor": "28/01"
+        "idProducto": 2784,
+        "valor": "31-03"
       },
       {
-        "idRelacion": 548,
-        "idEtiqueta": 11,
-        "idProducto": 2435,
-        "valor": ""
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2544,
-    "codigo": "84008",
-    "descripcion": "ADORNO FLORAL",
-    "precio": {
-      "idPrecio": 2080,
-      "idProducto": 2544,
-      "idMoneda": 1,
-      "precio": 1410.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2080,
-        "idProducto": 2544,
-        "idMoneda": 1,
-        "precio": 1410.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 92,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 481,
-        "idEtiqueta": 1,
-        "idProducto": 2544,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 6,
-      "105": 6
-    }
-  },
-  {
-    "idProducto": 2549,
-    "codigo": "3993",
-    "descripcion": "ADORNO FLORAL MINI",
-    "precio": {
-      "idPrecio": 2085,
-      "idProducto": 2549,
-      "idMoneda": 1,
-      "precio": 2075.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2085,
-        "idProducto": 2549,
-        "idMoneda": 1,
-        "precio": 2075.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 92,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 486,
-        "idEtiqueta": 1,
-        "idProducto": 2549,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 6,
-      "105": 16
-    }
-  },
-  {
-    "idProducto": 2546,
-    "codigo": "3994",
-    "descripcion": "ADORNO FLORAL MINI",
-    "precio": {
-      "idPrecio": 2082,
-      "idProducto": 2546,
-      "idMoneda": 1,
-      "precio": 1410.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2082,
-        "idProducto": 2546,
-        "idMoneda": 1,
-        "precio": 1410.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 92,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 483,
-        "idEtiqueta": 1,
-        "idProducto": 2546,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 9,
-      "105": 1
-    }
-  },
-  {
-    "idProducto": 2506,
-    "codigo": "175-511",
-    "descripcion": "BASURERO TACHO KING KONG",
-    "precio": {
-      "idPrecio": 2042,
-      "idProducto": 2506,
-      "idMoneda": 1,
-      "precio": 27750.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2042,
-        "idProducto": 2506,
-        "idMoneda": 1,
-        "precio": 27750.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 99,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 442,
-        "idEtiqueta": 1,
-        "idProducto": 2506,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2471,
-    "codigo": "647-5",
-    "descripcion": "BOWL PLASTICO 5.5 PULGADAS",
-    "precio": {
-      "idPrecio": 2007,
-      "idProducto": 2471,
-      "idMoneda": 1,
-      "precio": 490.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2007,
-        "idProducto": 2471,
-        "idMoneda": 1,
-        "precio": 490.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 407,
-        "idEtiqueta": 1,
-        "idProducto": 2471,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2470,
-    "codigo": "647-6",
-    "descripcion": "BOWL PLASTICO 6.5 PULGADAS",
-    "precio": {
-      "idPrecio": 2006,
-      "idProducto": 2470,
-      "idMoneda": 1,
-      "precio": 560.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2006,
-        "idProducto": 2470,
-        "idMoneda": 1,
-        "precio": 560.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 406,
-        "idEtiqueta": 1,
-        "idProducto": 2470,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2469,
-    "codigo": "647-7",
-    "descripcion": "BOWL PLASTICO 7.5 PULGADAS",
-    "precio": {
-      "idPrecio": 2005,
-      "idProducto": 2469,
-      "idMoneda": 1,
-      "precio": 670.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2005,
-        "idProducto": 2469,
-        "idMoneda": 1,
-        "precio": 670.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 405,
-        "idEtiqueta": 1,
-        "idProducto": 2469,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 5
-    }
-  },
-  {
-    "idProducto": 2465,
-    "codigo": "8218-7",
-    "descripcion": "BOWL PLASTICO 7.5 PULGADAS",
-    "precio": {
-      "idPrecio": 2001,
-      "idProducto": 2465,
-      "idMoneda": 1,
-      "precio": 630.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2001,
-        "idProducto": 2465,
-        "idMoneda": 1,
-        "precio": 630.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 401,
-        "idEtiqueta": 1,
-        "idProducto": 2465,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2499,
-    "codigo": "11037",
-    "descripcion": "CAFETERA 600ML",
-    "precio": {
-      "idPrecio": 2035,
-      "idProducto": 2499,
-      "idMoneda": 1,
-      "precio": 2220.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2035,
-        "idProducto": 2499,
-        "idMoneda": 1,
-        "precio": 2220.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 435,
-        "idEtiqueta": 1,
-        "idProducto": 2499,
-        "valor": "28/01"
+        "idRelacion": 844,
+        "idEtiqueta": 2,
+        "idProducto": 2784,
+        "valor": "815.0"
       }
     ],
     "stocks": {
       "103": 3,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2500,
-    "codigo": "10243",
-    "descripcion": "CAFETERA 800ML",
-    "precio": {
-      "idPrecio": 2036,
-      "idProducto": 2500,
-      "idMoneda": 1,
-      "precio": 2590.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2036,
-        "idProducto": 2500,
-        "idMoneda": 1,
-        "precio": 2590.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 436,
-        "idEtiqueta": 1,
-        "idProducto": 2500,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 3,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2577,
-    "codigo": "T60-RED",
-    "descripcion": "CAFETERA DE 6 TAZAS 300 ML",
-    "precio": {
-      "idPrecio": 2113,
-      "idProducto": 2577,
-      "idMoneda": 1,
-      "precio": 4440.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2113,
-        "idProducto": 2577,
-        "idMoneda": 1,
-        "precio": 4440.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 515,
-        "idEtiqueta": 1,
-        "idProducto": 2577,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 4,
-      "105": 10
-    }
-  },
-  {
-    "idProducto": 2433,
-    "codigo": "LT-2010",
-    "descripcion": "CAFETERA ELECTRICA 6 TAZAS",
-    "precio": {
-      "idPrecio": 1969,
-      "idProducto": 2433,
-      "idMoneda": 1,
-      "precio": 18500.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1969,
-        "idProducto": 2433,
-        "idMoneda": 1,
-        "precio": 18500.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 3,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 369,
-        "idEtiqueta": 1,
-        "idProducto": 2433,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 6,
-      "105": 1
-    }
-  },
-  {
-    "idProducto": 2476,
-    "codigo": "87750",
-    "descripcion": "CAJA MULTIUSO PLASTICA",
-    "precio": {
-      "idPrecio": 2012,
-      "idProducto": 2476,
-      "idMoneda": 1,
-      "precio": 740.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2012,
-        "idProducto": 2476,
-        "idMoneda": 1,
-        "precio": 740.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 34,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 412,
-        "idEtiqueta": 1,
-        "idProducto": 2476,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 1,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2477,
-    "codigo": "87751",
-    "descripcion": "CANASTA PLASTICA",
-    "precio": {
-      "idPrecio": 2013,
-      "idProducto": 2477,
-      "idMoneda": 1,
-      "precio": 1185.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2013,
-        "idProducto": 2477,
-        "idMoneda": 1,
-        "precio": 1185.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 34,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 413,
-        "idEtiqueta": 1,
-        "idProducto": 2477,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2474,
-    "codigo": "87747",
-    "descripcion": "CANASTA PLASTICA C/ TAPA",
-    "precio": {
-      "idPrecio": 2010,
-      "idProducto": 2474,
-      "idMoneda": 1,
-      "precio": 1575.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2010,
-        "idProducto": 2474,
-        "idMoneda": 1,
-        "precio": 1575.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 34,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 410,
-        "idEtiqueta": 1,
-        "idProducto": 2474,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2473,
-    "codigo": "87748",
-    "descripcion": "CANASTA PLASTICA C/ TAPA",
-    "precio": {
-      "idPrecio": 2009,
-      "idProducto": 2473,
-      "idMoneda": 1,
-      "precio": 1400.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2009,
-        "idProducto": 2473,
-        "idMoneda": 1,
-        "precio": 1400.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 34,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 409,
-        "idEtiqueta": 1,
-        "idProducto": 2473,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2475,
-    "codigo": "87749",
-    "descripcion": "CANASTA PLASTICA C/ TAPA",
-    "precio": {
-      "idPrecio": 2011,
-      "idProducto": 2475,
-      "idMoneda": 1,
-      "precio": 1750.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2011,
-        "idProducto": 2475,
-        "idMoneda": 1,
-        "precio": 1750.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 34,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 411,
-        "idEtiqueta": 1,
-        "idProducto": 2475,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2507,
-    "codigo": "1043",
-    "descripcion": "CEPILLO DE BAÑO",
-    "precio": {
-      "idPrecio": 2043,
-      "idProducto": 2507,
-      "idMoneda": 1,
-      "precio": 1630.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2043,
-        "idProducto": 2507,
-        "idMoneda": 1,
-        "precio": 1630.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 100,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 443,
-        "idEtiqueta": 1,
-        "idProducto": 2507,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 4,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2527,
-    "codigo": "85574",
-    "descripcion": "COFRE JOYERO CON ESPEJO",
-    "precio": {
-      "idPrecio": 2063,
-      "idProducto": 2527,
-      "idMoneda": 1,
-      "precio": 1110.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2063,
-        "idProducto": 2527,
-        "idMoneda": 1,
-        "precio": 1110.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 86,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 464,
-        "idEtiqueta": 1,
-        "idProducto": 2527,
-        "valor": "28/01"
-      },
-      {
-        "idRelacion": 549,
-        "idEtiqueta": 11,
-        "idProducto": 2527,
-        "valor": ""
-      }
-    ],
-    "stocks": {
-      "103": 1,
-      "105": 17
-    }
-  },
-  {
-    "idProducto": 2526,
-    "codigo": "85583",
-    "descripcion": "COFRE JOYERO CON ESPEJO",
-    "precio": {
-      "idPrecio": 2062,
-      "idProducto": 2526,
-      "idMoneda": 1,
-      "precio": 1560.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2062,
-        "idProducto": 2526,
-        "idMoneda": 1,
-        "precio": 1560.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 86,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 463,
-        "idEtiqueta": 1,
-        "idProducto": 2526,
-        "valor": "28/01"
-      },
-      {
-        "idRelacion": 550,
-        "idEtiqueta": 11,
-        "idProducto": 2526,
-        "valor": ""
-      }
-    ],
-    "stocks": {
-      "103": 2,
-      "105": 30
-    }
-  },
-  {
-    "idProducto": 2447,
-    "codigo": "87738",
-    "descripcion": "COLADOR PLASTICO 3 PCS",
-    "precio": {
-      "idPrecio": 1983,
-      "idProducto": 2447,
-      "idMoneda": 1,
-      "precio": 1560.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1983,
-        "idProducto": 2447,
-        "idMoneda": 1,
-        "precio": 1560.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 383,
-        "idEtiqueta": 1,
-        "idProducto": 2447,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 1,
-      "105": 3
-    }
-  },
-  {
-    "idProducto": 2448,
-    "codigo": "87739",
-    "descripcion": "COLADOR PLASTICO 3 PCS",
-    "precio": {
-      "idPrecio": 1984,
-      "idProducto": 2448,
-      "idMoneda": 1,
-      "precio": 1110.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1984,
-        "idProducto": 2448,
-        "idMoneda": 1,
-        "precio": 1110.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 384,
-        "idEtiqueta": 1,
-        "idProducto": 2448,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 11,
-      "105": 3
-    }
-  },
-  {
-    "idProducto": 2570,
-    "codigo": "2006",
-    "descripcion": "CRAYONES JUMBO",
-    "precio": {
-      "idPrecio": 2106,
-      "idProducto": 2570,
-      "idMoneda": 1,
-      "precio": 740.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2106,
-        "idProducto": 2570,
-        "idMoneda": 1,
-        "precio": 740.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 9,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 508,
-        "idEtiqueta": 1,
-        "idProducto": 2570,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 3,
-      "105": 5
-    }
-  },
-  {
-    "idProducto": 2455,
-    "codigo": "2029",
-    "descripcion": "CUCHILLO DE 3.5 PULGADAS 3PCS",
-    "precio": {
-      "idPrecio": 1991,
-      "idProducto": 2455,
-      "idMoneda": 1,
-      "precio": 1700.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1991,
-        "idProducto": 2455,
-        "idMoneda": 1,
-        "precio": 1700.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 23,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 391,
-        "idEtiqueta": 1,
-        "idProducto": 2455,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 8,
-      "105": 15
-    }
-  },
-  {
-    "idProducto": 2454,
-    "codigo": "2030",
-    "descripcion": "CUCHILLO DE 5 PULGADAS",
-    "precio": {
-      "idPrecio": 1990,
-      "idProducto": 2454,
-      "idMoneda": 1,
-      "precio": 1270.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1990,
-        "idProducto": 2454,
-        "idMoneda": 1,
-        "precio": 1270.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 23,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 390,
-        "idEtiqueta": 1,
-        "idProducto": 2454,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 23,
       "105": 9
     }
   },
   {
-    "idProducto": 2452,
-    "codigo": "WD-5",
-    "descripcion": "CUCHILLOS DE 5 PULGADAS",
+    "idProducto": 2761,
+    "codigo": "1454",
+    "descripcion": "ALFOMBRA 50X76CM",
     "precio": {
-      "idPrecio": 1988,
-      "idProducto": 2452,
+      "idPrecio": 2307,
+      "idProducto": 2761,
       "idMoneda": 1,
-      "precio": 1300.0
+      "precio": 4070.0
     },
     "precios": [
       {
-        "idPrecio": 1988,
-        "idProducto": 2452,
+        "idPrecio": 2307,
+        "idProducto": 2761,
         "idMoneda": 1,
-        "precio": 1300.0
+        "precio": 4070.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idCategoria": 23,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 388,
+        "idRelacion": 800,
         "idEtiqueta": 1,
-        "idProducto": 2452,
-        "valor": "28/01"
+        "idProducto": 2761,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 12,
-      "105": 18
+      "105": 6
     }
   },
   {
-    "idProducto": 2451,
-    "codigo": "WD-6",
-    "descripcion": "CUCHILLOS DE 6 PULGADAS",
+    "idProducto": 2792,
+    "codigo": "KC-411",
+    "descripcion": "ALFOMBRA DE BAÑO 2PCS",
     "precio": {
-      "idPrecio": 1987,
-      "idProducto": 2451,
+      "idPrecio": 2338,
+      "idProducto": 2792,
       "idMoneda": 1,
-      "precio": 1400.0
+      "precio": 2445.0
     },
     "precios": [
       {
-        "idPrecio": 1987,
-        "idProducto": 2451,
+        "idPrecio": 2338,
+        "idProducto": 2792,
         "idMoneda": 1,
-        "precio": 1400.0
+        "precio": 2445.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 23,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 387,
+        "idRelacion": 831,
         "idEtiqueta": 1,
-        "idProducto": 2451,
-        "valor": "28/01"
+        "idProducto": 2792,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 12,
-      "105": 11
+      "103": 3,
+      "105": 5
     }
   },
   {
-    "idProducto": 2450,
-    "codigo": "WD-7",
-    "descripcion": "CUCHILLOS DE 7 PULGADAS",
+    "idProducto": 2791,
+    "codigo": "VI-930",
+    "descripcion": "ALFOMBRA DE BAÑO 2PCS",
     "precio": {
-      "idPrecio": 1986,
-      "idProducto": 2450,
+      "idPrecio": 2337,
+      "idProducto": 2791,
       "idMoneda": 1,
-      "precio": 1500.0
+      "precio": 2035.0
     },
     "precios": [
       {
-        "idPrecio": 1986,
-        "idProducto": 2450,
+        "idPrecio": 2337,
+        "idProducto": 2791,
         "idMoneda": 1,
-        "precio": 1500.0
+        "precio": 2035.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 23,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 386,
+        "idRelacion": 830,
         "idEtiqueta": 1,
-        "idProducto": 2450,
-        "valor": "28/01"
+        "idProducto": 2791,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 8,
-      "105": 10
+      "103": 3,
+      "105": 6
     }
   },
   {
-    "idProducto": 2449,
-    "codigo": "WD-8",
-    "descripcion": "CUCHILLOS DE 8 PULGADAS",
+    "idProducto": 2780,
+    "codigo": "2703",
+    "descripcion": "ALFOMBRA DE BAÑOS 2PCS",
     "precio": {
-      "idPrecio": 1985,
-      "idProducto": 2449,
+      "idPrecio": 2326,
+      "idProducto": 2780,
       "idMoneda": 1,
-      "precio": 1600.0
+      "precio": 6105.0
     },
     "precios": [
       {
-        "idPrecio": 1985,
-        "idProducto": 2449,
+        "idPrecio": 2326,
+        "idProducto": 2780,
         "idMoneda": 1,
-        "precio": 1600.0
+        "precio": 6105.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 23,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 385,
+        "idRelacion": 819,
         "idEtiqueta": 1,
-        "idProducto": 2449,
-        "valor": "28/01"
+        "idProducto": 2780,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 10,
-      "105": 13
+      "103": 4,
+      "105": 3
     }
   },
   {
-    "idProducto": 2496,
-    "codigo": "LT014",
-    "descripcion": "ENVASE PLAST CUADRADO",
+    "idProducto": 2746,
+    "codigo": "9677",
+    "descripcion": "ALFOMBRA DE PUERTA",
     "precio": {
-      "idPrecio": 2032,
-      "idProducto": 2496,
+      "idPrecio": 2292,
+      "idProducto": 2746,
       "idMoneda": 1,
-      "precio": 960.0
+      "precio": 2035.0
     },
     "precios": [
       {
-        "idPrecio": 2032,
-        "idProducto": 2496,
+        "idPrecio": 2292,
+        "idProducto": 2746,
         "idMoneda": 1,
-        "precio": 960.0
+        "precio": 2035.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 432,
+        "idRelacion": 785,
         "idEtiqueta": 1,
-        "idProducto": 2496,
-        "valor": "28/01"
+        "idProducto": 2746,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 6,
+      "103": 2,
       "105": 4
     }
   },
   {
-    "idProducto": 2490,
-    "codigo": "LT018",
-    "descripcion": "ENVASE PLAST CUADRADO",
+    "idProducto": 2747,
+    "codigo": "9680",
+    "descripcion": "ALFOMBRA DE PUERTA",
     "precio": {
-      "idPrecio": 2026,
-      "idProducto": 2490,
+      "idPrecio": 2293,
+      "idProducto": 2747,
       "idMoneda": 1,
-      "precio": 1330.0
+      "precio": 2035.0
     },
     "precios": [
       {
-        "idPrecio": 2026,
-        "idProducto": 2490,
+        "idPrecio": 2293,
+        "idProducto": 2747,
         "idMoneda": 1,
-        "precio": 1330.0
+        "precio": 2035.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 426,
+        "idRelacion": 786,
         "idEtiqueta": 1,
-        "idProducto": 2490,
-        "valor": "28/01"
+        "idProducto": 2747,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 9,
-      "105": 0
+      "103": 2,
+      "105": 1
     }
   },
   {
-    "idProducto": 2488,
-    "codigo": "LT004",
-    "descripcion": "ENVASE PLAST RECTANGULAR",
+    "idProducto": 2748,
+    "codigo": "9681",
+    "descripcion": "ALFOMBRA DE PUERTA",
     "precio": {
-      "idPrecio": 2024,
-      "idProducto": 2488,
+      "idPrecio": 2294,
+      "idProducto": 2748,
       "idMoneda": 1,
-      "precio": 1410.0
+      "precio": 2035.0
     },
     "precios": [
       {
-        "idPrecio": 2024,
-        "idProducto": 2488,
+        "idPrecio": 2294,
+        "idProducto": 2748,
         "idMoneda": 1,
-        "precio": 1410.0
+        "precio": 2035.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 424,
+        "idRelacion": 787,
         "idEtiqueta": 1,
-        "idProducto": 2488,
-        "valor": "28/01"
+        "idProducto": 2748,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 9
+      "105": 3
     }
   },
   {
-    "idProducto": 2487,
-    "codigo": "LT005",
-    "descripcion": "ENVASE PLAST RECTANGULAR",
+    "idProducto": 2749,
+    "codigo": "9682",
+    "descripcion": "ALFOMBRA DE PUERTA",
     "precio": {
-      "idPrecio": 2023,
-      "idProducto": 2487,
+      "idPrecio": 2295,
+      "idProducto": 2749,
       "idMoneda": 1,
-      "precio": 1410.0
+      "precio": 2035.0
     },
     "precios": [
       {
-        "idPrecio": 2023,
-        "idProducto": 2487,
+        "idPrecio": 2295,
+        "idProducto": 2749,
         "idMoneda": 1,
-        "precio": 1410.0
+        "precio": 2035.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 423,
+        "idRelacion": 788,
         "idEtiqueta": 1,
-        "idProducto": 2487,
-        "valor": "28/01"
+        "idProducto": 2749,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 0
+      "105": 4
     }
   },
   {
-    "idProducto": 2489,
-    "codigo": "LT019",
-    "descripcion": "ENVASE PLAST RECTANGULAR",
+    "idProducto": 2681,
+    "codigo": "0196",
+    "descripcion": "ALFOMBRA PARA PUERTA PVC",
     "precio": {
-      "idPrecio": 2025,
-      "idProducto": 2489,
+      "idPrecio": 2227,
+      "idProducto": 2681,
       "idMoneda": 1,
-      "precio": 1330.0
+      "precio": 3260.0
     },
     "precios": [
       {
-        "idPrecio": 2025,
-        "idProducto": 2489,
+        "idPrecio": 2227,
+        "idProducto": 2681,
         "idMoneda": 1,
-        "precio": 1330.0
+        "precio": 3260.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 425,
+        "idRelacion": 720,
         "idEtiqueta": 1,
-        "idProducto": 2489,
-        "valor": "28/01"
+        "idProducto": 2681,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 0
+      "105": 4
     }
   },
   {
-    "idProducto": 2494,
-    "codigo": "LT003",
-    "descripcion": "ENVASE PLAST REDONDO",
+    "idProducto": 2688,
+    "codigo": "83720",
+    "descripcion": "ALFOMBRA PARA PUERTA PVC",
     "precio": {
-      "idPrecio": 2030,
-      "idProducto": 2494,
+      "idPrecio": 2234,
+      "idProducto": 2688,
       "idMoneda": 1,
-      "precio": 930.0
+      "precio": 2035.0
     },
     "precios": [
       {
-        "idPrecio": 2030,
-        "idProducto": 2494,
+        "idPrecio": 2234,
+        "idProducto": 2688,
         "idMoneda": 1,
-        "precio": 930.0
+        "precio": 2035.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 430,
+        "idRelacion": 727,
         "idEtiqueta": 1,
-        "idProducto": 2494,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 4,
-      "105": 11
-    }
-  },
-  {
-    "idProducto": 2491,
-    "codigo": "LT015",
-    "descripcion": "ENVASE PLAST REDONDO",
-    "precio": {
-      "idPrecio": 2027,
-      "idProducto": 2491,
-      "idMoneda": 1,
-      "precio": 960.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2027,
-        "idProducto": 2491,
-        "idMoneda": 1,
-        "precio": 960.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 427,
-        "idEtiqueta": 1,
-        "idProducto": 2491,
-        "valor": "28/01"
+        "idProducto": 2688,
+        "valor": "31-03"
       }
     ],
     "stocks": {
       "103": 6,
-      "105": 16
+      "105": 12
     }
   },
   {
-    "idProducto": 2493,
-    "codigo": "LT001",
-    "descripcion": "ENVASE PLASTICO",
+    "idProducto": 2690,
+    "codigo": "85608",
+    "descripcion": "ARREGLOS FLORALES",
     "precio": {
-      "idPrecio": 2029,
-      "idProducto": 2493,
+      "idPrecio": 2236,
+      "idProducto": 2690,
       "idMoneda": 1,
-      "precio": 875.0
+      "precio": 1225.0
     },
     "precios": [
       {
-        "idPrecio": 2029,
-        "idProducto": 2493,
+        "idPrecio": 2236,
+        "idProducto": 2690,
         "idMoneda": 1,
-        "precio": 875.0
+        "precio": 1225.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 429,
+        "idRelacion": 729,
         "idEtiqueta": 1,
-        "idProducto": 2493,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2492,
-    "codigo": "LT002",
-    "descripcion": "ENVASE PLASTICO",
-    "precio": {
-      "idPrecio": 2028,
-      "idProducto": 2492,
-      "idMoneda": 1,
-      "precio": 925.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2028,
-        "idProducto": 2492,
-        "idMoneda": 1,
-        "precio": 925.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 428,
-        "idEtiqueta": 1,
-        "idProducto": 2492,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 1,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2495,
-    "codigo": "LT050",
-    "descripcion": "ENVASE PLASTICO",
-    "precio": {
-      "idPrecio": 2031,
-      "idProducto": 2495,
-      "idMoneda": 1,
-      "precio": 1110.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2031,
-        "idProducto": 2495,
-        "idMoneda": 1,
-        "precio": 1110.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 431,
-        "idEtiqueta": 1,
-        "idProducto": 2495,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 2,
-      "105": 5
-    }
-  },
-  {
-    "idProducto": 2486,
-    "codigo": "5225",
-    "descripcion": "ENVASE PLASTICO 3 PCS",
-    "precio": {
-      "idPrecio": 2022,
-      "idProducto": 2486,
-      "idMoneda": 1,
-      "precio": 910.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2022,
-        "idProducto": 2486,
-        "idMoneda": 1,
-        "precio": 910.0
-      }
-    ],
-    "ipv": false,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 422,
-        "idEtiqueta": 1,
-        "idProducto": 2486,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2481,
-    "codigo": "5816",
-    "descripcion": "ENVASE PLASTICO 7 PCS",
-    "precio": {
-      "idPrecio": 2017,
-      "idProducto": 2481,
-      "idMoneda": 1,
-      "precio": 2450.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2017,
-        "idProducto": 2481,
-        "idMoneda": 1,
-        "precio": 2450.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 417,
-        "idEtiqueta": 1,
-        "idProducto": 2481,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2484,
-    "codigo": "5806",
-    "descripcion": "ENVASE PLASTICO C/ TAPA",
-    "precio": {
-      "idPrecio": 2020,
-      "idProducto": 2484,
-      "idMoneda": 1,
-      "precio": 2450.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2020,
-        "idProducto": 2484,
-        "idMoneda": 1,
-        "precio": 2450.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 420,
-        "idEtiqueta": 1,
-        "idProducto": 2484,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2485,
-    "codigo": "5313",
-    "descripcion": "ENVASE PLASTICO C/ TAPA 3 PCS",
-    "precio": {
-      "idPrecio": 2021,
-      "idProducto": 2485,
-      "idMoneda": 1,
-      "precio": 700.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2021,
-        "idProducto": 2485,
-        "idMoneda": 1,
-        "precio": 700.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 421,
-        "idEtiqueta": 1,
-        "idProducto": 2485,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2483,
-    "codigo": "6332",
-    "descripcion": "ENVASE PLASTICO C/ TAPA 5 PCS",
-    "precio": {
-      "idPrecio": 2019,
-      "idProducto": 2483,
-      "idMoneda": 1,
-      "precio": 2100.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2019,
-        "idProducto": 2483,
-        "idMoneda": 1,
-        "precio": 2100.0
-      }
-    ],
-    "ipv": false,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 419,
-        "idEtiqueta": 1,
-        "idProducto": 2483,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2482,
-    "codigo": "6333",
-    "descripcion": "ENVASE PLASTICO C/ TAPA 5 PCS",
-    "precio": {
-      "idPrecio": 2018,
-      "idProducto": 2482,
-      "idMoneda": 1,
-      "precio": 2220.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2018,
-        "idProducto": 2482,
-        "idMoneda": 1,
-        "precio": 2220.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 21,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 418,
-        "idEtiqueta": 1,
-        "idProducto": 2482,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 1,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2582,
-    "codigo": "0757",
-    "descripcion": "ESCURRIDOR PLASTICO",
-    "precio": {
-      "idPrecio": 2118,
-      "idProducto": 2582,
-      "idMoneda": 1,
-      "precio": 2800.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2118,
-        "idProducto": 2582,
-        "idMoneda": 1,
-        "precio": 2800.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 520,
-        "idEtiqueta": 1,
-        "idProducto": 2582,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2584,
-    "codigo": "2750",
-    "descripcion": "ESCURRIDOR PLASTICO",
-    "precio": {
-      "idPrecio": 2120,
-      "idProducto": 2584,
-      "idMoneda": 1,
-      "precio": 2075.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2120,
-        "idProducto": 2584,
-        "idMoneda": 1,
-        "precio": 2075.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 522,
-        "idEtiqueta": 1,
-        "idProducto": 2584,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2581,
-    "codigo": "80024",
-    "descripcion": "ESCURRIDOR PLASTICO",
-    "precio": {
-      "idPrecio": 2117,
-      "idProducto": 2581,
-      "idMoneda": 1,
-      "precio": 3850.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2117,
-        "idProducto": 2581,
-        "idMoneda": 1,
-        "precio": 3850.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 519,
-        "idEtiqueta": 1,
-        "idProducto": 2581,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2541,
-    "codigo": "87320",
-    "descripcion": "FLORES ARTIFICIALES",
-    "precio": {
-      "idPrecio": 2077,
-      "idProducto": 2541,
-      "idMoneda": 1,
-      "precio": 1925.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2077,
-        "idProducto": 2541,
-        "idMoneda": 1,
-        "precio": 1925.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 92,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 478,
-        "idEtiqueta": 1,
-        "idProducto": 2541,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 8,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2542,
-    "codigo": "87321",
-    "descripcion": "FLORES ARTIFICIALES",
-    "precio": {
-      "idPrecio": 2078,
-      "idProducto": 2542,
-      "idMoneda": 1,
-      "precio": 1925.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2078,
-        "idProducto": 2542,
-        "idMoneda": 1,
-        "precio": 1925.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 92,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 479,
-        "idEtiqueta": 1,
-        "idProducto": 2542,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 3,
-      "105": 11
-    }
-  },
-  {
-    "idProducto": 2543,
-    "codigo": "87323",
-    "descripcion": "FLORES ARTIFICIALES",
-    "precio": {
-      "idPrecio": 2079,
-      "idProducto": 2543,
-      "idMoneda": 1,
-      "precio": 2520.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2079,
-        "idProducto": 2543,
-        "idMoneda": 1,
-        "precio": 2520.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 92,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 480,
-        "idEtiqueta": 1,
-        "idProducto": 2543,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2540,
-    "codigo": "87324",
-    "descripcion": "FLORES ARTIFICIALES",
-    "precio": {
-      "idPrecio": 2076,
-      "idProducto": 2540,
-      "idMoneda": 1,
-      "precio": 3110.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2076,
-        "idProducto": 2540,
-        "idMoneda": 1,
-        "precio": 3110.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 92,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 477,
-        "idEtiqueta": 1,
-        "idProducto": 2540,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 2,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2548,
-    "codigo": "4542",
-    "descripcion": "FLORES ARTIFICIALES CON POTE",
-    "precio": {
-      "idPrecio": 2084,
-      "idProducto": 2548,
-      "idMoneda": 1,
-      "precio": 1850.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2084,
-        "idProducto": 2548,
-        "idMoneda": 1,
-        "precio": 1850.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 92,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 485,
-        "idEtiqueta": 1,
-        "idProducto": 2548,
-        "valor": "28/01"
+        "idProducto": 2690,
+        "valor": "31-03"
       }
     ],
     "stocks": {
       "103": 12,
-      "105": 8
+      "105": 12
     }
   },
   {
-    "idProducto": 2547,
-    "codigo": "4544",
-    "descripcion": "FLORES ARTIFICIALES CON POTE",
+    "idProducto": 2691,
+    "codigo": "85617",
+    "descripcion": "ARREGLOS FLORALES",
     "precio": {
-      "idPrecio": 2083,
-      "idProducto": 2547,
+      "idPrecio": 2237,
+      "idProducto": 2691,
       "idMoneda": 1,
-      "precio": 1850.0
+      "precio": 410.0
     },
     "precios": [
       {
-        "idPrecio": 2083,
-        "idProducto": 2547,
+        "idPrecio": 2237,
+        "idProducto": 2691,
         "idMoneda": 1,
-        "precio": 1850.0
+        "precio": 410.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 92,
-    "idDepartamento": 10,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 484,
+        "idRelacion": 730,
         "idEtiqueta": 1,
-        "idProducto": 2547,
-        "valor": "28/01"
+        "idProducto": 2691,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 60,
+      "105": 59
+    }
+  },
+  {
+    "idProducto": 2692,
+    "codigo": "85618",
+    "descripcion": "ARREGLOS FLORALES",
+    "precio": {
+      "idPrecio": 2238,
+      "idProducto": 2692,
+      "idMoneda": 1,
+      "precio": 815.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2238,
+        "idProducto": 2692,
+        "idMoneda": 1,
+        "precio": 815.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 731,
+        "idEtiqueta": 1,
+        "idProducto": 2692,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 12,
+      "105": 24
+    }
+  },
+  {
+    "idProducto": 2675,
+    "codigo": "0101",
+    "descripcion": "BASURERO 5L",
+    "precio": {
+      "idPrecio": 2221,
+      "idProducto": 2675,
+      "idMoneda": 1,
+      "precio": 2035.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2221,
+        "idProducto": 2675,
+        "idMoneda": 1,
+        "precio": 2035.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 714,
+        "idEtiqueta": 1,
+        "idProducto": 2675,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2682,
+    "codigo": "5059",
+    "descripcion": "BASURERO DE PEDAL 6L",
+    "precio": {
+      "idPrecio": 2228,
+      "idProducto": 2682,
+      "idMoneda": 1,
+      "precio": 2445.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2228,
+        "idProducto": 2682,
+        "idMoneda": 1,
+        "precio": 2445.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 721,
+        "idEtiqueta": 1,
+        "idProducto": 2682,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 3,
       "105": 6
     }
   },
   {
-    "idProducto": 2560,
-    "codigo": "3619",
-    "descripcion": "HAMACAS 200 X 150 CM",
+    "idProducto": 2728,
+    "codigo": "E-252",
+    "descripcion": "BASURERO DE PEDAL 6L",
     "precio": {
-      "idPrecio": 2096,
-      "idProducto": 2560,
+      "idPrecio": 2274,
+      "idProducto": 2728,
       "idMoneda": 1,
-      "precio": 7400.0
+      "precio": 3665.0
     },
     "precios": [
       {
-        "idPrecio": 2096,
-        "idProducto": 2560,
+        "idPrecio": 2274,
+        "idProducto": 2728,
         "idMoneda": 1,
-        "precio": 7400.0
+        "precio": 3665.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 10,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 497,
+        "idRelacion": 767,
         "idEtiqueta": 1,
-        "idProducto": 2560,
-        "valor": "28/01"
+        "idProducto": 2728,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 0
+      "103": 2,
+      "105": 4
     }
   },
   {
-    "idProducto": 2561,
-    "codigo": "2815",
-    "descripcion": "HAMACAS 80 X 200 CM",
+    "idProducto": 2672,
+    "codigo": "0026",
+    "descripcion": "BASURERO PLASTICO",
     "precio": {
-      "idPrecio": 2097,
-      "idProducto": 2561,
+      "idPrecio": 2218,
+      "idProducto": 2672,
       "idMoneda": 1,
-      "precio": 3500.0
+      "precio": 2850.0
     },
     "precios": [
       {
-        "idPrecio": 2097,
-        "idProducto": 2561,
+        "idPrecio": 2218,
+        "idProducto": 2672,
         "idMoneda": 1,
-        "precio": 3500.0
+        "precio": 2850.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 10,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 498,
+        "idRelacion": 711,
         "idEtiqueta": 1,
-        "idProducto": 2561,
-        "valor": "28/01"
+        "idProducto": 2672,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2562,
-    "codigo": "80200",
-    "descripcion": "HAMACAS 80 X 200 CM",
-    "precio": {
-      "idPrecio": 2098,
-      "idProducto": 2562,
-      "idMoneda": 1,
-      "precio": 5550.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2098,
-        "idProducto": 2562,
-        "idMoneda": 1,
-        "precio": 5550.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 499,
-        "idEtiqueta": 1,
-        "idProducto": 2562,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2420,
-    "codigo": "PJ-51",
-    "descripcion": "JARRA CERVECERA DE VIDRIO 550 ML",
-    "barcode": "8997031066469",
-    "precio": {
-      "idPrecio": 1956,
-      "idProducto": 2420,
-      "idMoneda": 1,
-      "precio": 1060.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1956,
-        "idProducto": 2420,
-        "idMoneda": 1,
-        "precio": 1060.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 24,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 356,
-        "idEtiqueta": 1,
-        "idProducto": 2420,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 4,
       "105": 5
     }
   },
   {
-    "idProducto": 2425,
-    "codigo": "84199",
-    "descripcion": "JARRA DE VIDRIO C/ VASOS",
+    "idProducto": 2705,
+    "codigo": "87757",
+    "descripcion": "BASURERO PLASTICO",
     "precio": {
-      "idPrecio": 1961,
-      "idProducto": 2425,
+      "idPrecio": 2251,
+      "idProducto": 2705,
       "idMoneda": 1,
-      "precio": 5550.0
+      "precio": 1225.0
     },
     "precios": [
       {
-        "idPrecio": 1961,
-        "idProducto": 2425,
+        "idPrecio": 2251,
+        "idProducto": 2705,
         "idMoneda": 1,
-        "precio": 5550.0
+        "precio": 1225.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 24,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 361,
+        "idRelacion": 744,
         "idEtiqueta": 1,
-        "idProducto": 2425,
-        "valor": "28/01"
+        "idProducto": 2705,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 8,
-      "105": 1
+      "103": 4,
+      "105": 8
     }
   },
   {
-    "idProducto": 2453,
-    "codigo": "1795",
-    "descripcion": "JGO GUANTES DE COCINA 3 PCS",
+    "idProducto": 2706,
+    "codigo": "87758",
+    "descripcion": "BASURERO PLASTICO",
     "precio": {
-      "idPrecio": 1989,
-      "idProducto": 2453,
+      "idPrecio": 2252,
+      "idProducto": 2706,
       "idMoneda": 1,
-      "precio": 1295.0
+      "precio": 2035.0
     },
     "precios": [
       {
-        "idPrecio": 1989,
-        "idProducto": 2453,
+        "idPrecio": 2252,
+        "idProducto": 2706,
         "idMoneda": 1,
-        "precio": 1295.0
+        "precio": 2035.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 389,
+        "idRelacion": 745,
         "idEtiqueta": 1,
-        "idProducto": 2453,
-        "valor": "28/01"
+        "idProducto": 2706,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 2,
+      "105": 11
     }
   },
   {
-    "idProducto": 2513,
-    "codigo": "29678",
-    "descripcion": "JUGUETE AGUA 24PCS",
+    "idProducto": 2707,
+    "codigo": "87759",
+    "descripcion": "BASURERO PLASTICO",
     "precio": {
-      "idPrecio": 2049,
-      "idProducto": 2513,
+      "idPrecio": 2253,
+      "idProducto": 2707,
       "idMoneda": 1,
-      "precio": 520.0
+      "precio": 2445.0
     },
     "precios": [
       {
-        "idPrecio": 2049,
-        "idProducto": 2513,
+        "idPrecio": 2253,
+        "idProducto": 2707,
         "idMoneda": 1,
-        "precio": 520.0
+        "precio": 2445.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 7,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 450,
+        "idRelacion": 746,
         "idEtiqueta": 1,
-        "idProducto": 2513,
-        "valor": "28/01"
+        "idProducto": 2707,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 24,
-      "105": 32
+      "103": 2,
+      "105": 11
     }
   },
   {
-    "idProducto": 2509,
-    "codigo": "32737",
-    "descripcion": "JUGUETE BURBUJAS",
+    "idProducto": 2708,
+    "codigo": "87761",
+    "descripcion": "BASURERO PLASTICO",
     "precio": {
-      "idPrecio": 2045,
-      "idProducto": 2509,
+      "idPrecio": 2254,
+      "idProducto": 2708,
       "idMoneda": 1,
-      "precio": 595.0
+      "precio": 1225.0
     },
     "precios": [
       {
-        "idPrecio": 2045,
-        "idProducto": 2509,
+        "idPrecio": 2254,
+        "idProducto": 2708,
         "idMoneda": 1,
-        "precio": 595.0
+        "precio": 1225.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 7,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 446,
+        "idRelacion": 747,
         "idEtiqueta": 1,
-        "idProducto": 2509,
-        "valor": "28/01"
+        "idProducto": 2708,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 16,
-      "105": 17
-    }
-  },
-  {
-    "idProducto": 2508,
-    "codigo": "4241",
-    "descripcion": "JUGUETE BURBUJAS 125ML",
-    "precio": {
-      "idPrecio": 2044,
-      "idProducto": 2508,
-      "idMoneda": 1,
-      "precio": 370.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2044,
-        "idProducto": 2508,
-        "idMoneda": 1,
-        "precio": 370.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 7,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 445,
-        "idEtiqueta": 1,
-        "idProducto": 2508,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 7,
+      "103": 3,
       "105": 2
     }
   },
   {
-    "idProducto": 2514,
-    "codigo": "39964",
-    "descripcion": "JUGUETE GAMER 24PCS",
+    "idProducto": 2709,
+    "codigo": "87763",
+    "descripcion": "BASURERO PLASTICO",
     "precio": {
-      "idPrecio": 2050,
-      "idProducto": 2514,
+      "idPrecio": 2255,
+      "idProducto": 2709,
       "idMoneda": 1,
-      "precio": 520.0
+      "precio": 2445.0
     },
     "precios": [
       {
-        "idPrecio": 2050,
-        "idProducto": 2514,
+        "idPrecio": 2255,
+        "idProducto": 2709,
         "idMoneda": 1,
-        "precio": 520.0
+        "precio": 2445.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 7,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 451,
+        "idRelacion": 748,
         "idEtiqueta": 1,
-        "idProducto": 2514,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 23
-    }
-  },
-  {
-    "idProducto": 2512,
-    "codigo": "46571",
-    "descripcion": "JUGUETE GAMER 24PCS",
-    "precio": {
-      "idPrecio": 2048,
-      "idProducto": 2512,
-      "idMoneda": 1,
-      "precio": 520.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2048,
-        "idProducto": 2512,
-        "idMoneda": 1,
-        "precio": 520.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 7,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 449,
-        "idEtiqueta": 1,
-        "idProducto": 2512,
-        "valor": "28/01"
+        "idProducto": 2709,
+        "valor": "31-03"
       }
     ],
     "stocks": {
       "103": 1,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 2710,
+    "codigo": "87765",
+    "descripcion": "BASURERO PLASTICO",
+    "precio": {
+      "idPrecio": 2256,
+      "idProducto": 2710,
+      "idMoneda": 1,
+      "precio": 2445.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2256,
+        "idProducto": 2710,
+        "idMoneda": 1,
+        "precio": 2445.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 749,
+        "idEtiqueta": 1,
+        "idProducto": 2710,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2674,
+    "codigo": "0100",
+    "descripcion": "BASURERO PLASTICO 10L",
+    "precio": {
+      "idPrecio": 2220,
+      "idProducto": 2674,
+      "idMoneda": 1,
+      "precio": 2445.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2220,
+        "idProducto": 2674,
+        "idMoneda": 1,
+        "precio": 2445.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 713,
+        "idEtiqueta": 1,
+        "idProducto": 2674,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2676,
+    "codigo": "01041",
+    "descripcion": "BASURERO PLASTICO 10L",
+    "precio": {
+      "idPrecio": 2222,
+      "idProducto": 2676,
+      "idMoneda": 1,
+      "precio": 4480.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2222,
+        "idProducto": 2676,
+        "idMoneda": 1,
+        "precio": 4480.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 715,
+        "idEtiqueta": 1,
+        "idProducto": 2676,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2677,
+    "codigo": "09702",
+    "descripcion": "BASURERO PLASTICO 10L",
+    "precio": {
+      "idPrecio": 2223,
+      "idProducto": 2677,
+      "idMoneda": 1,
+      "precio": 2690.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2223,
+        "idProducto": 2677,
+        "idMoneda": 1,
+        "precio": 2690.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 716,
+        "idEtiqueta": 1,
+        "idProducto": 2677,
+        "valor": "31-03"
+      },
+      {
+        "idRelacion": 847,
+        "idEtiqueta": 2,
+        "idProducto": 2677,
+        "valor": "2850.0"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2673,
+    "codigo": "0098",
+    "descripcion": "BASURERO PLASTICO 30L",
+    "precio": {
+      "idPrecio": 2219,
+      "idProducto": 2673,
+      "idMoneda": 1,
+      "precio": 6515.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2219,
+        "idProducto": 2673,
+        "idMoneda": 1,
+        "precio": 6515.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 712,
+        "idEtiqueta": 1,
+        "idProducto": 2673,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2754,
+    "codigo": "0155",
+    "descripcion": "BASURERO PLASTICO N.15",
+    "precio": {
+      "idPrecio": 2300,
+      "idProducto": 2754,
+      "idMoneda": 1,
+      "precio": 3260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2300,
+        "idProducto": 2754,
+        "idMoneda": 1,
+        "precio": 3260.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 793,
+        "idEtiqueta": 1,
+        "idProducto": 2754,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2712,
+    "codigo": "AM-12-BLUE",
+    "descripcion": "BICICLETA 12\" CON CANASTA",
+    "precio": {
+      "idPrecio": 2258,
+      "idProducto": 2712,
+      "idMoneda": 1,
+      "precio": 36630.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2258,
+        "idProducto": 2712,
+        "idMoneda": 1,
+        "precio": 36630.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 751,
+        "idEtiqueta": 1,
+        "idProducto": 2712,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2721,
+    "codigo": "CDR-201",
+    "descripcion": "BICICLETA 20\" MONTAÑERA",
+    "precio": {
+      "idPrecio": 2267,
+      "idProducto": 2721,
+      "idMoneda": 1,
+      "precio": 77330.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2267,
+        "idProducto": 2721,
+        "idMoneda": 1,
+        "precio": 77330.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 760,
+        "idEtiqueta": 1,
+        "idProducto": 2721,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2722,
+    "codigo": "CDR-202",
+    "descripcion": "BICICLETA 20\" MONTAÑERA",
+    "precio": {
+      "idPrecio": 2268,
+      "idProducto": 2722,
+      "idMoneda": 1,
+      "precio": 77330.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2268,
+        "idProducto": 2722,
+        "idMoneda": 1,
+        "precio": 77330.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 761,
+        "idEtiqueta": 1,
+        "idProducto": 2722,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2723,
+    "codigo": "CDR-203",
+    "descripcion": "BICICLETA 20\" MONTAÑERA",
+    "precio": {
+      "idPrecio": 2269,
+      "idProducto": 2723,
+      "idMoneda": 1,
+      "precio": 77330.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2269,
+        "idProducto": 2723,
+        "idMoneda": 1,
+        "precio": 77330.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 762,
+        "idEtiqueta": 1,
+        "idProducto": 2723,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2724,
+    "codigo": "CDR-3257",
+    "descripcion": "BICICLETA 20\" PARA NIÑO",
+    "precio": {
+      "idPrecio": 2270,
+      "idProducto": 2724,
+      "idMoneda": 1,
+      "precio": 45585.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2270,
+        "idProducto": 2724,
+        "idMoneda": 1,
+        "precio": 45585.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 763,
+        "idEtiqueta": 1,
+        "idProducto": 2724,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2693,
+    "codigo": "85636",
+    "descripcion": "BOLSA DE REGALO",
+    "precio": {
+      "idPrecio": 2239,
+      "idProducto": 2693,
+      "idMoneda": 1,
+      "precio": 305.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2239,
+        "idProducto": 2693,
+        "idMoneda": 1,
+        "precio": 305.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 732,
+        "idEtiqueta": 1,
+        "idProducto": 2693,
+        "valor": "31-03"
+      },
+      {
+        "idRelacion": 850,
+        "idEtiqueta": 2,
+        "idProducto": 2693,
+        "valor": "410.0"
+      }
+    ],
+    "stocks": {
+      "103": 12,
       "105": 22
     }
   },
   {
-    "idProducto": 2511,
-    "codigo": "46576",
-    "descripcion": "JUGUETE GAMER 24PCS",
+    "idProducto": 2720,
+    "codigo": "BR-XL",
+    "descripcion": "BOLSA DE REGALO",
     "precio": {
-      "idPrecio": 2047,
-      "idProducto": 2511,
+      "idPrecio": 2266,
+      "idProducto": 2720,
       "idMoneda": 1,
-      "precio": 520.0
+      "precio": 245.0
     },
     "precios": [
       {
-        "idPrecio": 2047,
-        "idProducto": 2511,
+        "idPrecio": 2266,
+        "idProducto": 2720,
         "idMoneda": 1,
-        "precio": 520.0
+        "precio": 245.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 7,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 448,
+        "idRelacion": 759,
         "idEtiqueta": 1,
-        "idProducto": 2511,
-        "valor": "28/01"
+        "idProducto": 2720,
+        "valor": "31-03"
+      },
+      {
+        "idRelacion": 852,
+        "idEtiqueta": 2,
+        "idProducto": 2720,
+        "valor": "2850.0"
       }
     ],
     "stocks": {
-      "103": 13,
-      "105": 28
-    }
-  },
-  {
-    "idProducto": 2510,
-    "codigo": "55415",
-    "descripcion": "JUGUETE GAMER 24PCS",
-    "precio": {
-      "idPrecio": 2046,
-      "idProducto": 2510,
-      "idMoneda": 1,
-      "precio": 520.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2046,
-        "idProducto": 2510,
-        "idMoneda": 1,
-        "precio": 520.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 7,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 447,
-        "idEtiqueta": 1,
-        "idProducto": 2510,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 22,
+      "103": 12,
       "105": 23
     }
   },
   {
-    "idProducto": 2517,
-    "codigo": "87270",
-    "descripcion": "JUGUETE UNICORNIO INFLABLE",
+    "idProducto": 2783,
+    "codigo": "1160",
+    "descripcion": "BORRADORES 3PCS",
     "precio": {
-      "idPrecio": 2053,
-      "idProducto": 2517,
+      "idPrecio": 2329,
+      "idProducto": 2783,
       "idMoneda": 1,
-      "precio": 5180.0
+      "precio": 410.0
     },
     "precios": [
       {
-        "idPrecio": 2053,
-        "idProducto": 2517,
+        "idPrecio": 2329,
+        "idProducto": 2783,
         "idMoneda": 1,
-        "precio": 5180.0
+        "precio": 410.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 7,
+    "idDepartamento": 9,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 454,
+        "idRelacion": 822,
         "idEtiqueta": 1,
-        "idProducto": 2517,
-        "valor": "28/01"
+        "idProducto": 2783,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 6
+      "102": 14,
+      "103": 12,
+      "105": 10
     }
   },
   {
-    "idProducto": 2559,
-    "codigo": "87111",
-    "descripcion": "LAMPARA DE MESA",
+    "idProducto": 2782,
+    "codigo": "1158",
+    "descripcion": "BORRADORES BLANCOS",
     "precio": {
-      "idPrecio": 2095,
-      "idProducto": 2559,
+      "idPrecio": 2328,
+      "idProducto": 2782,
       "idMoneda": 1,
-      "precio": 2220.0
+      "precio": 410.0
     },
     "precios": [
       {
-        "idPrecio": 2095,
-        "idProducto": 2559,
+        "idPrecio": 2328,
+        "idProducto": 2782,
         "idMoneda": 1,
-        "precio": 2220.0
+        "precio": 410.0
       }
     ],
-    "image_name": "LAMPARA DE MESA -87111.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 27,
-    "idDepartamento": 6,
+    "idDepartamento": 9,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 496,
+        "idRelacion": 821,
         "idEtiqueta": 1,
-        "idProducto": 2559,
-        "valor": "28/01"
+        "idProducto": 2782,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 9
+      "103": 12,
+      "105": 11
     }
   },
   {
-    "idProducto": 2537,
-    "codigo": "87113",
-    "descripcion": "LAMPARA DE MESA C/ RELOJ",
+    "idProducto": 2670,
+    "codigo": "BG-056",
+    "descripcion": "BOWL DE MELANINA",
     "precio": {
-      "idPrecio": 2073,
-      "idProducto": 2537,
+      "idPrecio": 2216,
+      "idProducto": 2670,
       "idMoneda": 1,
-      "precio": 2740.0
+      "precio": 610.0
     },
     "precios": [
       {
-        "idPrecio": 2073,
-        "idProducto": 2537,
+        "idPrecio": 2216,
+        "idProducto": 2670,
         "idMoneda": 1,
-        "precio": 2740.0
+        "precio": 610.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 55,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 474,
+        "idRelacion": 709,
         "idEtiqueta": 1,
-        "idProducto": 2537,
-        "valor": "28/01"
+        "idProducto": 2670,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 0,
+      "105": 12
+    }
+  },
+  {
+    "idProducto": 2654,
+    "codigo": "38 50MM -81556",
+    "descripcion": "CANDADO 32",
+    "precio": {
+      "idPrecio": 2200,
+      "idProducto": 2654,
+      "idMoneda": 1,
+      "precio": 5700.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2200,
+        "idProducto": 2654,
+        "idMoneda": 1,
+        "precio": 5700.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 42,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 693,
+        "idEtiqueta": 1,
+        "idProducto": 2654,
+        "valor": "31-03"
       }
     ],
     "stocks": {
       "103": 4,
-      "105": 18
+      "105": 4
     }
   },
   {
-    "idProducto": 2558,
-    "codigo": "AS-4034",
-    "descripcion": "MARCADORES DE AGUA",
+    "idProducto": 2790,
+    "codigo": "6119",
+    "descripcion": "CARTUCHERA",
     "precio": {
-      "idPrecio": 2094,
-      "idProducto": 2558,
+      "idPrecio": 2336,
+      "idProducto": 2790,
       "idMoneda": 1,
-      "precio": 370.0
+      "precio": 2035.0
     },
     "precios": [
       {
-        "idPrecio": 2094,
-        "idProducto": 2558,
+        "idPrecio": 2336,
+        "idProducto": 2790,
         "idMoneda": 1,
-        "precio": 370.0
+        "precio": 2035.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 829,
+        "idEtiqueta": 1,
+        "idProducto": 2790,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "102": 12,
+      "105": 12
+    }
+  },
+  {
+    "idProducto": 2789,
+    "codigo": "6046",
+    "descripcion": "CARTUCHERA 22X12CM\"",
+    "precio": {
+      "idPrecio": 2335,
+      "idProducto": 2789,
+      "idMoneda": 1,
+      "precio": 1225.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2335,
+        "idProducto": 2789,
+        "idMoneda": 1,
+        "precio": 1225.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 9,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 495,
+        "idRelacion": 828,
         "idEtiqueta": 1,
-        "idProducto": 2558,
-        "valor": "28/01"
+        "idProducto": 2789,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 5
+      "102": 12,
+      "103": 8,
+      "105": 12
     }
   },
   {
-    "idProducto": 2418,
-    "codigo": "9090",
-    "descripcion": "MESA PLEGABLE P/ JUEGOS",
+    "idProducto": 2647,
+    "codigo": "82277",
+    "descripcion": "CESPED ARTIFICIAL 1X3M",
     "precio": {
-      "idPrecio": 1954,
-      "idProducto": 2418,
+      "idPrecio": 2193,
+      "idProducto": 2647,
       "idMoneda": 1,
-      "precio": 37000.0
+      "precio": 24420.0
     },
     "precios": [
       {
-        "idPrecio": 1954,
-        "idProducto": 2418,
+        "idPrecio": 2193,
+        "idProducto": 2647,
         "idMoneda": 1,
-        "precio": 37000.0
+        "precio": 24420.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 87,
-    "idDepartamento": 10,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 354,
+        "idRelacion": 686,
         "idEtiqueta": 1,
-        "idProducto": 2418,
-        "valor": "28/01"
+        "idProducto": 2647,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 4,
       "105": 2
     }
   },
   {
-    "idProducto": 2571,
-    "codigo": "175 70R 13C",
-    "descripcion": "NEUMATICO",
+    "idProducto": 2786,
+    "codigo": "4035",
+    "descripcion": "CINTA ADHESIVA TRANSPARENTE",
     "precio": {
-      "idPrecio": 2107,
-      "idProducto": 2571,
+      "idPrecio": 2332,
+      "idProducto": 2786,
       "idMoneda": 1,
-      "precio": 22200.0
+      "precio": 125.0
     },
     "precios": [
       {
-        "idPrecio": 2107,
-        "idProducto": 2571,
+        "idPrecio": 2332,
+        "idProducto": 2786,
         "idMoneda": 1,
-        "precio": 22200.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 74,
-    "idDepartamento": 2,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 509,
-        "idEtiqueta": 1,
-        "idProducto": 2571,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 4
-    }
-  },
-  {
-    "idProducto": 2572,
-    "codigo": "185 65R 14C",
-    "descripcion": "NEUMATICO",
-    "precio": {
-      "idPrecio": 2108,
-      "idProducto": 2572,
-      "idMoneda": 1,
-      "precio": 24050.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2108,
-        "idProducto": 2572,
-        "idMoneda": 1,
-        "precio": 24050.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 74,
-    "idDepartamento": 2,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 510,
-        "idEtiqueta": 1,
-        "idProducto": 2572,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 3
-    }
-  },
-  {
-    "idProducto": 2573,
-    "codigo": "185 65R 15C",
-    "descripcion": "NEUMATICO",
-    "precio": {
-      "idPrecio": 2109,
-      "idProducto": 2573,
-      "idMoneda": 1,
-      "precio": 27750.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2109,
-        "idProducto": 2573,
-        "idMoneda": 1,
-        "precio": 27750.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 74,
-    "idDepartamento": 2,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 511,
-        "idEtiqueta": 1,
-        "idProducto": 2573,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 2,
-      "105": 3
-    }
-  },
-  {
-    "idProducto": 2574,
-    "codigo": "225 70R 15C",
-    "descripcion": "NEUMATICO",
-    "precio": {
-      "idPrecio": 2110,
-      "idProducto": 2574,
-      "idMoneda": 1,
-      "precio": 44400.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2110,
-        "idProducto": 2574,
-        "idMoneda": 1,
-        "precio": 44400.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 74,
-    "idDepartamento": 2,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 512,
-        "idEtiqueta": 1,
-        "idProducto": 2574,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 2,
-      "105": 3
-    }
-  },
-  {
-    "idProducto": 2590,
-    "codigo": "LT-IND-7L",
-    "descripcion": "OLLA DE PRESION INDUCCION 7L",
-    "precio": {
-      "idPrecio": 2126,
-      "idProducto": 2590,
-      "idMoneda": 1,
-      "precio": 14800.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2126,
-        "idProducto": 2590,
-        "idMoneda": 1,
-        "precio": 14800.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 26,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 532,
-        "idEtiqueta": 1,
-        "idProducto": 2590,
-        "valor": "31/01"
-      },
-      {
-        "idRelacion": 544,
-        "idEtiqueta": 9,
-        "idProducto": 2590,
-        "valor": ""
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2591,
-    "codigo": "PC-20",
-    "descripcion": "OLLA PRESION 4LTS",
-    "precio": {
-      "idPrecio": 2127,
-      "idProducto": 2591,
-      "idMoneda": 1,
-      "precio": 11100.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2127,
-        "idProducto": 2591,
-        "idMoneda": 1,
-        "precio": 11100.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 26,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 533,
-        "idEtiqueta": 1,
-        "idProducto": 2591,
-        "valor": "31/01"
-      },
-      {
-        "idRelacion": 541,
-        "idEtiqueta": 9,
-        "idProducto": 2591,
-        "valor": ""
-      }
-    ],
-    "stocks": {
-      "103": 11,
-      "105": 20
-    }
-  },
-  {
-    "idProducto": 2592,
-    "codigo": "PC-22",
-    "descripcion": "OLLA PRESION 5LTS",
-    "precio": {
-      "idPrecio": 2128,
-      "idProducto": 2592,
-      "idMoneda": 1,
-      "precio": 12950.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2128,
-        "idProducto": 2592,
-        "idMoneda": 1,
-        "precio": 12950.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 26,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 534,
-        "idEtiqueta": 1,
-        "idProducto": 2592,
-        "valor": "31/01"
-      },
-      {
-        "idRelacion": 540,
-        "idEtiqueta": 9,
-        "idProducto": 2592,
-        "valor": ""
-      }
-    ],
-    "stocks": {
-      "103": 10,
-      "105": 19
-    }
-  },
-  {
-    "idProducto": 2593,
-    "codigo": "PC-24",
-    "descripcion": "OLLA PRESION 7LTS",
-    "precio": {
-      "idPrecio": 2129,
-      "idProducto": 2593,
-      "idMoneda": 1,
-      "precio": 14800.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2129,
-        "idProducto": 2593,
-        "idMoneda": 1,
-        "precio": 14800.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 26,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 535,
-        "idEtiqueta": 1,
-        "idProducto": 2593,
-        "valor": "31/01"
-      },
-      {
-        "idRelacion": 539,
-        "idEtiqueta": 9,
-        "idProducto": 2593,
-        "valor": ""
-      }
-    ],
-    "stocks": {
-      "103": 12,
-      "105": 23
-    }
-  },
-  {
-    "idProducto": 2523,
-    "codigo": "88107",
-    "descripcion": "PELUCHE GATO",
-    "precio": {
-      "idPrecio": 2059,
-      "idProducto": 2523,
-      "idMoneda": 1,
-      "precio": 3330.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2059,
-        "idProducto": 2523,
-        "idMoneda": 1,
-        "precio": 3330.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 105,
-    "idDepartamento": 7,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 460,
-        "idEtiqueta": 1,
-        "idProducto": 2523,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 5,
-      "105": 18
-    }
-  },
-  {
-    "idProducto": 2525,
-    "codigo": "88108",
-    "descripcion": "PELUCHE GATO",
-    "precio": {
-      "idPrecio": 2061,
-      "idProducto": 2525,
-      "idMoneda": 1,
-      "precio": 2220.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2061,
-        "idProducto": 2525,
-        "idMoneda": 1,
-        "precio": 2220.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 105,
-    "idDepartamento": 7,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 462,
-        "idEtiqueta": 1,
-        "idProducto": 2525,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 7,
-      "105": 9
-    }
-  },
-  {
-    "idProducto": 2524,
-    "codigo": "88109",
-    "descripcion": "PELUCHE PERRO",
-    "precio": {
-      "idPrecio": 2060,
-      "idProducto": 2524,
-      "idMoneda": 1,
-      "precio": 2960.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2060,
-        "idProducto": 2524,
-        "idMoneda": 1,
-        "precio": 2960.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 105,
-    "idDepartamento": 7,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 461,
-        "idEtiqueta": 1,
-        "idProducto": 2524,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 12,
-      "105": 3
-    }
-  },
-  {
-    "idProducto": 2545,
-    "codigo": "4254",
-    "descripcion": "PLANTA ARTIFICIAL",
-    "precio": {
-      "idPrecio": 2081,
-      "idProducto": 2545,
-      "idMoneda": 1,
-      "precio": 3110.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2081,
-        "idProducto": 2545,
-        "idMoneda": 1,
-        "precio": 3110.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 92,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 482,
-        "idEtiqueta": 1,
-        "idProducto": 2545,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 9,
-      "105": 14
-    }
-  },
-  {
-    "idProducto": 2550,
-    "codigo": "4256",
-    "descripcion": "PLANTA ARTIFICIAL",
-    "precio": {
-      "idPrecio": 2086,
-      "idProducto": 2550,
-      "idMoneda": 1,
-      "precio": 1050.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2086,
-        "idProducto": 2550,
-        "idMoneda": 1,
-        "precio": 1050.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 92,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 487,
-        "idEtiqueta": 1,
-        "idProducto": 2550,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2459,
-    "codigo": "22803",
-    "descripcion": "PLATO HONDO 9 PULGADAS",
-    "precio": {
-      "idPrecio": 1995,
-      "idProducto": 2459,
-      "idMoneda": 1,
-      "precio": 350.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1995,
-        "idProducto": 2459,
-        "idMoneda": 1,
-        "precio": 350.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 61,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 395,
-        "idEtiqueta": 1,
-        "idProducto": 2459,
-        "valor": "28/01"
-      },
-      {
-        "idRelacion": 562,
-        "idEtiqueta": 14,
-        "idProducto": 2459,
-        "valor": ""
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2468,
-    "codigo": "32024-5",
-    "descripcion": "PLATO PLASTICO 5.5 PULGADAS",
-    "precio": {
-      "idPrecio": 2004,
-      "idProducto": 2468,
-      "idMoneda": 1,
-      "precio": 490.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2004,
-        "idProducto": 2468,
-        "idMoneda": 1,
-        "precio": 490.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 61,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 404,
-        "idEtiqueta": 1,
-        "idProducto": 2468,
-        "valor": "28/01"
-      },
-      {
-        "idRelacion": 563,
-        "idEtiqueta": 14,
-        "idProducto": 2468,
-        "valor": ""
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2467,
-    "codigo": "32024-6",
-    "descripcion": "PLATO PLASTICO 6.5 PULGADAS",
-    "precio": {
-      "idPrecio": 2003,
-      "idProducto": 2467,
-      "idMoneda": 1,
-      "precio": 560.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2003,
-        "idProducto": 2467,
-        "idMoneda": 1,
-        "precio": 560.0
-      }
-    ],
-    "ipv": false,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 61,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 403,
-        "idEtiqueta": 1,
-        "idProducto": 2467,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2457,
-    "codigo": "RATAN",
-    "descripcion": "PORTA CUBIERTO C/ TAPA",
-    "precio": {
-      "idPrecio": 1993,
-      "idProducto": 2457,
-      "idMoneda": 1,
-      "precio": 1050.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1993,
-        "idProducto": 2457,
-        "idMoneda": 1,
-        "precio": 1050.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 393,
-        "idEtiqueta": 1,
-        "idProducto": 2457,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2529,
-    "codigo": "86480",
-    "descripcion": "PORTA RETRATO 10X15",
-    "precio": {
-      "idPrecio": 2065,
-      "idProducto": 2529,
-      "idMoneda": 1,
-      "precio": 600.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2065,
-        "idProducto": 2529,
-        "idMoneda": 1,
-        "precio": 600.0
-      }
-    ],
-    "ipv": false,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 93,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 466,
-        "idEtiqueta": 1,
-        "idProducto": 2529,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2532,
-    "codigo": "86463",
-    "descripcion": "PORTA RETRATO 4X6",
-    "precio": {
-      "idPrecio": 2068,
-      "idProducto": 2532,
-      "idMoneda": 1,
-      "precio": 600.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2068,
-        "idProducto": 2532,
-        "idMoneda": 1,
-        "precio": 600.0
-      }
-    ],
-    "ipv": false,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 93,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 469,
-        "idEtiqueta": 1,
-        "idProducto": 2532,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2528,
-    "codigo": "86491",
-    "descripcion": "PORTA RETRATO 9X13",
-    "precio": {
-      "idPrecio": 2064,
-      "idProducto": 2528,
-      "idMoneda": 1,
-      "precio": 600.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2064,
-        "idProducto": 2528,
-        "idMoneda": 1,
-        "precio": 600.0
-      }
-    ],
-    "ipv": false,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 93,
-    "idDepartamento": 10,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 465,
-        "idEtiqueta": 1,
-        "idProducto": 2528,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2554,
-    "codigo": "4745-B",
-    "descripcion": "PULLOVER PARA HOMBRE",
-    "precio": {
-      "idPrecio": 2090,
-      "idProducto": 2554,
-      "idMoneda": 1,
-      "precio": 2220.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2090,
-        "idProducto": 2554,
-        "idMoneda": 1,
-        "precio": 2220.0
-      }
-    ],
-    "image_name": "PULLOVER PARA HOMBRE -4745-B.webp",
-    "ipv": false,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 31,
-    "idDepartamento": 8,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 491,
-        "idEtiqueta": 1,
-        "idProducto": 2554,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "105": 16
-    }
-  },
-  {
-    "idProducto": 2553,
-    "codigo": "4745-N",
-    "descripcion": "PULLOVER PARA HOMBRE",
-    "precio": {
-      "idPrecio": 2089,
-      "idProducto": 2553,
-      "idMoneda": 1,
-      "precio": 2220.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2089,
-        "idProducto": 2553,
-        "idMoneda": 1,
-        "precio": 2220.0
-      }
-    ],
-    "ipv": false,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 31,
-    "idDepartamento": 8,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 490,
-        "idEtiqueta": 1,
-        "idProducto": 2553,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "105": 16
-    }
-  },
-  {
-    "idProducto": 2551,
-    "codigo": "4745-P",
-    "descripcion": "PULLOVER PARA HOMBRE",
-    "precio": {
-      "idPrecio": 2087,
-      "idProducto": 2551,
-      "idMoneda": 1,
-      "precio": 2220.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2087,
-        "idProducto": 2551,
-        "idMoneda": 1,
-        "precio": 2220.0
-      }
-    ],
-    "ipv": false,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 31,
-    "idDepartamento": 8,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 488,
-        "idEtiqueta": 1,
-        "idProducto": 2551,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "105": 18
-    }
-  },
-  {
-    "idProducto": 2552,
-    "codigo": "4745-R",
-    "descripcion": "PULLOVER PARA HOMBRE",
-    "precio": {
-      "idPrecio": 2088,
-      "idProducto": 2552,
-      "idMoneda": 1,
-      "precio": 2220.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2088,
-        "idProducto": 2552,
-        "idMoneda": 1,
-        "precio": 2220.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 31,
-    "idDepartamento": 8,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 489,
-        "idEtiqueta": 1,
-        "idProducto": 2552,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 12,
-      "105": 17
-    }
-  },
-  {
-    "idProducto": 2556,
-    "codigo": "4746-B",
-    "descripcion": "PULLOVER PARA MUJER",
-    "precio": {
-      "idPrecio": 2092,
-      "idProducto": 2556,
-      "idMoneda": 1,
-      "precio": 2220.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2092,
-        "idProducto": 2556,
-        "idMoneda": 1,
-        "precio": 2220.0
-      }
-    ],
-    "ipv": false,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 31,
-    "idDepartamento": 8,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 493,
-        "idEtiqueta": 1,
-        "idProducto": 2556,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "105": 8
-    }
-  },
-  {
-    "idProducto": 2538,
-    "codigo": "87494",
-    "descripcion": "RELOJ DE ALARMA",
-    "precio": {
-      "idPrecio": 2074,
-      "idProducto": 2538,
-      "idMoneda": 1,
-      "precio": 1630.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2074,
-        "idProducto": 2538,
-        "idMoneda": 1,
-        "precio": 1630.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 55,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 475,
-        "idEtiqueta": 1,
-        "idProducto": 2538,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 8,
-      "105": 18
-    }
-  },
-  {
-    "idProducto": 2539,
-    "codigo": "87493",
-    "descripcion": "RELOJ DESPERTADOR",
-    "precio": {
-      "idPrecio": 2075,
-      "idProducto": 2539,
-      "idMoneda": 1,
-      "precio": 1630.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2075,
-        "idProducto": 2539,
-        "idMoneda": 1,
-        "precio": 1630.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 55,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 476,
-        "idEtiqueta": 1,
-        "idProducto": 2539,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 3,
-      "105": 13
-    }
-  },
-  {
-    "idProducto": 2536,
-    "codigo": "84384",
-    "descripcion": "ROMPECABEZA PARA PISO",
-    "precio": {
-      "idPrecio": 2072,
-      "idProducto": 2536,
-      "idMoneda": 1,
-      "precio": 5180.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2072,
-        "idProducto": 2536,
-        "idMoneda": 1,
-        "precio": 5180.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 62,
-    "idDepartamento": 7,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 473,
-        "idEtiqueta": 1,
-        "idProducto": 2536,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 1,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2564,
-    "codigo": "9981",
-    "descripcion": "SCOOTER PARA NIÑOS",
-    "precio": {
-      "idPrecio": 2100,
-      "idProducto": 2564,
-      "idMoneda": 1,
-      "precio": 8750.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2100,
-        "idProducto": 2564,
-        "idMoneda": 1,
-        "precio": 8750.0
-      }
-    ],
-    "ipv": false,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 58,
-    "idDepartamento": 7,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 501,
-        "idEtiqueta": 1,
-        "idProducto": 2564,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2436,
-    "codigo": "KC02",
-    "descripcion": "SET DE CUCHARONES 7 PCS",
-    "precio": {
-      "idPrecio": 1972,
-      "idProducto": 2436,
-      "idMoneda": 1,
-      "precio": 6290.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1972,
-        "idProducto": 2436,
-        "idMoneda": 1,
-        "precio": 6290.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 372,
-        "idEtiqueta": 1,
-        "idProducto": 2436,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 2,
-      "105": 9
-    }
-  },
-  {
-    "idProducto": 2557,
-    "codigo": "STR-1200",
-    "descripcion": "SET ESCOLAR",
-    "precio": {
-      "idPrecio": 2093,
-      "idProducto": 2557,
-      "idMoneda": 1,
-      "precio": 740.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2093,
-        "idProducto": 2557,
-        "idMoneda": 1,
-        "precio": 740.0
+        "precio": 125.0
       }
     ],
     "ipv": true,
@@ -3860,121 +1589,52 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 494,
+        "idRelacion": 825,
         "idEtiqueta": 1,
-        "idProducto": 2557,
-        "valor": "28/01"
+        "idProducto": 2786,
+        "valor": "31-03"
+      },
+      {
+        "idRelacion": 849,
+        "idEtiqueta": 2,
+        "idProducto": 2786,
+        "valor": "1425.0"
       }
     ],
     "stocks": {
-      "103": 13,
-      "105": 7
+      "103": 24,
+      "105": 48
     }
   },
   {
-    "idProducto": 2444,
-    "codigo": "1391",
-    "descripcion": "TABLA DE PICAR",
+    "idProducto": 2781,
+    "codigo": "SS-024",
+    "descripcion": "COLADOR 24CM",
     "precio": {
-      "idPrecio": 1980,
-      "idProducto": 2444,
+      "idPrecio": 2327,
+      "idProducto": 2781,
       "idMoneda": 1,
-      "precio": 1110.0
+      "precio": 3260.0
     },
     "precios": [
       {
-        "idPrecio": 1980,
-        "idProducto": 2444,
+        "idPrecio": 2327,
+        "idProducto": 2781,
         "idMoneda": 1,
-        "precio": 1110.0
+        "precio": 3260.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 94,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 380,
+        "idRelacion": 820,
         "idEtiqueta": 1,
-        "idProducto": 2444,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 4
-    }
-  },
-  {
-    "idProducto": 2445,
-    "codigo": "1393",
-    "descripcion": "TABLA DE PICAR",
-    "precio": {
-      "idPrecio": 1981,
-      "idProducto": 2445,
-      "idMoneda": 1,
-      "precio": 1480.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1981,
-        "idProducto": 2445,
-        "idMoneda": 1,
-        "precio": 1480.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 94,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 381,
-        "idEtiqueta": 1,
-        "idProducto": 2445,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 3,
-      "105": 3
-    }
-  },
-  {
-    "idProducto": 2446,
-    "codigo": "50836",
-    "descripcion": "TABLA DE PICAR",
-    "precio": {
-      "idPrecio": 1982,
-      "idProducto": 2446,
-      "idMoneda": 1,
-      "precio": 1850.0
-    },
-    "precios": [
-      {
-        "idPrecio": 1982,
-        "idProducto": 2446,
-        "idMoneda": 1,
-        "precio": 1850.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 94,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 382,
-        "idEtiqueta": 1,
-        "idProducto": 2446,
-        "valor": "28/01"
+        "idProducto": 2781,
+        "valor": "31-03"
       }
     ],
     "stocks": {
@@ -3983,584 +1643,1263 @@
     }
   },
   {
-    "idProducto": 2431,
-    "codigo": "PJ-116",
-    "descripcion": "TAZA DE VIDRIO 15 ONZAS",
+    "idProducto": 2696,
+    "codigo": "86000",
+    "descripcion": "COLADOR DE METAL",
     "precio": {
-      "idPrecio": 1967,
-      "idProducto": 2431,
+      "idPrecio": 2242,
+      "idProducto": 2696,
       "idMoneda": 1,
-      "precio": 3330.0
+      "precio": 2035.0
     },
     "precios": [
       {
-        "idPrecio": 1967,
-        "idProducto": 2431,
+        "idPrecio": 2242,
+        "idProducto": 2696,
         "idMoneda": 1,
-        "precio": 3330.0
+        "precio": 2035.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 29,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 367,
+        "idRelacion": 735,
         "idEtiqueta": 1,
-        "idProducto": 2431,
-        "valor": "28/01"
+        "idProducto": 2696,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 12
+    }
+  },
+  {
+    "idProducto": 2711,
+    "codigo": "96940",
+    "descripcion": "COLADOR DE METAL",
+    "precio": {
+      "idPrecio": 2257,
+      "idProducto": 2711,
+      "idMoneda": 1,
+      "precio": 4480.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2257,
+        "idProducto": 2711,
+        "idMoneda": 1,
+        "precio": 4480.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 750,
+        "idEtiqueta": 1,
+        "idProducto": 2711,
+        "valor": "31-03"
       }
     ],
     "stocks": {
       "103": 3,
-      "105": 0
+      "105": 3
     }
   },
   {
-    "idProducto": 2432,
-    "codigo": "85955",
-    "descripcion": "TAZA DE VIDRIO 340 ML",
+    "idProducto": 2785,
+    "codigo": "2424",
+    "descripcion": "COMPAS",
     "precio": {
-      "idPrecio": 1968,
-      "idProducto": 2432,
+      "idPrecio": 2331,
+      "idProducto": 2785,
       "idMoneda": 1,
-      "precio": 420.0
+      "precio": 815.0
     },
     "precios": [
       {
-        "idPrecio": 1968,
-        "idProducto": 2432,
+        "idPrecio": 2331,
+        "idProducto": 2785,
         "idMoneda": 1,
-        "precio": 420.0
+        "precio": 815.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 29,
-    "idDepartamento": 6,
+    "idDepartamento": 9,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 368,
+        "idRelacion": 824,
         "idEtiqueta": 1,
-        "idProducto": 2432,
-        "valor": "28/01"
+        "idProducto": 2785,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "103": 6,
+      "105": 12
     }
   },
   {
-    "idProducto": 2443,
-    "codigo": "84895",
-    "descripcion": "TAZA PLASTICA 4 PCS",
+    "idProducto": 2771,
+    "codigo": "K-223",
+    "descripcion": "CORNIZA DE METAL 48X84\"",
     "precio": {
-      "idPrecio": 1979,
-      "idProducto": 2443,
+      "idPrecio": 2317,
+      "idProducto": 2771,
       "idMoneda": 1,
-      "precio": 700.0
+      "precio": 3460.0
     },
     "precios": [
       {
-        "idPrecio": 1979,
-        "idProducto": 2443,
+        "idPrecio": 2317,
+        "idProducto": 2771,
         "idMoneda": 1,
-        "precio": 700.0
+        "precio": 3460.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idCategoria": 29,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 379,
+        "idRelacion": 810,
         "idEtiqueta": 1,
-        "idProducto": 2443,
-        "valor": "28/01"
+        "idProducto": 2771,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2762,
+    "codigo": "C-310",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
+    "precio": {
+      "idPrecio": 2308,
+      "idProducto": 2762,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2308,
+        "idProducto": 2762,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 801,
+        "idEtiqueta": 1,
+        "idProducto": 2762,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2763,
+    "codigo": "C-311",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
+    "precio": {
+      "idPrecio": 2309,
+      "idProducto": 2763,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2309,
+        "idProducto": 2763,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 802,
+        "idEtiqueta": 1,
+        "idProducto": 2763,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2764,
+    "codigo": "C-312",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
+    "precio": {
+      "idPrecio": 2310,
+      "idProducto": 2764,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2310,
+        "idProducto": 2764,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 803,
+        "idEtiqueta": 1,
+        "idProducto": 2764,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "105": 7
     }
   },
   {
-    "idProducto": 2434,
-    "codigo": "180CC",
-    "descripcion": "TAZAS CON PLATOS DE CERAMICA",
+    "idProducto": 2765,
+    "codigo": "C-315",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
     "precio": {
-      "idPrecio": 1970,
-      "idProducto": 2434,
+      "idPrecio": 2311,
+      "idProducto": 2765,
       "idMoneda": 1,
-      "precio": 3700.0
+      "precio": 4070.0
     },
     "precios": [
       {
-        "idPrecio": 1970,
-        "idProducto": 2434,
+        "idPrecio": 2311,
+        "idProducto": 2765,
         "idMoneda": 1,
-        "precio": 3700.0
+        "precio": 4070.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idCategoria": 29,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 370,
+        "idRelacion": 804,
         "idEtiqueta": 1,
-        "idProducto": 2434,
-        "valor": "28/01"
+        "idProducto": 2765,
+        "valor": "31-03"
       }
     ],
-    "stocks": {
-      "103": 9,
-      "105": 9
-    }
+    "stocks": {}
   },
   {
-    "idProducto": 2497,
-    "codigo": "1045",
-    "descripcion": "TERMO 0.45L",
+    "idProducto": 2766,
+    "codigo": "E-115",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
     "precio": {
-      "idPrecio": 2033,
-      "idProducto": 2497,
+      "idPrecio": 2312,
+      "idProducto": 2766,
       "idMoneda": 1,
-      "precio": 1480.0
+      "precio": 4070.0
     },
     "precios": [
       {
-        "idPrecio": 2033,
-        "idProducto": 2497,
+        "idPrecio": 2312,
+        "idProducto": 2766,
         "idMoneda": 1,
-        "precio": 1480.0
+        "precio": 4070.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idCategoria": 73,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 433,
+        "idRelacion": 805,
         "idEtiqueta": 1,
-        "idProducto": 2497,
-        "valor": "28/01"
+        "idProducto": 2766,
+        "valor": "31-03"
       }
     ],
-    "stocks": {
-      "103": 10,
-      "105": 14
-    }
+    "stocks": {}
   },
   {
-    "idProducto": 2498,
-    "codigo": "1690",
-    "descripcion": "TERMO 0.45L",
+    "idProducto": 2768,
+    "codigo": "HL-515",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
     "precio": {
-      "idPrecio": 2034,
-      "idProducto": 2498,
+      "idPrecio": 2314,
+      "idProducto": 2768,
       "idMoneda": 1,
-      "precio": 1480.0
+      "precio": 4070.0
     },
     "precios": [
       {
-        "idPrecio": 2034,
-        "idProducto": 2498,
+        "idPrecio": 2314,
+        "idProducto": 2768,
         "idMoneda": 1,
-        "precio": 1480.0
+        "precio": 4070.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idCategoria": 73,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 434,
+        "idRelacion": 807,
         "idEtiqueta": 1,
-        "idProducto": 2498,
-        "valor": "28/01"
+        "idProducto": 2768,
+        "valor": "31-03"
+      },
+      {
+        "idRelacion": 840,
+        "idEtiqueta": 2,
+        "idProducto": 2768,
+        "valor": "4070.0"
       }
     ],
     "stocks": {
-      "103": 12,
-      "105": 8
-    }
-  },
-  {
-    "idProducto": 2501,
-    "codigo": "2644-C",
-    "descripcion": "TERMO 1L",
-    "precio": {
-      "idPrecio": 2037,
-      "idProducto": 2501,
-      "idMoneda": 1,
-      "precio": 1850.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2037,
-        "idProducto": 2501,
-        "idMoneda": 1,
-        "precio": 1850.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 73,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 437,
-        "idEtiqueta": 1,
-        "idProducto": 2501,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 2,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2576,
-    "codigo": "2644-HT",
-    "descripcion": "TERMO 1L",
-    "precio": {
-      "idPrecio": 2112,
-      "idProducto": 2576,
-      "idMoneda": 1,
-      "precio": 1850.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2112,
-        "idProducto": 2576,
-        "idMoneda": 1,
-        "precio": 1850.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 73,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 514,
-        "idEtiqueta": 1,
-        "idProducto": 2576,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 9,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2575,
-    "codigo": "2644-HTA",
-    "descripcion": "TERMO 1L",
-    "precio": {
-      "idPrecio": 2111,
-      "idProducto": 2575,
-      "idMoneda": 1,
-      "precio": 2075.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2111,
-        "idProducto": 2575,
-        "idMoneda": 1,
-        "precio": 2075.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 73,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 513,
-        "idEtiqueta": 1,
-        "idProducto": 2575,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 1,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2502,
-    "codigo": "2690",
-    "descripcion": "TERMO 1L",
-    "precio": {
-      "idPrecio": 2038,
-      "idProducto": 2502,
-      "idMoneda": 1,
-      "precio": 1850.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2038,
-        "idProducto": 2502,
-        "idMoneda": 1,
-        "precio": 1850.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idCategoria": 73,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 438,
-        "idEtiqueta": 1,
-        "idProducto": 2502,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 0
-    }
-  },
-  {
-    "idProducto": 2535,
-    "codigo": "PRI-003",
-    "descripcion": "TIBOR PARA NIÑOS",
-    "precio": {
-      "idPrecio": 2071,
-      "idProducto": 2535,
-      "idMoneda": 1,
-      "precio": 8140.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2071,
-        "idProducto": 2535,
-        "idMoneda": 1,
-        "precio": 8140.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 6,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 472,
-        "idEtiqueta": 1,
-        "idProducto": 2535,
-        "valor": "28/01"
-      }
-    ],
-    "stocks": {
-      "103": 2,
       "105": 2
     }
   },
   {
-    "idProducto": 2534,
-    "codigo": "PRI-005",
-    "descripcion": "TIBOR PARA NIÑOS",
+    "idProducto": 2767,
+    "codigo": "HL-517",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
     "precio": {
-      "idPrecio": 2070,
-      "idProducto": 2534,
+      "idPrecio": 2313,
+      "idProducto": 2767,
       "idMoneda": 1,
-      "precio": 7400.0
+      "precio": 4070.0
     },
     "precios": [
       {
-        "idPrecio": 2070,
-        "idProducto": 2534,
+        "idPrecio": 2313,
+        "idProducto": 2767,
         "idMoneda": 1,
-        "precio": 7400.0
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 806,
+        "idEtiqueta": 1,
+        "idProducto": 2767,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2769,
+    "codigo": "K-212",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
+    "precio": {
+      "idPrecio": 2315,
+      "idProducto": 2769,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2315,
+        "idProducto": 2769,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 808,
+        "idEtiqueta": 1,
+        "idProducto": 2769,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2770,
+    "codigo": "K-215",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
+    "precio": {
+      "idPrecio": 2316,
+      "idProducto": 2770,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2316,
+        "idProducto": 2770,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 809,
+        "idEtiqueta": 1,
+        "idProducto": 2770,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2772,
+    "codigo": "K-224",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
+    "precio": {
+      "idPrecio": 2318,
+      "idProducto": 2772,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2318,
+        "idProducto": 2772,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 811,
+        "idEtiqueta": 1,
+        "idProducto": 2772,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2773,
+    "codigo": "P-1022",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
+    "precio": {
+      "idPrecio": 2319,
+      "idProducto": 2773,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2319,
+        "idProducto": 2773,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 812,
+        "idEtiqueta": 1,
+        "idProducto": 2773,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2774,
+    "codigo": "P-1023",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
+    "precio": {
+      "idPrecio": 2320,
+      "idProducto": 2774,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2320,
+        "idProducto": 2774,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 813,
+        "idEtiqueta": 1,
+        "idProducto": 2774,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2775,
+    "codigo": "P-1024",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
+    "precio": {
+      "idPrecio": 2321,
+      "idProducto": 2775,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2321,
+        "idProducto": 2775,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 814,
+        "idEtiqueta": 1,
+        "idProducto": 2775,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2776,
+    "codigo": "P-1026",
+    "descripcion": "CORNIZA DE METAL 60X120\"",
+    "precio": {
+      "idPrecio": 2322,
+      "idProducto": 2776,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2322,
+        "idProducto": 2776,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 815,
+        "idEtiqueta": 1,
+        "idProducto": 2776,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2664,
+    "codigo": "3734",
+    "descripcion": "CORTINA BORDADA C/OJALES",
+    "precio": {
+      "idPrecio": 2210,
+      "idProducto": 2664,
+      "idMoneda": 1,
+      "precio": 5295.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2210,
+        "idProducto": 2664,
+        "idMoneda": 1,
+        "precio": 5295.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 703,
+        "idEtiqueta": 1,
+        "idProducto": 2664,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 2665,
+    "codigo": "3748",
+    "descripcion": "CORTINA C/ OJALES",
+    "precio": {
+      "idPrecio": 2211,
+      "idProducto": 2665,
+      "idMoneda": 1,
+      "precio": 4885.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2211,
+        "idProducto": 2665,
+        "idMoneda": 1,
+        "precio": 4885.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 471,
+        "idRelacion": 704,
         "idEtiqueta": 1,
-        "idProducto": 2534,
-        "valor": "28/01"
+        "idProducto": 2665,
+        "valor": "31-03"
       }
     ],
     "stocks": {
       "103": 2,
-      "105": 5
+      "105": 0
     }
   },
   {
-    "idProducto": 2566,
-    "codigo": "9930",
-    "descripcion": "TRICICLO",
+    "idProducto": 2666,
+    "codigo": "3750",
+    "descripcion": "CORTINA C/ OJALES",
     "precio": {
-      "idPrecio": 2102,
-      "idProducto": 2566,
+      "idPrecio": 2212,
+      "idProducto": 2666,
       "idMoneda": 1,
-      "precio": 15170.0
+      "precio": 4885.0
     },
     "precios": [
       {
-        "idPrecio": 2102,
-        "idProducto": 2566,
+        "idPrecio": 2212,
+        "idProducto": 2666,
         "idMoneda": 1,
-        "precio": 15170.0
+        "precio": 4885.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 7,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 504,
+        "idRelacion": 705,
         "idEtiqueta": 1,
-        "idProducto": 2566,
-        "valor": "28/01"
+        "idProducto": 2666,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
-    "idProducto": 2503,
-    "codigo": "TSR-01",
-    "descripcion": "TUBO DE TENSION BLANCO",
+    "idProducto": 2668,
+    "codigo": "3747",
+    "descripcion": "CORTINA CON OJALES",
     "precio": {
-      "idPrecio": 2039,
-      "idProducto": 2503,
+      "idPrecio": 2214,
+      "idProducto": 2668,
       "idMoneda": 1,
-      "precio": 1555.0
+      "precio": 4885.0
     },
     "precios": [
       {
-        "idPrecio": 2039,
-        "idProducto": 2503,
+        "idPrecio": 2214,
+        "idProducto": 2668,
         "idMoneda": 1,
-        "precio": 1555.0
+        "precio": 4885.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 439,
+        "idRelacion": 707,
         "idEtiqueta": 1,
-        "idProducto": 2503,
-        "valor": "28/01"
+        "idProducto": 2668,
+        "valor": "31-03"
+      },
+      {
+        "idRelacion": 842,
+        "idEtiqueta": 2,
+        "idProducto": 2668,
+        "valor": "4885.0"
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "105": 2
     }
   },
   {
-    "idProducto": 2505,
-    "codigo": "TSR-11",
-    "descripcion": "TUBO DE TENSION BLANCO",
+    "idProducto": 2667,
+    "codigo": "3751",
+    "descripcion": "CORTINA CON OJALES",
     "precio": {
-      "idPrecio": 2041,
-      "idProducto": 2505,
+      "idPrecio": 2213,
+      "idProducto": 2667,
       "idMoneda": 1,
-      "precio": 1555.0
+      "precio": 4885.0
     },
     "precios": [
       {
-        "idPrecio": 2041,
-        "idProducto": 2505,
+        "idPrecio": 2213,
+        "idProducto": 2667,
         "idMoneda": 1,
-        "precio": 1555.0
+        "precio": 4885.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 706,
+        "idEtiqueta": 1,
+        "idProducto": 2667,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2662,
+    "codigo": "1464",
+    "descripcion": "CORTINA CON OJALES 54X84",
+    "precio": {
+      "idPrecio": 2208,
+      "idProducto": 2662,
+      "idMoneda": 1,
+      "precio": 5295.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2208,
+        "idProducto": 2662,
+        "idMoneda": 1,
+        "precio": 5295.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 441,
+        "idRelacion": 701,
         "idEtiqueta": 1,
-        "idProducto": 2505,
-        "valor": "28/01"
+        "idProducto": 2662,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 2779,
+    "codigo": "LIN04",
+    "descripcion": "CORTINA DE BAÑO",
+    "precio": {
+      "idPrecio": 2325,
+      "idProducto": 2779,
+      "idMoneda": 1,
+      "precio": 1630.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2325,
+        "idProducto": 2779,
+        "idMoneda": 1,
+        "precio": 1630.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 818,
+        "idEtiqueta": 1,
+        "idProducto": 2779,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 10
+    }
+  },
+  {
+    "idProducto": 2778,
+    "codigo": "5067",
+    "descripcion": "CORTINA DE BAÑO CON GANCHOS",
+    "precio": {
+      "idPrecio": 2324,
+      "idProducto": 2778,
+      "idMoneda": 1,
+      "precio": 1835.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2324,
+        "idProducto": 2778,
+        "idMoneda": 1,
+        "precio": 1835.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 817,
+        "idEtiqueta": 1,
+        "idProducto": 2778,
+        "valor": "31-03"
       }
     ],
     "stocks": {
       "103": 3,
-      "105": 5
+      "105": 12
     }
   },
   {
-    "idProducto": 2504,
-    "codigo": "TSR-12",
-    "descripcion": "TUBO DE TENSION BLANCO",
+    "idProducto": 2659,
+    "codigo": "1095",
+    "descripcion": "CORTINA PARA SALA C/OJALES",
     "precio": {
-      "idPrecio": 2040,
-      "idProducto": 2504,
+      "idPrecio": 2205,
+      "idProducto": 2659,
       "idMoneda": 1,
-      "precio": 1555.0
+      "precio": 3260.0
     },
     "precios": [
       {
-        "idPrecio": 2040,
-        "idProducto": 2504,
+        "idPrecio": 2205,
+        "idProducto": 2659,
         "idMoneda": 1,
-        "precio": 1555.0
+        "precio": 3260.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 440,
+        "idRelacion": 698,
         "idEtiqueta": 1,
-        "idProducto": 2504,
-        "valor": "28/01"
+        "idProducto": 2659,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2663,
+    "codigo": "1462",
+    "descripcion": "CORTINA PARA SALA C/OJALES",
+    "precio": {
+      "idPrecio": 2209,
+      "idProducto": 2663,
+      "idMoneda": 1,
+      "precio": 5295.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2209,
+        "idProducto": 2663,
+        "idMoneda": 1,
+        "precio": 5295.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 702,
+        "idEtiqueta": 1,
+        "idProducto": 2663,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 2658,
+    "codigo": "1955",
+    "descripcion": "CORTINA PARA SALA C/OJALES",
+    "precio": {
+      "idPrecio": 2204,
+      "idProducto": 2658,
+      "idMoneda": 1,
+      "precio": 3260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2204,
+        "idProducto": 2658,
+        "idMoneda": 1,
+        "precio": 3260.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 697,
+        "idEtiqueta": 1,
+        "idProducto": 2658,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 2657,
+    "codigo": "1087",
+    "descripcion": "CORTINA TIPO SEDA C/OJALES",
+    "precio": {
+      "idPrecio": 2203,
+      "idProducto": 2657,
+      "idMoneda": 1,
+      "precio": 3260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2203,
+        "idProducto": 2657,
+        "idMoneda": 1,
+        "precio": 3260.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 696,
+        "idEtiqueta": 1,
+        "idProducto": 2657,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2656,
+    "codigo": "1088",
+    "descripcion": "CORTINA TIPO SEDA C/OJALES",
+    "precio": {
+      "idPrecio": 2202,
+      "idProducto": 2656,
+      "idMoneda": 1,
+      "precio": 3260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2202,
+        "idProducto": 2656,
+        "idMoneda": 1,
+        "precio": 3260.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 695,
+        "idEtiqueta": 1,
+        "idProducto": 2656,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2660,
+    "codigo": "1092",
+    "descripcion": "CORTINA TIPO SEDA C/OJALES",
+    "precio": {
+      "idPrecio": 2206,
+      "idProducto": 2660,
+      "idMoneda": 1,
+      "precio": 3260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2206,
+        "idProducto": 2660,
+        "idMoneda": 1,
+        "precio": 3260.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 699,
+        "idEtiqueta": 1,
+        "idProducto": 2660,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2661,
+    "codigo": "1571",
+    "descripcion": "CORTINA TIPO SEDA C/OJALES",
+    "precio": {
+      "idPrecio": 2207,
+      "idProducto": 2661,
+      "idMoneda": 1,
+      "precio": 3260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2207,
+        "idProducto": 2661,
+        "idMoneda": 1,
+        "precio": 3260.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 700,
+        "idEtiqueta": 1,
+        "idProducto": 2661,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2700,
+    "codigo": "8688M-7",
+    "descripcion": "CUCHILLO 7\"",
+    "precio": {
+      "idPrecio": 2246,
+      "idProducto": 2700,
+      "idMoneda": 1,
+      "precio": 1630.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2246,
+        "idProducto": 2700,
+        "idMoneda": 1,
+        "precio": 1630.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 739,
+        "idEtiqueta": 1,
+        "idProducto": 2700,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 12,
+      "105": 12
+    }
+  },
+  {
+    "idProducto": 2687,
+    "codigo": "82598",
+    "descripcion": "CUCHILLO CON TABLA DE PICAR",
+    "precio": {
+      "idPrecio": 2233,
+      "idProducto": 2687,
+      "idMoneda": 1,
+      "precio": 2850.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2233,
+        "idProducto": 2687,
+        "idMoneda": 1,
+        "precio": 2850.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 726,
+        "idEtiqueta": 1,
+        "idProducto": 2687,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2686,
+    "codigo": "82400",
+    "descripcion": "CUCHILLO CON TABLA DE PICAR 4 PCS",
+    "precio": {
+      "idPrecio": 2232,
+      "idProducto": 2686,
+      "idMoneda": 1,
+      "precio": 2850.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2232,
+        "idProducto": 2686,
+        "idMoneda": 1,
+        "precio": 2850.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 725,
+        "idEtiqueta": 1,
+        "idProducto": 2686,
+        "valor": "31-03"
       }
     ],
     "stocks": {
@@ -4569,109 +2908,1502 @@
     }
   },
   {
-    "idProducto": 2426,
-    "codigo": "59914",
-    "descripcion": "VASO DE VIDRIO 520 ML",
+    "idProducto": 2648,
+    "codigo": "88326",
+    "descripcion": "ESPEJO CON LUZ LED",
     "precio": {
-      "idPrecio": 1962,
-      "idProducto": 2426,
+      "idPrecio": 2194,
+      "idProducto": 2648,
       "idMoneda": 1,
-      "precio": 670.0
+      "precio": 18725.0
     },
     "precios": [
       {
-        "idPrecio": 1962,
-        "idProducto": 2426,
+        "idPrecio": 2194,
+        "idProducto": 2648,
         "idMoneda": 1,
-        "precio": 670.0
+        "precio": 18725.0
       }
     ],
-    "ipv": true,
+    "ipv": false,
     "activo": true,
     "combo": false,
-    "idCategoria": 25,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 362,
+        "idRelacion": 687,
         "idEtiqueta": 1,
-        "idProducto": 2426,
-        "valor": "28/01"
+        "idProducto": 2648,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 15,
-      "105": 14
+      "105": 0
     }
   },
   {
-    "idProducto": 2421,
-    "codigo": "85937",
-    "descripcion": "VASO DE VIDRIO 6 PCS",
+    "idProducto": 2649,
+    "codigo": "88327",
+    "descripcion": "ESPEJO CON LUZ LED",
     "precio": {
-      "idPrecio": 1957,
-      "idProducto": 2421,
+      "idPrecio": 2195,
+      "idProducto": 2649,
       "idMoneda": 1,
-      "precio": 7400.0
+      "precio": 21165.0
     },
     "precios": [
       {
-        "idPrecio": 1957,
-        "idProducto": 2421,
+        "idPrecio": 2195,
+        "idProducto": 2649,
         "idMoneda": 1,
-        "precio": 7400.0
+        "precio": 21165.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 688,
+        "idEtiqueta": 1,
+        "idProducto": 2649,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2651,
+    "codigo": "88325",
+    "descripcion": "ESPEJO DECORATIVO",
+    "precio": {
+      "idPrecio": 2197,
+      "idProducto": 2651,
+      "idMoneda": 1,
+      "precio": 13840.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2197,
+        "idProducto": 2651,
+        "idMoneda": 1,
+        "precio": 13840.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 690,
+        "idEtiqueta": 1,
+        "idProducto": 2651,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2650,
+    "codigo": "88543",
+    "descripcion": "ESPEJO DECORATIVO",
+    "precio": {
+      "idPrecio": 2196,
+      "idProducto": 2650,
+      "idMoneda": 1,
+      "precio": 5295.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2196,
+        "idProducto": 2650,
+        "idMoneda": 1,
+        "precio": 5295.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 689,
+        "idEtiqueta": 1,
+        "idProducto": 2650,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2794,
+    "codigo": "0479",
+    "descripcion": "ESPONJA CON BRILLO P/ FREGAR",
+    "precio": {
+      "idPrecio": 2340,
+      "idProducto": 2794,
+      "idMoneda": 1,
+      "precio": 815.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2340,
+        "idProducto": 2794,
+        "idMoneda": 1,
+        "precio": 815.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 25,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 357,
+        "idRelacion": 833,
         "idEtiqueta": 1,
-        "idProducto": 2421,
-        "valor": "28/01"
+        "idProducto": 2794,
+        "valor": "31-03"
       }
     ],
     "stocks": {
       "103": 2,
-      "105": 2
+      "105": 10
     }
   },
   {
-    "idProducto": 2423,
-    "codigo": "BW-82",
-    "descripcion": "VASO DE VIDRIO 6 PCS",
+    "idProducto": 2793,
+    "codigo": " 3475",
+    "descripcion": "ESPONJA PARA FREGAR 2PCS",
     "precio": {
-      "idPrecio": 1959,
-      "idProducto": 2423,
+      "idPrecio": 2339,
+      "idProducto": 2793,
       "idMoneda": 1,
-      "precio": 2890.0
+      "precio": 410.0
     },
     "precios": [
       {
-        "idPrecio": 1959,
-        "idProducto": 2423,
+        "idPrecio": 2339,
+        "idProducto": 2793,
         "idMoneda": 1,
-        "precio": 2890.0
+        "precio": 410.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 25,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 359,
+        "idRelacion": 832,
         "idEtiqueta": 1,
-        "idProducto": 2423,
-        "valor": "28/01"
+        "idProducto": 2793,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 24,
+      "105": 19
+    }
+  },
+  {
+    "idProducto": 2730,
+    "codigo": "0320-12",
+    "descripcion": "EXTENSION ELECTRICA 12FT",
+    "precio": {
+      "idPrecio": 2276,
+      "idProducto": 2730,
+      "idMoneda": 1,
+      "precio": 815.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2276,
+        "idProducto": 2730,
+        "idMoneda": 1,
+        "precio": 815.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 769,
+        "idEtiqueta": 1,
+        "idProducto": 2730,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2731,
+    "codigo": "0320-15",
+    "descripcion": "EXTENSION ELECTRICA 15FT",
+    "precio": {
+      "idPrecio": 2277,
+      "idProducto": 2731,
+      "idMoneda": 1,
+      "precio": 1225.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2277,
+        "idProducto": 2731,
+        "idMoneda": 1,
+        "precio": 1225.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 770,
+        "idEtiqueta": 1,
+        "idProducto": 2731,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 11
+    }
+  },
+  {
+    "idProducto": 2729,
+    "codigo": "WH15",
+    "descripcion": "EXTENSION ELECTRICA 15FT",
+    "precio": {
+      "idPrecio": 2275,
+      "idProducto": 2729,
+      "idMoneda": 1,
+      "precio": 1225.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2275,
+        "idProducto": 2729,
+        "idMoneda": 1,
+        "precio": 1225.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 768,
+        "idEtiqueta": 1,
+        "idProducto": 2729,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 5,
+      "105": 11
+    }
+  },
+  {
+    "idProducto": 2732,
+    "codigo": "0320-18",
+    "descripcion": "EXTENSION ELECTRICA 18FT",
+    "precio": {
+      "idPrecio": 2278,
+      "idProducto": 2732,
+      "idMoneda": 1,
+      "precio": 1424.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2278,
+        "idProducto": 2732,
+        "idMoneda": 1,
+        "precio": 1424.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 771,
+        "idEtiqueta": 1,
+        "idProducto": 2732,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 3,
+      "105": 10
+    }
+  },
+  {
+    "idProducto": 2735,
+    "codigo": "PC06",
+    "descripcion": "GOKART",
+    "precio": {
+      "idPrecio": 2281,
+      "idProducto": 2735,
+      "idMoneda": 1,
+      "precio": 48840.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2281,
+        "idProducto": 2735,
+        "idMoneda": 1,
+        "precio": 48840.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 774,
+        "idEtiqueta": 1,
+        "idProducto": 2735,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2736,
+    "codigo": "PC16",
+    "descripcion": "GOKART",
+    "precio": {
+      "idPrecio": 2282,
+      "idProducto": 2736,
+      "idMoneda": 1,
+      "precio": 83435.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2282,
+        "idProducto": 2736,
+        "idMoneda": 1,
+        "precio": 83435.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 775,
+        "idEtiqueta": 1,
+        "idProducto": 2736,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2684,
+    "codigo": "81047",
+    "descripcion": "JGO DE MUÑECA 40CM",
+    "precio": {
+      "idPrecio": 2230,
+      "idProducto": 2684,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2230,
+        "idProducto": 2684,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 723,
+        "idEtiqueta": 1,
+        "idProducto": 2684,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 6,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2685,
+    "codigo": "81048",
+    "descripcion": "JGO DE MUÑECA 40CM",
+    "precio": {
+      "idPrecio": 2231,
+      "idProducto": 2685,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2231,
+        "idProducto": 2685,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 724,
+        "idEtiqueta": 1,
+        "idProducto": 2685,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 6,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2683,
+    "codigo": "81044",
+    "descripcion": "JGO DE MUÑECA 53CM",
+    "precio": {
+      "idPrecio": 2229,
+      "idProducto": 2683,
+      "idMoneda": 1,
+      "precio": 5700.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2229,
+        "idProducto": 2683,
+        "idMoneda": 1,
+        "precio": 5700.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 722,
+        "idEtiqueta": 1,
+        "idProducto": 2683,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2739,
+    "codigo": "9122",
+    "descripcion": "JUEGO DE ACCESORIOS P/ COCINA",
+    "precio": {
+      "idPrecio": 2285,
+      "idProducto": 2739,
+      "idMoneda": 1,
+      "precio": 4885.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2285,
+        "idProducto": 2739,
+        "idMoneda": 1,
+        "precio": 4885.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 778,
+        "idEtiqueta": 1,
+        "idProducto": 2739,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2737,
+    "codigo": "94707",
+    "descripcion": "JUEGO DE ANIMALES",
+    "precio": {
+      "idPrecio": 2283,
+      "idProducto": 2737,
+      "idMoneda": 1,
+      "precio": 2445.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2283,
+        "idProducto": 2737,
+        "idMoneda": 1,
+        "precio": 2445.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 776,
+        "idEtiqueta": 1,
+        "idProducto": 2737,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 8,
+      "105": 9
+    }
+  },
+  {
+    "idProducto": 2738,
+    "codigo": "3233",
+    "descripcion": "JUEGO DE BILLAR",
+    "precio": {
+      "idPrecio": 2284,
+      "idProducto": 2738,
+      "idMoneda": 1,
+      "precio": 24420.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2284,
+        "idProducto": 2738,
+        "idMoneda": 1,
+        "precio": 24420.0
+      }
+    ],
+    "image_name": "JUEGO DE BILLAR -3233.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 777,
+        "idEtiqueta": 1,
+        "idProducto": 2738,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2788,
+    "codigo": "4041",
+    "descripcion": "JUEGO DE BLOQUES 21PCS",
+    "precio": {
+      "idPrecio": 2334,
+      "idProducto": 2788,
+      "idMoneda": 1,
+      "precio": 1225.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2334,
+        "idProducto": 2788,
+        "idMoneda": 1,
+        "precio": 1225.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 827,
+        "idEtiqueta": 1,
+        "idProducto": 2788,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 6,
+      "105": 8
+    }
+  },
+  {
+    "idProducto": 2787,
+    "codigo": "4040",
+    "descripcion": "JUEGO DE BLOQUES 50PCS",
+    "precio": {
+      "idPrecio": 2333,
+      "idProducto": 2787,
+      "idMoneda": 1,
+      "precio": 2850.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2333,
+        "idProducto": 2787,
+        "idMoneda": 1,
+        "precio": 2850.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 826,
+        "idEtiqueta": 1,
+        "idProducto": 2787,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 6,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2741,
+    "codigo": "49960",
+    "descripcion": "JUEGO DE CARRO",
+    "precio": {
+      "idPrecio": 2287,
+      "idProducto": 2741,
+      "idMoneda": 1,
+      "precio": 3260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2287,
+        "idProducto": 2741,
+        "idMoneda": 1,
+        "precio": 3260.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 780,
+        "idEtiqueta": 1,
+        "idProducto": 2741,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 3,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2742,
+    "codigo": "50558",
+    "descripcion": "JUEGO DE CARRO",
+    "precio": {
+      "idPrecio": 2288,
+      "idProducto": 2742,
+      "idMoneda": 1,
+      "precio": 3260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2288,
+        "idProducto": 2742,
+        "idMoneda": 1,
+        "precio": 3260.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 781,
+        "idEtiqueta": 1,
+        "idProducto": 2742,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2740,
+    "codigo": "42051",
+    "descripcion": "JUEGO DE COCHE P/ MUÑECA",
+    "precio": {
+      "idPrecio": 2286,
+      "idProducto": 2740,
+      "idMoneda": 1,
+      "precio": 2035.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2286,
+        "idProducto": 2740,
+        "idMoneda": 1,
+        "precio": 2035.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 779,
+        "idEtiqueta": 1,
+        "idProducto": 2740,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2713,
+    "codigo": "BH-2407",
+    "descripcion": "JUEGO DE CUCHILLOS 6PCS",
+    "precio": {
+      "idPrecio": 2259,
+      "idProducto": 2713,
+      "idMoneda": 1,
+      "precio": 19540.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2259,
+        "idProducto": 2713,
+        "idMoneda": 1,
+        "precio": 19540.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 752,
+        "idEtiqueta": 1,
+        "idProducto": 2713,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2715,
+    "codigo": "BH-2528",
+    "descripcion": "JUEGO DE CUCHILLOS 6PCS",
+    "precio": {
+      "idPrecio": 2261,
+      "idProducto": 2715,
+      "idMoneda": 1,
+      "precio": 17500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2261,
+        "idProducto": 2715,
+        "idMoneda": 1,
+        "precio": 17500.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 754,
+        "idEtiqueta": 1,
+        "idProducto": 2715,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2719,
+    "codigo": "BH-3126",
+    "descripcion": "JUEGO DE CUCHILLOS 6PCS",
+    "precio": {
+      "idPrecio": 2265,
+      "idProducto": 2719,
+      "idMoneda": 1,
+      "precio": 30935.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2265,
+        "idProducto": 2719,
+        "idMoneda": 1,
+        "precio": 30935.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 758,
+        "idEtiqueta": 1,
+        "idProducto": 2719,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2714,
+    "codigo": "BH-2421",
+    "descripcion": "JUEGO DE CUCHILLOS 8PCS",
+    "precio": {
+      "idPrecio": 2260,
+      "idProducto": 2714,
+      "idMoneda": 1,
+      "precio": 19130.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2260,
+        "idProducto": 2714,
+        "idMoneda": 1,
+        "precio": 19130.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 753,
+        "idEtiqueta": 1,
+        "idProducto": 2714,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 0,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2716,
+    "codigo": "BH-2561",
+    "descripcion": "JUEGO DE CUCHILLOS 8PCS",
+    "precio": {
+      "idPrecio": 2262,
+      "idProducto": 2716,
+      "idMoneda": 1,
+      "precio": 18315.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2262,
+        "idProducto": 2716,
+        "idMoneda": 1,
+        "precio": 18315.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 755,
+        "idEtiqueta": 1,
+        "idProducto": 2716,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2717,
+    "codigo": "BH-2685N",
+    "descripcion": "JUEGO DE CUCHILLOS 8PCS",
+    "precio": {
+      "idPrecio": 2263,
+      "idProducto": 2717,
+      "idMoneda": 1,
+      "precio": 18315.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2263,
+        "idProducto": 2717,
+        "idMoneda": 1,
+        "precio": 18315.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 756,
+        "idEtiqueta": 1,
+        "idProducto": 2717,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2718,
+    "codigo": "BH-2883",
+    "descripcion": "JUEGO DE CUCHILLOS 8PCS",
+    "precio": {
+      "idPrecio": 2264,
+      "idProducto": 2718,
+      "idMoneda": 1,
+      "precio": 18315.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2264,
+        "idProducto": 2718,
+        "idMoneda": 1,
+        "precio": 18315.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 757,
+        "idEtiqueta": 1,
+        "idProducto": 2718,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2727,
+    "codigo": "9146",
+    "descripcion": "JUEGO DE MUÑECA 11.5\"",
+    "precio": {
+      "idPrecio": 2273,
+      "idProducto": 2727,
+      "idMoneda": 1,
+      "precio": 2850.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2273,
+        "idProducto": 2727,
+        "idMoneda": 1,
+        "precio": 2850.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 766,
+        "idEtiqueta": 1,
+        "idProducto": 2727,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2726,
+    "codigo": "9263",
+    "descripcion": "JUEGO DE MUÑECA 11.5\"",
+    "precio": {
+      "idPrecio": 2272,
+      "idProducto": 2726,
+      "idMoneda": 1,
+      "precio": 2850.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2272,
+        "idProducto": 2726,
+        "idMoneda": 1,
+        "precio": 2850.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 765,
+        "idEtiqueta": 1,
+        "idProducto": 2726,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 9
+    }
+  },
+  {
+    "idProducto": 2725,
+    "codigo": "3403",
+    "descripcion": "JUEGO DE MUÑECA 13\"",
+    "precio": {
+      "idPrecio": 2271,
+      "idProducto": 2725,
+      "idMoneda": 1,
+      "precio": 8140.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2271,
+        "idProducto": 2725,
+        "idMoneda": 1,
+        "precio": 8140.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 764,
+        "idEtiqueta": 1,
+        "idProducto": 2725,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2753,
+    "codigo": "0874",
+    "descripcion": "JUGUETE FUTBOL",
+    "precio": {
+      "idPrecio": 2299,
+      "idProducto": 2753,
+      "idMoneda": 1,
+      "precio": 2850.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2299,
+        "idProducto": 2753,
+        "idMoneda": 1,
+        "precio": 2850.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 792,
+        "idEtiqueta": 1,
+        "idProducto": 2753,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2734,
+    "codigo": "2072",
+    "descripcion": "JUGUETE FUTBOL",
+    "precio": {
+      "idPrecio": 2280,
+      "idProducto": 2734,
+      "idMoneda": 1,
+      "precio": 3260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2280,
+        "idProducto": 2734,
+        "idMoneda": 1,
+        "precio": 3260.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 773,
+        "idEtiqueta": 1,
+        "idProducto": 2734,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2752,
+    "codigo": "8712",
+    "descripcion": "JUGUETE FUTBOL",
+    "precio": {
+      "idPrecio": 2298,
+      "idProducto": 2752,
+      "idMoneda": 1,
+      "precio": 2850.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2298,
+        "idProducto": 2752,
+        "idMoneda": 1,
+        "precio": 2850.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 791,
+        "idEtiqueta": 1,
+        "idProducto": 2752,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2733,
+    "codigo": "S30",
+    "descripcion": "JUGUETE FUTBOL",
+    "precio": {
+      "idPrecio": 2279,
+      "idProducto": 2733,
+      "idMoneda": 1,
+      "precio": 2850.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2279,
+        "idProducto": 2733,
+        "idMoneda": 1,
+        "precio": 2850.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 772,
+        "idEtiqueta": 1,
+        "idProducto": 2733,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2795,
+    "codigo": "ZEL-288",
+    "descripcion": "LAMAPARA DE EMERGENCIA",
+    "precio": {
+      "idPrecio": 2341,
+      "idProducto": 2795,
+      "idMoneda": 1,
+      "precio": 3665.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2341,
+        "idProducto": 2795,
+        "idMoneda": 1,
+        "precio": 3665.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 834,
+        "idEtiqueta": 1,
+        "idProducto": 2795,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 3,
+      "105": 11
+    }
+  },
+  {
+    "idProducto": 2694,
+    "codigo": "85866",
+    "descripcion": "LAPIZ 12 PCS",
+    "precio": {
+      "idPrecio": 2240,
+      "idProducto": 2694,
+      "idMoneda": 1,
+      "precio": 1225.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2240,
+        "idProducto": 2694,
+        "idMoneda": 1,
+        "precio": 1225.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 9,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 733,
+        "idEtiqueta": 1,
+        "idProducto": 2694,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "102": 12,
+      "103": 12
+    }
+  },
+  {
+    "idProducto": 2695,
+    "codigo": "85867",
+    "descripcion": "LAPIZ 12 PCS 2B",
+    "precio": {
+      "idPrecio": 2241,
+      "idProducto": 2695,
+      "idMoneda": 1,
+      "precio": 1225.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2241,
+        "idProducto": 2695,
+        "idMoneda": 1,
+        "precio": 1225.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 9,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 734,
+        "idEtiqueta": 1,
+        "idProducto": 2695,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 10,
+      "105": 12
+    }
+  },
+  {
+    "idProducto": 2796,
+    "codigo": "ZEL-300",
+    "descripcion": "LINTERNA RECARGABLE CON PANEL",
+    "precio": {
+      "idPrecio": 2342,
+      "idProducto": 2796,
+      "idMoneda": 1,
+      "precio": 2850.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2342,
+        "idProducto": 2796,
+        "idMoneda": 1,
+        "precio": 2850.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 835,
+        "idEtiqueta": 1,
+        "idProducto": 2796,
+        "valor": "31-03"
+      },
+      {
+        "idRelacion": 839,
+        "idEtiqueta": 2,
+        "idProducto": 2796,
+        "valor": "2850.0"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 8
+    }
+  },
+  {
+    "idProducto": 2644,
+    "codigo": "0216",
+    "descripcion": "MACETERO PLASTICO",
+    "precio": {
+      "idPrecio": 2190,
+      "idProducto": 2644,
+      "idMoneda": 1,
+      "precio": 2240.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2190,
+        "idProducto": 2644,
+        "idMoneda": 1,
+        "precio": 2240.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 683,
+        "idEtiqueta": 1,
+        "idProducto": 2644,
+        "valor": "31-03"
       }
     ],
     "stocks": {
@@ -4680,115 +4412,1257 @@
     }
   },
   {
-    "idProducto": 2430,
-    "codigo": "85945",
-    "descripcion": "VASO DE VIDRIO 6PCS",
+    "idProducto": 2645,
+    "codigo": "0217",
+    "descripcion": "MACETERO PLASTICO",
     "precio": {
-      "idPrecio": 1966,
-      "idProducto": 2430,
+      "idPrecio": 2191,
+      "idProducto": 2645,
       "idMoneda": 1,
-      "precio": 2590.0
+      "precio": 3260.0
     },
     "precios": [
       {
-        "idPrecio": 1966,
-        "idProducto": 2430,
+        "idPrecio": 2191,
+        "idProducto": 2645,
         "idMoneda": 1,
-        "precio": 2590.0
+        "precio": 3260.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 25,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 366,
+        "idRelacion": 684,
         "idEtiqueta": 1,
-        "idProducto": 2430,
-        "valor": "28/01"
+        "idProducto": 2645,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 5,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2641,
+    "codigo": "HP109",
+    "descripcion": "MACETERO PLASTICO",
+    "precio": {
+      "idPrecio": 2187,
+      "idProducto": 2641,
+      "idMoneda": 1,
+      "precio": 3260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2187,
+        "idProducto": 2641,
+        "idMoneda": 1,
+        "precio": 3260.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 680,
+        "idEtiqueta": 1,
+        "idProducto": 2641,
+        "valor": "31-03"
       }
     ],
     "stocks": {
       "103": 2,
-      "105": 1
+      "105": 0
     }
   },
   {
-    "idProducto": 2422,
-    "codigo": "PJ-19",
-    "descripcion": "VASO DE VIDRIO 6PCS",
+    "idProducto": 2640,
+    "codigo": "HP110",
+    "descripcion": "MACETERO PLASTICO",
     "precio": {
-      "idPrecio": 1958,
-      "idProducto": 2422,
+      "idPrecio": 2186,
+      "idProducto": 2640,
       "idMoneda": 1,
-      "precio": 2410.0
+      "precio": 6105.0
     },
     "precios": [
       {
-        "idPrecio": 1958,
-        "idProducto": 2422,
+        "idPrecio": 2186,
+        "idProducto": 2640,
         "idMoneda": 1,
-        "precio": 2410.0
+        "precio": 6105.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 679,
+        "idEtiqueta": 1,
+        "idProducto": 2640,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2678,
+    "codigo": "494",
+    "descripcion": "MACETERO PLASTICO 19CM 2.4L",
+    "precio": {
+      "idPrecio": 2224,
+      "idProducto": 2678,
+      "idMoneda": 1,
+      "precio": 2445.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2224,
+        "idProducto": 2678,
+        "idMoneda": 1,
+        "precio": 2445.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 717,
+        "idEtiqueta": 1,
+        "idProducto": 2678,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2679,
+    "codigo": "495",
+    "descripcion": "MACETERO PLASTICO 25CM 5L",
+    "precio": {
+      "idPrecio": 2225,
+      "idProducto": 2679,
+      "idMoneda": 1,
+      "precio": 2850.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2225,
+        "idProducto": 2679,
+        "idMoneda": 1,
+        "precio": 2850.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 718,
+        "idEtiqueta": 1,
+        "idProducto": 2679,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2680,
+    "codigo": "496",
+    "descripcion": "MACETERO PLASTICO 26CM 9L",
+    "precio": {
+      "idPrecio": 2226,
+      "idProducto": 2680,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2226,
+        "idProducto": 2680,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 719,
+        "idEtiqueta": 1,
+        "idProducto": 2680,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2744,
+    "codigo": "HP196-36",
+    "descripcion": "MACETERO PLATICO 1.7L",
+    "precio": {
+      "idPrecio": 2290,
+      "idProducto": 2744,
+      "idMoneda": 1,
+      "precio": 2035.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2290,
+        "idProducto": 2744,
+        "idMoneda": 1,
+        "precio": 2035.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 25,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 358,
+        "idRelacion": 783,
         "idEtiqueta": 1,
-        "idProducto": 2422,
-        "valor": "28/01"
+        "idProducto": 2744,
+        "valor": "31-03"
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 1
+      "103": 2,
+      "105": 6
     }
   },
   {
-    "idProducto": 2419,
-    "codigo": "PJ-142",
-    "descripcion": "VASO DE VIDRIO HANNOVER 575 ML",
-    "barcode": "8997031067305",
+    "idProducto": 2743,
+    "codigo": "HP195",
+    "descripcion": "MACETERO PLATICO 3.6L",
     "precio": {
-      "idPrecio": 1955,
-      "idProducto": 2419,
+      "idPrecio": 2289,
+      "idProducto": 2743,
       "idMoneda": 1,
-      "precio": 1060.0
+      "precio": 1630.0
     },
     "precios": [
       {
-        "idPrecio": 1955,
-        "idProducto": 2419,
+        "idPrecio": 2289,
+        "idProducto": 2743,
         "idMoneda": 1,
-        "precio": 1060.0
+        "precio": 1630.0
       }
     ],
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idCategoria": 25,
-    "idDepartamento": 6,
+    "idDepartamento": 1,
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 355,
+        "idRelacion": 782,
         "idEtiqueta": 1,
-        "idProducto": 2419,
-        "valor": "28/01"
+        "idProducto": 2743,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2642,
+    "codigo": "481",
+    "descripcion": "MACETERO REDONDO",
+    "precio": {
+      "idPrecio": 2188,
+      "idProducto": 2642,
+      "idMoneda": 1,
+      "precio": 1020.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2188,
+        "idProducto": 2642,
+        "idMoneda": 1,
+        "precio": 1020.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 681,
+        "idEtiqueta": 1,
+        "idProducto": 2642,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 3,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2643,
+    "codigo": "482",
+    "descripcion": "MACETERO REDONDO",
+    "precio": {
+      "idPrecio": 2189,
+      "idProducto": 2643,
+      "idMoneda": 1,
+      "precio": 1225.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2189,
+        "idProducto": 2643,
+        "idMoneda": 1,
+        "precio": 1225.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 682,
+        "idEtiqueta": 1,
+        "idProducto": 2643,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 3,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2797,
+    "codigo": "1118",
+    "descripcion": "OLLA ARROCERA 1.8L",
+    "precio": {
+      "idPrecio": 2343,
+      "idProducto": 2797,
+      "idMoneda": 1,
+      "precio": 16650.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2343,
+        "idProducto": 2797,
+        "idMoneda": 1,
+        "precio": 16650.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 836,
+        "idEtiqueta": 1,
+        "idProducto": 2797,
+        "valor": "31-03"
+      },
+      {
+        "idRelacion": 845,
+        "idEtiqueta": 2,
+        "idProducto": 2797,
+        "valor": "18315.0"
+      }
+    ],
+    "stocks": {
+      "103": 8,
+      "105": 13
+    }
+  },
+  {
+    "idProducto": 2671,
+    "codigo": "BU-2-7",
+    "descripcion": "PARAGUA PLAYERO",
+    "precio": {
+      "idPrecio": 2217,
+      "idProducto": 2671,
+      "idMoneda": 1,
+      "precio": 36630.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2217,
+        "idProducto": 2671,
+        "idMoneda": 1,
+        "precio": 36630.0
+      }
+    ],
+    "image_name": "PARAGUA PLAYERO -BU-2-7.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 710,
+        "idEtiqueta": 1,
+        "idProducto": 2671,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 2669,
+    "codigo": "16612",
+    "descripcion": "PLATO DE MELANINA",
+    "precio": {
+      "idPrecio": 2215,
+      "idProducto": 2669,
+      "idMoneda": 1,
+      "precio": 610.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2215,
+        "idProducto": 2669,
+        "idMoneda": 1,
+        "precio": 610.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 708,
+        "idEtiqueta": 1,
+        "idProducto": 2669,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 0,
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2777,
+    "codigo": "6610",
+    "descripcion": "REGLETA DE 6 TOMAS",
+    "precio": {
+      "idPrecio": 2323,
+      "idProducto": 2777,
+      "idMoneda": 1,
+      "precio": 2035.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2323,
+        "idProducto": 2777,
+        "idMoneda": 1,
+        "precio": 2035.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 816,
+        "idEtiqueta": 1,
+        "idProducto": 2777,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 5,
+      "105": 9
+    }
+  },
+  {
+    "idProducto": 2758,
+    "codigo": "25-068",
+    "descripcion": "RELOJ DE PARED",
+    "precio": {
+      "idPrecio": 2304,
+      "idProducto": 2758,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2304,
+        "idProducto": 2758,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 797,
+        "idEtiqueta": 1,
+        "idProducto": 2758,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2759,
+    "codigo": "30-123",
+    "descripcion": "RELOJ DE PARED",
+    "precio": {
+      "idPrecio": 2305,
+      "idProducto": 2759,
+      "idMoneda": 1,
+      "precio": 4885.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2305,
+        "idProducto": 2759,
+        "idMoneda": 1,
+        "precio": 4885.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 798,
+        "idEtiqueta": 1,
+        "idProducto": 2759,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2760,
+    "codigo": "40-055",
+    "descripcion": "RELOJ DE PARED",
+    "precio": {
+      "idPrecio": 2306,
+      "idProducto": 2760,
+      "idMoneda": 1,
+      "precio": 5295.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2306,
+        "idProducto": 2760,
+        "idMoneda": 1,
+        "precio": 5295.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 799,
+        "idEtiqueta": 1,
+        "idProducto": 2760,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2689,
+    "codigo": "85245",
+    "descripcion": "RELOJ DE PARED",
+    "precio": {
+      "idPrecio": 2235,
+      "idProducto": 2689,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2235,
+        "idProducto": 2689,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 728,
+        "idEtiqueta": 1,
+        "idProducto": 2689,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2701,
+    "codigo": "87489",
+    "descripcion": "RELOJ DE PARED",
+    "precio": {
+      "idPrecio": 2247,
+      "idProducto": 2701,
+      "idMoneda": 1,
+      "precio": 2035.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2247,
+        "idProducto": 2701,
+        "idMoneda": 1,
+        "precio": 2035.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 740,
+        "idEtiqueta": 1,
+        "idProducto": 2701,
+        "valor": "31-03"
       }
     ],
     "stocks": {
       "103": 4,
-      "105": 26
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2702,
+    "codigo": "87509",
+    "descripcion": "RELOJ DE PARED",
+    "precio": {
+      "idPrecio": 2248,
+      "idProducto": 2702,
+      "idMoneda": 1,
+      "precio": 1630.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2248,
+        "idProducto": 2702,
+        "idMoneda": 1,
+        "precio": 1630.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 741,
+        "idEtiqueta": 1,
+        "idProducto": 2702,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2703,
+    "codigo": "87510",
+    "descripcion": "RELOJ DE PARED",
+    "precio": {
+      "idPrecio": 2249,
+      "idProducto": 2703,
+      "idMoneda": 1,
+      "precio": 2445.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2249,
+        "idProducto": 2703,
+        "idMoneda": 1,
+        "precio": 2445.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 742,
+        "idEtiqueta": 1,
+        "idProducto": 2703,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2704,
+    "codigo": "87519",
+    "descripcion": "RELOJ DE PARED",
+    "precio": {
+      "idPrecio": 2250,
+      "idProducto": 2704,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2250,
+        "idProducto": 2704,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 743,
+        "idEtiqueta": 1,
+        "idProducto": 2704,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 3,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2755,
+    "codigo": "MC-024",
+    "descripcion": "RELOJ DE PARED",
+    "precio": {
+      "idPrecio": 2301,
+      "idProducto": 2755,
+      "idMoneda": 1,
+      "precio": 4885.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2301,
+        "idProducto": 2755,
+        "idMoneda": 1,
+        "precio": 4885.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 794,
+        "idEtiqueta": 1,
+        "idProducto": 2755,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2756,
+    "codigo": "MC-068",
+    "descripcion": "RELOJ DE PARED",
+    "precio": {
+      "idPrecio": 2302,
+      "idProducto": 2756,
+      "idMoneda": 1,
+      "precio": 4885.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2302,
+        "idProducto": 2756,
+        "idMoneda": 1,
+        "precio": 4885.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 795,
+        "idEtiqueta": 1,
+        "idProducto": 2756,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2757,
+    "codigo": "1191",
+    "descripcion": "RELOJ DE PARED 35CM",
+    "precio": {
+      "idPrecio": 2303,
+      "idProducto": 2757,
+      "idMoneda": 1,
+      "precio": 4480.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2303,
+        "idProducto": 2757,
+        "idMoneda": 1,
+        "precio": 4480.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 796,
+        "idEtiqueta": 1,
+        "idProducto": 2757,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2652,
+    "codigo": "87539",
+    "descripcion": "REVESTIMIENTO DE PARED",
+    "precio": {
+      "idPrecio": 2198,
+      "idProducto": 2652,
+      "idMoneda": 1,
+      "precio": 6105.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2198,
+        "idProducto": 2652,
+        "idMoneda": 1,
+        "precio": 6105.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 691,
+        "idEtiqueta": 1,
+        "idProducto": 2652,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 2646,
+    "codigo": "40401",
+    "descripcion": "ROLLO CESPED ART. 1M",
+    "precio": {
+      "idPrecio": 2192,
+      "idProducto": 2646,
+      "idMoneda": 1,
+      "precio": 18315.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2192,
+        "idProducto": 2646,
+        "idMoneda": 1,
+        "precio": 18315.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 685,
+        "idEtiqueta": 1,
+        "idProducto": 2646,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 2697,
+    "codigo": "86005",
+    "descripcion": "SARTEN 24CM",
+    "precio": {
+      "idPrecio": 2243,
+      "idProducto": 2697,
+      "idMoneda": 1,
+      "precio": 4070.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2243,
+        "idProducto": 2697,
+        "idMoneda": 1,
+        "precio": 4070.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 736,
+        "idEtiqueta": 1,
+        "idProducto": 2697,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2698,
+    "codigo": "86006",
+    "descripcion": "SARTEN 24CM",
+    "precio": {
+      "idPrecio": 2244,
+      "idProducto": 2698,
+      "idMoneda": 1,
+      "precio": 4480.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2244,
+        "idProducto": 2698,
+        "idMoneda": 1,
+        "precio": 4480.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 737,
+        "idEtiqueta": 1,
+        "idProducto": 2698,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 2699,
+    "codigo": "86019",
+    "descripcion": "SARTEN 24CM",
+    "precio": {
+      "idPrecio": 2245,
+      "idProducto": 2699,
+      "idMoneda": 1,
+      "precio": 12620.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2245,
+        "idProducto": 2699,
+        "idMoneda": 1,
+        "precio": 12620.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 738,
+        "idEtiqueta": 1,
+        "idProducto": 2699,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2751,
+    "codigo": "FGR24",
+    "descripcion": "SARTEN 24X5CM",
+    "precio": {
+      "idPrecio": 2297,
+      "idProducto": 2751,
+      "idMoneda": 1,
+      "precio": 6105.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2297,
+        "idProducto": 2751,
+        "idMoneda": 1,
+        "precio": 6105.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 790,
+        "idEtiqueta": 1,
+        "idProducto": 2751,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2745,
+    "codigo": "1221",
+    "descripcion": "SARTEN DE ALUMINIO 12CM",
+    "precio": {
+      "idPrecio": 2291,
+      "idProducto": 2745,
+      "idMoneda": 1,
+      "precio": 2445.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2291,
+        "idProducto": 2745,
+        "idMoneda": 1,
+        "precio": 2445.0
+      }
+    ],
+    "image_name": "SARTEN DE ALUMINIO 12CM -1221.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 784,
+        "idEtiqueta": 1,
+        "idProducto": 2745,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 2750,
+    "codigo": "2402",
+    "descripcion": "SARTEN DE ALUMINIO 24CM",
+    "precio": {
+      "idPrecio": 2296,
+      "idProducto": 2750,
+      "idMoneda": 1,
+      "precio": 4480.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2296,
+        "idProducto": 2750,
+        "idMoneda": 1,
+        "precio": 4480.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 789,
+        "idEtiqueta": 1,
+        "idProducto": 2750,
+        "valor": "31-03"
+      },
+      {
+        "idRelacion": 843,
+        "idEtiqueta": 2,
+        "idProducto": 2750,
+        "valor": "4480.0"
+      }
+    ],
+    "stocks": {
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 2653,
+    "codigo": "86608",
+    "descripcion": "SET DE MESA Y 2 SILLAS",
+    "precio": {
+      "idPrecio": 2199,
+      "idProducto": 2653,
+      "idMoneda": 1,
+      "precio": 61050.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2199,
+        "idProducto": 2653,
+        "idMoneda": 1,
+        "precio": 61050.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 692,
+        "idEtiqueta": 1,
+        "idProducto": 2653,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 2655,
+    "codigo": "XT-1001",
+    "descripcion": "TAPE IMPERMEABLE BUTILO 1X5M",
+    "precio": {
+      "idPrecio": 2201,
+      "idProducto": 2655,
+      "idMoneda": 1,
+      "precio": 18315.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2201,
+        "idProducto": 2655,
+        "idMoneda": 1,
+        "precio": 18315.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 694,
+        "idEtiqueta": 1,
+        "idProducto": 2655,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "105": 1
     }
   }
 ]
