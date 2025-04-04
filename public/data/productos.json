@@ -475,7 +475,7 @@
         "precio": 815.0
       }
     ],
-    "image_name": "ACUARELA LAVABLE 12 COLORES -2348.jpg",
+    "image_name": "ACUARELA LAVABLE 12 COLORES -2348.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -1479,7 +1479,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 5,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -1539,8 +1539,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 6,
-      "105": 4
+      "103": 5,
+      "105": 2
     }
   },
   {
@@ -1570,7 +1570,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 6,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -1817,7 +1817,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -1838,6 +1838,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "ALFOMBRA 50X76CM -1454.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -1852,7 +1853,7 @@
       }
     ],
     "stocks": {
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -2066,6 +2067,43 @@
     }
   },
   {
+    "idProducto": 2780,
+    "codigo": "2703",
+    "descripcion": "ALFOMBRA DE BAÑO 2PCS",
+    "precio": {
+      "idPrecio": 2326,
+      "idProducto": 2780,
+      "idMoneda": 1,
+      "precio": 6105.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2326,
+        "idProducto": 2780,
+        "idMoneda": 1,
+        "precio": 6105.0
+      }
+    ],
+    "image_name": "ALFOMBRA DE BAÑO 2PCS -2703.png",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 1,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 819,
+        "idEtiqueta": 1,
+        "idProducto": 2780,
+        "valor": "31-03"
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 2
+    }
+  },
+  {
     "idProducto": 2792,
     "codigo": "KC-411",
     "descripcion": "ALFOMBRA DE BAÑO 2PCS",
@@ -2083,6 +2121,7 @@
         "precio": 2445.0
       }
     ],
+    "image_name": "ALFOMBRA DE BAÑO 2PCS -KC-411.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -2097,8 +2136,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 5
+      "103": 2,
+      "105": 4
     }
   },
   {
@@ -2119,6 +2158,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "ALFOMBRA DE BAÑO 2PCS -VI-930.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -2164,42 +2204,6 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0
-    }
-  },
-  {
-    "idProducto": 2780,
-    "codigo": "2703",
-    "descripcion": "ALFOMBRA DE BAÑOS 2PCS",
-    "precio": {
-      "idPrecio": 2326,
-      "idProducto": 2780,
-      "idMoneda": 1,
-      "precio": 6105.0
-    },
-    "precios": [
-      {
-        "idPrecio": 2326,
-        "idProducto": 2780,
-        "idMoneda": 1,
-        "precio": 6105.0
-      }
-    ],
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 1,
-    "movimientos": [],
-    "etiquetasProductos": [
-      {
-        "idRelacion": 819,
-        "idEtiqueta": 1,
-        "idProducto": 2780,
-        "valor": "31-03"
-      }
-    ],
-    "stocks": {
-      "103": 4,
-      "105": 3
     }
   },
   {
@@ -2250,6 +2254,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "ALFOMBRA DE PUERTA -9677.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -2265,7 +2270,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -2286,6 +2291,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "ALFOMBRA DE PUERTA -9680.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -2301,7 +2307,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -2322,6 +2328,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "ALFOMBRA DE PUERTA -9681.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -2357,6 +2364,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "ALFOMBRA DE PUERTA -9682.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -2492,7 +2500,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -2513,6 +2521,7 @@
         "precio": 1630.0
       }
     ],
+    "image_name": "Alfombra De Puerta 40x60cm -0189.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -2521,8 +2530,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 3,
-      "105": 5
+      "103": 2,
+      "105": 3
     }
   },
   {
@@ -2601,6 +2610,7 @@
         "precio": 1225.0
       }
     ],
+    "image_name": "Alfombra de puerta PVC -0186.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -2610,7 +2620,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 7,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -2805,6 +2815,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "ALFOMBRA PARA PUERTA PVC -0196.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -2819,7 +2830,7 @@
       }
     ],
     "stocks": {
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -2840,6 +2851,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "ALFOMBRA PARA PUERTA PVC -83720.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -3505,6 +3517,7 @@
         "precio": 655.0
       }
     ],
+    "image_name": "Arreglo Floral -5611.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -3563,6 +3576,7 @@
         "precio": 1225.0
       }
     ],
+    "image_name": "ARREGLOS FLORALES -85608.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -3599,6 +3613,7 @@
         "precio": 410.0
       }
     ],
+    "image_name": "ARREGLOS FLORALES -85617.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -3635,6 +3650,7 @@
         "precio": 815.0
       }
     ],
+    "image_name": "ARREGLOS FLORALES -85618.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -3965,7 +3981,7 @@
     "stocks": {
       "102": 20,
       "103": 11,
-      "105": 0
+      "105": 10
     }
   },
   {
@@ -4089,7 +4105,7 @@
     "stocks": {
       "102": 40,
       "103": 12,
-      "105": 0
+      "105": 10
     }
   },
   {
@@ -5132,6 +5148,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "BASURERO 5L -0101.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5146,7 +5163,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 3
     }
   },
@@ -5196,6 +5213,7 @@
         "precio": 2445.0
       }
     ],
+    "image_name": "BASURERO DE PEDAL 6L -5059.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5232,6 +5250,7 @@
         "precio": 3665.0
       }
     ],
+    "image_name": "BASURERO DE PEDAL 6L -E-252.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5358,7 +5377,8 @@
         "precio": 2850.0
       }
     ],
-    "ipv": false,
+    "image_name": "BASURERO PLASTICO -0026.png",
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idDepartamento": 1,
@@ -5372,6 +5392,7 @@
       }
     ],
     "stocks": {
+      "103": 2,
       "105": 5
     }
   },
@@ -5423,6 +5444,7 @@
         "precio": 1225.0
       }
     ],
+    "image_name": "BASURERO PLASTICO -87757.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5459,6 +5481,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "BASURERO PLASTICO -87758.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5474,7 +5497,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 11
+      "105": 10
     }
   },
   {
@@ -5495,6 +5518,7 @@
         "precio": 2445.0
       }
     ],
+    "image_name": "BASURERO PLASTICO -87759.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5531,6 +5555,7 @@
         "precio": 1225.0
       }
     ],
+    "image_name": "BASURERO PLASTICO -87761.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5567,6 +5592,7 @@
         "precio": 2445.0
       }
     ],
+    "image_name": "BASURERO PLASTICO -87763.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5582,7 +5608,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -5618,7 +5644,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 6
+      "105": 8
     }
   },
   {
@@ -5701,6 +5727,7 @@
         "precio": 2445.0
       }
     ],
+    "image_name": "BASURERO PLASTICO 10L -0100.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5737,6 +5764,7 @@
         "precio": 4480.0
       }
     ],
+    "image_name": "BASURERO PLASTICO 10L -01041.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5773,6 +5801,7 @@
         "precio": 2690.0
       }
     ],
+    "image_name": "BASURERO PLASTICO 10L -0752.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5810,6 +5839,7 @@
         "precio": 2690.0
       }
     ],
+    "image_name": "BASURERO PLASTICO 10L -09702.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -5883,6 +5913,7 @@
         "precio": 2590.0
       }
     ],
+    "image_name": "Basurero Plastico 15Lts -2821.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -5898,7 +5929,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 11
+      "105": 9
     }
   },
   {
@@ -5919,6 +5950,7 @@
         "precio": 6515.0
       }
     ],
+    "image_name": "BASURERO PLASTICO 30L -0098.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -6105,6 +6137,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "BASURERO PLASTICO N.15 -0155.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -6239,7 +6272,7 @@
     "stocks": {
       "102": 124,
       "103": 56,
-      "105": 27
+      "105": 17
     }
   },
   {
@@ -6587,6 +6620,7 @@
         "precio": 36630.0
       }
     ],
+    "image_name": "BICICLETA 12\u0026 CON CANASTA -AM-12-BLUE.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -6601,7 +6635,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -6824,6 +6858,7 @@
         "precio": 45585.0
       }
     ],
+    "image_name": "BICICLETA 16\u0026 MORADA -6141.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -6832,7 +6867,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -6882,6 +6917,7 @@
         "precio": 45585.0
       }
     ],
+    "image_name": "BICICLETA 16\u0026 ROJA -6140.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -6987,6 +7023,7 @@
         "precio": 77330.0
       }
     ],
+    "image_name": "BICICLETA 20\u0026 MONTAÑERA -CDR-201.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -7022,6 +7059,7 @@
         "precio": 77330.0
       }
     ],
+    "image_name": "BICICLETA 20\u0026 MONTAÑERA -CDR-202.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -7057,6 +7095,7 @@
         "precio": 77330.0
       }
     ],
+    "image_name": "BICICLETA 20\u0026 MONTAÑERA -CDR-203.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -7098,6 +7137,7 @@
         "precio": 116.0
       }
     ],
+    "image_name": "BICICLETA 20\u0026 MORADO -20146.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -7170,6 +7210,7 @@
         "precio": 45585.0
       }
     ],
+    "image_name": "BICICLETA 20\u0026 PARA NIÑO -CDR-3257.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -7269,6 +7310,7 @@
         "precio": 95.0
       }
     ],
+    "image_name": "BICICLETA DE PEDAL 16\u0026 -CDR13.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -8439,7 +8481,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 6,
-      "103": 0,
+      "103": 2,
       "105": 2
     }
   },
@@ -8697,7 +8739,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -8718,6 +8760,7 @@
         "precio": 305.0
       }
     ],
+    "image_name": "BOLSA DE REGALO -85636.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -8739,7 +8782,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 22
+      "105": 21
     }
   },
   {
@@ -8760,6 +8803,7 @@
         "precio": 245.0
       }
     ],
+    "image_name": "BOLSA DE REGALO -BR-XL.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -8781,7 +8825,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 23
+      "105": 11
     }
   },
   {
@@ -9016,7 +9060,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 6,
-      "105": 13
+      "105": 11
     }
   },
   {
@@ -9212,6 +9256,7 @@
         "precio": 410.0
       }
     ],
+    "image_name": "BORRADORES 3PCS -1160.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -9228,7 +9273,7 @@
     "stocks": {
       "102": 14,
       "103": 12,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -9249,6 +9294,7 @@
         "precio": 410.0
       }
     ],
+    "image_name": "BORRADORES BLANCOS -1158.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -9264,7 +9310,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 11
+      "105": 10
     }
   },
   {
@@ -9285,6 +9331,7 @@
         "precio": 410.0
       }
     ],
+    "image_name": "BORRADORES DE COLORES NEON -1148.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -9292,7 +9339,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 12,
+      "103": 11,
       "105": 0
     }
   },
@@ -9879,7 +9926,7 @@
       }
     ],
     "stocks": {
-      "103": 0,
+      "103": 36,
       "105": 12
     }
   },
@@ -10393,7 +10440,7 @@
     "stocks": {
       "102": 8,
       "103": 12,
-      "105": 0
+      "105": 4
     }
   },
   {
@@ -12232,8 +12279,8 @@
   },
   {
     "idProducto": 2654,
-    "codigo": "38 50MM -81556",
-    "descripcion": "CANDADO 32",
+    "codigo": "81556",
+    "descripcion": "CANDADO 32 38 50MM",
     "precio": {
       "idPrecio": 2200,
       "idProducto": 2654,
@@ -12263,8 +12310,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 4
+      "103": 2,
+      "105": 0
     }
   },
   {
@@ -12678,7 +12725,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -13098,7 +13145,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 23,
-      "105": 13
+      "105": 12
     }
   },
   {
@@ -13119,6 +13166,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "CARTUCHERA -6119.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -13155,6 +13203,7 @@
         "precio": 1225.0
       }
     ],
+    "image_name": "CARTUCHERA 22X12CM\u0026 -6046.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -13837,8 +13886,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 5,
-      "103": 6,
-      "105": 6
+      "103": 4,
+      "105": 3
     }
   },
   {
@@ -14098,14 +14147,14 @@
       "idPrecio": 247,
       "idProducto": 105,
       "idMoneda": 1,
-      "precio": 1900.0
+      "precio": 1500.0
     },
     "precios": [
       {
         "idPrecio": 247,
         "idProducto": 105,
         "idMoneda": 1,
-        "precio": 1900.0
+        "precio": 1500.0
       }
     ],
     "image_name": "Cesto De Ropa -1459.jpg",
@@ -14114,10 +14163,17 @@
     "combo": false,
     "idDepartamento": 6,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 853,
+        "idEtiqueta": 2,
+        "idProducto": 105,
+        "valor": "1900.0"
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 24
+      "105": 23
     }
   },
   {
@@ -14252,6 +14308,7 @@
         "precio": 125.0
       }
     ],
+    "image_name": "CINTA ADHESIVA TRANSPARENTE -4035.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -14272,8 +14329,8 @@
       }
     ],
     "stocks": {
-      "103": 24,
-      "105": 48
+      "103": 22,
+      "105": 21
     }
   },
   {
@@ -14448,7 +14505,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 3
+      "103": 2
     }
   },
   {
@@ -14480,7 +14537,7 @@
     "stocks": {
       "102": 35,
       "103": 21,
-      "105": 0
+      "105": 8
     }
   },
   {
@@ -14727,6 +14784,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "COLADOR 24CM -SS-024.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -14819,6 +14877,7 @@
         "precio": 1630.0
       }
     ],
+    "image_name": "Colador De Metal -5998.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -14848,6 +14907,7 @@
         "precio": 1630.0
       }
     ],
+    "image_name": "Colador De Metal -5999.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -14877,6 +14937,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "COLADOR DE METAL -86000.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -14913,6 +14974,7 @@
         "precio": 4480.0
       }
     ],
+    "image_name": "COLADOR DE METAL -96940.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -15014,7 +15076,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 11,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -15044,7 +15106,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 54,
-      "103": 12,
+      "103": 11,
       "105": 9
     }
   },
@@ -15464,6 +15526,7 @@
         "precio": 815.0
       }
     ],
+    "image_name": "COMPAS -2424.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -15635,6 +15698,41 @@
     }
   },
   {
+    "idProducto": 2801,
+    "codigo": "CG-8012",
+    "descripcion": "CONGELADOR HORIZONTAL 3.5 PIES",
+    "precio": {
+      "idPrecio": 2346,
+      "idProducto": 2801,
+      "idMoneda": 1,
+      "precio": 99900.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2346,
+        "idProducto": 2801,
+        "idMoneda": 1,
+        "precio": 99900.0
+      }
+    ],
+    "image_name": "CONGELADOR HORIZONTAL 3.5 PIES -CG-8012.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 50,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 854,
+        "idEtiqueta": 1,
+        "idProducto": 2801,
+        "valor": "04-04"
+      }
+    ],
+    "stocks": {}
+  },
+  {
     "idProducto": 2393,
     "codigo": "2025",
     "descripcion": "CONJUNTO SHORT Y PULLOVER",
@@ -15686,8 +15784,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 46,
-      "103": 14,
-      "105": 7
+      "103": 13,
+      "105": 6
     }
   },
   {
@@ -15708,6 +15806,7 @@
         "precio": 19560.0
       }
     ],
+    "image_name": "Control Automatico P\u0026 Bomba -SHITCH 2.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -15800,7 +15899,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 1
+      "105": 11
     }
   },
   {
@@ -15830,7 +15929,7 @@
     "stocks": {
       "102": 2,
       "103": 6,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -16149,6 +16248,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "Cornisa De Metal 48x84 -K-206.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16354,6 +16454,7 @@
         "precio": 3460.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 48X84\u0026 -K-223.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16387,6 +16488,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -C-310.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16420,6 +16522,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -C-311.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16453,6 +16556,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -C-312.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16467,7 +16571,7 @@
       }
     ],
     "stocks": {
-      "105": 7
+      "105": 0
     }
   },
   {
@@ -16488,6 +16592,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -C-315.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16521,6 +16626,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -E-115.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16554,6 +16660,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -HL-515.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16574,7 +16681,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -16595,6 +16702,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -HL-517.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16609,7 +16717,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -16630,6 +16738,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -K-212.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16663,6 +16772,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -K-215.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16696,6 +16806,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -K-224.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16729,6 +16840,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -P-1022.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16762,6 +16874,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -P-1023.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16797,6 +16910,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -P-1024.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16830,6 +16944,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -P-1026.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -16894,7 +17009,7 @@
         "precio": 370.0
       }
     ],
-    "image_name": "Corta Uñas -N211.webp",
+    "image_name": "Corta Uñas -N211.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -17319,7 +17434,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 0,
       "105": 0
     }
   },
@@ -17433,7 +17548,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 4
     }
   },
   {
@@ -17468,7 +17583,7 @@
       }
     ],
     "stocks": {
-      "105": 4
+      "105": 0
     }
   },
   {
@@ -17555,6 +17670,7 @@
         "precio": 1630.0
       }
     ],
+    "image_name": "CORTINA DE BAÑO -LIN04.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -17569,7 +17685,7 @@
       }
     ],
     "stocks": {
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -17649,6 +17765,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "CORTINA DE BAÑO C\u0026GANCHOS -SC-743.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -17657,7 +17774,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 4,
+      "103": 3,
       "105": 7
     }
   },
@@ -17679,6 +17796,7 @@
         "precio": 1630.0
       }
     ],
+    "image_name": "CORTINA DE BAÑO C\u0026GANCHOS -SC-LIN23.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -17739,6 +17857,7 @@
         "precio": 1835.0
       }
     ],
+    "image_name": "CORTINA DE BAÑO CON GANCHOS -5067.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -17754,7 +17873,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -18639,7 +18758,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -18675,7 +18794,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -18711,7 +18830,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -18746,7 +18865,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 13
     }
   },
   {
@@ -18782,7 +18901,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 1
+      "105": 9
     }
   },
   {
@@ -18818,7 +18937,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -19289,7 +19408,7 @@
     "stocks": {
       "102": 8,
       "103": 7,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -19685,7 +19804,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 17,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -19774,7 +19893,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 11
+      "105": 10
     }
   },
   {
@@ -20285,7 +20404,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 9,
-      "105": 3
+      "105": 15
     }
   },
   {
@@ -20306,6 +20425,7 @@
         "precio": 1630.0
       }
     ],
+    "image_name": "CUCHILLO 7\u0026 -8688M-7.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -20371,6 +20491,7 @@
         "precio": 1745.0
       }
     ],
+    "image_name": "Cuchillo 8´´ -8688M-8.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -20380,7 +20501,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 12,
-      "105": 12
+      "105": 10
     }
   },
   {
@@ -20431,6 +20552,7 @@
         "precio": 1875.0
       }
     ],
+    "image_name": "Cuchillo 9´´ -8688M-9.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -20468,6 +20590,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "CUCHILLO CON TABLA DE PICAR -82598.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -20504,6 +20627,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "CUCHILLO CON TABLA DE PICAR 4 PCS -82400.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -20549,7 +20673,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 7,
-      "105": 3
+      "105": 15
     }
   },
   {
@@ -20579,7 +20703,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 23,
-      "105": 4
+      "105": 28
     }
   },
   {
@@ -20952,6 +21076,7 @@
         "precio": 2240.0
       }
     ],
+    "image_name": "DELANTAL 28X35\u0026 -1804.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -21160,7 +21285,7 @@
     "stocks": {
       "102": 34,
       "103": 25,
-      "105": 6
+      "105": 3
     }
   },
   {
@@ -21220,7 +21345,7 @@
     "stocks": {
       "102": 25,
       "103": 6,
-      "105": 0
+      "105": 23
     }
   },
   {
@@ -21282,7 +21407,7 @@
     "stocks": {
       "102": 10,
       "103": 5,
-      "105": 0
+      "105": 10
     }
   },
   {
@@ -21639,7 +21764,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 4,
-      "105": 11
+      "105": 10
     }
   },
   {
@@ -21818,7 +21943,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -21848,7 +21973,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 5,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -21938,7 +22063,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 6,
-      "105": 11
+      "105": 9
     }
   },
   {
@@ -21997,7 +22122,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 37,
-      "105": 30
+      "105": 29
     }
   },
   {
@@ -22663,7 +22788,7 @@
     "stocks": {
       "102": 51,
       "103": 35,
-      "105": 14
+      "105": 13
     }
   },
   {
@@ -23132,7 +23257,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 4,
+      "103": 3,
       "105": 16
     }
   },
@@ -23603,6 +23728,7 @@
         "precio": 815.0
       }
     ],
+    "image_name": "ESPONJA CON BRILLO P\u0026 FREGAR -0479.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -23617,7 +23743,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 12,
       "105": 10
     }
   },
@@ -23697,6 +23823,7 @@
         "precio": 410.0
       }
     ],
+    "image_name": "ESPONJA PARA FREGAR 2PCS - 3475.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -23845,7 +23972,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -24042,6 +24169,7 @@
         "precio": 18315.0
       }
     ],
+    "image_name": "ESTUFA GAS 3Q -G03B.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -24058,7 +24186,7 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -24089,7 +24217,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 11,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -24296,6 +24424,7 @@
         "precio": 815.0
       }
     ],
+    "image_name": "EXTENSION ELECTRICA 12FT -0320-12.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -24311,7 +24440,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -24332,6 +24461,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "Extension Electrica 12pies -EL-120.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -24340,7 +24470,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 3,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -24361,6 +24491,7 @@
         "precio": 1225.0
       }
     ],
+    "image_name": "EXTENSION ELECTRICA 15FT -0320-15.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -24375,7 +24506,7 @@
       }
     ],
     "stocks": {
-      "105": 11
+      "105": 9
     }
   },
   {
@@ -24396,6 +24527,7 @@
         "precio": 1225.0
       }
     ],
+    "image_name": "EXTENSION ELECTRICA 15FT -WH15.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -24410,8 +24542,8 @@
       }
     ],
     "stocks": {
-      "103": 5,
-      "105": 11
+      "103": 4,
+      "105": 9
     }
   },
   {
@@ -24516,6 +24648,7 @@
         "precio": 1424.0
       }
     ],
+    "image_name": "EXTENSION ELECTRICA 18FT -0320-18.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -24552,6 +24685,7 @@
         "precio": 3000.0
       }
     ],
+    "image_name": "Extension Electrica 18pies -EL-180.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -24589,7 +24723,7 @@
     "stocks": {
       "102": 21,
       "103": 68,
-      "105": 13
+      "105": 10
     }
   },
   {
@@ -24766,7 +24900,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 12
+      "105": 10
     }
   },
   {
@@ -24947,8 +25081,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 150,
-      "103": 105,
-      "105": 47
+      "103": 103,
+      "105": 36
     }
   },
   {
@@ -25723,7 +25857,7 @@
     "stocks": {
       "102": 23,
       "103": 2,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -25752,7 +25886,7 @@
     "stocks": {
       "102": 57,
       "103": 40,
-      "105": 34
+      "105": 33
     }
   },
   {
@@ -26747,7 +26881,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -26814,6 +26948,7 @@
         "precio": 48840.0
       }
     ],
+    "image_name": "GOKART -PC06.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -26849,6 +26984,7 @@
         "precio": 83435.0
       }
     ],
+    "image_name": "GOKART -PC16.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -26980,7 +27116,7 @@
     "stocks": {
       "102": 60,
       "103": 12,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -27685,7 +27821,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 8,
-      "105": 17
+      "105": 15
     }
   },
   {
@@ -27745,7 +27881,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 9,
-      "105": 22
+      "105": 19
     }
   },
   {
@@ -27924,7 +28060,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 9
+      "105": 7
     }
   },
   {
@@ -28069,8 +28205,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 72,
-      "103": 20,
-      "105": 9
+      "103": 17,
+      "105": 8
     }
   },
   {
@@ -28157,7 +28293,7 @@
     "stocks": {
       "102": 10,
       "103": 8,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -28272,7 +28408,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 5,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -28456,7 +28592,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 8,
-      "103": 6,
+      "103": 5,
       "105": 1
     }
   },
@@ -29098,7 +29234,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 10,
-      "105": 45
+      "105": 43
     }
   },
   {
@@ -29385,6 +29521,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "JGO DE MUÑECA 40CM -81047.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -29400,7 +29537,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -29421,6 +29558,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "JGO DE MUÑECA 40CM -81048.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -29436,7 +29574,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -29516,6 +29654,7 @@
         "precio": 5700.0
       }
     ],
+    "image_name": "JGO DE MUÑECA 53CM -81044.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -29712,7 +29851,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 2,
-      "103": 2
+      "103": 2,
+      "105": 2
     }
   },
   {
@@ -30079,7 +30219,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -30588,8 +30728,8 @@
     ],
     "stocks": {
       "102": 24,
-      "103": 12,
-      "105": 17
+      "103": 11,
+      "105": 20
     }
   },
   {
@@ -30694,6 +30834,7 @@
         "precio": 4885.0
       }
     ],
+    "image_name": "JUEGO DE ACCESORIOS P\u0026 COCINA -9122.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -30708,7 +30849,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 3
     }
   },
@@ -30730,6 +30871,7 @@
         "precio": 2445.0
       }
     ],
+    "image_name": "JUEGO DE ANIMALES -94707.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -30745,7 +30887,7 @@
     ],
     "stocks": {
       "103": 8,
-      "105": 9
+      "105": 7
     }
   },
   {
@@ -30832,6 +30974,7 @@
         "precio": 1225.0
       }
     ],
+    "image_name": "JUEGO DE BLOQUES 21PCS -4041.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -30847,7 +30990,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 8
+      "105": 5
     }
   },
   {
@@ -30868,6 +31011,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "JUEGO DE BLOQUES 50PCS -4040.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -30883,7 +31027,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 6
+      "105": 0
     }
   },
   {
@@ -30941,7 +31085,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 30
+      "105": 25
     }
   },
   {
@@ -30962,6 +31106,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "JUEGO DE CARRO -49960.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -30977,7 +31122,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -30998,6 +31143,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "JUEGO DE CARRO -50558.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -31033,6 +31179,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "JUEGO DE COCHE P\u0026 MUÑECA -42051.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -31153,6 +31300,7 @@
         "precio": 19540.0
       }
     ],
+    "image_name": "JUEGO DE CUCHILLOS 6PCS -BH-2407.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -31189,6 +31337,7 @@
         "precio": 17500.0
       }
     ],
+    "image_name": "JUEGO DE CUCHILLOS 6PCS -BH-2528.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -31225,6 +31374,7 @@
         "precio": 30935.0
       }
     ],
+    "image_name": "JUEGO DE CUCHILLOS 6PCS -BH-3126.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -31261,6 +31411,7 @@
         "precio": 19130.0
       }
     ],
+    "image_name": "JUEGO DE CUCHILLOS 8PCS -BH-2421.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -31275,8 +31426,8 @@
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 1
+      "103": 1,
+      "105": 0
     }
   },
   {
@@ -31297,6 +31448,7 @@
         "precio": 18315.0
       }
     ],
+    "image_name": "JUEGO DE CUCHILLOS 8PCS -BH-2561.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -31333,6 +31485,7 @@
         "precio": 18315.0
       }
     ],
+    "image_name": "JUEGO DE CUCHILLOS 8PCS -BH-2685N.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -31369,6 +31522,7 @@
         "precio": 18315.0
       }
     ],
+    "image_name": "JUEGO DE CUCHILLOS 8PCS -BH-2883.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -31499,7 +31653,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 11
+      "105": 10
     }
   },
   {
@@ -31549,6 +31703,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "JUEGO DE MUÑECA 11.5\u0026 -9146.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -31585,6 +31740,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "JUEGO DE MUÑECA 11.5\u0026 -9263.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -31600,7 +31756,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -31621,6 +31777,7 @@
         "precio": 8140.0
       }
     ],
+    "image_name": "JUEGO DE MUÑECA 13\u0026 -3403.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -31666,7 +31823,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 2,
-      "103": 4,
+      "103": 3,
       "105": 2
     }
   },
@@ -31867,7 +32024,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 16,
-      "105": 23
+      "105": 15
     }
   },
   {
@@ -32155,7 +32312,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 15,
-      "105": 11
+      "105": 10
     }
   },
   {
@@ -32810,6 +32967,7 @@
         "precio": 3665.0
       }
     ],
+    "image_name": "JUGUETE COCHE P\u0026 MUÑECA -54814.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -32818,7 +32976,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 3,
-      "105": 2
+      "105": 5
     }
   },
   {
@@ -32926,6 +33084,7 @@
         "precio": 18315.0
       }
     ],
+    "image_name": "JUGUETE DE COCINA C\u0026 ACCESORIOS -25341.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -32934,7 +33093,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -33185,6 +33344,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "JUGUETE FUTBOL -0874.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -33218,6 +33378,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "JUGUETE FUTBOL -2072.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -33233,7 +33394,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 6
+      "105": 0
     }
   },
   {
@@ -33254,6 +33415,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "JUGUETE FUTBOL -8712.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -33269,7 +33431,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 6
+      "105": 0
     }
   },
   {
@@ -33290,6 +33452,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "JUGUETE FUTBOL -S30.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -33361,7 +33524,7 @@
     "stocks": {
       "102": 24,
       "103": 0,
-      "105": 32
+      "105": 30
     }
   },
   {
@@ -33390,8 +33553,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 24,
-      "103": 10,
-      "105": 11
+      "103": 9,
+      "105": 8
     }
   },
   {
@@ -33596,7 +33759,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -34185,6 +34348,7 @@
         "precio": 3665.0
       }
     ],
+    "image_name": "LAMAPARA DE EMERGENCIA -ZEL-288.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -34199,8 +34363,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 11
+      "103": 2,
+      "105": 8
     }
   },
   {
@@ -34893,7 +35057,7 @@
     "stocks": {
       "102": 150,
       "103": 38,
-      "105": 27
+      "105": 20
     }
   },
   {
@@ -34942,6 +35106,7 @@
         "precio": 1225.0
       }
     ],
+    "image_name": "LAPIZ 12 PCS -85866.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -34978,6 +35143,7 @@
         "precio": 1225.0
       }
     ],
+    "image_name": "LAPIZ 12 PCS 2B -85867.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -34993,7 +35159,7 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -35292,7 +35458,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -35377,7 +35543,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -35594,8 +35760,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 4
+      "103": 2,
+      "105": 6
     }
   },
   {
@@ -35644,8 +35810,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 4
+      "103": 1,
+      "105": 5
     }
   },
   {
@@ -36389,7 +36555,7 @@
     "stocks": {
       "102": 4,
       "103": 18,
-      "105": 0
+      "105": 4
     }
   },
   {
@@ -36421,7 +36587,7 @@
     "stocks": {
       "102": 10,
       "103": 21,
-      "105": 0
+      "105": 10
     }
   },
   {
@@ -36546,7 +36712,7 @@
     "stocks": {
       "102": 10,
       "103": 4,
-      "105": 0
+      "105": 3
     }
   },
   {
@@ -37015,7 +37181,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 20,
-      "105": 31
+      "105": 27
     }
   },
   {
@@ -37082,7 +37248,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 47,
-      "105": 47
+      "105": 45
     }
   },
   {
@@ -37406,6 +37572,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "LINTERNA RECARGABLE CON PANEL -ZEL-300.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -37426,8 +37593,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 8
+      "103": 3,
+      "105": 5
     }
   },
   {
@@ -38541,7 +38708,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -38738,7 +38905,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 0,
       "105": 0
     }
   },
@@ -38795,6 +38962,7 @@
         "precio": 2445.0
       }
     ],
+    "image_name": "MACETERO PLASTICO 19CM 2.4L -494.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -38830,6 +38998,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "MACETERO PLASTICO 25CM 5L -495.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -38865,6 +39034,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "MACETERO PLASTICO 26CM 9L -496.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -39047,6 +39217,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "MACETERO PLATICO 1.7L -HP196-36.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -39062,7 +39233,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 6
+      "105": 3
     }
   },
   {
@@ -39083,6 +39254,7 @@
         "precio": 1630.0
       }
     ],
+    "image_name": "MACETERO PLATICO 3.6L -HP195.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -41025,8 +41197,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 9,
-      "103": 15,
-      "105": 9
+      "103": 14,
+      "105": 4
     }
   },
   {
@@ -42081,7 +42253,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -42748,8 +42920,8 @@
       }
     ],
     "stocks": {
-      "103": 14,
-      "105": 12
+      "103": 12,
+      "105": 6
     }
   },
   {
@@ -42920,7 +43092,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 7,
-      "105": 15
+      "105": 19
     }
   },
   {
@@ -42941,6 +43113,7 @@
         "precio": 16650.0
       }
     ],
+    "image_name": "OLLA ARROCERA 1.8L -1118.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -42962,7 +43135,7 @@
     ],
     "stocks": {
       "103": 8,
-      "105": 13
+      "105": 21
     }
   },
   {
@@ -43191,7 +43364,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 10,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -43530,8 +43703,8 @@
       }
     ],
     "stocks": {
-      "103": 6,
-      "105": 17
+      "103": 5,
+      "105": 16
     }
   },
   {
@@ -43626,7 +43799,7 @@
     ],
     "stocks": {
       "103": 9,
-      "105": 18
+      "105": 17
     }
   },
   {
@@ -44419,7 +44592,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 19,
-      "105": 335
+      "105": 332
     }
   },
   {
@@ -44527,7 +44700,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 10,
-      "105": 0
+      "105": 10
     }
   },
   {
@@ -44709,8 +44882,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 24,
-      "103": 24,
-      "105": 9
+      "103": 23,
+      "105": 8
     }
   },
   {
@@ -44809,7 +44982,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 8,
+      "103": 7,
       "105": 0
     }
   },
@@ -44840,7 +45013,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 16
+      "105": 15
     }
   },
   {
@@ -44960,7 +45133,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 15,
-      "105": 13
+      "105": 12
     }
   },
   {
@@ -45700,7 +45873,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 7,
-      "105": 18
+      "105": 17
     }
   },
   {
@@ -46752,7 +46925,7 @@
     "stocks": {
       "102": 12,
       "103": 9,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -46935,7 +47108,7 @@
     "stocks": {
       "102": 9,
       "103": 5,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -46966,7 +47139,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 22,
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -47029,7 +47202,7 @@
     "stocks": {
       "102": 22,
       "103": 11,
-      "105": 1
+      "105": 4
     }
   },
   {
@@ -47877,7 +48050,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -48238,7 +48411,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 17
+      "105": 14
     }
   },
   {
@@ -48303,7 +48476,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 5
+      "105": 27
     }
   },
   {
@@ -48911,7 +49084,7 @@
     "stocks": {
       "102": 3,
       "103": 6,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -49798,7 +49971,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -49922,7 +50095,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 4,
-      "103": 6,
+      "103": 5,
       "105": 3
     }
   },
@@ -50556,7 +50729,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 19,
-      "103": 4,
+      "103": 3,
       "105": 6
     }
   },
@@ -50777,7 +50950,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 49,
-      "103": 6,
+      "103": 5,
       "105": 3
     }
   },
@@ -50879,6 +51052,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "REGLETA DE 6 TOMAS -6610.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -50893,7 +51067,7 @@
       }
     ],
     "stocks": {
-      "103": 5,
+      "103": 4,
       "105": 9
     }
   },
@@ -50986,7 +51160,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -51155,6 +51329,7 @@
         "precio": 3665.0
       }
     ],
+    "image_name": "Reloj De Pared -3416.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -51192,6 +51367,7 @@
         "precio": 1100.0
       }
     ],
+    "image_name": "Reloj De Pared -3428.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -51368,6 +51544,7 @@
         "precio": 4480.0
       }
     ],
+    "image_name": "Reloj De Pared -MC-049.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -51377,7 +51554,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -51427,6 +51604,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "RELOJ DE PARED -25-068.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -51463,6 +51641,7 @@
         "precio": 4885.0
       }
     ],
+    "image_name": "RELOJ DE PARED -30-123.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -51498,6 +51677,7 @@
         "precio": 5295.0
       }
     ],
+    "image_name": "RELOJ DE PARED -40-055.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -51533,6 +51713,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "RELOJ DE PARED -85245.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -51569,6 +51750,7 @@
         "precio": 2035.0
       }
     ],
+    "image_name": "RELOJ DE PARED -87489.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -51605,6 +51787,7 @@
         "precio": 1630.0
       }
     ],
+    "image_name": "RELOJ DE PARED -87509.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -51620,7 +51803,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -51641,6 +51824,7 @@
         "precio": 2445.0
       }
     ],
+    "image_name": "RELOJ DE PARED -87510.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -51677,6 +51861,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "RELOJ DE PARED -87519.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -51713,6 +51898,7 @@
         "precio": 4885.0
       }
     ],
+    "image_name": "RELOJ DE PARED -MC-024.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -51748,6 +51934,7 @@
         "precio": 4885.0
       }
     ],
+    "image_name": "RELOJ DE PARED -MC-068.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -51852,7 +52039,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 6
     }
   },
@@ -51961,6 +52148,7 @@
         "precio": 4480.0
       }
     ],
+    "image_name": "RELOJ DE PARED 35CM -1191.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -52151,6 +52339,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "RELOJ DE PARED COPA -35-023.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -52180,6 +52369,7 @@
         "precio": 3665.0
       }
     ],
+    "image_name": "RELOJ DE PARED TAZA -0461.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -52189,7 +52379,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -52210,6 +52400,7 @@
         "precio": 3100.0
       }
     ],
+    "image_name": "Reloj De Pared Tetera 29cm -0651.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -52219,7 +52410,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -52366,7 +52557,7 @@
     "stocks": {
       "102": 7,
       "103": 2,
-      "105": 0
+      "105": 2
     }
   },
   {
@@ -52958,7 +53149,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -53146,8 +53337,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 3,
-      "105": 5
+      "103": 2,
+      "105": 3
     }
   },
   {
@@ -53178,7 +53369,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 6,
-      "105": 21
+      "105": 19
     }
   },
   {
@@ -53209,7 +53400,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 6,
-      "105": 14
+      "105": 11
     }
   },
   {
@@ -53438,7 +53629,7 @@
     "stocks": {
       "102": 97,
       "103": 23,
-      "105": 22
+      "105": 18
     }
   },
   {
@@ -53467,7 +53658,7 @@
     "stocks": {
       "102": 31,
       "103": 22,
-      "105": 22
+      "105": 20
     }
   },
   {
@@ -53549,7 +53740,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -53581,7 +53772,7 @@
     "stocks": {
       "102": 384,
       "103": 24,
-      "105": 37
+      "105": 13
     }
   },
   {
@@ -54567,7 +54758,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -54605,7 +54796,7 @@
     "stocks": {
       "102": 10,
       "103": 10,
-      "105": 2
+      "105": 3
     }
   },
   {
@@ -54632,6 +54823,7 @@
         "precio": 28.378378
       }
     ],
+    "image_name": "SANDWICHERA -LT-91.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -54800,6 +54992,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "SARTEN 24CM -86005.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -54835,6 +55028,7 @@
         "precio": 4480.0
       }
     ],
+    "image_name": "SARTEN 24CM -86006.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -54870,6 +55064,7 @@
         "precio": 12620.0
       }
     ],
+    "image_name": "SARTEN 24CM -86019.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -54905,6 +55100,7 @@
         "precio": 6105.0
       }
     ],
+    "image_name": "SARTEN 24X5CM -FGR24.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -54919,7 +55115,7 @@
       }
     ],
     "stocks": {
-      "105": 5
+      "105": 2
     }
   },
   {
@@ -54969,7 +55165,7 @@
         "precio": 2445.0
       }
     ],
-    "image_name": "SARTEN DE ALUMINIO 12CM -1221.jpg",
+    "image_name": "SARTEN DE ALUMINIO 12CM -1221.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -55128,6 +55324,7 @@
         "precio": 4480.0
       }
     ],
+    "image_name": "SARTEN DE ALUMINIO 24CM -2402.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -55148,7 +55345,7 @@
       }
     ],
     "stocks": {
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -56447,7 +56644,7 @@
     "stocks": {
       "102": 14,
       "103": 6,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -56477,7 +56674,7 @@
     "stocks": {
       "102": 12,
       "103": 0,
-      "105": 9
+      "105": 7
     }
   },
   {
@@ -56594,7 +56791,7 @@
     "stocks": {
       "102": 16,
       "103": 13,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -58054,6 +58251,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "Soporte Para TV 26 A 63\u0026 -0054.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -58069,7 +58267,7 @@
     "stocks": {
       "102": 14,
       "103": 6,
-      "105": 2
+      "105": 6
     }
   },
   {
@@ -58098,7 +58296,7 @@
     "stocks": {
       "102": 176,
       "103": 65,
-      "105": 135
+      "105": 131
     }
   },
   {
@@ -59638,7 +59836,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 4
+      "105": 2
     }
   },
   {
@@ -61031,7 +61229,7 @@
     "stocks": {
       "102": 30,
       "103": 9,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -63242,7 +63440,7 @@
     "stocks": {
       "102": 13,
       "103": 12,
-      "105": 2
+      "105": 10
     }
   },
   {
@@ -63303,8 +63501,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 22,
-      "103": 19,
-      "105": 5
+      "103": 18,
+      "105": 4
     }
   },
   {
@@ -63335,7 +63533,7 @@
     "stocks": {
       "102": 18,
       "103": 7,
-      "105": 6
+      "105": 10
     }
   },
   {
@@ -63425,7 +63623,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 7,
+      "103": 6,
       "105": 0
     }
   },
@@ -64516,7 +64714,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 19,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -64664,7 +64862,7 @@
     "stocks": {
       "102": 8,
       "103": 4,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -65065,7 +65263,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -65264,8 +65462,43 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
+  },
+  {
+    "idProducto": 2802,
+    "codigo": "8875",
+    "descripcion": "TV 32\" HD SMART",
+    "precio": {
+      "idPrecio": 2347,
+      "idProducto": 2802,
+      "idMoneda": 1,
+      "precio": 74000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2347,
+        "idProducto": 2802,
+        "idMoneda": 1,
+        "precio": 74000.0
+      }
+    ],
+    "image_name": "TV 32\u0026 HD SMART -8875.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 64,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 855,
+        "idEtiqueta": 1,
+        "idProducto": 2802,
+        "valor": "04-04"
+      }
+    ],
+    "stocks": {}
   },
   {
     "idProducto": 503,
@@ -65404,6 +65637,41 @@
       "103": 2,
       "105": 0
     }
+  },
+  {
+    "idProducto": 2803,
+    "codigo": "8900",
+    "descripcion": "TV 43\" HD SMART",
+    "precio": {
+      "idPrecio": 2348,
+      "idProducto": 2803,
+      "idMoneda": 1,
+      "precio": 148000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2348,
+        "idProducto": 2803,
+        "idMoneda": 1,
+        "precio": 148000.0
+      }
+    ],
+    "image_name": "TV 43\u0026 HD SMART -8900.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 64,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 856,
+        "idEtiqueta": 1,
+        "idProducto": 2803,
+        "valor": "04-04"
+      }
+    ],
+    "stocks": {}
   },
   {
     "idProducto": 2107,
@@ -66229,7 +66497,7 @@
     ],
     "stocks": {
       "103": 9,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -66320,7 +66588,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 9
+      "105": 5
     }
   },
   {
@@ -66507,7 +66775,7 @@
     "stocks": {
       "102": 36,
       "103": 12,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -66814,7 +67082,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 6,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -67043,8 +67311,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 5
+      "103": 7,
+      "105": 9
     }
   },
   {
@@ -67122,7 +67390,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -67158,7 +67426,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 7,
+      "103": 3,
       "105": 1
     }
   },

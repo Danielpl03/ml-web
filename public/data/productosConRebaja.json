@@ -17,7 +17,7 @@
         "precio": 815.0
       }
     ],
-    "image_name": "ACUARELA LAVABLE 12 COLORES -2348.jpg",
+    "image_name": "ACUARELA LAVABLE 12 COLORES -2348.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -75,7 +75,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -228,6 +228,7 @@
         "precio": 2690.0
       }
     ],
+    "image_name": "BASURERO PLASTICO 10L -0752.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -265,6 +266,7 @@
         "precio": 2690.0
       }
     ],
+    "image_name": "BASURERO PLASTICO 10L -09702.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -307,6 +309,7 @@
         "precio": 2590.0
       }
     ],
+    "image_name": "Basurero Plastico 15Lts -2821.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -322,7 +325,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 11
+      "105": 9
     }
   },
   {
@@ -427,6 +430,7 @@
         "precio": 45585.0
       }
     ],
+    "image_name": "BICICLETA 16\u0026 ROJA -6140.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -470,6 +474,7 @@
         "precio": 116.0
       }
     ],
+    "image_name": "BICICLETA 20\u0026 MORADO -20146.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -1504,6 +1509,7 @@
         "precio": 305.0
       }
     ],
+    "image_name": "BOLSA DE REGALO -85636.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -1525,7 +1531,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 22
+      "105": 21
     }
   },
   {
@@ -1546,6 +1552,7 @@
         "precio": 245.0
       }
     ],
+    "image_name": "BOLSA DE REGALO -BR-XL.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -1567,7 +1574,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 23
+      "105": 11
     }
   },
   {
@@ -1730,6 +1737,43 @@
     }
   },
   {
+    "idProducto": 105,
+    "codigo": "1459",
+    "descripcion": "Cesto De Ropa",
+    "precio": {
+      "idPrecio": 247,
+      "idProducto": 105,
+      "idMoneda": 1,
+      "precio": 1500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 247,
+        "idProducto": 105,
+        "idMoneda": 1,
+        "precio": 1500.0
+      }
+    ],
+    "image_name": "Cesto De Ropa -1459.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 853,
+        "idEtiqueta": 2,
+        "idProducto": 105,
+        "valor": "1900.0"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 23
+    }
+  },
+  {
     "idProducto": 2786,
     "codigo": "4035",
     "descripcion": "CINTA ADHESIVA TRANSPARENTE",
@@ -1747,6 +1791,7 @@
         "precio": 125.0
       }
     ],
+    "image_name": "CINTA ADHESIVA TRANSPARENTE -4035.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -1767,8 +1812,8 @@
       }
     ],
     "stocks": {
-      "103": 24,
-      "105": 48
+      "103": 22,
+      "105": 21
     }
   },
   {
@@ -1826,6 +1871,7 @@
         "precio": 4070.0
       }
     ],
+    "image_name": "CORNIZA DE METAL 60X120\u0026 -HL-515.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -1846,7 +1892,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -1924,7 +1970,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 4
     }
   },
   {
@@ -1945,6 +1991,7 @@
         "precio": 1875.0
       }
     ],
+    "image_name": "Cuchillo 9´´ -8688M-9.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -1999,7 +2046,7 @@
     "stocks": {
       "102": 51,
       "103": 35,
-      "105": 14
+      "105": 13
     }
   },
   {
@@ -2131,6 +2178,7 @@
         "precio": 18315.0
       }
     ],
+    "image_name": "ESTUFA GAS 3Q -G03B.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -2147,7 +2195,7 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -2512,7 +2560,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -2587,8 +2635,8 @@
     ],
     "stocks": {
       "102": 24,
-      "103": 12,
-      "105": 17
+      "103": 11,
+      "105": 20
     }
   },
   {
@@ -2957,8 +3005,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 4
+      "103": 1,
+      "105": 5
     }
   },
   {
@@ -3436,6 +3484,7 @@
         "precio": 2850.0
       }
     ],
+    "image_name": "LINTERNA RECARGABLE CON PANEL -ZEL-300.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -3456,8 +3505,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 8
+      "103": 3,
+      "105": 5
     }
   },
   {
@@ -4137,6 +4186,7 @@
         "precio": 16650.0
       }
     ],
+    "image_name": "OLLA ARROCERA 1.8L -1118.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -4158,7 +4208,7 @@
     ],
     "stocks": {
       "103": 8,
-      "105": 13
+      "105": 21
     }
   },
   {
@@ -4587,6 +4637,7 @@
         "precio": 3665.0
       }
     ],
+    "image_name": "Reloj De Pared -3416.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -4791,6 +4842,7 @@
         "precio": 28.378378
       }
     ],
+    "image_name": "SANDWICHERA -LT-91.png",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -4904,6 +4956,7 @@
         "precio": 4480.0
       }
     ],
+    "image_name": "SARTEN DE ALUMINIO 24CM -2402.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -4924,7 +4977,7 @@
       }
     ],
     "stocks": {
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -6056,7 +6109,7 @@
     ],
     "stocks": {
       "103": 9,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -6094,7 +6147,7 @@
     "stocks": {
       "102": 36,
       "103": 12,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -6191,8 +6244,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 5
+      "103": 7,
+      "105": 9
     }
   },
   {
