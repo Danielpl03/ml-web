@@ -39,7 +39,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 9
+      "105": 2
     }
   },
   {
@@ -270,7 +270,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -287,8 +288,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 5
+      "103": 1,
+      "105": 4
     }
   },
   {
@@ -313,6 +314,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
+    "idCategoria": 99,
     "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
@@ -325,7 +327,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -447,7 +449,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -875,20 +877,20 @@
       "idPrecio": 1591,
       "idProducto": 2117,
       "idMoneda": 1,
-      "precio": 133000.0
+      "precio": 138750.0
     },
     "precios": [
-      {
-        "idPrecio": 1591,
-        "idProducto": 2117,
-        "idMoneda": 1,
-        "precio": 133000.0
-      },
       {
         "idPrecio": 1607,
         "idProducto": 2117,
         "idMoneda": 2,
         "precio": 359.45947
+      },
+      {
+        "idPrecio": 1591,
+        "idProducto": 2117,
+        "idMoneda": 1,
+        "precio": 138750.0
       }
     ],
     "image_name": "BOCINA 12\u0026 -8511.jpg",
@@ -907,7 +909,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -1513,7 +1515,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -1530,8 +1532,8 @@
       }
     ],
     "stocks": {
-      "103": 12,
-      "105": 21
+      "103": 11,
+      "105": 10
     }
   },
   {
@@ -1556,7 +1558,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -1574,7 +1576,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 11
+      "105": 6
     }
   },
   {
@@ -1695,7 +1697,7 @@
       "idPrecio": 1940,
       "idProducto": 2405,
       "idMoneda": 1,
-      "precio": 7560.0
+      "precio": 7770.0
     },
     "precios": [
       {
@@ -1708,7 +1710,7 @@
         "idPrecio": 1940,
         "idProducto": 2405,
         "idMoneda": 1,
-        "precio": 7560.0
+        "precio": 7770.0
       }
     ],
     "image_name": "CEMENTO GRIS 350.jpeg",
@@ -1770,7 +1772,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 23
+      "105": 20
     }
   },
   {
@@ -1812,8 +1814,8 @@
       }
     ],
     "stocks": {
-      "103": 22,
-      "105": 21
+      "103": 21,
+      "105": 5
     }
   },
   {
@@ -1854,6 +1856,43 @@
     }
   },
   {
+    "idProducto": 2808,
+    "codigo": "RFH35",
+    "descripcion": "CONGELADOR HORIZONTAL 3.5 PIES",
+    "precio": {
+      "idPrecio": 2353,
+      "idProducto": 2808,
+      "idMoneda": 1,
+      "precio": 96200.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2353,
+        "idProducto": 2808,
+        "idMoneda": 1,
+        "precio": 96200.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 50,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1087,
+        "idEtiqueta": 2,
+        "idProducto": 2808,
+        "valor": "99900.0"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 3
+    }
+  },
+  {
     "idProducto": 2768,
     "codigo": "HL-515",
     "descripcion": "CORNIZA DE METAL 60X120\"",
@@ -1875,7 +1914,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -1916,7 +1956,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -1933,7 +1974,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 7
     }
   },
   {
@@ -1970,7 +2011,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 4
+      "105": 0
     }
   },
   {
@@ -2046,7 +2087,7 @@
     "stocks": {
       "102": 51,
       "103": 35,
-      "105": 13
+      "105": 18
     }
   },
   {
@@ -2195,7 +2236,7 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 7
+      "105": 5
     }
   },
   {
@@ -2324,6 +2365,44 @@
     ],
     "stocks": {
       "103": 0
+    }
+  },
+  {
+    "idProducto": 187,
+    "codigo": "FZD21",
+    "descripcion": "Frazada De Piso",
+    "precio": {
+      "idPrecio": 461,
+      "idProducto": 187,
+      "idMoneda": 1,
+      "precio": 320.0
+    },
+    "precios": [
+      {
+        "idPrecio": 461,
+        "idProducto": 187,
+        "idMoneda": 1,
+        "precio": 320.0
+      }
+    ],
+    "image_name": "Frazada De Piso -FZD21.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 857,
+        "idEtiqueta": 2,
+        "idProducto": 187,
+        "valor": "320.0"
+      }
+    ],
+    "stocks": {
+      "102": 150,
+      "103": 103,
+      "105": 36
     }
   },
   {
@@ -2478,18 +2557,9 @@
         "valor": "277500.0"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 4,
-        "color": 42,
-        "valor": 0.2,
-        "nombre": "Descuento 20%",
-        "activo": true
-      }
-    ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -2634,9 +2704,8 @@
       }
     ],
     "stocks": {
-      "102": 24,
-      "103": 11,
-      "105": 20
+      "103": 8,
+      "105": 7
     }
   },
   {
@@ -3005,8 +3074,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 5
+      "103": 2,
+      "105": 1
     }
   },
   {
@@ -3118,6 +3187,7 @@
         "precio": 37.837837
       }
     ],
+    "image_name": "Licuadora 2en1 -8411.jpg",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -3133,7 +3203,8 @@
       }
     ],
     "stocks": {
-      "103": 0
+      "103": 0,
+      "105": 2
     }
   },
   {
@@ -3202,6 +3273,7 @@
         "precio": 37.837837
       }
     ],
+    "image_name": "LICUADORA 2EN1 1.5L -6040.jpg",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -3217,7 +3289,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 2
     }
   },
   {
@@ -3303,7 +3375,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 2
     }
   },
   {
@@ -3426,7 +3498,7 @@
     ],
     "stocks": {
       "103": 36,
-      "105": 56
+      "105": 38
     }
   },
   {
@@ -3488,7 +3560,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -3505,8 +3577,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 5
+      "103": 0,
+      "105": 2
     }
   },
   {
@@ -3635,7 +3707,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -4190,7 +4262,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 56,
+    "idDepartamento": 3,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -4208,7 +4281,7 @@
     ],
     "stocks": {
       "103": 8,
-      "105": 21
+      "105": 15
     }
   },
   {
@@ -4333,7 +4406,7 @@
     ],
     "stocks": {
       "102": 36,
-      "103": 9,
+      "103": 7,
       "105": 10
     }
   },
@@ -4448,7 +4521,7 @@
     ],
     "stocks": {
       "102": 51,
-      "103": 11,
+      "103": 6,
       "105": 5
     }
   },
@@ -4777,7 +4850,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 9
+      "105": 5
     }
   },
   {
@@ -4815,7 +4888,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 14
+      "105": 13
     }
   },
   {
@@ -4859,7 +4932,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -4935,7 +5008,7 @@
       }
     ],
     "stocks": {
-      "103": 26
+      "103": 25
     }
   },
   {
@@ -4960,7 +5033,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 102,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5015,7 +5089,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -5176,7 +5250,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -5367,7 +5441,7 @@
     ],
     "stocks": {
       "102": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -6108,7 +6182,7 @@
       }
     ],
     "stocks": {
-      "103": 9,
+      "103": 4,
       "105": 0
     }
   },
@@ -6145,8 +6219,8 @@
       }
     ],
     "stocks": {
-      "102": 36,
-      "103": 12,
+      "102": 24,
+      "103": 11,
       "105": 7
     }
   },
@@ -6245,7 +6319,7 @@
     ],
     "stocks": {
       "103": 7,
-      "105": 9
+      "105": 7
     }
   },
   {

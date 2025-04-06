@@ -497,7 +497,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 9
+      "105": 2
     }
   },
   {
@@ -1479,7 +1479,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 5,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -1540,7 +1540,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 5,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -1661,7 +1661,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 8,
-      "105": 21
+      "105": 17
     }
   },
   {
@@ -1691,7 +1691,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -1842,7 +1842,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 19,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -2088,7 +2089,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 19,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -2125,7 +2127,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 19,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -2136,8 +2139,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 4
+      "103": 6,
+      "105": 2
     }
   },
   {
@@ -2162,7 +2165,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 19,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -2174,7 +2178,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -2258,7 +2262,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 19,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -2270,7 +2275,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -2295,7 +2300,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 19,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -2332,7 +2338,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 19,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -2368,7 +2375,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 19,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -2410,7 +2418,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -2440,7 +2448,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -2500,7 +2508,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -2530,8 +2538,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 2,
-      "105": 3
+      "103": 4,
+      "105": 0
     }
   },
   {
@@ -2619,8 +2627,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 7,
-      "105": 8
+      "103": 5,
+      "105": 6
     }
   },
   {
@@ -2819,7 +2827,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 19,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -2855,7 +2864,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 19,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -3580,7 +3590,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -3617,7 +3627,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -3654,7 +3664,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -3666,7 +3676,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 24
+      "105": 21
     }
   },
   {
@@ -3979,7 +3989,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 20,
+      "102": 10,
       "103": 11,
       "105": 10
     }
@@ -4103,7 +4113,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 40,
+      "102": 30,
       "103": 12,
       "105": 10
     }
@@ -4503,7 +4513,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 13,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -4736,7 +4746,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -5152,7 +5162,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5188,6 +5199,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
+    "idCategoria": 99,
     "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [],
@@ -5217,7 +5229,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5254,7 +5267,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5266,7 +5280,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 4
+      "105": 2
     }
   },
   {
@@ -5352,6 +5366,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
+    "idCategoria": 99,
     "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [],
@@ -5381,7 +5396,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5393,7 +5409,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 5
+      "105": 2
     }
   },
   {
@@ -5448,7 +5464,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5459,8 +5476,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 8
+      "103": 3,
+      "105": 3
     }
   },
   {
@@ -5485,7 +5502,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5522,7 +5540,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5534,7 +5553,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 11
+      "105": 9
     }
   },
   {
@@ -5559,7 +5578,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5571,7 +5591,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -5596,7 +5616,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5607,8 +5628,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 3,
+      "105": 0
     }
   },
   {
@@ -5632,7 +5653,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5731,7 +5753,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5742,7 +5765,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 4
     }
   },
@@ -5768,7 +5791,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5843,7 +5867,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -5860,8 +5885,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 5
+      "103": 1,
+      "105": 4
     }
   },
   {
@@ -5917,6 +5942,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
+    "idCategoria": 99,
     "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
@@ -5929,7 +5955,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -5954,7 +5980,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -6141,7 +6168,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 99,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -6271,8 +6299,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 124,
-      "103": 56,
-      "105": 17
+      "103": 52,
+      "105": 58
     }
   },
   {
@@ -6624,7 +6652,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 60,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -6934,7 +6963,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -7027,7 +7056,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 60,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -7038,7 +7068,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -7063,7 +7093,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 60,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -7074,7 +7105,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -7099,7 +7130,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 60,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -7110,7 +7142,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -7214,7 +7246,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 60,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -7621,7 +7654,7 @@
     "stocks": {
       "102": 74,
       "103": 17,
-      "105": 16
+      "105": 13
     }
   },
   {
@@ -7975,20 +8008,20 @@
       "idPrecio": 1591,
       "idProducto": 2117,
       "idMoneda": 1,
-      "precio": 133000.0
+      "precio": 138750.0
     },
     "precios": [
-      {
-        "idPrecio": 1591,
-        "idProducto": 2117,
-        "idMoneda": 1,
-        "precio": 133000.0
-      },
       {
         "idPrecio": 1607,
         "idProducto": 2117,
         "idMoneda": 2,
         "precio": 359.45947
+      },
+      {
+        "idPrecio": 1591,
+        "idProducto": 2117,
+        "idMoneda": 1,
+        "precio": 138750.0
       }
     ],
     "image_name": "BOCINA 12\u0026 -8511.jpg",
@@ -8007,7 +8040,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -8101,6 +8134,37 @@
     ],
     "stocks": {
       "105": 0
+    }
+  },
+  {
+    "idProducto": 2810,
+    "codigo": "8770",
+    "descripcion": "BOCINA 12X2\"",
+    "precio": {
+      "idPrecio": 2355,
+      "idProducto": 2810,
+      "idMoneda": 1,
+      "precio": 125800.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2355,
+        "idProducto": 2810,
+        "idMoneda": 1,
+        "precio": 125800.0
+      }
+    ],
+    "image_name": "BOCINA 12X2\u0026 -8770.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "stocks": {
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -8372,6 +8436,259 @@
     }
   },
   {
+    "idProducto": 2809,
+    "codigo": "8769",
+    "descripcion": "BOCINA 2X10\"",
+    "precio": {
+      "idPrecio": 2354,
+      "idProducto": 2809,
+      "idMoneda": 1,
+      "precio": 123950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2354,
+        "idProducto": 2809,
+        "idMoneda": 1,
+        "precio": 123950.0
+      }
+    ],
+    "image_name": "BOCINA 2X10\u0026 -8769.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "stocks": {
+      "103": 1,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 3024,
+    "codigo": "8916",
+    "descripcion": "BOCINA 2X10\"",
+    "precio": {
+      "idPrecio": 2568,
+      "idProducto": 3024,
+      "idMoneda": 1,
+      "precio": 107300.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2568,
+        "idProducto": 3024,
+        "idMoneda": 1,
+        "precio": 107300.0
+      }
+    ],
+    "image_name": "BOCINA 2X10\u0026 -8916.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1070,
+        "idEtiqueta": 1,
+        "idProducto": 3024,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 3026,
+    "codigo": "8876",
+    "descripcion": "BOCINA 2X12\"",
+    "precio": {
+      "idPrecio": 2570,
+      "idProducto": 3026,
+      "idMoneda": 1,
+      "precio": 157250.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2570,
+        "idProducto": 3026,
+        "idMoneda": 1,
+        "precio": 157250.0
+      }
+    ],
+    "image_name": "BOCINA 2X12\u0026 -8876.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1072,
+        "idEtiqueta": 1,
+        "idProducto": 3026,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 3023,
+    "codigo": "8911",
+    "descripcion": "BOCINA 2X12\"",
+    "precio": {
+      "idPrecio": 2567,
+      "idProducto": 3023,
+      "idMoneda": 1,
+      "precio": 94350.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2567,
+        "idProducto": 3023,
+        "idMoneda": 1,
+        "precio": 94350.0
+      }
+    ],
+    "image_name": "BOCINA 2X12\u0026 -8911.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1069,
+        "idEtiqueta": 1,
+        "idProducto": 3023,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 3025,
+    "codigo": "8913",
+    "descripcion": "BOCINA 2X12\"",
+    "precio": {
+      "idPrecio": 2569,
+      "idProducto": 3025,
+      "idMoneda": 1,
+      "precio": 133200.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2569,
+        "idProducto": 3025,
+        "idMoneda": 1,
+        "precio": 133200.0
+      }
+    ],
+    "image_name": "BOCINA 2X12\u0026 -8913.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1071,
+        "idEtiqueta": 1,
+        "idProducto": 3025,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 3027,
+    "codigo": "8917",
+    "descripcion": "BOCINA 2X12\"",
+    "precio": {
+      "idPrecio": 2571,
+      "idProducto": 3027,
+      "idMoneda": 1,
+      "precio": 151700.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2571,
+        "idProducto": 3027,
+        "idMoneda": 1,
+        "precio": 151700.0
+      }
+    ],
+    "image_name": "BOCINA 2X12\u0026 -8917.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1073,
+        "idEtiqueta": 1,
+        "idProducto": 3027,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 3028,
+    "codigo": "8918",
+    "descripcion": "BOCINA 2X12\"",
+    "precio": {
+      "idPrecio": 2572,
+      "idProducto": 3028,
+      "idMoneda": 1,
+      "precio": 155400.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2572,
+        "idProducto": 3028,
+        "idMoneda": 1,
+        "precio": 155400.0
+      }
+    ],
+    "image_name": "BOCINA 2X12\u0026 -8918.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1074,
+        "idEtiqueta": 1,
+        "idProducto": 3028,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
     "idProducto": 2372,
     "codigo": "8807",
     "descripcion": "BOCINA 2X2\"",
@@ -8444,7 +8761,7 @@
     "stocks": {
       "102": 10,
       "103": 1,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -8530,6 +8847,635 @@
     }
   },
   {
+    "idProducto": 3011,
+    "codigo": "8494",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2555,
+      "idProducto": 3011,
+      "idMoneda": 1,
+      "precio": 12950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2555,
+        "idProducto": 3011,
+        "idMoneda": 1,
+        "precio": 12950.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8494.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1057,
+        "idEtiqueta": 1,
+        "idProducto": 3011,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 3010,
+    "codigo": "8495",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2554,
+      "idProducto": 3010,
+      "idMoneda": 1,
+      "precio": 12950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2554,
+        "idProducto": 3010,
+        "idMoneda": 1,
+        "precio": 12950.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8495.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1056,
+        "idEtiqueta": 1,
+        "idProducto": 3010,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 3007,
+    "codigo": "8785",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2551,
+      "idProducto": 3007,
+      "idMoneda": 1,
+      "precio": 18500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2551,
+        "idProducto": 3007,
+        "idMoneda": 1,
+        "precio": 18500.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8785.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1053,
+        "idEtiqueta": 1,
+        "idProducto": 3007,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 2996,
+    "codigo": "8786",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2540,
+      "idProducto": 2996,
+      "idMoneda": 1,
+      "precio": 14800.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2540,
+        "idProducto": 2996,
+        "idMoneda": 1,
+        "precio": 14800.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8786.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1042,
+        "idEtiqueta": 1,
+        "idProducto": 2996,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2998,
+    "codigo": "8787",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2542,
+      "idProducto": 2998,
+      "idMoneda": 1,
+      "precio": 14800.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2542,
+        "idProducto": 2998,
+        "idMoneda": 1,
+        "precio": 14800.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8787.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1044,
+        "idEtiqueta": 1,
+        "idProducto": 2998,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2997,
+    "codigo": "8788",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2541,
+      "idProducto": 2997,
+      "idMoneda": 1,
+      "precio": 16650.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2541,
+        "idProducto": 2997,
+        "idMoneda": 1,
+        "precio": 16650.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8788.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1043,
+        "idEtiqueta": 1,
+        "idProducto": 2997,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 3005,
+    "codigo": "8789",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2549,
+      "idProducto": 3005,
+      "idMoneda": 1,
+      "precio": 16650.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2549,
+        "idProducto": 3005,
+        "idMoneda": 1,
+        "precio": 16650.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8789.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1051,
+        "idEtiqueta": 1,
+        "idProducto": 3005,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 3003,
+    "codigo": "8790",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2547,
+      "idProducto": 3003,
+      "idMoneda": 1,
+      "precio": 18500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2547,
+        "idProducto": 3003,
+        "idMoneda": 1,
+        "precio": 18500.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8790.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1049,
+        "idEtiqueta": 1,
+        "idProducto": 3003,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 3004,
+    "codigo": "8791",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2548,
+      "idProducto": 3004,
+      "idMoneda": 1,
+      "precio": 16650.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2548,
+        "idProducto": 3004,
+        "idMoneda": 1,
+        "precio": 16650.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8791.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1050,
+        "idEtiqueta": 1,
+        "idProducto": 3004,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 3002,
+    "codigo": "8811",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2546,
+      "idProducto": 3002,
+      "idMoneda": 1,
+      "precio": 12950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2546,
+        "idProducto": 3002,
+        "idMoneda": 1,
+        "precio": 12950.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8811.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1048,
+        "idEtiqueta": 1,
+        "idProducto": 3002,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 3001,
+    "codigo": "8812",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2545,
+      "idProducto": 3001,
+      "idMoneda": 1,
+      "precio": 12950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2545,
+        "idProducto": 3001,
+        "idMoneda": 1,
+        "precio": 12950.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8812.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1047,
+        "idEtiqueta": 1,
+        "idProducto": 3001,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 3000,
+    "codigo": "8813",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2544,
+      "idProducto": 3000,
+      "idMoneda": 1,
+      "precio": 14800.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2544,
+        "idProducto": 3000,
+        "idMoneda": 1,
+        "precio": 14800.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8813.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1046,
+        "idEtiqueta": 1,
+        "idProducto": 3000,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 3013,
+    "codigo": "8814",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2557,
+      "idProducto": 3013,
+      "idMoneda": 1,
+      "precio": 12950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2557,
+        "idProducto": 3013,
+        "idMoneda": 1,
+        "precio": 12950.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8814.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1059,
+        "idEtiqueta": 1,
+        "idProducto": 3013,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 3012,
+    "codigo": "8815",
+    "descripcion": "BOCINA 2X4\"",
+    "precio": {
+      "idPrecio": 2556,
+      "idProducto": 3012,
+      "idMoneda": 1,
+      "precio": 12950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2556,
+        "idProducto": 3012,
+        "idMoneda": 1,
+        "precio": 12950.0
+      }
+    ],
+    "image_name": "BOCINA 2X4\u0026 -8815.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1058,
+        "idEtiqueta": 1,
+        "idProducto": 3012,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 3014,
+    "codigo": "8547",
+    "descripcion": "BOCINA 2X8\"",
+    "precio": {
+      "idPrecio": 2558,
+      "idProducto": 3014,
+      "idMoneda": 1,
+      "precio": 16650.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2558,
+        "idProducto": 3014,
+        "idMoneda": 1,
+        "precio": 16650.0
+      }
+    ],
+    "image_name": "BOCINA 2X8\u0026 -8547.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1060,
+        "idEtiqueta": 1,
+        "idProducto": 3014,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 3022,
+    "codigo": "8818",
+    "descripcion": "BOCINA 2X8\"",
+    "precio": {
+      "idPrecio": 2566,
+      "idProducto": 3022,
+      "idMoneda": 1,
+      "precio": 22200.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2566,
+        "idProducto": 3022,
+        "idMoneda": 1,
+        "precio": 22200.0
+      }
+    ],
+    "image_name": "BOCINA 2X8\u0026 -8818.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1068,
+        "idEtiqueta": 1,
+        "idProducto": 3022,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 2999,
+    "codigo": "8816",
+    "descripcion": "BOCINA 3X4\"",
+    "precio": {
+      "idPrecio": 2543,
+      "idProducto": 2999,
+      "idMoneda": 1,
+      "precio": 14800.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2543,
+        "idProducto": 2999,
+        "idMoneda": 1,
+        "precio": 14800.0
+      }
+    ],
+    "image_name": "BOCINA 3X4\u0026 -8816.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1045,
+        "idEtiqueta": 1,
+        "idProducto": 2999,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
     "idProducto": 2099,
     "codigo": "8668",
     "descripcion": "BOCINA 3X8\"",
@@ -8571,6 +9517,152 @@
     "stocks": {
       "103": 0,
       "105": 0
+    }
+  },
+  {
+    "idProducto": 3006,
+    "codigo": "8851",
+    "descripcion": "BOCINA 4X2\"",
+    "precio": {
+      "idPrecio": 2550,
+      "idProducto": 3006,
+      "idMoneda": 1,
+      "precio": 18500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2550,
+        "idProducto": 3006,
+        "idMoneda": 1,
+        "precio": 18500.0
+      }
+    ],
+    "image_name": "BOCINA 4X2\u0026 -8851.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1052,
+        "idEtiqueta": 1,
+        "idProducto": 3006,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 3009,
+    "codigo": "8849",
+    "descripcion": "BOCINA 5.25X2\"",
+    "precio": {
+      "idPrecio": 2553,
+      "idProducto": 3009,
+      "idMoneda": 1,
+      "precio": 20350.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2553,
+        "idProducto": 3009,
+        "idMoneda": 1,
+        "precio": 20350.0
+      }
+    ],
+    "image_name": "BOCINA 5.25X2\u0026 -8849.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1055,
+        "idEtiqueta": 1,
+        "idProducto": 3009,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 3008,
+    "codigo": "8850",
+    "descripcion": "BOCINA 6.5X2\"",
+    "precio": {
+      "idPrecio": 2552,
+      "idProducto": 3008,
+      "idMoneda": 1,
+      "precio": 20350.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2552,
+        "idProducto": 3008,
+        "idMoneda": 1,
+        "precio": 20350.0
+      }
+    ],
+    "image_name": "BOCINA 6.5X2\u0026 -8850.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1054,
+        "idEtiqueta": 1,
+        "idProducto": 3008,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 3018,
+    "codigo": "7866",
+    "descripcion": "BOCINA 8\"",
+    "precio": {
+      "idPrecio": 2562,
+      "idProducto": 3018,
+      "idMoneda": 1,
+      "precio": 18500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2562,
+        "idProducto": 3018,
+        "idMoneda": 1,
+        "precio": 18500.0
+      }
+    ],
+    "image_name": "BOCINA 8\u0026 -7866.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1064,
+        "idEtiqueta": 1,
+        "idProducto": 3018,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 1
     }
   },
   {
@@ -8743,6 +9835,228 @@
     }
   },
   {
+    "idProducto": 3021,
+    "codigo": "8766",
+    "descripcion": "BOCINA 8\"",
+    "precio": {
+      "idPrecio": 2565,
+      "idProducto": 3021,
+      "idMoneda": 1,
+      "precio": 16650.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2565,
+        "idProducto": 3021,
+        "idMoneda": 1,
+        "precio": 16650.0
+      }
+    ],
+    "image_name": "BOCINA 8\u0026 -8766.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1067,
+        "idEtiqueta": 1,
+        "idProducto": 3021,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 3019,
+    "codigo": "8819",
+    "descripcion": "BOCINA 8\"",
+    "precio": {
+      "idPrecio": 2563,
+      "idProducto": 3019,
+      "idMoneda": 1,
+      "precio": 12950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2563,
+        "idProducto": 3019,
+        "idMoneda": 1,
+        "precio": 12950.0
+      }
+    ],
+    "image_name": "BOCINA 8\u0026 -8819.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1065,
+        "idEtiqueta": 1,
+        "idProducto": 3019,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 3017,
+    "codigo": "8820",
+    "descripcion": "BOCINA 8\"",
+    "precio": {
+      "idPrecio": 2561,
+      "idProducto": 3017,
+      "idMoneda": 1,
+      "precio": 16650.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2561,
+        "idProducto": 3017,
+        "idMoneda": 1,
+        "precio": 16650.0
+      }
+    ],
+    "image_name": "BOCINA 8\u0026 -8820.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1063,
+        "idEtiqueta": 1,
+        "idProducto": 3017,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 3016,
+    "codigo": "8854",
+    "descripcion": "BOCINA 8\"",
+    "precio": {
+      "idPrecio": 2560,
+      "idProducto": 3016,
+      "idMoneda": 1,
+      "precio": 16650.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2560,
+        "idProducto": 3016,
+        "idMoneda": 1,
+        "precio": 16650.0
+      }
+    ],
+    "image_name": "BOCINA 8\u0026 -8854.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1062,
+        "idEtiqueta": 1,
+        "idProducto": 3016,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 3015,
+    "codigo": "8855",
+    "descripcion": "BOCINA 8\"",
+    "precio": {
+      "idPrecio": 2559,
+      "idProducto": 3015,
+      "idMoneda": 1,
+      "precio": 18500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2559,
+        "idProducto": 3015,
+        "idMoneda": 1,
+        "precio": 18500.0
+      }
+    ],
+    "image_name": "BOCINA 8\u0026 -8855.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1061,
+        "idEtiqueta": 1,
+        "idProducto": 3015,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 3020,
+    "codigo": "8883",
+    "descripcion": "BOCINA 8\"",
+    "precio": {
+      "idPrecio": 2564,
+      "idProducto": 3020,
+      "idMoneda": 1,
+      "precio": 22200.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2564,
+        "idProducto": 3020,
+        "idMoneda": 1,
+        "precio": 22200.0
+      }
+    ],
+    "image_name": "BOCINA 8\u0026 -8883.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 36,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1066,
+        "idEtiqueta": 1,
+        "idProducto": 3020,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
     "idProducto": 2693,
     "codigo": "85636",
     "descripcion": "BOLSA DE REGALO",
@@ -8764,7 +10078,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -8781,8 +10095,8 @@
       }
     ],
     "stocks": {
-      "103": 12,
-      "105": 21
+      "103": 11,
+      "105": 10
     }
   },
   {
@@ -8807,7 +10121,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -8825,7 +10139,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 11
+      "105": 6
     }
   },
   {
@@ -8885,7 +10199,7 @@
     "stocks": {
       "102": 15,
       "103": 3,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -9060,7 +10374,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 6,
-      "105": 11
+      "105": 10
     }
   },
   {
@@ -9273,7 +10587,7 @@
     "stocks": {
       "102": 14,
       "103": 12,
-      "105": 9
+      "105": 5
     }
   },
   {
@@ -9339,7 +10653,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 11,
+      "103": 10,
       "105": 0
     }
   },
@@ -9681,7 +10995,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 1,
+      "103": 3,
       "105": 7
     }
   },
@@ -9915,7 +11229,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 61,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -9926,7 +11241,7 @@
       }
     ],
     "stocks": {
-      "103": 36,
+      "103": 31,
       "105": 12
     }
   },
@@ -10289,7 +11604,7 @@
     "stocks": {
       "102": 20,
       "103": 17,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -10350,7 +11665,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 5,
-      "105": 10
+      "105": 8
     }
   },
   {
@@ -10408,7 +11723,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 19,
+      "103": 13,
       "105": 10
     }
   },
@@ -10438,7 +11753,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 8,
+      "102": 4,
       "103": 12,
       "105": 4
     }
@@ -10558,7 +11873,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 500,
+      "102": 400,
       "103": 43,
       "105": 86
     }
@@ -11158,7 +12473,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 10,
-      "105": 5
+      "105": 2
     }
   },
   {
@@ -11382,7 +12697,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 4,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -11696,7 +13011,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -12039,7 +13354,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 30,
+      "102": 50,
       "103": 34,
       "105": 4
     }
@@ -12311,7 +13626,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 0
+      "105": 6
     }
   },
   {
@@ -12341,7 +13656,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 3,
-      "105": 9
+      "105": 6
     }
   },
   {
@@ -12583,7 +13898,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -13170,7 +14485,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 9,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -13182,7 +14497,7 @@
     ],
     "stocks": {
       "102": 12,
-      "105": 12
+      "105": 10
     }
   },
   {
@@ -13207,7 +14522,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 9,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -13220,7 +14535,7 @@
     "stocks": {
       "102": 12,
       "103": 8,
-      "105": 12
+      "105": 10
     }
   },
   {
@@ -13439,7 +14754,7 @@
       "idPrecio": 1940,
       "idProducto": 2405,
       "idMoneda": 1,
-      "precio": 7560.0
+      "precio": 7770.0
     },
     "precios": [
       {
@@ -13452,7 +14767,7 @@
         "idPrecio": 1940,
         "idProducto": 2405,
         "idMoneda": 1,
-        "precio": 7560.0
+        "precio": 7770.0
       }
     ],
     "image_name": "CEMENTO GRIS 350.jpeg",
@@ -14124,7 +15439,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -14173,7 +15488,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 23
+      "105": 20
     }
   },
   {
@@ -14200,7 +15515,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 4
+      "103": 0
     }
   },
   {
@@ -14230,7 +15545,7 @@
     "stocks": {
       "102": 22,
       "103": 11,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -14329,8 +15644,8 @@
       }
     ],
     "stocks": {
-      "103": 22,
-      "105": 21
+      "103": 21,
+      "105": 5
     }
   },
   {
@@ -14480,6 +15795,41 @@
     }
   },
   {
+    "idProducto": 2995,
+    "codigo": "LT-2313",
+    "descripcion": "COCINA DE INDUCCION 1 QUEMADOR",
+    "precio": {
+      "idPrecio": 2539,
+      "idProducto": 2995,
+      "idMoneda": 1,
+      "precio": 20350.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2539,
+        "idProducto": 2995,
+        "idMoneda": 1,
+        "precio": 20350.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1041,
+        "idEtiqueta": 1,
+        "idProducto": 2995,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 20
+    }
+  },
+  {
     "idProducto": 111,
     "codigo": "H02-1",
     "descripcion": "Codo 1´´",
@@ -14535,7 +15885,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 35,
+      "102": 27,
       "103": 21,
       "105": 8
     }
@@ -14788,7 +16138,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -14885,8 +16235,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 4,
-      "105": 12
+      "103": 3,
+      "105": 11
     }
   },
   {
@@ -14941,7 +16291,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -14952,7 +16302,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 3,
       "105": 12
     }
   },
@@ -14978,7 +16328,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -15076,7 +16426,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 11,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -15106,8 +16456,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 54,
-      "103": 11,
-      "105": 9
+      "103": 10,
+      "105": 15
     }
   },
   {
@@ -15542,7 +16892,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 12
+      "105": 10
     }
   },
   {
@@ -15716,7 +17066,7 @@
       }
     ],
     "image_name": "CONGELADOR HORIZONTAL 3.5 PIES -CG-8012.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 50,
@@ -15730,7 +17080,77 @@
         "valor": "04-04"
       }
     ],
-    "stocks": {}
+    "stocks": {
+      "103": 1,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2808,
+    "codigo": "RFH35",
+    "descripcion": "CONGELADOR HORIZONTAL 3.5 PIES",
+    "precio": {
+      "idPrecio": 2353,
+      "idProducto": 2808,
+      "idMoneda": 1,
+      "precio": 96200.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2353,
+        "idProducto": 2808,
+        "idMoneda": 1,
+        "precio": 96200.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 50,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1087,
+        "idEtiqueta": 2,
+        "idProducto": 2808,
+        "valor": "99900.0"
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 2807,
+    "codigo": "RFH78",
+    "descripcion": "CONGELADOR HORIZONTAL 7.8 PIES",
+    "precio": {
+      "idPrecio": 2352,
+      "idProducto": 2807,
+      "idMoneda": 1,
+      "precio": 136900.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2352,
+        "idProducto": 2807,
+        "idMoneda": 1,
+        "precio": 136900.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 50,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "stocks": {
+      "103": 2,
+      "105": 4
+    }
   },
   {
     "idProducto": 2393,
@@ -15784,8 +17204,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 46,
-      "103": 13,
-      "105": 6
+      "103": 7,
+      "105": 12
     }
   },
   {
@@ -15895,11 +17315,11 @@
     "ipv": false,
     "activo": false,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 11
+      "105": 0
     }
   },
   {
@@ -15927,9 +17347,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 2,
       "103": 6,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -16249,7 +17668,7 @@
       }
     ],
     "image_name": "Cornisa De Metal 48x84 -K-206.png",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 89,
@@ -16257,7 +17676,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 0,
+      "103": 9,
       "105": 0
     }
   },
@@ -16458,7 +17877,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16492,7 +17912,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16502,7 +17923,9 @@
         "valor": "31-03"
       }
     ],
-    "stocks": {}
+    "stocks": {
+      "105": 11
+    }
   },
   {
     "idProducto": 2763,
@@ -16526,7 +17949,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16560,7 +17984,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16596,7 +18021,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16630,7 +18056,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16664,7 +18091,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16706,7 +18134,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16742,7 +18171,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16752,7 +18182,9 @@
         "valor": "31-03"
       }
     ],
-    "stocks": {}
+    "stocks": {
+      "105": 11
+    }
   },
   {
     "idProducto": 2770,
@@ -16776,7 +18208,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16810,7 +18243,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16820,7 +18254,9 @@
         "valor": "31-03"
       }
     ],
-    "stocks": {}
+    "stocks": {
+      "105": 6
+    }
   },
   {
     "idProducto": 2773,
@@ -16844,7 +18280,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16854,7 +18291,9 @@
         "valor": "31-03"
       }
     ],
-    "stocks": {}
+    "stocks": {
+      "105": 9
+    }
   },
   {
     "idProducto": 2774,
@@ -16878,7 +18317,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16914,7 +18354,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16948,7 +18389,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 89,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -16958,7 +18400,9 @@
         "valor": "31-03"
       }
     ],
-    "stocks": {}
+    "stocks": {
+      "105": 9
+    }
   },
   {
     "idProducto": 124,
@@ -17093,7 +18537,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 1,
-      "103": 2,
+      "103": 1,
       "105": 1
     }
   },
@@ -17388,7 +18832,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -17399,7 +18844,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 14
     }
   },
   {
@@ -17423,7 +18868,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -17459,7 +18905,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -17494,7 +18941,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -17511,7 +18959,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 7
     }
   },
   {
@@ -17548,7 +18996,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 4
+      "105": 0
     }
   },
   {
@@ -17572,7 +19020,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -17607,7 +19056,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -17674,7 +19124,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -17774,8 +19225,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 3,
-      "105": 7
+      "103": 9,
+      "105": 5
     }
   },
   {
@@ -17861,7 +19312,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -17872,8 +19324,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 11
+      "103": 1,
+      "105": 10
     }
   },
   {
@@ -18746,7 +20198,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -18782,7 +20235,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -18794,7 +20248,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 0
+      "105": 8
     }
   },
   {
@@ -18818,7 +20272,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -18854,7 +20309,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -18865,7 +20321,7 @@
       }
     ],
     "stocks": {
-      "105": 13
+      "105": 6
     }
   },
   {
@@ -18889,7 +20345,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -18901,7 +20358,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 9
+      "105": 3
     }
   },
   {
@@ -18925,7 +20382,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -18936,8 +20394,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 3
+      "103": 2,
+      "105": 1
     }
   },
   {
@@ -18961,7 +20419,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 22,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -18973,7 +20432,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 6
+      "105": 2
     }
   },
   {
@@ -19684,7 +21143,7 @@
     "stocks": {
       "102": 42,
       "103": 21,
-      "105": 28
+      "105": 26
     }
   },
   {
@@ -20038,8 +21497,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 12,
-      "103": 17,
-      "105": 8
+      "103": 16,
+      "105": 6
     }
   },
   {
@@ -20163,8 +21622,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 11,
-      "105": 17
+      "103": 10,
+      "105": 16
     }
   },
   {
@@ -20429,7 +21888,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 23,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -20440,8 +21900,8 @@
       }
     ],
     "stocks": {
-      "103": 12,
-      "105": 12
+      "103": 11,
+      "105": 10
     }
   },
   {
@@ -20501,7 +21961,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 12,
-      "105": 10
+      "105": 6
     }
   },
   {
@@ -20594,7 +22054,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 23,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -20605,8 +22066,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 5
+      "103": 2,
+      "105": 0
     }
   },
   {
@@ -20631,7 +22092,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 23,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -20642,8 +22104,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 6
+      "103": 3,
+      "105": 4
     }
   },
   {
@@ -20673,7 +22135,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 7,
-      "105": 15
+      "105": 13
     }
   },
   {
@@ -20793,7 +22255,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 12,
-      "105": 18
+      "105": 17
     }
   },
   {
@@ -20853,7 +22315,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 5,
-      "105": 14
+      "105": 13
     }
   },
   {
@@ -21285,7 +22747,7 @@
     "stocks": {
       "102": 34,
       "103": 25,
-      "105": 3
+      "105": 13
     }
   },
   {
@@ -21343,9 +22805,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 25,
       "103": 6,
-      "105": 23
+      "105": 22
     }
   },
   {
@@ -21405,9 +22866,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 10,
       "103": 5,
-      "105": 10
+      "105": 8
     }
   },
   {
@@ -21913,7 +23373,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -21943,7 +23403,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -21973,7 +23433,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 5,
-      "105": 5
+      "105": 1
     }
   },
   {
@@ -22122,7 +23582,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 37,
-      "105": 29
+      "105": 27
     }
   },
   {
@@ -22788,7 +24248,7 @@
     "stocks": {
       "102": 51,
       "103": 35,
-      "105": 13
+      "105": 18
     }
   },
   {
@@ -23257,7 +24717,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 3,
+      "103": 6,
       "105": 16
     }
   },
@@ -23282,7 +24742,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 38,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -23293,7 +24754,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -23317,7 +24778,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 38,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -23328,7 +24790,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -23426,7 +24888,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 38,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -23461,7 +24924,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 38,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -23472,7 +24936,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -23732,7 +25196,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -23744,7 +25208,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 10
+      "105": 8
     }
   },
   {
@@ -23807,7 +25271,7 @@
   },
   {
     "idProducto": 2793,
-    "codigo": " 3475",
+    "codigo": "3475",
     "descripcion": "ESPONJA PARA FREGAR 2PCS",
     "precio": {
       "idPrecio": 2339,
@@ -23823,11 +25287,10 @@
         "precio": 410.0
       }
     ],
-    "image_name": "ESPONJA PARA FREGAR 2PCS - 3475.png",
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -23839,7 +25302,7 @@
     ],
     "stocks": {
       "103": 24,
-      "105": 19
+      "105": 17
     }
   },
   {
@@ -23875,7 +25338,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 3,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -24186,7 +25649,7 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 7
+      "105": 5
     }
   },
   {
@@ -24428,7 +25891,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -24439,8 +25902,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 0
+      "103": 3,
+      "105": 6
     }
   },
   {
@@ -24495,7 +25958,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -24506,7 +25969,7 @@
       }
     ],
     "stocks": {
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -24531,7 +25994,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -24543,7 +26006,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 9
+      "105": 6
     }
   },
   {
@@ -24638,21 +26101,21 @@
       "idPrecio": 2278,
       "idProducto": 2732,
       "idMoneda": 1,
-      "precio": 1424.0
+      "precio": 1425.0
     },
     "precios": [
       {
         "idPrecio": 2278,
         "idProducto": 2732,
         "idMoneda": 1,
-        "precio": 1424.0
+        "precio": 1425.0
       }
     ],
     "image_name": "EXTENSION ELECTRICA 18FT -0320-18.png",
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -24664,7 +26127,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 10
+      "105": 7
     }
   },
   {
@@ -24900,7 +26363,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -25078,7 +26541,14 @@
     "combo": false,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 857,
+        "idEtiqueta": 2,
+        "idProducto": 187,
+        "valor": "320.0"
+      }
+    ],
     "stocks": {
       "102": 150,
       "103": 103,
@@ -25885,8 +27355,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 57,
-      "103": 40,
-      "105": 33
+      "103": 39,
+      "105": 39
     }
   },
   {
@@ -26763,18 +28233,9 @@
         "valor": "277500.0"
       }
     ],
-    "descuentos": [
-      {
-        "idDescuento": 4,
-        "color": 42,
-        "valor": 0.2,
-        "nombre": "Descuento 20%",
-        "activo": true
-      }
-    ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -26870,15 +28331,6 @@
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [],
-    "descuentos": [
-      {
-        "idDescuento": 4,
-        "color": 42,
-        "valor": 0.2,
-        "nombre": "Descuento 20%",
-        "activo": true
-      }
-    ],
     "stocks": {
       "103": 2,
       "105": 1
@@ -26952,7 +28404,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -26988,7 +28440,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -27440,7 +28892,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -27470,7 +28922,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 0
+      "105": 3
     }
   },
   {
@@ -27646,7 +29098,7 @@
     "stocks": {
       "102": 42,
       "103": 23,
-      "105": 11
+      "105": 10
     }
   },
   {
@@ -27881,7 +29333,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 9,
-      "105": 19
+      "105": 18
     }
   },
   {
@@ -28205,8 +29657,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 72,
-      "103": 17,
-      "105": 8
+      "103": 14,
+      "105": 14
     }
   },
   {
@@ -28407,7 +29859,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 5,
+      "103": 0,
       "105": 5
     }
   },
@@ -28438,7 +29890,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 11,
+      "102": 7,
       "103": 16,
       "105": 1
     }
@@ -28531,9 +29983,9 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 24,
+      "102": 12,
       "103": 4,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -28592,7 +30044,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 8,
-      "103": 5,
+      "103": 4,
       "105": 1
     }
   },
@@ -28916,7 +30368,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 4,
-      "103": 10,
+      "103": 9,
       "105": 1
     }
   },
@@ -29150,7 +30602,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -29233,8 +30685,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 10,
-      "105": 43
+      "103": 9,
+      "105": 37
     }
   },
   {
@@ -29439,8 +30891,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 5,
-      "103": 5,
-      "105": 6
+      "103": 4,
+      "105": 5
     }
   },
   {
@@ -29525,7 +30977,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 59,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -29562,7 +31015,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 59,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -29658,7 +31112,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 59,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -29670,7 +31125,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 6
+      "105": 3
     }
   },
   {
@@ -29850,7 +31305,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 2,
+      "102": 1,
       "103": 2,
       "105": 2
     }
@@ -29942,8 +31397,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 10,
-      "103": 5,
+      "102": 8,
+      "103": 9,
       "105": 1
     }
   },
@@ -30727,9 +32182,8 @@
       }
     ],
     "stocks": {
-      "102": 24,
-      "103": 11,
-      "105": 20
+      "103": 8,
+      "105": 7
     }
   },
   {
@@ -30838,7 +32292,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -30849,8 +32303,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 3
+      "103": 2,
+      "105": 2
     }
   },
   {
@@ -30875,7 +32329,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -30887,7 +32341,7 @@
     ],
     "stocks": {
       "103": 8,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -30916,7 +32370,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 5,
-      "105": 20
+      "105": 17
     }
   },
   {
@@ -30941,7 +32395,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -30978,7 +32432,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31015,7 +32469,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31027,7 +32481,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 0
+      "105": 12
     }
   },
   {
@@ -31085,7 +32539,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 25
+      "105": 19
     }
   },
   {
@@ -31110,7 +32564,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31147,7 +32601,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31183,7 +32637,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31304,7 +32758,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 23,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31341,7 +32796,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 23,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31378,7 +32834,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 23,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31415,7 +32872,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 23,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31427,7 +32885,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -31452,7 +32910,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 23,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31489,7 +32948,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 23,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31501,7 +32961,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -31526,7 +32986,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 23,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31707,7 +33168,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31719,7 +33180,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 5
+      "105": 11
     }
   },
   {
@@ -31744,7 +33205,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -31756,7 +33217,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 8
+      "105": 4
     }
   },
   {
@@ -31781,7 +33242,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -32024,7 +33485,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 16,
-      "105": 15
+      "105": 6
     }
   },
   {
@@ -32312,7 +33773,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 15,
-      "105": 10
+      "105": 6
     }
   },
   {
@@ -32975,8 +34436,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 3,
-      "105": 5
+      "103": 2,
+      "105": 4
     }
   },
   {
@@ -33348,7 +34809,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -33382,7 +34843,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -33393,7 +34854,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 0
     }
   },
@@ -33419,7 +34880,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -33430,7 +34891,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 1,
       "105": 0
     }
   },
@@ -33456,7 +34917,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 7,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -33524,7 +34985,7 @@
     "stocks": {
       "102": 24,
       "103": 0,
-      "105": 30
+      "105": 27
     }
   },
   {
@@ -33554,7 +35015,7 @@
     "stocks": {
       "102": 24,
       "103": 9,
-      "105": 8
+      "105": 4
     }
   },
   {
@@ -33584,7 +35045,7 @@
     "stocks": {
       "102": 24,
       "103": 0,
-      "105": 19
+      "105": 17
     }
   },
   {
@@ -33641,7 +35102,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 6,
+      "103": 5,
       "105": 0
     }
   },
@@ -33672,7 +35133,7 @@
     "stocks": {
       "102": 24,
       "103": 20,
-      "105": 19
+      "105": 18
     }
   },
   {
@@ -34352,7 +35813,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -34363,8 +35824,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 8
+      "103": 6,
+      "105": 7
     }
   },
   {
@@ -35057,7 +36518,7 @@
     "stocks": {
       "102": 150,
       "103": 38,
-      "105": 20
+      "105": 69
     }
   },
   {
@@ -35159,7 +36620,7 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 11
+      "105": 7
     }
   },
   {
@@ -35810,8 +37271,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 5
+      "103": 2,
+      "105": 1
     }
   },
   {
@@ -36011,7 +37472,7 @@
     "stocks": {
       "102": 40,
       "103": 11,
-      "105": 24
+      "105": 23
     }
   },
   {
@@ -36104,6 +37565,80 @@
     "stocks": {
       "103": 0,
       "105": 0
+    }
+  },
+  {
+    "idProducto": 3034,
+    "codigo": "8497",
+    "descripcion": "LICUADORA 1.5LT",
+    "precio": {
+      "idPrecio": 2578,
+      "idProducto": 3034,
+      "idMoneda": 1,
+      "precio": 18500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2578,
+        "idProducto": 3034,
+        "idMoneda": 1,
+        "precio": 18500.0
+      }
+    ],
+    "image_name": "LICUADORA 1.5LT -8497.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 83,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1080,
+        "idEtiqueta": 1,
+        "idProducto": 3034,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 3035,
+    "codigo": "8498",
+    "descripcion": "LICUADORA 1.5LT",
+    "precio": {
+      "idPrecio": 2579,
+      "idProducto": 3035,
+      "idMoneda": 1,
+      "precio": 18500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2579,
+        "idProducto": 3035,
+        "idMoneda": 1,
+        "precio": 18500.0
+      }
+    ],
+    "image_name": "LICUADORA 1.5LT -8498.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 83,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1081,
+        "idEtiqueta": 1,
+        "idProducto": 3035,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
     }
   },
   {
@@ -36215,6 +37750,7 @@
         "precio": 37.837837
       }
     ],
+    "image_name": "Licuadora 2en1 -8411.jpg",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -36230,7 +37766,8 @@
       }
     ],
     "stocks": {
-      "103": 0
+      "103": 0,
+      "105": 2
     }
   },
   {
@@ -36299,6 +37836,7 @@
         "precio": 37.837837
       }
     ],
+    "image_name": "LICUADORA 2EN1 1.5L -6040.jpg",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -36314,7 +37852,81 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 3039,
+    "codigo": "6041",
+    "descripcion": "LICUADORA 2EN1 1.5LT",
+    "precio": {
+      "idPrecio": 2583,
+      "idProducto": 3039,
+      "idMoneda": 1,
+      "precio": 12950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2583,
+        "idProducto": 3039,
+        "idMoneda": 1,
+        "precio": 12950.0
+      }
+    ],
+    "image_name": "LICUADORA 2EN1 1.5LT -6041.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 83,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1085,
+        "idEtiqueta": 1,
+        "idProducto": 3039,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 3036,
+    "codigo": "8410",
+    "descripcion": "LICUADORA 2EN1 1.5LT",
+    "precio": {
+      "idPrecio": 2580,
+      "idProducto": 3036,
+      "idMoneda": 1,
+      "precio": 11100.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2580,
+        "idProducto": 3036,
+        "idMoneda": 1,
+        "precio": 11100.0
+      }
+    ],
+    "image_name": "LICUADORA 2EN1 1.5LT -8410.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 83,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1082,
+        "idEtiqueta": 1,
+        "idProducto": 3036,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
     }
   },
   {
@@ -36400,7 +38012,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 2
     }
   },
   {
@@ -36447,6 +38059,108 @@
     }
   },
   {
+    "idProducto": 3041,
+    "codigo": "5736",
+    "descripcion": "LICUADORA 2EN1 1.8L",
+    "precio": {
+      "idPrecio": 2585,
+      "idProducto": 3041,
+      "idMoneda": 1,
+      "precio": 12950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2585,
+        "idProducto": 3041,
+        "idMoneda": 1,
+        "precio": 12950.0
+      }
+    ],
+    "image_name": "LICUADORA 2EN1 1.8L -5736.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 83,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "stocks": {}
+  },
+  {
+    "idProducto": 3037,
+    "codigo": "6433",
+    "descripcion": "LICUADORA 2EN1 1.8LT",
+    "precio": {
+      "idPrecio": 2581,
+      "idProducto": 3037,
+      "idMoneda": 1,
+      "precio": 16650.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2581,
+        "idProducto": 3037,
+        "idMoneda": 1,
+        "precio": 16650.0
+      }
+    ],
+    "image_name": "LICUADORA 2EN1 1.8LT -6433.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 83,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1083,
+        "idEtiqueta": 1,
+        "idProducto": 3037,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 3038,
+    "codigo": "6434",
+    "descripcion": "LICUADORA 2EN1 1.8LT",
+    "precio": {
+      "idPrecio": 2582,
+      "idProducto": 3038,
+      "idMoneda": 1,
+      "precio": 16650.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2582,
+        "idProducto": 3038,
+        "idMoneda": 1,
+        "precio": 16650.0
+      }
+    ],
+    "image_name": "LICUADORA 2EN1 1.8LT -6434.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 83,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1084,
+        "idEtiqueta": 1,
+        "idProducto": 3038,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 2
+    }
+  },
+  {
     "idProducto": 1069,
     "codigo": "7407",
     "descripcion": "Licuadora 3en1 2l",
@@ -36480,7 +38194,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -36553,7 +38267,6 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 4,
       "103": 18,
       "105": 4
     }
@@ -36585,7 +38298,6 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 10,
       "103": 21,
       "105": 10
     }
@@ -36710,7 +38422,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 10,
+      "102": 7,
       "103": 4,
       "105": 3
     }
@@ -37062,7 +38774,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -37180,8 +38892,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 20,
-      "105": 27
+      "103": 12,
+      "105": 10
     }
   },
   {
@@ -37218,7 +38930,7 @@
     ],
     "stocks": {
       "103": 36,
-      "105": 56
+      "105": 38
     }
   },
   {
@@ -37277,7 +38989,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 6,
+      "103": 5,
       "105": 56
     }
   },
@@ -37425,7 +39137,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 0
+      "105": 4
     }
   },
   {
@@ -37550,7 +39262,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 17
     }
   },
@@ -37576,7 +39288,7 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -37593,8 +39305,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 5
+      "103": 0,
+      "105": 2
     }
   },
   {
@@ -37871,7 +39583,7 @@
     "stocks": {
       "102": 10,
       "103": 8,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -38679,7 +40391,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -38708,8 +40420,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "103": 2,
+      "105": 4
     }
   },
   {
@@ -38822,7 +40534,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 91,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -38834,7 +40547,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 0
+      "105": 6
     }
   },
   {
@@ -38858,7 +40571,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 91,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -38870,7 +40584,7 @@
     ],
     "stocks": {
       "103": 5,
-      "105": 0
+      "105": 6
     }
   },
   {
@@ -38894,7 +40608,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 91,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -38905,8 +40620,8 @@
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "103": 2,
+      "105": 4
     }
   },
   {
@@ -38930,7 +40645,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 91,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -38941,7 +40657,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 4
     }
   },
   {
@@ -38966,7 +40682,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 91,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -38977,7 +40694,7 @@
       }
     ],
     "stocks": {
-      "105": 5
+      "105": 2
     }
   },
   {
@@ -39002,7 +40719,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 91,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -39038,7 +40756,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 91,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -39049,7 +40768,7 @@
       }
     ],
     "stocks": {
-      "105": 5
+      "105": 2
     }
   },
   {
@@ -39221,7 +40940,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 91,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -39258,7 +40978,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 91,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -39294,7 +41015,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 91,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -39330,7 +41052,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 91,
+    "idDepartamento": 10,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -39866,7 +41589,7 @@
     "stocks": {
       "102": 36,
       "103": 0,
-      "105": 23
+      "105": 20
     }
   },
   {
@@ -40593,7 +42316,43 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 0
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 3040,
+    "codigo": "8305B",
+    "descripcion": "MICROONDAS 20LT",
+    "precio": {
+      "idPrecio": 2584,
+      "idProducto": 3040,
+      "idMoneda": 1,
+      "precio": 46250.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2584,
+        "idProducto": 3040,
+        "idMoneda": 1,
+        "precio": 46250.0
+      }
+    ],
+    "image_name": "MICROONDAS 20LT -8305B.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1086,
+        "idEtiqueta": 1,
+        "idProducto": 3040,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 1
     }
   },
   {
@@ -41196,9 +42955,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 9,
-      "103": 14,
-      "105": 4
+      "103": 12,
+      "105": 2
     }
   },
   {
@@ -42174,7 +43932,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -42252,8 +44010,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 2,
-      "105": 2
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -42920,7 +44678,7 @@
       }
     ],
     "stocks": {
-      "103": 12,
+      "103": 8,
       "105": 6
     }
   },
@@ -43091,8 +44849,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 7,
-      "105": 19
+      "103": 3,
+      "105": 14
     }
   },
   {
@@ -43117,7 +44875,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 56,
+    "idDepartamento": 3,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -43135,7 +44894,7 @@
     ],
     "stocks": {
       "103": 8,
-      "105": 21
+      "105": 15
     }
   },
   {
@@ -43364,7 +45123,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 10,
-      "105": 2
+      "105": 7
     }
   },
   {
@@ -43703,8 +45462,8 @@
       }
     ],
     "stocks": {
-      "103": 5,
-      "105": 16
+      "103": 16,
+      "105": 15
     }
   },
   {
@@ -44449,7 +46208,7 @@
     "stocks": {
       "102": 25,
       "103": 19,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -44592,7 +46351,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 19,
-      "105": 332
+      "105": 327
     }
   },
   {
@@ -44699,7 +46458,6 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 10,
       "105": 10
     }
   },
@@ -44729,7 +46487,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -44759,7 +46517,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 10,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -44883,7 +46641,7 @@
     "stocks": {
       "102": 24,
       "103": 23,
-      "105": 8
+      "105": 6
     }
   },
   {
@@ -44921,7 +46679,7 @@
     ],
     "stocks": {
       "102": 36,
-      "103": 9,
+      "103": 7,
       "105": 10
     }
   },
@@ -44982,7 +46740,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 7,
+      "103": 2,
       "105": 0
     }
   },
@@ -45073,7 +46831,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 14,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -45132,8 +46890,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 15,
-      "105": 12
+      "103": 14,
+      "105": 11
     }
   },
   {
@@ -45295,7 +47053,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -45326,7 +47084,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 5,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -45388,7 +47146,7 @@
     "stocks": {
       "102": 4,
       "103": 7,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -45873,7 +47631,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 7,
-      "105": 17
+      "105": 15
     }
   },
   {
@@ -45902,7 +47660,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 12,
+      "103": 11,
       "105": 10
     }
   },
@@ -46022,7 +47780,7 @@
     "stocks": {
       "102": 14,
       "103": 0,
-      "105": 65
+      "105": 64
     }
   },
   {
@@ -46925,7 +48683,7 @@
     "stocks": {
       "102": 12,
       "103": 9,
-      "105": 7
+      "105": 0
     }
   },
   {
@@ -47106,7 +48864,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 9,
+      "102": 5,
       "103": 5,
       "105": 1
     }
@@ -47138,8 +48896,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 22,
-      "105": 0
+      "102": 14,
+      "105": 1
     }
   },
   {
@@ -47200,7 +48958,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 22,
+      "102": 18,
       "103": 11,
       "105": 4
     }
@@ -47862,6 +49620,35 @@
     }
   },
   {
+    "idProducto": 2805,
+    "codigo": "3988",
+    "descripcion": "PLANCHA A VAPOR",
+    "precio": {
+      "idPrecio": 2350,
+      "idProducto": 2805,
+      "idMoneda": 1,
+      "precio": 6660.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2350,
+        "idProducto": 2805,
+        "idMoneda": 1,
+        "precio": 6660.0
+      }
+    ],
+    "image_name": "PLANCHA A VAPOR -3988.png",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
     "idProducto": 2624,
     "codigo": "5428T",
     "descripcion": "PLANCHA A VAPOR",
@@ -47913,6 +49700,7 @@
         "precio": 25.0
       }
     ],
+    "image_name": "PLANCHA A VAPOR -5429T.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -47947,6 +49735,7 @@
         "precio": 25.0
       }
     ],
+    "image_name": "PLANCHA A VAPOR -ED-2848.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -47981,6 +49770,7 @@
         "precio": 20.0
       }
     ],
+    "image_name": "PLANCHA A VAPOR -ED-7583.png",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -48051,6 +49841,64 @@
     "etiquetasProductos": [],
     "stocks": {
       "105": 0
+    }
+  },
+  {
+    "idProducto": 2806,
+    "codigo": "7069",
+    "descripcion": "PLANCHA ELECTRICA 1000W",
+    "precio": {
+      "idPrecio": 2351,
+      "idProducto": 2806,
+      "idMoneda": 1,
+      "precio": 5550.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2351,
+        "idProducto": 2806,
+        "idMoneda": 1,
+        "precio": 5550.0
+      }
+    ],
+    "image_name": "PLANCHA ELECTRICA 1000W -7069.png",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2804,
+    "codigo": "6833CC",
+    "descripcion": "PLANCHA ELECTRICA 1200W",
+    "precio": {
+      "idPrecio": 2349,
+      "idProducto": 2804,
+      "idMoneda": 1,
+      "precio": 9250.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2349,
+        "idProducto": 2804,
+        "idMoneda": 1,
+        "precio": 9250.0
+      }
+    ],
+    "image_name": "PLANCHA ELECTRICA 1200W -6833CC.png",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "stocks": {
+      "105": 1
     }
   },
   {
@@ -48261,7 +50109,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 4,
-      "105": 10
+      "105": 8
     }
   },
   {
@@ -48322,7 +50170,7 @@
     "stocks": {
       "102": 12,
       "103": 6,
-      "105": 14
+      "105": 13
     }
   },
   {
@@ -48411,7 +50259,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 14
+      "105": 12
     }
   },
   {
@@ -48464,7 +50312,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 61,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -48476,7 +50325,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 27
+      "105": 11
     }
   },
   {
@@ -48611,7 +50460,7 @@
     ],
     "stocks": {
       "102": 51,
-      "103": 11,
+      "103": 6,
       "105": 5
     }
   },
@@ -49795,7 +51644,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -49885,7 +51734,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -50729,8 +52578,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 19,
-      "103": 3,
-      "105": 6
+      "103": 9,
+      "105": 3
     }
   },
   {
@@ -50950,8 +52799,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 49,
-      "103": 5,
-      "105": 3
+      "103": 4,
+      "105": 2
     }
   },
   {
@@ -50987,7 +52836,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -51068,7 +52917,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -51128,7 +52977,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 4
     }
   },
@@ -51159,7 +53008,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 5
     }
   },
@@ -51220,7 +53069,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 8,
-      "105": 17
+      "105": 16
     }
   },
   {
@@ -51608,7 +53457,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 55,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -51645,7 +53495,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 55,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -51681,7 +53532,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 55,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -51692,7 +53544,7 @@
       }
     ],
     "stocks": {
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -51717,7 +53569,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 55,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -51729,7 +53582,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -51754,7 +53607,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 55,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -51791,7 +53645,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 55,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -51803,7 +53658,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -51828,7 +53683,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 55,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -51865,7 +53721,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 55,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -51902,7 +53759,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 55,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -51913,7 +53771,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -51938,7 +53796,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 55,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -52039,7 +53898,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 1,
+      "103": 3,
       "105": 6
     }
   },
@@ -52152,7 +54011,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 55,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -52194,7 +54054,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 7,
+      "103": 6,
       "105": 6
     }
   },
@@ -52256,7 +54116,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 6
     }
   },
@@ -52287,7 +54147,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 4
     }
   },
@@ -52410,7 +54270,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -52555,7 +54415,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 7,
+      "102": 5,
       "103": 2,
       "105": 2
     }
@@ -52588,7 +54448,7 @@
     "stocks": {
       "102": 10,
       "103": 8,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -52618,7 +54478,7 @@
     "stocks": {
       "102": 19,
       "103": 8,
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -52801,7 +54661,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 9,
+      "102": 7,
       "103": 12,
       "105": 2
     }
@@ -52832,7 +54692,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 14,
+      "102": 12,
       "103": 10,
       "105": 2
     }
@@ -52871,7 +54731,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 9
+      "105": 5
     }
   },
   {
@@ -52895,7 +54755,7 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -53187,7 +55047,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 14
+      "105": 13
     }
   },
   {
@@ -53307,7 +55167,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 6,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -53338,7 +55198,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -53399,8 +55259,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 6,
-      "105": 11
+      "103": 5,
+      "105": 8
     }
   },
   {
@@ -53572,7 +55432,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 64,
-      "105": 187
+      "105": 186
     }
   },
   {
@@ -53629,7 +55489,7 @@
     "stocks": {
       "102": 97,
       "103": 23,
-      "105": 18
+      "105": 22
     }
   },
   {
@@ -53656,9 +55516,9 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 31,
-      "103": 22,
-      "105": 20
+      "102": 71,
+      "103": 19,
+      "105": 17
     }
   },
   {
@@ -53772,7 +55632,7 @@
     "stocks": {
       "102": 384,
       "103": 24,
-      "105": 13
+      "105": 49
     }
   },
   {
@@ -54456,7 +56316,7 @@
       }
     ],
     "stocks": {
-      "102": 83,
+      "102": 82,
       "105": 0
     }
   },
@@ -54794,7 +56654,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 10,
+      "102": 9,
       "103": 10,
       "105": 3
     }
@@ -54840,8 +56700,80 @@
     ],
     "stocks": {
       "103": 0,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 3032,
+    "codigo": "ED-6557",
+    "descripcion": "SANDWICHERA 2 PORCIONES",
+    "precio": {
+      "idPrecio": 2576,
+      "idProducto": 3032,
+      "idMoneda": 1,
+      "precio": 7400.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2576,
+        "idProducto": 3032,
+        "idMoneda": 1,
+        "precio": 7400.0
+      }
+    ],
+    "image_name": "SANDWICHERA 2 PORCIONES -ED-6557.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 63,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1078,
+        "idEtiqueta": 1,
+        "idProducto": 3032,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
       "105": 3
     }
+  },
+  {
+    "idProducto": 3033,
+    "codigo": "ED-6558",
+    "descripcion": "SANDWICHERA 2 PORCIONES",
+    "precio": {
+      "idPrecio": 2577,
+      "idProducto": 3033,
+      "idMoneda": 1,
+      "precio": 7400.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2577,
+        "idProducto": 3033,
+        "idMoneda": 1,
+        "precio": 7400.0
+      }
+    ],
+    "image_name": "SANDWICHERA 2 PORCIONES -ED-6558.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 63,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1079,
+        "idEtiqueta": 1,
+        "idProducto": 3033,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {}
   },
   {
     "idProducto": 426,
@@ -54883,6 +56815,113 @@
     ],
     "stocks": {
       "103": 0
+    }
+  },
+  {
+    "idProducto": 3029,
+    "codigo": "6799",
+    "descripcion": "SANDWICHERA GRILL",
+    "precio": {
+      "idPrecio": 2573,
+      "idProducto": 3029,
+      "idMoneda": 1,
+      "precio": 9250.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2573,
+        "idProducto": 3029,
+        "idMoneda": 1,
+        "precio": 9250.0
+      }
+    ],
+    "image_name": "SANDWICHERA GRILL -6799.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 63,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1075,
+        "idEtiqueta": 1,
+        "idProducto": 3029,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 3031,
+    "codigo": "8771",
+    "descripcion": "SANDWICHERA PANINI",
+    "precio": {
+      "idPrecio": 2575,
+      "idProducto": 3031,
+      "idMoneda": 1,
+      "precio": 12950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2575,
+        "idProducto": 3031,
+        "idMoneda": 1,
+        "precio": 12950.0
+      }
+    ],
+    "image_name": "SANDWICHERA PANINI -8771.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 63,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1077,
+        "idEtiqueta": 1,
+        "idProducto": 3031,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 3030,
+    "codigo": "8772",
+    "descripcion": "SANDWICHERA PANINI",
+    "precio": {
+      "idPrecio": 2574,
+      "idProducto": 3030,
+      "idMoneda": 1,
+      "precio": 12950.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2574,
+        "idProducto": 3030,
+        "idMoneda": 1,
+        "precio": 12950.0
+      }
+    ],
+    "image_name": "SANDWICHERA PANINI -8772.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 63,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1076,
+        "idEtiqueta": 1,
+        "idProducto": 3030,
+        "valor": "05/04/25"
+      }
+    ],
+    "stocks": {
+      "105": 3
     }
   },
   {
@@ -54944,7 +56983,7 @@
       }
     ],
     "stocks": {
-      "103": 26
+      "103": 25
     }
   },
   {
@@ -54996,7 +57035,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 102,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -55032,7 +57072,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 102,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -55068,7 +57109,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 102,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -55104,7 +57146,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 102,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -55115,7 +57158,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -55169,7 +57212,8 @@
     "ipv": true,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 102,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -55180,8 +57224,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 4
+      "103": 2,
+      "105": 3
     }
   },
   {
@@ -55328,7 +57372,8 @@
     "ipv": false,
     "activo": true,
     "combo": false,
-    "idDepartamento": 1,
+    "idCategoria": 102,
+    "idDepartamento": 6,
     "movimientos": [],
     "etiquetasProductos": [
       {
@@ -55414,7 +57459,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -56115,7 +58160,6 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 10,
       "103": 5,
       "105": 6
     }
@@ -56644,7 +58688,7 @@
     "stocks": {
       "102": 14,
       "103": 6,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -56674,7 +58718,7 @@
     "stocks": {
       "102": 12,
       "103": 0,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -56791,7 +58835,7 @@
     "stocks": {
       "102": 16,
       "103": 13,
-      "105": 5
+      "105": 9
     }
   },
   {
@@ -57110,7 +59154,7 @@
     "stocks": {
       "102": 26,
       "103": 7,
-      "105": 7
+      "105": 16
     }
   },
   {
@@ -57287,7 +59331,7 @@
     "stocks": {
       "102": 42,
       "103": 40,
-      "105": 39
+      "105": 33
     }
   },
   {
@@ -57965,7 +60009,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -58265,9 +60309,9 @@
       }
     ],
     "stocks": {
-      "102": 14,
+      "102": 34,
       "103": 6,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -58295,8 +60339,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 176,
-      "103": 65,
-      "105": 131
+      "103": 64,
+      "105": 136
     }
   },
   {
@@ -59506,7 +61550,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -59836,7 +61880,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -59867,7 +61911,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -59898,7 +61942,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -61229,7 +63273,7 @@
     "stocks": {
       "102": 30,
       "103": 9,
-      "105": 2
+      "105": 7
     }
   },
   {
@@ -62699,7 +64743,7 @@
     "stocks": {
       "102": 4,
       "103": 97,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -62731,6 +64775,34 @@
       "102": 20,
       "105": 1
     }
+  },
+  {
+    "idProducto": 3042,
+    "codigo": "8779",
+    "descripcion": "TELEVISOR 100\" QLED",
+    "precio": {
+      "idPrecio": 2586,
+      "idProducto": 3042,
+      "idMoneda": 1,
+      "precio": 1110000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2586,
+        "idProducto": 3042,
+        "idMoneda": 1,
+        "precio": 1110000.0
+      }
+    ],
+    "image_name": "TELEVISOR 100\u0026 QLED -8779.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 64,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "stocks": {}
   },
   {
     "idProducto": 2007,
@@ -62877,7 +64949,7 @@
     ],
     "stocks": {
       "102": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -62908,8 +64980,8 @@
     "etiquetasProductos": [],
     "stocks": {
       "102": 3,
-      "103": 8,
-      "105": 5
+      "103": 7,
+      "105": 3
     }
   },
   {
@@ -62940,7 +65012,7 @@
     "stocks": {
       "102": 10,
       "103": 7,
-      "105": 8
+      "105": 6
     }
   },
   {
@@ -63008,7 +65080,7 @@
       }
     ],
     "stocks": {
-      "102": 7,
+      "102": 6,
       "105": 0
     }
   },
@@ -63438,9 +65510,9 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 13,
+      "102": 5,
       "103": 12,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -63500,9 +65572,9 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 22,
+      "102": 18,
       "103": 18,
-      "105": 4
+      "105": 7
     }
   },
   {
@@ -63531,9 +65603,9 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 18,
+      "102": 5,
       "103": 7,
-      "105": 10
+      "105": 8
     }
   },
   {
@@ -63564,7 +65636,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 2,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -64036,7 +66108,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -64095,7 +66167,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 137
+      "105": 127
     }
   },
   {
@@ -64123,7 +66195,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 9
+      "105": 0
     }
   },
   {
@@ -64269,7 +66341,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -65233,7 +67305,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 4
+      "105": 1
     }
   },
   {
@@ -65484,7 +67556,7 @@
       }
     ],
     "image_name": "TV 32\u0026 HD SMART -8875.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 64,
@@ -65498,7 +67570,11 @@
         "valor": "04-04"
       }
     ],
-    "stocks": {}
+    "stocks": {
+      "102": 2,
+      "103": 0,
+      "105": 1
+    }
   },
   {
     "idProducto": 503,
@@ -65671,7 +67747,9 @@
         "valor": "04-04"
       }
     ],
-    "stocks": {}
+    "stocks": {
+      "105": 1
+    }
   },
   {
     "idProducto": 2107,
@@ -66101,7 +68179,7 @@
     "stocks": {
       "102": 19,
       "103": 16,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -66187,7 +68265,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 4,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -66337,7 +68415,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 3,
-      "105": 4
+      "105": 0
     }
   },
   {
@@ -66397,9 +68475,9 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "102": 20,
+      "102": 12,
       "103": 4,
-      "105": 8
+      "105": 9
     }
   },
   {
@@ -66458,7 +68536,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 9,
+      "103": 8,
       "105": 0
     }
   },
@@ -66496,7 +68574,7 @@
       }
     ],
     "stocks": {
-      "103": 9,
+      "103": 4,
       "105": 0
     }
   },
@@ -66588,7 +68666,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 0,
-      "105": 5
+      "105": 0
     }
   },
   {
@@ -66773,8 +68851,8 @@
       }
     ],
     "stocks": {
-      "102": 36,
-      "103": 12,
+      "102": 24,
+      "103": 11,
       "105": 7
     }
   },
@@ -67003,7 +69081,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 0
+      "105": 2
     }
   },
   {
@@ -67082,7 +69160,7 @@
     "etiquetasProductos": [],
     "stocks": {
       "103": 6,
-      "105": 0
+      "105": 4
     }
   },
   {
@@ -67312,7 +69390,7 @@
     ],
     "stocks": {
       "103": 7,
-      "105": 9
+      "105": 7
     }
   },
   {
@@ -67426,7 +69504,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 3,
+      "103": 2,
       "105": 1
     }
   },
