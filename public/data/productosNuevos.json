@@ -37,9 +37,18 @@
         "valor": "815.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -75,8 +84,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -110,6 +128,15 @@
         "idEtiqueta": 1,
         "idProducto": 2780,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -150,9 +177,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 6,
-      "105": 2
+      "105": 7
     }
   },
   {
@@ -186,6 +222,15 @@
         "idEtiqueta": 1,
         "idProducto": 2791,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -226,8 +271,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 0
     }
   },
@@ -262,6 +316,15 @@
         "idEtiqueta": 1,
         "idProducto": 2747,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -302,6 +365,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 3
     }
@@ -339,8 +411,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -374,6 +455,15 @@
         "idEtiqueta": 1,
         "idProducto": 2681,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -413,9 +503,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 6,
-      "105": 12
+      "105": 10
     }
   },
   {
@@ -448,6 +547,15 @@
         "idEtiqueta": 1,
         "idProducto": 2690,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -487,6 +595,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 60,
       "105": 59
@@ -524,9 +641,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 12,
-      "105": 21
+      "105": 14
     }
   },
   {
@@ -562,9 +688,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -598,6 +733,15 @@
         "idEtiqueta": 1,
         "idProducto": 2682,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -638,6 +782,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
       "105": 2
@@ -676,9 +829,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -714,9 +876,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 3
+      "105": 4
     }
   },
   {
@@ -752,8 +923,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 10
     }
   },
@@ -790,9 +970,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 9
+      "105": 4
     }
   },
   {
@@ -828,8 +1017,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 3,
+      "103": 2,
       "105": 1
     }
   },
@@ -866,9 +1064,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 0
+      "105": 2
     }
   },
   {
@@ -889,6 +1096,7 @@
         "precio": 2445.0
       }
     ],
+    "image_name": "BASURERO PLASTICO -87765.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -903,9 +1111,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -941,9 +1158,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
-      "105": 4
+      "103": 0,
+      "105": 1
     }
   },
   {
@@ -979,6 +1205,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
       "105": 4
@@ -992,14 +1227,14 @@
       "idPrecio": 2223,
       "idProducto": 2677,
       "idMoneda": 1,
-      "precio": 2690.0
+      "precio": 2850.0
     },
     "precios": [
       {
         "idPrecio": 2223,
         "idProducto": 2677,
         "idMoneda": 1,
-        "precio": 2690.0
+        "precio": 2850.0
       }
     ],
     "image_name": "BASURERO PLASTICO 10L -09702.png",
@@ -1023,8 +1258,17 @@
         "valor": "2850.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 4
     }
   },
@@ -1059,6 +1303,15 @@
         "idEtiqueta": 1,
         "idProducto": 2673,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1098,9 +1351,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 4,
-      "105": 4
+      "105": 2
     }
   },
   {
@@ -1134,6 +1396,15 @@
         "idEtiqueta": 1,
         "idProducto": 2712,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1173,6 +1444,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 2
     }
@@ -1208,6 +1488,15 @@
         "idEtiqueta": 1,
         "idProducto": 2722,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1247,8 +1536,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -1284,6 +1582,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 0
     }
@@ -1304,10 +1611,16 @@
         "idProducto": 3024,
         "idMoneda": 1,
         "precio": 107300.0
+      },
+      {
+        "idPrecio": 2600,
+        "idProducto": 3024,
+        "idMoneda": 2,
+        "precio": 290.0
       }
     ],
     "image_name": "BOCINA 2X10\u0026 -8916.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 36,
@@ -1321,8 +1634,18 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "103": 1,
+      "105": 0
     }
   },
   {
@@ -1341,6 +1664,12 @@
         "idProducto": 3026,
         "idMoneda": 1,
         "precio": 157250.0
+      },
+      {
+        "idPrecio": 2620,
+        "idProducto": 3026,
+        "idMoneda": 2,
+        "precio": 425.0
       }
     ],
     "image_name": "BOCINA 2X12\u0026 -8876.jpg",
@@ -1358,8 +1687,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -1378,10 +1716,16 @@
         "idProducto": 3023,
         "idMoneda": 1,
         "precio": 94350.0
+      },
+      {
+        "idPrecio": 2643,
+        "idProducto": 3023,
+        "idMoneda": 2,
+        "precio": 255.0
       }
     ],
     "image_name": "BOCINA 2X12\u0026 -8911.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 36,
@@ -1395,7 +1739,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 1,
       "105": 1
     }
   },
@@ -1415,6 +1769,12 @@
         "idProducto": 3025,
         "idMoneda": 1,
         "precio": 133200.0
+      },
+      {
+        "idPrecio": 2593,
+        "idProducto": 3025,
+        "idMoneda": 2,
+        "precio": 360.0
       }
     ],
     "image_name": "BOCINA 2X12\u0026 -8913.jpg",
@@ -1430,6 +1790,15 @@
         "idEtiqueta": 1,
         "idProducto": 3025,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1452,6 +1821,12 @@
         "idProducto": 3027,
         "idMoneda": 1,
         "precio": 151700.0
+      },
+      {
+        "idPrecio": 2624,
+        "idProducto": 3027,
+        "idMoneda": 2,
+        "precio": 410.0
       }
     ],
     "image_name": "BOCINA 2X12\u0026 -8917.jpg",
@@ -1467,6 +1842,15 @@
         "idEtiqueta": 1,
         "idProducto": 3027,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1489,6 +1873,12 @@
         "idProducto": 3028,
         "idMoneda": 1,
         "precio": 155400.0
+      },
+      {
+        "idPrecio": 2594,
+        "idProducto": 3028,
+        "idMoneda": 2,
+        "precio": 420.0
       }
     ],
     "image_name": "BOCINA 2X12\u0026 -8918.jpg",
@@ -1504,6 +1894,15 @@
         "idEtiqueta": 1,
         "idProducto": 3028,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1526,6 +1925,12 @@
         "idProducto": 3011,
         "idMoneda": 1,
         "precio": 12950.0
+      },
+      {
+        "idPrecio": 2614,
+        "idProducto": 3011,
+        "idMoneda": 2,
+        "precio": 35.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8494.jpg",
@@ -1543,8 +1948,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -1563,6 +1977,12 @@
         "idProducto": 3010,
         "idMoneda": 1,
         "precio": 12950.0
+      },
+      {
+        "idPrecio": 2599,
+        "idProducto": 3010,
+        "idMoneda": 2,
+        "precio": 35.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8495.jpg",
@@ -1578,6 +1998,15 @@
         "idEtiqueta": 1,
         "idProducto": 3010,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1600,6 +2029,12 @@
         "idProducto": 3007,
         "idMoneda": 1,
         "precio": 18500.0
+      },
+      {
+        "idPrecio": 2609,
+        "idProducto": 3007,
+        "idMoneda": 2,
+        "precio": 50.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8785.jpg",
@@ -1617,8 +2052,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -1637,6 +2081,12 @@
         "idProducto": 2996,
         "idMoneda": 1,
         "precio": 14800.0
+      },
+      {
+        "idPrecio": 2608,
+        "idProducto": 2996,
+        "idMoneda": 2,
+        "precio": 40.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8786.jpg",
@@ -1652,6 +2102,15 @@
         "idEtiqueta": 1,
         "idProducto": 2996,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1674,10 +2133,16 @@
         "idProducto": 2998,
         "idMoneda": 1,
         "precio": 14800.0
+      },
+      {
+        "idPrecio": 2635,
+        "idProducto": 2998,
+        "idMoneda": 2,
+        "precio": 40.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8787.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 36,
@@ -1691,7 +2156,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 2,
       "105": 3
     }
   },
@@ -1711,6 +2186,12 @@
         "idProducto": 2997,
         "idMoneda": 1,
         "precio": 16650.0
+      },
+      {
+        "idPrecio": 2605,
+        "idProducto": 2997,
+        "idMoneda": 2,
+        "precio": 45.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8788.jpg",
@@ -1726,6 +2207,15 @@
         "idEtiqueta": 1,
         "idProducto": 2997,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1748,10 +2238,16 @@
         "idProducto": 3005,
         "idMoneda": 1,
         "precio": 16650.0
+      },
+      {
+        "idPrecio": 2621,
+        "idProducto": 3005,
+        "idMoneda": 2,
+        "precio": 45.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8789.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 36,
@@ -1765,7 +2261,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 2,
       "105": 3
     }
   },
@@ -1785,6 +2291,12 @@
         "idProducto": 3003,
         "idMoneda": 1,
         "precio": 18500.0
+      },
+      {
+        "idPrecio": 2613,
+        "idProducto": 3003,
+        "idMoneda": 2,
+        "precio": 50.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8790.jpg",
@@ -1800,6 +2312,15 @@
         "idEtiqueta": 1,
         "idProducto": 3003,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1822,6 +2343,12 @@
         "idProducto": 3004,
         "idMoneda": 1,
         "precio": 16650.0
+      },
+      {
+        "idPrecio": 2626,
+        "idProducto": 3004,
+        "idMoneda": 2,
+        "precio": 45.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8791.jpg",
@@ -1837,6 +2364,15 @@
         "idEtiqueta": 1,
         "idProducto": 3004,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1859,6 +2395,12 @@
         "idProducto": 3002,
         "idMoneda": 1,
         "precio": 12950.0
+      },
+      {
+        "idPrecio": 2623,
+        "idProducto": 3002,
+        "idMoneda": 2,
+        "precio": 35.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8811.jpg",
@@ -1874,6 +2416,15 @@
         "idEtiqueta": 1,
         "idProducto": 3002,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -1896,10 +2447,16 @@
         "idProducto": 3001,
         "idMoneda": 1,
         "precio": 12950.0
+      },
+      {
+        "idPrecio": 2619,
+        "idProducto": 3001,
+        "idMoneda": 2,
+        "precio": 35.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8812.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 36,
@@ -1913,7 +2470,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 2,
       "105": 0
     }
   },
@@ -1933,10 +2500,16 @@
         "idProducto": 3000,
         "idMoneda": 1,
         "precio": 14800.0
+      },
+      {
+        "idPrecio": 2602,
+        "idProducto": 3000,
+        "idMoneda": 2,
+        "precio": 40.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8813.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 36,
@@ -1950,7 +2523,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 2,
       "105": 3
     }
   },
@@ -1970,6 +2553,12 @@
         "idProducto": 3013,
         "idMoneda": 1,
         "precio": 12950.0
+      },
+      {
+        "idPrecio": 2610,
+        "idProducto": 3013,
+        "idMoneda": 2,
+        "precio": 35.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8814.jpg",
@@ -1987,8 +2576,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -2007,10 +2605,16 @@
         "idProducto": 3012,
         "idMoneda": 1,
         "precio": 12950.0
+      },
+      {
+        "idPrecio": 2589,
+        "idProducto": 3012,
+        "idMoneda": 2,
+        "precio": 35.0
       }
     ],
     "image_name": "BOCINA 2X4\u0026 -8815.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 36,
@@ -2024,8 +2628,18 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 3
+      "103": 2,
+      "105": 0
     }
   },
   {
@@ -2044,10 +2658,16 @@
         "idProducto": 3014,
         "idMoneda": 1,
         "precio": 16650.0
+      },
+      {
+        "idPrecio": 2587,
+        "idProducto": 3014,
+        "idMoneda": 2,
+        "precio": 45.0
       }
     ],
     "image_name": "BOCINA 2X8\u0026 -8547.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 36,
@@ -2061,7 +2681,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 1,
       "105": 1
     }
   },
@@ -2081,6 +2711,12 @@
         "idProducto": 3022,
         "idMoneda": 1,
         "precio": 22200.0
+      },
+      {
+        "idPrecio": 2601,
+        "idProducto": 3022,
+        "idMoneda": 2,
+        "precio": 60.0
       }
     ],
     "image_name": "BOCINA 2X8\u0026 -8818.jpg",
@@ -2098,8 +2734,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -2118,10 +2763,16 @@
         "idProducto": 2999,
         "idMoneda": 1,
         "precio": 14800.0
+      },
+      {
+        "idPrecio": 2598,
+        "idProducto": 2999,
+        "idMoneda": 2,
+        "precio": 40.0
       }
     ],
     "image_name": "BOCINA 3X4\u0026 -8816.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 36,
@@ -2135,7 +2786,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 1,
       "105": 3
     }
   },
@@ -2155,6 +2816,12 @@
         "idProducto": 3006,
         "idMoneda": 1,
         "precio": 18500.0
+      },
+      {
+        "idPrecio": 2597,
+        "idProducto": 3006,
+        "idMoneda": 2,
+        "precio": 50.0
       }
     ],
     "image_name": "BOCINA 4X2\u0026 -8851.jpg",
@@ -2170,6 +2837,15 @@
         "idEtiqueta": 1,
         "idProducto": 3006,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -2192,6 +2868,12 @@
         "idProducto": 3009,
         "idMoneda": 1,
         "precio": 20350.0
+      },
+      {
+        "idPrecio": 2607,
+        "idProducto": 3009,
+        "idMoneda": 2,
+        "precio": 55.0
       }
     ],
     "image_name": "BOCINA 5.25X2\u0026 -8849.jpg",
@@ -2207,6 +2889,15 @@
         "idEtiqueta": 1,
         "idProducto": 3009,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -2229,6 +2920,12 @@
         "idProducto": 3008,
         "idMoneda": 1,
         "precio": 20350.0
+      },
+      {
+        "idPrecio": 2588,
+        "idProducto": 3008,
+        "idMoneda": 2,
+        "precio": 55.0
       }
     ],
     "image_name": "BOCINA 6.5X2\u0026 -8850.jpg",
@@ -2244,6 +2941,15 @@
         "idEtiqueta": 1,
         "idProducto": 3008,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {}
@@ -2264,10 +2970,16 @@
         "idProducto": 3018,
         "idMoneda": 1,
         "precio": 18500.0
+      },
+      {
+        "idPrecio": 2637,
+        "idProducto": 3018,
+        "idMoneda": 2,
+        "precio": 50.0
       }
     ],
     "image_name": "BOCINA 8\u0026 -7866.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 36,
@@ -2281,8 +2993,18 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "103": 2,
+      "105": 0
     }
   },
   {
@@ -2301,6 +3023,12 @@
         "idProducto": 3021,
         "idMoneda": 1,
         "precio": 16650.0
+      },
+      {
+        "idPrecio": 2634,
+        "idProducto": 3021,
+        "idMoneda": 2,
+        "precio": 45.0
       }
     ],
     "image_name": "BOCINA 8\u0026 -8766.jpg",
@@ -2316,6 +3044,15 @@
         "idEtiqueta": 1,
         "idProducto": 3021,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -2338,10 +3075,16 @@
         "idProducto": 3019,
         "idMoneda": 1,
         "precio": 12950.0
+      },
+      {
+        "idPrecio": 2636,
+        "idProducto": 3019,
+        "idMoneda": 2,
+        "precio": 35.0
       }
     ],
     "image_name": "BOCINA 8\u0026 -8819.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 36,
@@ -2355,7 +3098,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 1,
       "105": 2
     }
   },
@@ -2375,6 +3128,12 @@
         "idProducto": 3017,
         "idMoneda": 1,
         "precio": 16650.0
+      },
+      {
+        "idPrecio": 2630,
+        "idProducto": 3017,
+        "idMoneda": 2,
+        "precio": 45.0
       }
     ],
     "image_name": "BOCINA 8\u0026 -8820.jpg",
@@ -2390,6 +3149,15 @@
         "idEtiqueta": 1,
         "idProducto": 3017,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -2412,6 +3180,12 @@
         "idProducto": 3016,
         "idMoneda": 1,
         "precio": 16650.0
+      },
+      {
+        "idPrecio": 2616,
+        "idProducto": 3016,
+        "idMoneda": 2,
+        "precio": 45.0
       }
     ],
     "image_name": "BOCINA 8\u0026 -8854.jpg",
@@ -2427,6 +3201,15 @@
         "idEtiqueta": 1,
         "idProducto": 3016,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -2449,6 +3232,12 @@
         "idProducto": 3015,
         "idMoneda": 1,
         "precio": 18500.0
+      },
+      {
+        "idPrecio": 2604,
+        "idProducto": 3015,
+        "idMoneda": 2,
+        "precio": 50.0
       }
     ],
     "image_name": "BOCINA 8\u0026 -8855.jpg",
@@ -2464,6 +3253,15 @@
         "idEtiqueta": 1,
         "idProducto": 3015,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -2486,6 +3284,12 @@
         "idProducto": 3020,
         "idMoneda": 1,
         "precio": 22200.0
+      },
+      {
+        "idPrecio": 2591,
+        "idProducto": 3020,
+        "idMoneda": 2,
+        "precio": 60.0
       }
     ],
     "image_name": "BOCINA 8\u0026 -8883.jpg",
@@ -2501,6 +3305,15 @@
         "idEtiqueta": 1,
         "idProducto": 3020,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -2543,6 +3356,15 @@
         "idEtiqueta": 2,
         "idProducto": 2693,
         "valor": "410.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -2588,9 +3410,18 @@
         "valor": "2850.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 12,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -2625,10 +3456,19 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "102": 14,
       "103": 12,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -2663,6 +3503,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 12,
       "105": 10
@@ -2686,6 +3535,7 @@
         "precio": 610.0
       }
     ],
+    "image_name": "BOWL DE MELANINA -BG-056.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -2700,9 +3550,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 31,
-      "105": 12
+      "103": 29,
+      "105": 8
     }
   },
   {
@@ -2723,6 +3582,7 @@
         "precio": 5700.0
       }
     ],
+    "image_name": "CANDADO 32 38 50MM -81556.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -2737,9 +3597,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 2,
-      "105": 6
+      "103": 0,
+      "105": 5
     }
   },
   {
@@ -2774,9 +3643,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "102": 12,
-      "105": 10
+      "105": 6
     }
   },
   {
@@ -2811,6 +3689,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "102": 12,
       "103": 8,
@@ -2835,6 +3722,7 @@
         "precio": 24420.0
       }
     ],
+    "image_name": "CESPED ARTIFICIAL 1X3M -82277.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -2846,6 +3734,15 @@
         "idEtiqueta": 1,
         "idProducto": 2647,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -2891,9 +3788,18 @@
         "valor": "1425.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 21,
-      "105": 5
+      "103": 20,
+      "105": 20
     }
   },
   {
@@ -2912,9 +3818,15 @@
         "idProducto": 2995,
         "idMoneda": 1,
         "precio": 20350.0
+      },
+      {
+        "idPrecio": 2611,
+        "idProducto": 2995,
+        "idMoneda": 2,
+        "precio": 55.0
       }
     ],
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idDepartamento": 3,
@@ -2927,7 +3839,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 10,
       "105": 20
     }
   },
@@ -2961,6 +3883,15 @@
         "idEtiqueta": 1,
         "idProducto": 2781,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3000,9 +3931,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 12
+      "105": 10
     }
   },
   {
@@ -3035,6 +3975,15 @@
         "idEtiqueta": 1,
         "idProducto": 2711,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3074,6 +4023,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 6,
       "105": 10
@@ -3095,6 +4053,12 @@
         "idProducto": 2801,
         "idMoneda": 1,
         "precio": 99900.0
+      },
+      {
+        "idPrecio": 2631,
+        "idProducto": 2801,
+        "idMoneda": 2,
+        "precio": 270.0
       }
     ],
     "image_name": "CONGELADOR HORIZONTAL 3.5 PIES -CG-8012.jpg",
@@ -3110,6 +4074,15 @@
         "idEtiqueta": 1,
         "idProducto": 2801,
         "valor": "04-04"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3150,6 +4123,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {}
   },
   {
@@ -3183,6 +4165,15 @@
         "idEtiqueta": 1,
         "idProducto": 2762,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3222,6 +4213,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {}
   },
   {
@@ -3255,6 +4255,15 @@
         "idEtiqueta": 1,
         "idProducto": 2764,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3294,6 +4303,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {}
   },
   {
@@ -3315,7 +4333,7 @@
       }
     ],
     "image_name": "CORNIZA DE METAL 60X120\u0026 -E-115.png",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 89,
@@ -3329,7 +4347,18 @@
         "valor": "31-03"
       }
     ],
-    "stocks": {}
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 10
+    }
   },
   {
     "idProducto": 2768,
@@ -3370,6 +4399,15 @@
         "valor": "4070.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 0
     }
@@ -3405,6 +4443,15 @@
         "idEtiqueta": 1,
         "idProducto": 2767,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3444,8 +4491,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 11
+      "105": 4
     }
   },
   {
@@ -3481,6 +4537,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {}
   },
   {
@@ -3514,6 +4579,15 @@
         "idEtiqueta": 1,
         "idProducto": 2772,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3553,8 +4627,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 9
+      "105": 7
     }
   },
   {
@@ -3588,6 +4671,15 @@
         "idEtiqueta": 1,
         "idProducto": 2774,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3627,6 +4719,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {}
   },
   {
@@ -3662,8 +4763,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 9
+      "105": 2
     }
   },
   {
@@ -3696,6 +4806,15 @@
         "idEtiqueta": 1,
         "idProducto": 2664,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3734,6 +4853,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
       "105": 0
@@ -3769,6 +4897,15 @@
         "idEtiqueta": 1,
         "idProducto": 2666,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3813,8 +4950,17 @@
         "valor": "4885.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 7
+      "105": 2
     }
   },
   {
@@ -3849,6 +4995,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 0
     }
@@ -3871,6 +5026,7 @@
         "precio": 5295.0
       }
     ],
+    "image_name": "CORTINA CON OJALES 54X84 -1464.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -3883,6 +5039,15 @@
         "idEtiqueta": 1,
         "idProducto": 2662,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -3923,8 +5088,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 9
+      "105": 7
     }
   },
   {
@@ -3960,8 +5134,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
+      "103": 9,
       "105": 10
     }
   },
@@ -3983,6 +5166,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "CORTINA PARA SALA C\u0026OJALES -1095.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -3995,6 +5179,15 @@
         "idEtiqueta": 1,
         "idProducto": 2659,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -4020,6 +5213,7 @@
         "precio": 5295.0
       }
     ],
+    "image_name": "CORTINA PARA SALA C\u0026OJALES -1462.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -4032,6 +5226,15 @@
         "idEtiqueta": 1,
         "idProducto": 2663,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -4071,6 +5274,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 1,
       "105": 0
@@ -4094,6 +5306,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "CORTINA TIPO SEDA C\u0026OJALES -1087.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -4108,8 +5321,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -4130,6 +5352,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "CORTINA TIPO SEDA C\u0026OJALES -1088.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -4142,6 +5365,15 @@
         "idEtiqueta": 1,
         "idProducto": 2656,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -4167,6 +5399,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "CORTINA TIPO SEDA C\u0026OJALES -1092.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -4181,9 +5414,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 1
+      "105": 5
     }
   },
   {
@@ -4204,6 +5446,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "CORTINA TIPO SEDA C\u0026OJALES -1571.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -4218,9 +5461,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 4,
-      "105": 2
+      "105": 8
     }
   },
   {
@@ -4256,8 +5508,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 11,
+      "103": 10,
       "105": 10
     }
   },
@@ -4294,9 +5555,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 2,
-      "105": 0
+      "103": 1,
+      "105": 2
     }
   },
   {
@@ -4332,9 +5602,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 4
+      "105": 2
     }
   },
   {
@@ -4369,8 +5648,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -4405,8 +5693,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -4427,6 +5724,7 @@
         "precio": 13840.0
       }
     ],
+    "image_name": "ESPEJO DECORATIVO -88325.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -4441,8 +5739,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -4477,8 +5784,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -4513,9 +5829,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 12,
-      "105": 8
+      "105": 18
     }
   },
   {
@@ -4549,9 +5874,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 24,
-      "105": 17
+      "103": 23,
+      "105": 35
     }
   },
   {
@@ -4586,9 +5920,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 6
+      "105": 3
     }
   },
   {
@@ -4623,8 +5966,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -4657,6 +6009,15 @@
         "idEtiqueta": 1,
         "idProducto": 2729,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -4696,9 +6057,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -4733,8 +6103,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -4767,6 +6146,15 @@
         "idEtiqueta": 1,
         "idProducto": 2736,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -4804,6 +6192,15 @@
         "idEtiqueta": 1,
         "idProducto": 2684,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -4844,6 +6241,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 6,
       "105": 5
@@ -4882,9 +6288,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 4,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -4919,8 +6334,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 2
     }
   },
@@ -4954,6 +6378,15 @@
         "idEtiqueta": 1,
         "idProducto": 2737,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -4993,9 +6426,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -5028,6 +6470,15 @@
         "idEtiqueta": 1,
         "idProducto": 2788,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5067,9 +6518,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 6,
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -5104,9 +6564,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -5139,6 +6608,15 @@
         "idEtiqueta": 1,
         "idProducto": 2742,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5177,8 +6655,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -5212,6 +6699,15 @@
         "idEtiqueta": 1,
         "idProducto": 2713,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5252,6 +6748,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 1,
       "105": 1
@@ -5288,6 +6793,15 @@
         "idEtiqueta": 1,
         "idProducto": 2719,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5328,6 +6842,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 1,
       "105": 1
@@ -5364,6 +6887,15 @@
         "idEtiqueta": 1,
         "idProducto": 2716,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5404,8 +6936,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 1
     }
   },
@@ -5440,6 +6981,15 @@
         "idEtiqueta": 1,
         "idProducto": 2718,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5479,6 +7029,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 4,
       "105": 11
@@ -5516,9 +7075,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 4,
-      "105": 4
+      "105": 9
     }
   },
   {
@@ -5551,6 +7119,15 @@
         "idEtiqueta": 1,
         "idProducto": 2725,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5590,6 +7167,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {}
   },
   {
@@ -5622,6 +7208,15 @@
         "idEtiqueta": 1,
         "idProducto": 2734,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5661,6 +7256,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 1,
       "105": 0
@@ -5698,6 +7302,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {}
   },
   {
@@ -5732,8 +7345,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 6,
+      "103": 5,
       "105": 7
     }
   },
@@ -5767,6 +7389,15 @@
         "idEtiqueta": 1,
         "idProducto": 2694,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5806,9 +7437,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 10,
-      "105": 7
+      "105": 4
     }
   },
   {
@@ -5827,10 +7467,16 @@
         "idProducto": 3034,
         "idMoneda": 1,
         "precio": 18500.0
+      },
+      {
+        "idPrecio": 2639,
+        "idProducto": 3034,
+        "idMoneda": 2,
+        "precio": 50.0
       }
     ],
     "image_name": "LICUADORA 1.5LT -8497.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 83,
@@ -5844,7 +7490,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 1,
       "105": 2
     }
   },
@@ -5864,10 +7520,16 @@
         "idProducto": 3035,
         "idMoneda": 1,
         "precio": 18500.0
+      },
+      {
+        "idPrecio": 2645,
+        "idProducto": 3035,
+        "idMoneda": 2,
+        "precio": 50.0
       }
     ],
     "image_name": "LICUADORA 1.5LT -8498.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 83,
@@ -5881,7 +7543,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 1,
       "105": 2
     }
   },
@@ -5901,10 +7573,16 @@
         "idProducto": 3039,
         "idMoneda": 1,
         "precio": 12950.0
+      },
+      {
+        "idPrecio": 2617,
+        "idProducto": 3039,
+        "idMoneda": 2,
+        "precio": 35.0
       }
     ],
     "image_name": "LICUADORA 2EN1 1.5LT -6041.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 83,
@@ -5918,8 +7596,18 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 2
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -5930,14 +7618,20 @@
       "idPrecio": 2580,
       "idProducto": 3036,
       "idMoneda": 1,
-      "precio": 11100.0
+      "precio": 12950.0
     },
     "precios": [
       {
         "idPrecio": 2580,
         "idProducto": 3036,
         "idMoneda": 1,
-        "precio": 11100.0
+        "precio": 12950.0
+      },
+      {
+        "idPrecio": 2590,
+        "idProducto": 3036,
+        "idMoneda": 2,
+        "precio": 35.0
       }
     ],
     "image_name": "LICUADORA 2EN1 1.5LT -8410.jpg",
@@ -5953,6 +7647,15 @@
         "idEtiqueta": 1,
         "idProducto": 3036,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -5975,10 +7678,16 @@
         "idProducto": 3037,
         "idMoneda": 1,
         "precio": 16650.0
+      },
+      {
+        "idPrecio": 2596,
+        "idProducto": 3037,
+        "idMoneda": 2,
+        "precio": 45.0
       }
     ],
     "image_name": "LICUADORA 2EN1 1.8LT -6433.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 83,
@@ -5992,7 +7701,17 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "103": 1,
       "105": 2
     }
   },
@@ -6012,6 +7731,12 @@
         "idProducto": 3038,
         "idMoneda": 1,
         "precio": 16650.0
+      },
+      {
+        "idPrecio": 2592,
+        "idProducto": 3038,
+        "idMoneda": 2,
+        "precio": 45.0
       }
     ],
     "image_name": "LICUADORA 2EN1 1.8LT -6434.jpg",
@@ -6027,6 +7752,15 @@
         "idEtiqueta": 1,
         "idProducto": 3038,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -6071,9 +7805,18 @@
         "valor": "2850.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 0,
-      "105": 2
+      "103": 7,
+      "105": 1
     }
   },
   {
@@ -6094,6 +7837,7 @@
         "precio": 2240.0
       }
     ],
+    "image_name": "MACETERO PLASTICO -0216.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -6106,6 +7850,15 @@
         "idEtiqueta": 1,
         "idProducto": 2644,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -6131,6 +7884,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "MACETERO PLASTICO -0217.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -6145,9 +7899,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 5,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -6168,6 +7931,7 @@
         "precio": 3260.0
       }
     ],
+    "image_name": "MACETERO PLASTICO -HP109.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -6180,6 +7944,15 @@
         "idEtiqueta": 1,
         "idProducto": 2641,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -6205,6 +7978,7 @@
         "precio": 6105.0
       }
     ],
+    "image_name": "MACETERO PLASTICO -HP110.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -6217,6 +7991,15 @@
         "idEtiqueta": 1,
         "idProducto": 2640,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -6256,6 +8039,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 2
     }
@@ -6291,6 +8083,15 @@
         "idEtiqueta": 1,
         "idProducto": 2679,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -6330,6 +8131,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 2
     }
@@ -6365,6 +8175,15 @@
         "idEtiqueta": 1,
         "idProducto": 2744,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -6405,6 +8224,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
       "105": 0
@@ -6428,6 +8256,7 @@
         "precio": 1020.0
       }
     ],
+    "image_name": "MACETERO REDONDO -481.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -6440,6 +8269,15 @@
         "idEtiqueta": 1,
         "idProducto": 2642,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -6465,6 +8303,7 @@
         "precio": 1225.0
       }
     ],
+    "image_name": "MACETERO REDONDO -482.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -6477,6 +8316,15 @@
         "idEtiqueta": 1,
         "idProducto": 2643,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -6500,10 +8348,16 @@
         "idProducto": 3040,
         "idMoneda": 1,
         "precio": 46250.0
+      },
+      {
+        "idPrecio": 2638,
+        "idProducto": 3040,
+        "idMoneda": 2,
+        "precio": 125.0
       }
     ],
     "image_name": "MICROONDAS 20LT -8305B.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idDepartamento": 3,
@@ -6516,8 +8370,18 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 1
+      "103": 1,
+      "105": 0
     }
   },
   {
@@ -6536,6 +8400,12 @@
         "idProducto": 2797,
         "idMoneda": 1,
         "precio": 16650.0
+      },
+      {
+        "idPrecio": 2644,
+        "idProducto": 2797,
+        "idMoneda": 2,
+        "precio": 45.0
       }
     ],
     "image_name": "OLLA ARROCERA 1.8L -1118.png",
@@ -6559,9 +8429,18 @@
         "valor": "18315.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 8,
-      "105": 15
+      "105": 13
     }
   },
   {
@@ -6596,6 +8475,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 2
     }
@@ -6618,6 +8506,7 @@
         "precio": 610.0
       }
     ],
+    "image_name": "PLATO DE MELANINA -16612.webp",
     "ipv": true,
     "activo": true,
     "combo": false,
@@ -6632,9 +8521,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 0,
-      "105": 11
+      "105": 10
     }
   },
   {
@@ -6669,8 +8567,17 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "103": 4,
+      "103": 3,
       "105": 8
     }
   },
@@ -6707,9 +8614,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -6743,6 +8659,15 @@
         "idEtiqueta": 1,
         "idProducto": 2759,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -6782,6 +8707,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 3
     }
@@ -6819,9 +8753,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 2,
-      "105": 1
+      "105": 5
     }
   },
   {
@@ -6855,6 +8798,15 @@
         "idEtiqueta": 1,
         "idProducto": 2701,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -6895,9 +8847,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 4,
-      "105": 1
+      "105": 7
     }
   },
   {
@@ -6931,6 +8892,15 @@
         "idEtiqueta": 1,
         "idProducto": 2703,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -6971,9 +8941,18 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "103": 3,
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -7007,6 +8986,15 @@
         "idEtiqueta": 1,
         "idProducto": 2755,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -7046,6 +9034,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 4
     }
@@ -7081,6 +9078,15 @@
         "idEtiqueta": 1,
         "idProducto": 2757,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -7119,6 +9125,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {}
   },
   {
@@ -7152,6 +9167,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 2
     }
@@ -7172,6 +9196,12 @@
         "idProducto": 3032,
         "idMoneda": 1,
         "precio": 7400.0
+      },
+      {
+        "idPrecio": 2625,
+        "idProducto": 3032,
+        "idMoneda": 2,
+        "precio": 20.0
       }
     ],
     "image_name": "SANDWICHERA 2 PORCIONES -ED-6557.jpg",
@@ -7187,6 +9217,15 @@
         "idEtiqueta": 1,
         "idProducto": 3032,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -7209,6 +9248,12 @@
         "idProducto": 3033,
         "idMoneda": 1,
         "precio": 7400.0
+      },
+      {
+        "idPrecio": 2632,
+        "idProducto": 3033,
+        "idMoneda": 2,
+        "precio": 20.0
       }
     ],
     "image_name": "SANDWICHERA 2 PORCIONES -ED-6558.jpg",
@@ -7224,6 +9269,15 @@
         "idEtiqueta": 1,
         "idProducto": 3033,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {}
@@ -7244,6 +9298,12 @@
         "idProducto": 3029,
         "idMoneda": 1,
         "precio": 9250.0
+      },
+      {
+        "idPrecio": 2641,
+        "idProducto": 3029,
+        "idMoneda": 2,
+        "precio": 25.0
       }
     ],
     "image_name": "SANDWICHERA GRILL -6799.jpg",
@@ -7259,6 +9319,15 @@
         "idEtiqueta": 1,
         "idProducto": 3029,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {}
@@ -7279,6 +9348,12 @@
         "idProducto": 3031,
         "idMoneda": 1,
         "precio": 12950.0
+      },
+      {
+        "idPrecio": 2627,
+        "idProducto": 3031,
+        "idMoneda": 2,
+        "precio": 35.0
       }
     ],
     "image_name": "SANDWICHERA PANINI -8771.jpg",
@@ -7294,6 +9369,15 @@
         "idEtiqueta": 1,
         "idProducto": 3031,
         "valor": "05/04/25"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {}
@@ -7314,10 +9398,16 @@
         "idProducto": 3030,
         "idMoneda": 1,
         "precio": 12950.0
+      },
+      {
+        "idPrecio": 2606,
+        "idProducto": 3030,
+        "idMoneda": 2,
+        "precio": 35.0
       }
     ],
     "image_name": "SANDWICHERA PANINI -8772.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 63,
@@ -7331,8 +9421,18 @@
         "valor": "05/04/25"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 3
+      "103": 2,
+      "105": 2
     }
   },
   {
@@ -7366,6 +9466,15 @@
         "idEtiqueta": 1,
         "idProducto": 2697,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -7405,6 +9514,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 6
     }
@@ -7440,6 +9558,15 @@
         "idEtiqueta": 1,
         "idProducto": 2699,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -7479,6 +9606,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 0
     }
@@ -7514,6 +9650,15 @@
         "idEtiqueta": 1,
         "idProducto": 2745,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -7560,8 +9705,17 @@
         "valor": "4480.0"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "105": 4
+      "105": 2
     }
   },
   {
@@ -7582,6 +9736,7 @@
         "precio": 61050.0
       }
     ],
+    "image_name": "SET DE MESA Y 2 SILLAS -86608.webp",
     "ipv": false,
     "activo": true,
     "combo": false,
@@ -7593,6 +9748,15 @@
         "idEtiqueta": 1,
         "idProducto": 2653,
         "valor": "31-03"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
       }
     ],
     "stocks": {
@@ -7630,6 +9794,15 @@
         "valor": "31-03"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "105": 1
     }
@@ -7650,6 +9823,12 @@
         "idProducto": 2802,
         "idMoneda": 1,
         "precio": 74000.0
+      },
+      {
+        "idPrecio": 2603,
+        "idProducto": 2802,
+        "idMoneda": 2,
+        "precio": 200.0
       }
     ],
     "image_name": "TV 32\u0026 HD SMART -8875.jpg",
@@ -7667,9 +9846,17 @@
         "valor": "04-04"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
-      "102": 2,
-      "103": 0,
+      "103": 2,
       "105": 1
     }
   },
@@ -7689,6 +9876,12 @@
         "idProducto": 2803,
         "idMoneda": 1,
         "precio": 148000.0
+      },
+      {
+        "idPrecio": 2628,
+        "idProducto": 2803,
+        "idMoneda": 2,
+        "precio": 400.0
       }
     ],
     "image_name": "TV 43\u0026 HD SMART -8900.jpg",
@@ -7706,7 +9899,17 @@
         "valor": "04-04"
       }
     ],
+    "descuentos": [
+      {
+        "idDescuento": 5,
+        "color": 0,
+        "valor": 0.05,
+        "nombre": "Descuento 5%",
+        "activo": true
+      }
+    ],
     "stocks": {
+      "102": 2,
       "105": 1
     }
   }
