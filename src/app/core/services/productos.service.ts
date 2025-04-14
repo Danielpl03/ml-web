@@ -152,11 +152,11 @@ export class ProductosService{
     for (let i = 0; i < precios.length; i++) {
       const precio = precios[i];
       if (precio.idMoneda == this.moneda()?.idMoneda) {
-        return precio.precio;
+        return (Math.round(precio.precio * 10) / 10);
       }
     }
     const taza = this.monedaService.getTazaCambio();
-    return (Math.round(producto.precio.precio / (taza?taza:320) * 10) / 10)
+    return (Math.round(producto.precio.precio / (taza?taza:360) * 10) / 10)
   }
 
 }
