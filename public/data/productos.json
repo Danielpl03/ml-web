@@ -125,7 +125,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -386,7 +386,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -745,8 +745,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 0
+      "103": 7,
+      "105": 8
     }
   },
   {
@@ -2208,8 +2208,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 14
+      "103": 3,
+      "105": 6
     }
   },
   {
@@ -2299,7 +2299,7 @@
       }
     ],
     "stocks": {
-      "103": 5,
+      "103": 2,
       "105": 0
     }
   },
@@ -2346,7 +2346,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 5
+      "105": 0
     }
   },
   {
@@ -2390,7 +2390,7 @@
       }
     ],
     "stocks": {
-      "103": 6,
+      "103": 4,
       "105": 0
     }
   },
@@ -2481,8 +2481,8 @@
       }
     ],
     "stocks": {
-      "103": 8,
-      "105": 8
+      "103": 6,
+      "105": 5
     }
   },
   {
@@ -2527,7 +2527,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -2572,9 +2572,9 @@
       }
     ],
     "stocks": {
-      "102": 7,
+      "102": 55,
       "103": 19,
-      "105": 4
+      "105": 2
     }
   },
   {
@@ -2707,7 +2707,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 8
+      "105": 10
     }
   },
   {
@@ -2759,7 +2759,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -3127,7 +3127,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -3179,8 +3179,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 4
+      "103": 5,
+      "105": 0
     }
   },
   {
@@ -3232,8 +3232,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 5
+      "103": 2,
+      "105": 2
     }
   },
   {
@@ -3428,7 +3428,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -3480,7 +3480,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -3532,7 +3532,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -3623,7 +3623,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -4209,7 +4209,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -4262,7 +4262,7 @@
     ],
     "stocks": {
       "103": 5,
-      "105": 7
+      "105": 9
     }
   },
   {
@@ -4608,7 +4608,8 @@
       }
     ],
     "stocks": {
-      "103": 1
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -4826,7 +4827,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 3
     }
   },
   {
@@ -4871,7 +4872,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -4916,7 +4917,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 3
     }
   },
   {
@@ -4960,7 +4961,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -5005,7 +5006,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 3
     }
   },
   {
@@ -5227,7 +5228,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -5272,7 +5273,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 11
+      "105": 5
     }
   },
   {
@@ -5369,7 +5370,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -5421,7 +5422,7 @@
     ],
     "stocks": {
       "103": 60,
-      "105": 58
+      "105": 31
     }
   },
   {
@@ -5472,8 +5473,8 @@
       }
     ],
     "stocks": {
-      "103": 12,
-      "105": 13
+      "103": 9,
+      "105": 10
     }
   },
   {
@@ -5692,7 +5693,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -5919,14 +5920,14 @@
       "idPrecio": 66,
       "idProducto": 22,
       "idMoneda": 1,
-      "precio": 530.0
+      "precio": 335.0
     },
     "precios": [
       {
         "idPrecio": 66,
         "idProducto": 22,
         "idMoneda": 1,
-        "precio": 530.0
+        "precio": 335.0
       },
       {
         "idPrecio": 3030,
@@ -5942,7 +5943,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1144,
+        "idEtiqueta": 2,
+        "idProducto": 22,
+        "valor": "530.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -5955,7 +5963,7 @@
     "stocks": {
       "102": 10,
       "103": 11,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -5966,14 +5974,14 @@
       "idPrecio": 67,
       "idProducto": 23,
       "idMoneda": 1,
-      "precio": 645.0
+      "precio": 390.0
     },
     "precios": [
       {
         "idPrecio": 67,
         "idProducto": 23,
         "idMoneda": 1,
-        "precio": 645.0
+        "precio": 390.0
       },
       {
         "idPrecio": 3092,
@@ -5989,7 +5997,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1149,
+        "idEtiqueta": 2,
+        "idProducto": 23,
+        "valor": "645.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6013,14 +6028,14 @@
       "idPrecio": 68,
       "idProducto": 697,
       "idMoneda": 1,
-      "precio": 1630.0
+      "precio": 1335.0
     },
     "precios": [
       {
         "idPrecio": 68,
         "idProducto": 697,
         "idMoneda": 1,
-        "precio": 1630.0
+        "precio": 1335.0
       },
       {
         "idPrecio": 2914,
@@ -6036,7 +6051,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1145,
+        "idEtiqueta": 2,
+        "idProducto": 697,
+        "valor": "1630.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6060,14 +6082,14 @@
       "idPrecio": 69,
       "idProducto": 24,
       "idMoneda": 1,
-      "precio": 780.0
+      "precio": 630.0
     },
     "precios": [
       {
         "idPrecio": 69,
         "idProducto": 24,
         "idMoneda": 1,
-        "precio": 780.0
+        "precio": 630.0
       },
       {
         "idPrecio": 3158,
@@ -6083,7 +6105,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1151,
+        "idEtiqueta": 2,
+        "idProducto": 24,
+        "valor": "780.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6105,14 +6134,14 @@
       "idPrecio": 70,
       "idProducto": 25,
       "idMoneda": 1,
-      "precio": 1225.0
+      "precio": 815.0
     },
     "precios": [
       {
         "idPrecio": 70,
         "idProducto": 25,
         "idMoneda": 1,
-        "precio": 1225.0
+        "precio": 815.0
       },
       {
         "idPrecio": 2982,
@@ -6128,7 +6157,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1152,
+        "idEtiqueta": 2,
+        "idProducto": 25,
+        "valor": "1225.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6139,9 +6175,9 @@
       }
     ],
     "stocks": {
-      "102": 30,
-      "103": 6,
-      "105": 4
+      "102": 20,
+      "103": 10,
+      "105": 6
     }
   },
   {
@@ -6152,14 +6188,14 @@
       "idPrecio": 71,
       "idProducto": 659,
       "idMoneda": 1,
-      "precio": 1430.0
+      "precio": 1205.0
     },
     "precios": [
       {
         "idPrecio": 71,
         "idProducto": 659,
         "idMoneda": 1,
-        "precio": 1430.0
+        "precio": 1205.0
       },
       {
         "idPrecio": 2977,
@@ -6175,7 +6211,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1158,
+        "idEtiqueta": 2,
+        "idProducto": 659,
+        "valor": "1430.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6199,14 +6242,14 @@
       "idPrecio": 72,
       "idProducto": 26,
       "idMoneda": 1,
-      "precio": 925.0
+      "precio": 595.0
     },
     "precios": [
       {
         "idPrecio": 72,
         "idProducto": 26,
         "idMoneda": 1,
-        "precio": 925.0
+        "precio": 595.0
       },
       {
         "idPrecio": 3130,
@@ -6222,7 +6265,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1142,
+        "idEtiqueta": 2,
+        "idProducto": 26,
+        "valor": "925.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6234,7 +6284,7 @@
     ],
     "stocks": {
       "102": 40,
-      "103": 7,
+      "103": 6,
       "105": 8
     }
   },
@@ -6246,14 +6296,14 @@
       "idPrecio": 73,
       "idProducto": 27,
       "idMoneda": 1,
-      "precio": 1010.0
+      "precio": 780.0
     },
     "precios": [
       {
         "idPrecio": 73,
         "idProducto": 27,
         "idMoneda": 1,
-        "precio": 1010.0
+        "precio": 780.0
       },
       {
         "idPrecio": 3115,
@@ -6269,7 +6319,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1143,
+        "idEtiqueta": 2,
+        "idProducto": 27,
+        "valor": "1010.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6293,14 +6350,14 @@
       "idPrecio": 74,
       "idProducto": 28,
       "idMoneda": 1,
-      "precio": 1345.0
+      "precio": 890.0
     },
     "precios": [
       {
         "idPrecio": 74,
         "idProducto": 28,
         "idMoneda": 1,
-        "precio": 1345.0
+        "precio": 890.0
       },
       {
         "idPrecio": 3175,
@@ -6316,7 +6373,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1147,
+        "idEtiqueta": 2,
+        "idProducto": 28,
+        "valor": "1345.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6338,14 +6402,14 @@
       "idPrecio": 75,
       "idProducto": 29,
       "idMoneda": 1,
-      "precio": 1400.0
+      "precio": 1335.0
     },
     "precios": [
       {
         "idPrecio": 75,
         "idProducto": 29,
         "idMoneda": 1,
-        "precio": 1400.0
+        "precio": 1335.0
       },
       {
         "idPrecio": 3162,
@@ -6361,7 +6425,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1148,
+        "idEtiqueta": 2,
+        "idProducto": 29,
+        "valor": "1400.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6383,14 +6454,14 @@
       "idPrecio": 76,
       "idProducto": 30,
       "idMoneda": 1,
-      "precio": 3260.0
+      "precio": 2500.0
     },
     "precios": [
       {
         "idPrecio": 76,
         "idProducto": 30,
         "idMoneda": 1,
-        "precio": 3260.0
+        "precio": 2500.0
       },
       {
         "idPrecio": 3266,
@@ -6406,7 +6477,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1153,
+        "idEtiqueta": 2,
+        "idProducto": 30,
+        "valor": "3260.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6430,14 +6508,14 @@
       "idPrecio": 77,
       "idProducto": 1061,
       "idMoneda": 1,
-      "precio": 500.0
+      "precio": 370.0
     },
     "precios": [
       {
         "idPrecio": 77,
         "idProducto": 1061,
         "idMoneda": 1,
-        "precio": 500.0
+        "precio": 370.0
       },
       {
         "idPrecio": 3217,
@@ -6453,7 +6531,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1140,
+        "idEtiqueta": 2,
+        "idProducto": 1061,
+        "valor": "500.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6473,14 +6558,14 @@
       "idPrecio": 78,
       "idProducto": 1062,
       "idMoneda": 1,
-      "precio": 700.0
+      "precio": 390.0
     },
     "precios": [
       {
         "idPrecio": 78,
         "idProducto": 1062,
         "idMoneda": 1,
-        "precio": 700.0
+        "precio": 390.0
       },
       {
         "idPrecio": 3246,
@@ -6496,7 +6581,14 @@
     "idCategoria": 9,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1141,
+        "idEtiqueta": 2,
+        "idProducto": 1062,
+        "valor": "700.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -6737,8 +6829,8 @@
       }
     ],
     "stocks": {
-      "103": 12,
-      "105": 1
+      "103": 11,
+      "105": 9
     }
   },
   {
@@ -7136,7 +7228,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -7315,7 +7407,7 @@
       }
     ],
     "stocks": {
-      "102": 2,
+      "102": 1,
       "103": 1,
       "105": 1
     }
@@ -7408,7 +7500,6 @@
       }
     ],
     "stocks": {
-      "102": 1,
       "103": 3,
       "105": 1
     }
@@ -7646,7 +7737,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 6
+      "105": 1
     }
   },
   {
@@ -7742,7 +7833,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 3,
       "105": 6
     }
   },
@@ -7795,7 +7886,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 3,
       "105": 0
     }
   },
@@ -7842,7 +7933,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 4
+      "105": 0
     }
   },
   {
@@ -7984,7 +8075,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 0
     }
   },
@@ -8082,8 +8173,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 0
+      "103": 1,
+      "105": 2
     }
   },
   {
@@ -8135,8 +8226,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 9
+      "103": 4,
+      "105": 10
     }
   },
   {
@@ -8188,8 +8279,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 4
+      "103": 4,
+      "105": 1
     }
   },
   {
@@ -8241,8 +8332,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 3
+      "103": 4,
+      "105": 0
     }
   },
   {
@@ -8295,7 +8386,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 7
+      "105": 0
     }
   },
   {
@@ -8347,8 +8438,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 6
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -8545,8 +8636,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 4
+      "103": 1,
+      "105": 10
     }
   },
   {
@@ -8592,7 +8683,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -8645,7 +8736,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 8
+      "105": 0
     }
   },
   {
@@ -8691,7 +8782,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 5
+      "105": 0
     }
   },
   {
@@ -8737,7 +8828,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -9212,14 +9303,14 @@
       "idPrecio": 104,
       "idProducto": 42,
       "idMoneda": 1,
-      "precio": 190.0
+      "precio": 120.0
     },
     "precios": [
       {
         "idPrecio": 104,
         "idProducto": 42,
         "idMoneda": 1,
-        "precio": 190.0
+        "precio": 120.0
       },
       {
         "idPrecio": 4580,
@@ -9234,7 +9325,14 @@
     "combo": false,
     "idDepartamento": 9,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1160,
+        "idEtiqueta": 2,
+        "idProducto": 42,
+        "valor": "190.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -9245,9 +9343,9 @@
       }
     ],
     "stocks": {
-      "102": 196,
+      "102": 138,
       "103": 52,
-      "105": 35
+      "105": 66
     }
   },
   {
@@ -9586,7 +9684,7 @@
         "precio": 85.625
       }
     ],
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 60,
@@ -9603,7 +9701,8 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -9823,13 +9922,20 @@
         "precio": 73.611115
       }
     ],
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 60,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1161,
+        "idEtiqueta": 2,
+        "idProducto": 2135,
+        "valor": "30825.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -9840,7 +9946,8 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -10431,7 +10538,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -10477,7 +10584,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -11125,9 +11232,9 @@
       }
     ],
     "stocks": {
-      "102": 50,
+      "102": 26,
       "103": 17,
-      "105": 17
+      "105": 14
     }
   },
   {
@@ -11559,7 +11666,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -11696,7 +11803,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -12016,7 +12123,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -12121,7 +12228,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -12173,8 +12280,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -12330,7 +12437,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -12422,7 +12529,7 @@
       }
     ],
     "stocks": {
-      "102": 10,
+      "102": 6,
       "103": 1,
       "105": 2
     }
@@ -12469,7 +12576,7 @@
       }
     ],
     "stocks": {
-      "102": 6,
+      "102": 3,
       "103": 2,
       "105": 0
     }
@@ -12777,8 +12884,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 2,
+      "105": 0
     }
   },
   {
@@ -12830,7 +12937,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -12883,7 +12990,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -12987,7 +13094,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -13250,7 +13357,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -13302,8 +13409,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -13407,7 +13514,7 @@
       }
     ],
     "stocks": {
-      "103": 0,
+      "103": 2,
       "105": 2
     }
   },
@@ -13506,7 +13613,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -13661,7 +13768,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -13897,7 +14004,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -13949,7 +14056,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 2,
       "105": 0
     }
   },
@@ -14054,7 +14161,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -14158,7 +14265,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -14210,7 +14317,7 @@
     ],
     "stocks": {
       "103": 11,
-      "105": 6
+      "105": 28
     }
   },
   {
@@ -14262,7 +14369,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 27
+      "105": 0
     }
   },
   {
@@ -14350,8 +14457,9 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 0
+      "102": 12,
+      "103": 10,
+      "105": 8
     }
   },
   {
@@ -14617,7 +14725,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 5
+      "105": 16
     }
   },
   {
@@ -14846,14 +14954,14 @@
       "idPrecio": 145,
       "idProducto": 56,
       "idMoneda": 1,
-      "precio": 1115.0
+      "precio": 780.0
     },
     "precios": [
       {
         "idPrecio": 145,
         "idProducto": 56,
         "idMoneda": 1,
-        "precio": 1115.0
+        "precio": 780.0
       },
       {
         "idPrecio": 3027,
@@ -14869,7 +14977,14 @@
     "idCategoria": 67,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1162,
+        "idEtiqueta": 2,
+        "idProducto": 56,
+        "valor": "1115.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -14934,8 +15049,8 @@
     ],
     "stocks": {
       "102": 8,
-      "103": 12,
-      "105": 9
+      "103": 10,
+      "105": 8
     }
   },
   {
@@ -15031,9 +15146,9 @@
       }
     ],
     "stocks": {
-      "102": 16,
-      "103": 4,
-      "105": 9
+      "102": 48,
+      "103": 5,
+      "105": 7
     }
   },
   {
@@ -15476,7 +15591,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 1
     }
   },
@@ -15612,7 +15727,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 2,
       "105": 0
     }
   },
@@ -15701,8 +15816,8 @@
       }
     ],
     "stocks": {
-      "103": 13,
-      "105": 0
+      "103": 2,
+      "105": 10
     }
   },
   {
@@ -15888,7 +16003,7 @@
       }
     ],
     "stocks": {
-      "103": 28,
+      "103": 26,
       "105": 0
     }
   },
@@ -16396,7 +16511,7 @@
       "idPrecio": 161,
       "idProducto": 60,
       "idMoneda": 1,
-      "precio": 2675.0
+      "precio": 1965.0
     },
     "precios": [
       {
@@ -16409,7 +16524,7 @@
         "idPrecio": 161,
         "idProducto": 60,
         "idMoneda": 1,
-        "precio": 2675.0
+        "precio": 1965.0
       }
     ],
     "image_name": "Breker 20A Doble -2P20A.webp",
@@ -16419,7 +16534,14 @@
     "idCategoria": 16,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1133,
+        "idEtiqueta": 2,
+        "idProducto": 60,
+        "valor": "2675.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -16432,7 +16554,7 @@
     "stocks": {
       "102": 20,
       "103": 17,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -16443,14 +16565,14 @@
       "idPrecio": 162,
       "idProducto": 61,
       "idMoneda": 1,
-      "precio": 1345.0
+      "precio": 890.0
     },
     "precios": [
       {
         "idPrecio": 162,
         "idProducto": 61,
         "idMoneda": 1,
-        "precio": 1345.0
+        "precio": 890.0
       },
       {
         "idPrecio": 2955,
@@ -16466,7 +16588,14 @@
     "idCategoria": 16,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1138,
+        "idEtiqueta": 2,
+        "idProducto": 61,
+        "valor": "1345.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -16479,7 +16608,7 @@
     "stocks": {
       "102": 12,
       "103": 19,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -16490,14 +16619,14 @@
       "idPrecio": 163,
       "idProducto": 62,
       "idMoneda": 1,
-      "precio": 1575.0
+      "precio": 890.0
     },
     "precios": [
       {
         "idPrecio": 163,
         "idProducto": 62,
         "idMoneda": 1,
-        "precio": 1575.0
+        "precio": 890.0
       },
       {
         "idPrecio": 2960,
@@ -16512,7 +16641,14 @@
     "idCategoria": 16,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1134,
+        "idEtiqueta": 2,
+        "idProducto": 62,
+        "valor": "1575.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -16535,14 +16671,14 @@
       "idPrecio": 164,
       "idProducto": 63,
       "idMoneda": 1,
-      "precio": 2700.0
+      "precio": 1965.0
     },
     "precios": [
       {
         "idPrecio": 164,
         "idProducto": 63,
         "idMoneda": 1,
-        "precio": 2700.0
+        "precio": 1965.0
       },
       {
         "idPrecio": 3261,
@@ -16557,7 +16693,14 @@
     "idCategoria": 16,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1139,
+        "idEtiqueta": 2,
+        "idProducto": 63,
+        "valor": "2700.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -16579,14 +16722,14 @@
       "idPrecio": 165,
       "idProducto": 64,
       "idMoneda": 1,
-      "precio": 1455.0
+      "precio": 890.0
     },
     "precios": [
       {
         "idPrecio": 165,
         "idProducto": 64,
         "idMoneda": 1,
-        "precio": 1455.0
+        "precio": 890.0
       },
       {
         "idPrecio": 2893,
@@ -16601,7 +16744,14 @@
     "idCategoria": 16,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1137,
+        "idEtiqueta": 2,
+        "idProducto": 64,
+        "valor": "1455.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -16613,7 +16763,7 @@
     ],
     "stocks": {
       "103": 13,
-      "105": 10
+      "105": 6
     }
   },
   {
@@ -16624,14 +16774,14 @@
       "idPrecio": 166,
       "idProducto": 65,
       "idMoneda": 1,
-      "precio": 4885.0
+      "precio": 3200.0
     },
     "precios": [
       {
         "idPrecio": 166,
         "idProducto": 65,
         "idMoneda": 1,
-        "precio": 4885.0
+        "precio": 3200.0
       },
       {
         "idPrecio": 2916,
@@ -16647,7 +16797,14 @@
     "idCategoria": 16,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1150,
+        "idEtiqueta": 2,
+        "idProducto": 65,
+        "valor": "4885.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -16659,7 +16816,7 @@
     ],
     "stocks": {
       "102": 4,
-      "103": 12,
+      "103": 11,
       "105": 4
     }
   },
@@ -16671,14 +16828,14 @@
       "idPrecio": 167,
       "idProducto": 66,
       "idMoneda": 1,
-      "precio": 3150.0
+      "precio": 1965.0
     },
     "precios": [
       {
         "idPrecio": 167,
         "idProducto": 66,
         "idMoneda": 1,
-        "precio": 3150.0
+        "precio": 1965.0
       },
       {
         "idPrecio": 2932,
@@ -16694,7 +16851,14 @@
     "idCategoria": 16,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1136,
+        "idEtiqueta": 2,
+        "idProducto": 66,
+        "valor": "3150.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -16717,14 +16881,14 @@
       "idPrecio": 168,
       "idProducto": 67,
       "idMoneda": 1,
-      "precio": 1630.0
+      "precio": 890.0
     },
     "precios": [
       {
         "idPrecio": 168,
         "idProducto": 67,
         "idMoneda": 1,
-        "precio": 1630.0
+        "precio": 890.0
       },
       {
         "idPrecio": 2885,
@@ -16740,7 +16904,14 @@
     "idCategoria": 16,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1135,
+        "idEtiqueta": 2,
+        "idProducto": 67,
+        "valor": "1630.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -17341,7 +17512,7 @@
       "idPrecio": 182,
       "idProducto": 76,
       "idMoneda": 1,
-      "precio": 250.0
+      "precio": 185.0
     },
     "precios": [
       {
@@ -17354,7 +17525,7 @@
         "idPrecio": 182,
         "idProducto": 76,
         "idMoneda": 1,
-        "precio": 250.0
+        "precio": 185.0
       }
     ],
     "ipv": true,
@@ -17363,7 +17534,14 @@
     "idCategoria": 13,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1163,
+        "idEtiqueta": 2,
+        "idProducto": 76,
+        "valor": "250.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -17376,7 +17554,7 @@
     "stocks": {
       "102": 12,
       "103": 18,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -17387,14 +17565,14 @@
       "idPrecio": 183,
       "idProducto": 77,
       "idMoneda": 1,
-      "precio": 145.0
+      "precio": 120.0
     },
     "precios": [
       {
         "idPrecio": 183,
         "idProducto": 77,
         "idMoneda": 1,
-        "precio": 145.0
+        "precio": 120.0
       },
       {
         "idPrecio": 2886,
@@ -17409,7 +17587,14 @@
     "idCategoria": 13,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1164,
+        "idEtiqueta": 2,
+        "idProducto": 77,
+        "valor": "145.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -17422,7 +17607,7 @@
     "stocks": {
       "102": 34,
       "103": 44,
-      "105": 8
+      "105": 6
     }
   },
   {
@@ -17466,8 +17651,8 @@
       }
     ],
     "stocks": {
-      "102": 4,
-      "103": 5,
+      "102": 7,
+      "103": 2,
       "105": 2
     }
   },
@@ -17707,14 +17892,14 @@
       "idPrecio": 189,
       "idProducto": 695,
       "idMoneda": 1,
-      "precio": 5600.0
+      "precio": 6160.0
     },
     "precios": [
       {
         "idPrecio": 189,
         "idProducto": 695,
         "idMoneda": 1,
-        "precio": 5600.0
+        "precio": 6160.0
       },
       {
         "idPrecio": 3070,
@@ -17741,7 +17926,6 @@
       }
     ],
     "stocks": {
-      "102": 10,
       "105": 10
     }
   },
@@ -17874,7 +18058,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 0
     }
   },
@@ -17919,8 +18103,9 @@
       }
     ],
     "stocks": {
+      "102": 7,
       "103": 2,
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -18053,7 +18238,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 2,
       "105": 0
     }
   },
@@ -19437,7 +19622,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 5
+      "105": 1
     }
   },
   {
@@ -19482,7 +19667,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -19793,7 +19978,7 @@
     "stocks": {
       "102": 14,
       "103": 36,
-      "105": 8
+      "105": 6
     }
   },
   {
@@ -19837,7 +20022,7 @@
       }
     ],
     "stocks": {
-      "103": 0,
+      "103": 2,
       "105": 0
     }
   },
@@ -19926,7 +20111,8 @@
       }
     ],
     "stocks": {
-      "103": 0
+      "103": 0,
+      "105": 1
     }
   },
   {
@@ -19970,7 +20156,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 0
+      "105": 2
     }
   },
   {
@@ -20056,7 +20242,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -20145,7 +20331,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -20471,8 +20657,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -20691,7 +20877,7 @@
     ],
     "stocks": {
       "103": 23,
-      "105": 11
+      "105": 9
     }
   },
   {
@@ -20742,8 +20928,7 @@
       }
     ],
     "stocks": {
-      "102": 12,
-      "105": 5
+      "105": 12
     }
   },
   {
@@ -20794,9 +20979,8 @@
       }
     ],
     "stocks": {
-      "102": 12,
       "103": 7,
-      "105": 8
+      "105": 27
     }
   },
   {
@@ -21060,7 +21244,7 @@
       }
     ],
     "stocks": {
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -21128,7 +21312,7 @@
         "idPrecio": 1941,
         "idProducto": 2405,
         "idMoneda": 2,
-        "precio": 23.333334
+        "precio": 20
       }
     ],
     "image_name": "CEMENTO GRIS 350.jpeg",
@@ -21248,13 +21432,13 @@
         "valor": ""
       },
       {
-        "idRelacion": 588,
+        "idRelacion": 589,
         "idEtiqueta": 8,
         "idProducto": 2638,
         "valor": ""
       },
       {
-        "idRelacion": 589,
+        "idRelacion": 588,
         "idEtiqueta": 8,
         "idProducto": 2638,
         "valor": ""
@@ -21362,7 +21546,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -21767,8 +21951,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 4
+      "103": 6,
+      "105": 19
     }
   },
   {
@@ -21814,7 +21998,7 @@
     ],
     "stocks": {
       "102": 12,
-      "103": 5,
+      "103": 1,
       "105": 3
     }
   },
@@ -21950,7 +22134,7 @@
     ],
     "stocks": {
       "103": 5,
-      "105": 4
+      "105": 2
     }
   },
   {
@@ -21995,7 +22179,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -22138,7 +22322,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -22258,10 +22442,19 @@
     "idDepartamento": 4,
     "movimientos": [],
     "etiquetasProductos": [],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
     "stocks": {
       "102": 22,
-      "103": 11,
-      "105": 7
+      "103": 29,
+      "105": 5
     }
   },
   {
@@ -22399,8 +22592,8 @@
       }
     ],
     "stocks": {
-      "103": 13,
-      "105": 25
+      "103": 8,
+      "105": 21
     }
   },
   {
@@ -22446,7 +22639,7 @@
     "stocks": {
       "102": 11,
       "103": 6,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -22578,7 +22771,7 @@
       }
     ],
     "stocks": {
-      "105": 28
+      "105": 23
     }
   },
   {
@@ -22632,14 +22825,14 @@
       "idPrecio": 2539,
       "idProducto": 2995,
       "idMoneda": 1,
-      "precio": 20350.0
+      "precio": 18500.0
     },
     "precios": [
       {
         "idPrecio": 2539,
         "idProducto": 2995,
         "idMoneda": 1,
-        "precio": 20350.0
+        "precio": 18500.0
       },
       {
         "idPrecio": 2611,
@@ -22661,7 +22854,25 @@
         "valor": "05/04/25"
       },
       {
+        "idRelacion": 1090,
+        "idEtiqueta": 2,
+        "idProducto": 2995,
+        "valor": "20350"
+      },
+      {
+        "idRelacion": 1206,
+        "idEtiqueta": 2,
+        "idProducto": 2995,
+        "valor": "20350.0"
+      },
+      {
         "idRelacion": 1094,
+        "idEtiqueta": 2,
+        "idProducto": 2995,
+        "valor": "20350.0"
+      },
+      {
+        "idRelacion": 1165,
         "idEtiqueta": 2,
         "idProducto": 2995,
         "valor": "20350.0"
@@ -22671,12 +22882,6 @@
         "idEtiqueta": 2,
         "idProducto": 2995,
         "valor": "20350.0"
-      },
-      {
-        "idRelacion": 1090,
-        "idEtiqueta": 2,
-        "idProducto": 2995,
-        "valor": "20350"
       }
     ],
     "descuentos": [
@@ -22690,7 +22895,7 @@
     ],
     "stocks": {
       "103": 7,
-      "105": 11
+      "105": 6
     }
   },
   {
@@ -22734,7 +22939,7 @@
       }
     ],
     "stocks": {
-      "103": 2
+      "103": 1
     }
   },
   {
@@ -22780,8 +22985,8 @@
     ],
     "stocks": {
       "102": 27,
-      "103": 15,
-      "105": 8
+      "103": 10,
+      "105": 1
     }
   },
   {
@@ -23062,7 +23267,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 13
+      "105": 11
     }
   },
   {
@@ -23115,7 +23320,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 24
+      "105": 21
     }
   },
   {
@@ -23167,7 +23372,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -23298,7 +23503,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 11
+      "105": 8
     }
   },
   {
@@ -23343,7 +23548,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 10
+      "105": 8
     }
   },
   {
@@ -23395,7 +23600,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 10
+      "105": 7
     }
   },
   {
@@ -23447,7 +23652,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -23578,8 +23783,8 @@
       }
     ],
     "stocks": {
-      "103": 8,
-      "105": 6
+      "103": 4,
+      "105": 8
     }
   },
   {
@@ -23623,9 +23828,9 @@
       }
     ],
     "stocks": {
-      "102": 42,
-      "103": 20,
-      "105": 7
+      "102": 18,
+      "103": 15,
+      "105": 17
     }
   },
   {
@@ -24213,7 +24418,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 3
     }
   },
   {
@@ -24264,6 +24469,7 @@
       }
     ],
     "stocks": {
+      "102": 12,
       "103": 4,
       "105": 6
     }
@@ -24308,7 +24514,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -24486,7 +24692,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -24538,8 +24744,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 4
+      "103": 0,
+      "105": 8
     }
   },
   {
@@ -24584,8 +24790,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 4
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -24630,8 +24836,8 @@
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "103": 2,
+      "105": 3
     }
   },
   {
@@ -24715,9 +24921,9 @@
       }
     ],
     "stocks": {
-      "102": 38,
-      "103": 5,
-      "105": 8
+      "102": 30,
+      "103": 0,
+      "105": 4
     }
   },
   {
@@ -24762,7 +24968,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -24892,7 +25098,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 9
     }
   },
   {
@@ -25430,7 +25636,7 @@
       }
     ],
     "stocks": {
-      "103": 8,
+      "103": 0,
       "105": 0
     }
   },
@@ -26002,7 +26208,7 @@
       }
     ],
     "stocks": {
-      "103": 2
+      "103": 0
     }
   },
   {
@@ -26466,7 +26672,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -26568,14 +26774,14 @@
       "idPrecio": 298,
       "idProducto": 126,
       "idMoneda": 1,
-      "precio": 6515.0
+      "precio": 5255.0
     },
     "precios": [
       {
         "idPrecio": 298,
         "idProducto": 126,
         "idMoneda": 1,
-        "precio": 6515.0
+        "precio": 5255.0
       },
       {
         "idPrecio": 1327,
@@ -26591,7 +26797,14 @@
     "idCategoria": 69,
     "idDepartamento": 3,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1168,
+        "idEtiqueta": 2,
+        "idProducto": 126,
+        "valor": "6515.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -26602,8 +26815,9 @@
       }
     ],
     "stocks": {
+      "102": 3,
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -26614,7 +26828,7 @@
       "idPrecio": 299,
       "idProducto": 655,
       "idMoneda": 1,
-      "precio": 6515.0
+      "precio": 5255.0
     },
     "precios": [
       {
@@ -26627,7 +26841,7 @@
         "idPrecio": 299,
         "idProducto": 655,
         "idMoneda": 1,
-        "precio": 6515.0
+        "precio": 5255.0
       }
     ],
     "image_name": "Cortador De Cabello -6230.jpg",
@@ -26637,7 +26851,14 @@
     "idCategoria": 69,
     "idDepartamento": 3,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1166,
+        "idEtiqueta": 2,
+        "idProducto": 655,
+        "valor": "6515.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -26649,7 +26870,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 3
     }
   },
   {
@@ -26660,14 +26881,14 @@
       "idPrecio": 300,
       "idProducto": 711,
       "idMoneda": 1,
-      "precio": 6515.0
+      "precio": 5255.0
     },
     "precios": [
       {
         "idPrecio": 300,
         "idProducto": 711,
         "idMoneda": 1,
-        "precio": 6515.0
+        "precio": 5255.0
       },
       {
         "idPrecio": 1329,
@@ -26683,7 +26904,14 @@
     "idCategoria": 69,
     "idDepartamento": 3,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1167,
+        "idEtiqueta": 2,
+        "idProducto": 711,
+        "valor": "6515.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -26694,6 +26922,7 @@
       }
     ],
     "stocks": {
+      "102": 3,
       "105": 0
     }
   },
@@ -27098,7 +27327,7 @@
       }
     ],
     "stocks": {
-      "105": 14
+      "105": 8
     }
   },
   {
@@ -27252,7 +27481,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -27401,7 +27630,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 0
+      "105": 8
     }
   },
   {
@@ -27498,7 +27727,7 @@
       }
     ],
     "stocks": {
-      "105": 5
+      "105": 12
     }
   },
   {
@@ -27632,8 +27861,8 @@
       }
     ],
     "stocks": {
-      "103": 9,
-      "105": 1
+      "103": 5,
+      "105": 0
     }
   },
   {
@@ -27679,7 +27908,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -27776,8 +28005,8 @@
       }
     ],
     "stocks": {
-      "103": 9,
-      "105": 7
+      "103": 6,
+      "105": 1
     }
   },
   {
@@ -29114,7 +29343,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 12
+      "105": 8
     }
   },
   {
@@ -29166,7 +29395,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 0,
       "105": 3
     }
   },
@@ -29324,7 +29553,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -30089,9 +30318,9 @@
       }
     ],
     "stocks": {
-      "102": 3,
-      "103": 7,
-      "105": 7
+      "102": 17,
+      "103": 6,
+      "105": 2
     }
   },
   {
@@ -30468,14 +30697,14 @@
       "idPrecio": 2141,
       "idProducto": 2604,
       "idMoneda": 1,
-      "precio": 1575.0
+      "precio": 1225.0
     },
     "precios": [
       {
         "idPrecio": 2141,
         "idProducto": 2604,
         "idMoneda": 1,
-        "precio": 1575.0
+        "precio": 1225.0
       },
       {
         "idPrecio": 3476,
@@ -30489,7 +30718,14 @@
     "combo": false,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1169,
+        "idEtiqueta": 2,
+        "idProducto": 2604,
+        "valor": "1575.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -30500,9 +30736,9 @@
       }
     ],
     "stocks": {
-      "102": 51,
+      "102": 47,
       "103": 21,
-      "105": 25
+      "105": 23
     }
   },
   {
@@ -30513,14 +30749,14 @@
       "idPrecio": 350,
       "idProducto": 133,
       "idMoneda": 1,
-      "precio": 4070.0
+      "precio": 3110.0
     },
     "precios": [
       {
         "idPrecio": 350,
         "idProducto": 133,
         "idMoneda": 1,
-        "precio": 4070.0
+        "precio": 3110.0
       },
       {
         "idPrecio": 3441,
@@ -30535,7 +30771,14 @@
     "idCategoria": 6,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1170,
+        "idEtiqueta": 2,
+        "idProducto": 133,
+        "valor": "4070.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -30558,14 +30801,14 @@
       "idPrecio": 351,
       "idProducto": 134,
       "idMoneda": 1,
-      "precio": 3490.0
+      "precio": 2665.0
     },
     "precios": [
       {
         "idPrecio": 351,
         "idProducto": 134,
         "idMoneda": 1,
-        "precio": 3490.0
+        "precio": 2665.0
       },
       {
         "idPrecio": 3390,
@@ -30580,7 +30823,14 @@
     "idCategoria": 6,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1171,
+        "idEtiqueta": 2,
+        "idProducto": 134,
+        "valor": "3490.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -30604,14 +30854,14 @@
       "idPrecio": 352,
       "idProducto": 1790,
       "idMoneda": 1,
-      "precio": 1850.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 352,
         "idProducto": 1790,
         "idMoneda": 1,
-        "precio": 1850.0
+        "precio": 2220.0
       },
       {
         "idPrecio": 3380,
@@ -30649,14 +30899,14 @@
       "idPrecio": 353,
       "idProducto": 734,
       "idMoneda": 1,
-      "precio": 2910.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 353,
         "idProducto": 734,
         "idMoneda": 1,
-        "precio": 2910.0
+        "precio": 2220.0
       },
       {
         "idPrecio": 3383,
@@ -30671,7 +30921,14 @@
     "idCategoria": 6,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1172,
+        "idEtiqueta": 2,
+        "idProducto": 734,
+        "valor": "2910.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -30683,7 +30940,7 @@
     ],
     "stocks": {
       "102": 17,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -30694,14 +30951,14 @@
       "idPrecio": 354,
       "idProducto": 135,
       "idMoneda": 1,
-      "precio": 3490.0
+      "precio": 2665.0
     },
     "precios": [
       {
         "idPrecio": 354,
         "idProducto": 135,
         "idMoneda": 1,
-        "precio": 3490.0
+        "precio": 2665.0
       },
       {
         "idPrecio": 3437,
@@ -30716,7 +30973,14 @@
     "idCategoria": 6,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1173,
+        "idEtiqueta": 2,
+        "idProducto": 135,
+        "valor": "3490.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -30783,14 +31047,14 @@
       "idPrecio": 356,
       "idProducto": 137,
       "idMoneda": 1,
-      "precio": 2160.0
+      "precio": 2220.0
     },
     "precios": [
       {
         "idPrecio": 356,
         "idProducto": 137,
         "idMoneda": 1,
-        "precio": 2160.0
+        "precio": 2220.0
       },
       {
         "idPrecio": 3505,
@@ -30817,7 +31081,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 8
+      "105": 5
     }
   },
   {
@@ -31050,14 +31314,14 @@
       "idPrecio": 362,
       "idProducto": 141,
       "idMoneda": 1,
-      "precio": 1285.0
+      "precio": 815.0
     },
     "precios": [
       {
         "idPrecio": 362,
         "idProducto": 141,
         "idMoneda": 1,
-        "precio": 1285.0
+        "precio": 815.0
       },
       {
         "idPrecio": 4020,
@@ -31073,7 +31337,20 @@
     "idCategoria": 23,
     "idDepartamento": 6,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1208,
+        "idEtiqueta": 2,
+        "idProducto": 141,
+        "valor": "1285.0"
+      },
+      {
+        "idRelacion": 1189,
+        "idEtiqueta": 2,
+        "idProducto": 141,
+        "valor": "1285.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -31084,9 +31361,8 @@
       }
     ],
     "stocks": {
-      "102": 14,
-      "103": 3,
-      "105": 9
+      "103": 7,
+      "105": 2
     }
   },
   {
@@ -31131,9 +31407,9 @@
       }
     ],
     "stocks": {
-      "102": 3,
+      "102": 24,
       "103": 9,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -31224,8 +31500,8 @@
       }
     ],
     "stocks": {
-      "103": 10,
-      "105": 16
+      "103": 7,
+      "105": 15
     }
   },
   {
@@ -31585,7 +31861,7 @@
     ],
     "stocks": {
       "103": 9,
-      "105": 15
+      "105": 14
     }
   },
   {
@@ -31637,8 +31913,8 @@
       }
     ],
     "stocks": {
-      "103": 8,
-      "105": 9
+      "103": 7,
+      "105": 2
     }
   },
   {
@@ -31728,7 +32004,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 4
+      "105": 11
     }
   },
   {
@@ -31819,7 +32095,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 9
+      "105": 19
     }
   },
   {
@@ -31871,7 +32147,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -31924,7 +32200,7 @@
       }
     ],
     "stocks": {
-      "103": 3,
+      "103": 0,
       "105": 0
     }
   },
@@ -31971,7 +32247,7 @@
     ],
     "stocks": {
       "103": 7,
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -32017,7 +32293,7 @@
     ],
     "stocks": {
       "103": 23,
-      "105": 22
+      "105": 16
     }
   },
   {
@@ -32108,7 +32384,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 14
+      "105": 13
     }
   },
   {
@@ -32154,7 +32430,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 15
+      "105": 14
     }
   },
   {
@@ -32246,7 +32522,7 @@
     ],
     "stocks": {
       "103": 5,
-      "105": 13
+      "105": 11
     }
   },
   {
@@ -32599,7 +32875,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 8
+      "105": 4
     }
   },
   {
@@ -32902,9 +33178,9 @@
       }
     ],
     "stocks": {
-      "102": 24,
+      "102": 14,
       "103": 24,
-      "105": 11
+      "105": 4
     }
   },
   {
@@ -32994,7 +33270,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 18
+      "105": 6
     }
   },
   {
@@ -33084,8 +33360,9 @@
       }
     ],
     "stocks": {
+      "102": 20,
       "103": 5,
-      "105": 5
+      "105": 3
     }
   },
   {
@@ -33096,14 +33373,14 @@
       "idPrecio": 395,
       "idProducto": 159,
       "idMoneda": 1,
-      "precio": 760.0
+      "precio": 500.0
     },
     "precios": [
       {
         "idPrecio": 395,
         "idProducto": 159,
         "idMoneda": 1,
-        "precio": 760.0
+        "precio": 500.0
       },
       {
         "idPrecio": 2993,
@@ -33119,7 +33396,14 @@
     "idCategoria": 44,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1174,
+        "idEtiqueta": 2,
+        "idProducto": 159,
+        "valor": "760.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -33188,14 +33472,14 @@
       "idPrecio": 397,
       "idProducto": 161,
       "idMoneda": 1,
-      "precio": 750.0
+      "precio": 500.0
     },
     "precios": [
       {
         "idPrecio": 397,
         "idProducto": 161,
         "idMoneda": 1,
-        "precio": 750.0
+        "precio": 500.0
       },
       {
         "idPrecio": 2912,
@@ -33211,7 +33495,14 @@
     "idCategoria": 44,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1175,
+        "idEtiqueta": 2,
+        "idProducto": 161,
+        "valor": "750.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -33622,8 +33913,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 4
+      "103": 2,
+      "105": 13
     }
   },
   {
@@ -33667,7 +33958,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 0,
       "105": 0
     }
   },
@@ -33713,8 +34004,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 2
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -33802,7 +34093,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 0
     }
   },
@@ -33938,7 +34229,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 0,
       "105": 1
     }
   },
@@ -33983,7 +34274,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 0
     }
   },
@@ -34029,7 +34320,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 0
+      "105": 3
     }
   },
   {
@@ -34074,7 +34365,7 @@
       }
     ],
     "stocks": {
-      "103": 6,
+      "103": 2,
       "105": 5
     }
   },
@@ -34165,7 +34456,7 @@
     ],
     "stocks": {
       "103": 37,
-      "105": 26
+      "105": 21
     }
   },
   {
@@ -35153,9 +35444,9 @@
       }
     ],
     "stocks": {
-      "102": 27,
-      "103": 31,
-      "105": 11
+      "102": 15,
+      "103": 29,
+      "105": 6
     }
   },
   {
@@ -35649,14 +35940,14 @@
       "idPrecio": 424,
       "idProducto": 168,
       "idMoneda": 1,
-      "precio": 815.0
+      "precio": 540.0
     },
     "precios": [
       {
         "idPrecio": 424,
         "idProducto": 168,
         "idMoneda": 1,
-        "precio": 815.0
+        "precio": 540.0
       },
       {
         "idPrecio": 2899,
@@ -35671,7 +35962,14 @@
     "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1176,
+        "idEtiqueta": 2,
+        "idProducto": 168,
+        "valor": "815.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -35695,14 +35993,14 @@
       "idPrecio": 425,
       "idProducto": 169,
       "idMoneda": 1,
-      "precio": 930.0
+      "precio": 630.0
     },
     "precios": [
       {
         "idPrecio": 425,
         "idProducto": 169,
         "idMoneda": 1,
-        "precio": 930.0
+        "precio": 630.0
       },
       {
         "idPrecio": 2872,
@@ -35717,7 +36015,14 @@
     "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1177,
+        "idEtiqueta": 2,
+        "idProducto": 169,
+        "valor": "930.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -35729,7 +36034,7 @@
     ],
     "stocks": {
       "102": 10,
-      "103": 5,
+      "103": 4,
       "105": 1
     }
   },
@@ -35831,14 +36136,14 @@
       "idPrecio": 427,
       "idProducto": 170,
       "idMoneda": 1,
-      "precio": 930.0
+      "precio": 560.0
     },
     "precios": [
       {
         "idPrecio": 427,
         "idProducto": 170,
         "idMoneda": 1,
-        "precio": 930.0
+        "precio": 560.0
       },
       {
         "idPrecio": 4141,
@@ -35854,7 +36159,14 @@
     "idCategoria": 38,
     "idDepartamento": 6,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1178,
+        "idEtiqueta": 2,
+        "idProducto": 170,
+        "valor": "930.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -35866,7 +36178,7 @@
     ],
     "stocks": {
       "103": 5,
-      "105": 16
+      "105": 10
     }
   },
   {
@@ -35893,7 +36205,7 @@
         "precio": 57.22222
       }
     ],
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 38,
@@ -35917,6 +36229,7 @@
       }
     ],
     "stocks": {
+      "103": 1,
       "105": 0
     }
   },
@@ -36086,7 +36399,7 @@
       }
     ],
     "image_name": "ESPEJO DECORATIVO -88325.webp",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 38,
@@ -36110,7 +36423,8 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "103": 1,
+      "105": 2
     }
   },
   {
@@ -36137,7 +36451,7 @@
         "precio": 16.180555
       }
     ],
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 38,
@@ -36161,6 +36475,7 @@
       }
     ],
     "stocks": {
+      "103": 1,
       "105": 0
     }
   },
@@ -36516,7 +36831,7 @@
     ],
     "stocks": {
       "103": 16,
-      "105": 8
+      "105": 4
     }
   },
   {
@@ -36568,7 +36883,7 @@
     ],
     "stocks": {
       "103": 12,
-      "105": 11
+      "105": 3
     }
   },
   {
@@ -36707,8 +37022,8 @@
       }
     ],
     "stocks": {
-      "103": 22,
-      "105": 23
+      "103": 21,
+      "105": 24
     }
   },
   {
@@ -36753,7 +37068,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 5
+      "105": 13
     }
   },
   {
@@ -37034,14 +37349,14 @@
       "idPrecio": 443,
       "idProducto": 177,
       "idMoneda": 1,
-      "precio": 8800.0
+      "precio": 14800.0
     },
     "precios": [
       {
         "idPrecio": 443,
         "idProducto": 177,
         "idMoneda": 1,
-        "precio": 8800.0
+        "precio": 14800.0
       },
       {
         "idPrecio": 3063,
@@ -37165,14 +37480,14 @@
       "idPrecio": 1765,
       "idProducto": 2259,
       "idMoneda": 1,
-      "precio": 18315.0
+      "precio": 15000.0
     },
     "precios": [
       {
         "idPrecio": 1765,
         "idProducto": 2259,
         "idMoneda": 1,
-        "precio": 18315.0
+        "precio": 15000.0
       },
       {
         "idPrecio": 3033,
@@ -37189,6 +37504,12 @@
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
+      {
+        "idRelacion": 1130,
+        "idEtiqueta": 2,
+        "idProducto": 2259,
+        "valor": "18315.0"
+      },
       {
         "idRelacion": 1126,
         "idEtiqueta": 2,
@@ -37207,7 +37528,7 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 9
+      "105": 4
     }
   },
   {
@@ -37218,14 +37539,14 @@
       "idPrecio": 446,
       "idProducto": 1013,
       "idMoneda": 1,
-      "precio": 16280.0
+      "precio": 13700.0
     },
     "precios": [
       {
         "idPrecio": 446,
         "idProducto": 1013,
         "idMoneda": 1,
-        "precio": 16280.0
+        "precio": 13700.0
       },
       {
         "idPrecio": 2891,
@@ -37241,7 +37562,14 @@
     "idCategoria": 39,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1129,
+        "idEtiqueta": 2,
+        "idProducto": 1013,
+        "valor": "16280.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -37252,8 +37580,8 @@
       }
     ],
     "stocks": {
-      "103": 10,
-      "105": 10
+      "103": 8,
+      "105": 8
     }
   },
   {
@@ -37264,14 +37592,14 @@
       "idPrecio": 447,
       "idProducto": 180,
       "idMoneda": 1,
-      "precio": 20350.0
+      "precio": 18500.0
     },
     "precios": [
       {
         "idPrecio": 447,
         "idProducto": 180,
         "idMoneda": 1,
-        "precio": 20350.0
+        "precio": 18500.0
       },
       {
         "idPrecio": 1330,
@@ -37287,7 +37615,14 @@
     "idCategoria": 56,
     "idDepartamento": 3,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1179,
+        "idEtiqueta": 2,
+        "idProducto": 180,
+        "valor": "20350.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -37298,8 +37633,8 @@
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "103": 1,
+      "105": 10
     }
   },
   {
@@ -37526,8 +37861,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 13
+      "103": 2,
+      "105": 7
     }
   },
   {
@@ -37571,7 +37906,7 @@
       }
     ],
     "stocks": {
-      "103": 3,
+      "103": 2,
       "105": 0
     }
   },
@@ -37623,7 +37958,7 @@
       }
     ],
     "stocks": {
-      "105": 5
+      "105": 16
     }
   },
   {
@@ -37674,8 +38009,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 5
+      "103": 1,
+      "105": 19
     }
   },
   {
@@ -37856,7 +38191,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 0
+      "105": 11
     }
   },
   {
@@ -37943,9 +38278,9 @@
       }
     ],
     "stocks": {
-      "102": 11,
-      "103": 68,
-      "105": 9
+      "102": 76,
+      "103": 67,
+      "105": 8
     }
   },
   {
@@ -38347,7 +38682,7 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 2
+      "105": 8
     }
   },
   {
@@ -38437,7 +38772,7 @@
     ],
     "stocks": {
       "102": 10,
-      "103": 9,
+      "103": 7,
       "105": 8
     }
   },
@@ -38449,14 +38784,14 @@
       "idPrecio": 461,
       "idProducto": 187,
       "idMoneda": 1,
-      "precio": 320.0
+      "precio": 250.0
     },
     "precios": [
       {
         "idPrecio": 461,
         "idProducto": 187,
         "idMoneda": 1,
-        "precio": 320.0
+        "precio": 250.0
       },
       {
         "idPrecio": 3470,
@@ -38471,7 +38806,14 @@
     "combo": false,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1128,
+        "idEtiqueta": 2,
+        "idProducto": 187,
+        "valor": "320.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -38483,8 +38825,8 @@
     ],
     "stocks": {
       "102": 150,
-      "103": 103,
-      "105": 36
+      "103": 74,
+      "105": 35
     }
   },
   {
@@ -38526,9 +38868,9 @@
       }
     ],
     "stocks": {
-      "102": 49,
+      "102": 34,
       "103": 22,
-      "105": 21
+      "105": 26
     }
   },
   {
@@ -39551,7 +39893,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -39561,14 +39903,14 @@
       "idPrecio": 2147,
       "idProducto": 2610,
       "idMoneda": 1,
-      "precio": 2565.0
+      "precio": 2000.0
     },
     "precios": [
       {
         "idPrecio": 2147,
         "idProducto": 2610,
         "idMoneda": 1,
-        "precio": 2565.0
+        "precio": 2000.0
       },
       {
         "idPrecio": 3353,
@@ -39582,7 +39924,14 @@
     "combo": false,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1180,
+        "idEtiqueta": 2,
+        "idProducto": 2610,
+        "valor": "2565.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -39593,9 +39942,9 @@
       }
     ],
     "stocks": {
-      "102": 18,
+      "102": 14,
       "103": 2,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -39605,14 +39954,14 @@
       "idPrecio": 2149,
       "idProducto": 2612,
       "idMoneda": 1,
-      "precio": 1750.0
+      "precio": 1335.0
     },
     "precios": [
       {
         "idPrecio": 2149,
         "idProducto": 2612,
         "idMoneda": 1,
-        "precio": 1750.0
+        "precio": 1335.0
       },
       {
         "idPrecio": 3444,
@@ -39626,7 +39975,14 @@
     "combo": false,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1181,
+        "idEtiqueta": 2,
+        "idProducto": 2612,
+        "valor": "1750.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -39637,9 +39993,9 @@
       }
     ],
     "stocks": {
-      "102": 93,
-      "103": 39,
-      "105": 26
+      "102": 74,
+      "103": 36,
+      "105": 25
     }
   },
   {
@@ -39830,14 +40186,14 @@
       "idPrecio": 2148,
       "idProducto": 2611,
       "idMoneda": 1,
-      "precio": 1575.0
+      "precio": 1225.0
     },
     "precios": [
       {
         "idPrecio": 2148,
         "idProducto": 2611,
         "idMoneda": 1,
-        "precio": 1575.0
+        "precio": 1225.0
       },
       {
         "idPrecio": 3424,
@@ -39851,7 +40207,14 @@
     "combo": false,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1182,
+        "idEtiqueta": 2,
+        "idProducto": 2611,
+        "valor": "1575.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -39862,9 +40225,9 @@
       }
     ],
     "stocks": {
-      "102": 23,
-      "103": 14,
-      "105": 16
+      "102": 11,
+      "103": 13,
+      "105": 20
     }
   },
   {
@@ -40946,7 +41309,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -41091,7 +41454,7 @@
       "idPrecio": 1943,
       "idProducto": 2407,
       "idMoneda": 1,
-      "precio": 162800.0
+      "precio": 148000.0
     },
     "precios": [
       {
@@ -41104,7 +41467,7 @@
         "idPrecio": 1943,
         "idProducto": 2407,
         "idMoneda": 1,
-        "precio": 162800.0
+        "precio": 148000.0
       }
     ],
     "image_name": "GENERADOR A GASOLINA 2500W -GR2500.webp",
@@ -41114,7 +41477,14 @@
     "idCategoria": 104,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1183,
+        "idEtiqueta": 2,
+        "idProducto": 2407,
+        "valor": "162800.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -41126,7 +41496,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -41314,7 +41684,7 @@
       }
     ],
     "stocks": {
-      "103": 8,
+      "103": 0,
       "105": 0
     }
   },
@@ -41326,14 +41696,14 @@
       "idPrecio": 515,
       "idProducto": 213,
       "idMoneda": 1,
-      "precio": 1455.0
+      "precio": 1110.0
     },
     "precios": [
       {
         "idPrecio": 515,
         "idProducto": 213,
         "idMoneda": 1,
-        "precio": 1455.0
+        "precio": 1110.0
       },
       {
         "idPrecio": 4548,
@@ -41348,7 +41718,14 @@
     "combo": false,
     "idDepartamento": 8,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1184,
+        "idEtiqueta": 2,
+        "idProducto": 213,
+        "valor": "1455.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -41360,7 +41737,7 @@
     ],
     "stocks": {
       "103": 5,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -41371,14 +41748,14 @@
       "idPrecio": 516,
       "idProducto": 214,
       "idMoneda": 1,
-      "precio": 410.0
+      "precio": 390.0
     },
     "precios": [
       {
         "idPrecio": 516,
         "idProducto": 214,
         "idMoneda": 1,
-        "precio": 410.0
+        "precio": 390.0
       },
       {
         "idPrecio": 4602,
@@ -41393,7 +41770,14 @@
     "combo": false,
     "idDepartamento": 9,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1197,
+        "idEtiqueta": 2,
+        "idProducto": 214,
+        "valor": "410.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -41405,8 +41789,8 @@
     ],
     "stocks": {
       "102": 60,
-      "103": 11,
-      "105": 6
+      "103": 10,
+      "105": 4
     }
   },
   {
@@ -41687,14 +42071,14 @@
       "idPrecio": 523,
       "idProducto": 219,
       "idMoneda": 1,
-      "precio": 815.0
+      "precio": 540.0
     },
     "precios": [
       {
         "idPrecio": 523,
         "idProducto": 219,
         "idMoneda": 1,
-        "precio": 815.0
+        "precio": 540.0
       },
       {
         "idPrecio": 3093,
@@ -41709,7 +42093,14 @@
     "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1185,
+        "idEtiqueta": 2,
+        "idProducto": 219,
+        "valor": "815.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -41722,7 +42113,7 @@
     "stocks": {
       "102": 13,
       "103": 0,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -41940,7 +42331,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -42160,7 +42551,7 @@
     "stocks": {
       "102": 34,
       "103": 3,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -42206,7 +42597,7 @@
     "stocks": {
       "102": 42,
       "103": 23,
-      "105": 8
+      "105": 5
     }
   },
   {
@@ -42304,14 +42695,14 @@
       "idPrecio": 532,
       "idProducto": 222,
       "idMoneda": 1,
-      "precio": 145.0
+      "precio": 100.0
     },
     "precios": [
       {
         "idPrecio": 532,
         "idProducto": 222,
         "idMoneda": 1,
-        "precio": 145.0
+        "precio": 100.0
       },
       {
         "idPrecio": 2908,
@@ -42326,7 +42717,14 @@
     "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1131,
+        "idEtiqueta": 2,
+        "idProducto": 222,
+        "valor": "145.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -42337,9 +42735,9 @@
       }
     ],
     "stocks": {
-      "102": 50,
+      "102": 40,
       "103": 18,
-      "105": 2
+      "105": 8
     }
   },
   {
@@ -42516,7 +42914,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 6
+      "105": 7
     }
   },
   {
@@ -42560,8 +42958,8 @@
       }
     ],
     "stocks": {
-      "103": 16,
-      "105": 3
+      "103": 3,
+      "105": 9
     }
   },
   {
@@ -42605,7 +43003,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 0
     }
   },
@@ -43049,9 +43447,9 @@
       }
     ],
     "stocks": {
-      "102": 84,
-      "103": 12,
-      "105": 16
+      "102": 60,
+      "103": 11,
+      "105": 2
     }
   },
   {
@@ -43181,7 +43579,7 @@
       }
     ],
     "stocks": {
-      "102": 10,
+      "102": 6,
       "103": 8,
       "105": 5
     }
@@ -43325,14 +43723,14 @@
       "idPrecio": 553,
       "idProducto": 237,
       "idMoneda": 1,
-      "precio": 410.0
+      "precio": 280.0
     },
     "precios": [
       {
         "idPrecio": 553,
         "idProducto": 237,
         "idMoneda": 1,
-        "precio": 410.0
+        "precio": 280.0
       },
       {
         "idPrecio": 3214,
@@ -43346,7 +43744,14 @@
     "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1187,
+        "idEtiqueta": 2,
+        "idProducto": 237,
+        "valor": "410.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -43403,9 +43808,9 @@
       }
     ],
     "stocks": {
-      "102": 13,
-      "103": 14,
-      "105": 1
+      "102": 14,
+      "103": 13,
+      "105": 2
     }
   },
   {
@@ -43541,9 +43946,8 @@
       }
     ],
     "stocks": {
-      "102": 6,
-      "103": 4,
-      "105": 7
+      "103": 2,
+      "105": 6
     }
   },
   {
@@ -43631,8 +44035,8 @@
       }
     ],
     "stocks": {
-      "102": 7,
-      "103": 4,
+      "102": 5,
+      "103": 2,
       "105": 1
     }
   },
@@ -44031,7 +44435,7 @@
     "stocks": {
       "102": 1,
       "103": 4,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -44120,7 +44524,7 @@
       }
     ],
     "stocks": {
-      "102": 1,
+      "102": 4,
       "103": 6,
       "105": 1
     }
@@ -44166,7 +44570,7 @@
       }
     ],
     "stocks": {
-      "103": 8,
+      "103": 7,
       "105": 0
     }
   },
@@ -44603,8 +45007,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 29
+      "103": 20,
+      "105": 18
     }
   },
   {
@@ -44615,14 +45019,14 @@
       "idPrecio": 578,
       "idProducto": 247,
       "idMoneda": 1,
-      "precio": 5355.0
+      "precio": 2665.0
     },
     "precios": [
       {
         "idPrecio": 578,
         "idProducto": 247,
         "idMoneda": 1,
-        "precio": 5355.0
+        "precio": 2665.0
       },
       {
         "idPrecio": 4327,
@@ -44636,7 +45040,14 @@
     "combo": false,
     "idDepartamento": 7,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1188,
+        "idEtiqueta": 2,
+        "idProducto": 247,
+        "valor": "5355.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -44879,14 +45290,14 @@
       "idPrecio": 584,
       "idProducto": 250,
       "idMoneda": 1,
-      "precio": 815.0
+      "precio": 500.0
     },
     "precios": [
       {
         "idPrecio": 584,
         "idProducto": 250,
         "idMoneda": 1,
-        "precio": 815.0
+        "precio": 500.0
       },
       {
         "idPrecio": 3792,
@@ -44902,7 +45313,14 @@
     "idCategoria": 23,
     "idDepartamento": 6,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1190,
+        "idEtiqueta": 2,
+        "idProducto": 250,
+        "valor": "815.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -44913,8 +45331,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 6
+      "103": 7,
+      "105": 5
     }
   },
   {
@@ -45056,8 +45474,8 @@
       }
     ],
     "stocks": {
-      "103": 6,
-      "105": 3
+      "103": 5,
+      "105": 6
     }
   },
   {
@@ -45110,7 +45528,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 5
+      "105": 11
     }
   },
   {
@@ -45252,7 +45670,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -45522,9 +45940,8 @@
       }
     ],
     "stocks": {
-      "102": 1,
       "103": 2,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -45613,9 +46030,9 @@
       }
     ],
     "stocks": {
-      "102": 5,
+      "102": 4,
       "103": 4,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -45659,8 +46076,8 @@
       }
     ],
     "stocks": {
-      "102": 8,
-      "103": 9,
+      "102": 9,
+      "103": 8,
       "105": 1
     }
   },
@@ -45883,7 +46300,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -46365,7 +46782,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 11
     }
   },
@@ -46453,8 +46870,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 9
+      "103": 0,
+      "105": 6
     }
   },
   {
@@ -46585,7 +47002,7 @@
     ],
     "stocks": {
       "103": 15,
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -46761,7 +47178,7 @@
       }
     ],
     "stocks": {
-      "103": 1
+      "103": 0
     }
   },
   {
@@ -46806,8 +47223,8 @@
       }
     ],
     "stocks": {
-      "103": 7,
-      "105": 28
+      "103": 13,
+      "105": 36
     }
   },
   {
@@ -46858,7 +47275,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 3
     }
   },
   {
@@ -47002,7 +47419,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 0
+      "105": 10
     }
   },
   {
@@ -47053,8 +47470,8 @@
       }
     ],
     "stocks": {
-      "103": 8,
-      "105": 4
+      "103": 7,
+      "105": 8
     }
   },
   {
@@ -47097,8 +47514,8 @@
       }
     ],
     "stocks": {
-      "103": 5,
-      "105": 12
+      "103": 4,
+      "105": 7
     }
   },
   {
@@ -47201,8 +47618,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 12
+      "103": 3,
+      "105": 7
     }
   },
   {
@@ -47254,7 +47671,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 5
+      "105": 8
     }
   },
   {
@@ -47342,7 +47759,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 30
+      "105": 37
     }
   },
   {
@@ -47393,8 +47810,9 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 8
+      "102": 12,
+      "103": 2,
+      "105": 5
     }
   },
   {
@@ -47496,7 +47914,7 @@
       }
     ],
     "stocks": {
-      "105": 7
+      "105": 4
     }
   },
   {
@@ -47838,7 +48256,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -47944,7 +48362,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -47997,7 +48415,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -48172,7 +48590,7 @@
       }
     ],
     "stocks": {
-      "105": 10
+      "105": 7
     }
   },
   {
@@ -48267,8 +48685,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 9
+      "103": 3,
+      "105": 14
     }
   },
   {
@@ -48319,8 +48737,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 7
+      "103": 4,
+      "105": 10
     }
   },
   {
@@ -48372,7 +48790,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 2
+      "105": 6
     }
   },
   {
@@ -48722,8 +49140,8 @@
       }
     ],
     "stocks": {
-      "103": 11,
-      "105": 8
+      "103": 3,
+      "105": 31
     }
   },
   {
@@ -49117,7 +49535,7 @@
     ],
     "stocks": {
       "103": 5,
-      "105": 16
+      "105": 12
     }
   },
   {
@@ -49160,7 +49578,7 @@
       }
     ],
     "stocks": {
-      "103": 15,
+      "103": 14,
       "105": 0
     }
   },
@@ -50170,7 +50588,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 6
+      "105": 1
     }
   },
   {
@@ -50346,7 +50764,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -50988,7 +51406,7 @@
     "stocks": {
       "102": 24,
       "103": 0,
-      "105": 10
+      "105": 33
     }
   },
   {
@@ -51031,8 +51449,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 19
+      "103": 17,
+      "105": 29
     }
   },
   {
@@ -51077,7 +51495,7 @@
     "stocks": {
       "102": 24,
       "103": 0,
-      "105": 9
+      "105": 12
     }
   },
   {
@@ -51209,8 +51627,8 @@
     ],
     "stocks": {
       "102": 24,
-      "103": 18,
-      "105": 16
+      "103": 15,
+      "105": 12
     }
   },
   {
@@ -52038,7 +52456,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 3
+      "105": 9
     }
   },
   {
@@ -52488,7 +52906,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 1
+      "105": 13
     }
   },
   {
@@ -52499,14 +52917,14 @@
       "idPrecio": 628,
       "idProducto": 793,
       "idMoneda": 1,
-      "precio": 3260.0
+      "precio": 2370.0
     },
     "precios": [
       {
         "idPrecio": 628,
         "idProducto": 793,
         "idMoneda": 1,
-        "precio": 3260.0
+        "precio": 2370.0
       },
       {
         "idPrecio": 3641,
@@ -52522,7 +52940,14 @@
     "idCategoria": 27,
     "idDepartamento": 6,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1191,
+        "idEtiqueta": 2,
+        "idProducto": 793,
+        "valor": "3260.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -52546,14 +52971,14 @@
       "idPrecio": 629,
       "idProducto": 794,
       "idMoneda": 1,
-      "precio": 2910.0
+      "precio": 2000.0
     },
     "precios": [
       {
         "idPrecio": 629,
         "idProducto": 794,
         "idMoneda": 1,
-        "precio": 2910.0
+        "precio": 2000.0
       },
       {
         "idPrecio": 4147,
@@ -52569,7 +52994,14 @@
     "idCategoria": 27,
     "idDepartamento": 6,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1192,
+        "idEtiqueta": 2,
+        "idProducto": 794,
+        "valor": "2910.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -52948,7 +53380,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -52993,7 +53425,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 13
+      "105": 12
     }
   },
   {
@@ -53038,7 +53470,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 13
+      "105": 12
     }
   },
   {
@@ -53298,9 +53730,9 @@
       }
     ],
     "stocks": {
-      "102": 100,
-      "103": 33,
-      "105": 28
+      "102": 50,
+      "103": 16,
+      "105": 44
     }
   },
   {
@@ -53394,8 +53826,9 @@
       }
     ],
     "stocks": {
-      "102": 12,
-      "103": 12
+      "102": 8,
+      "103": 12,
+      "105": 2
     }
   },
   {
@@ -53446,8 +53879,9 @@
       }
     ],
     "stocks": {
+      "102": 24,
       "103": 10,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -53580,16 +54014,16 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 1113,
-        "idEtiqueta": 2,
-        "idProducto": 1200,
-        "valor": "500.0"
-      },
-      {
         "idRelacion": 1101,
         "idEtiqueta": 2,
         "idProducto": 1200,
         "valor": "185000.0"
+      },
+      {
+        "idRelacion": 1113,
+        "idEtiqueta": 2,
+        "idProducto": 1200,
+        "valor": "500.0"
       },
       {
         "idRelacion": 560,
@@ -53619,7 +54053,7 @@
       "idPrecio": 1886,
       "idProducto": 2380,
       "idMoneda": 1,
-      "precio": 185185.0
+      "precio": 166500.0
     },
     "precios": [
       {
@@ -53632,7 +54066,7 @@
         "idPrecio": 1886,
         "idProducto": 2380,
         "idMoneda": 1,
-        "precio": 185185.0
+        "precio": 166500.0
       }
     ],
     "image_name": "LAVADORA AUTOMATICA 11KG -7356.jpg",
@@ -53643,6 +54077,12 @@
     "idDepartamento": 3,
     "movimientos": [],
     "etiquetasProductos": [
+      {
+        "idRelacion": 1193,
+        "idEtiqueta": 2,
+        "idProducto": 2380,
+        "valor": "185185.0"
+      },
       {
         "idRelacion": 559,
         "idEtiqueta": 13,
@@ -53661,7 +54101,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -53809,7 +54249,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -53866,6 +54306,35 @@
         "activo": true
       }
     ],
+    "stocks": {
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 3230,
+    "codigo": "7978",
+    "descripcion": "LAVADORA AUTOMATICA 20KG",
+    "precio": {
+      "idPrecio": 4825,
+      "idProducto": 3230,
+      "idMoneda": 1,
+      "precio": 388500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 4825,
+        "idProducto": 3230,
+        "idMoneda": 1,
+        "precio": 388500.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 54,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
     "stocks": {
       "105": 1
     }
@@ -54147,8 +54616,8 @@
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 3
+      "103": 1,
+      "105": 2
     }
   },
   {
@@ -54200,8 +54669,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 4
+      "103": 2,
+      "105": 5
     }
   },
   {
@@ -54506,7 +54975,7 @@
     "stocks": {
       "102": 40,
       "103": 11,
-      "105": 23
+      "105": 22
     }
   },
   {
@@ -54517,14 +54986,14 @@
       "idPrecio": 659,
       "idProducto": 278,
       "idMoneda": 1,
-      "precio": 1285.0
+      "precio": 1075.0
     },
     "precios": [
       {
         "idPrecio": 659,
         "idProducto": 278,
         "idMoneda": 1,
-        "precio": 1285.0
+        "precio": 1075.0
       },
       {
         "idPrecio": 4585,
@@ -54539,7 +55008,14 @@
     "combo": false,
     "idDepartamento": 9,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1194,
+        "idEtiqueta": 2,
+        "idProducto": 278,
+        "valor": "1285.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -54552,7 +55028,7 @@
     "stocks": {
       "102": 162,
       "103": 14,
-      "105": 30
+      "105": 29
     }
   },
   {
@@ -54749,7 +55225,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -54973,7 +55449,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 3
     }
   },
   {
@@ -55078,7 +55554,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -55258,8 +55734,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 2
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -55311,8 +55787,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 1
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -55400,10 +55876,10 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 1114,
+        "idRelacion": 1089,
         "idEtiqueta": 2,
         "idProducto": 1069,
-        "valor": "60.0"
+        "valor": "22200"
       },
       {
         "idRelacion": 1093,
@@ -55412,10 +55888,10 @@
         "valor": "22200.0"
       },
       {
-        "idRelacion": 1089,
+        "idRelacion": 1114,
         "idEtiqueta": 2,
         "idProducto": 1069,
-        "valor": "22200"
+        "valor": "60.0"
       }
     ],
     "descuentos": [
@@ -55428,8 +55904,9 @@
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "102": 11,
+      "103": 6,
+      "105": 1
     }
   },
   {
@@ -55519,8 +55996,8 @@
       }
     ],
     "stocks": {
-      "103": 15,
-      "105": 2
+      "103": 12,
+      "105": 0
     }
   },
   {
@@ -55565,8 +56042,8 @@
       }
     ],
     "stocks": {
-      "103": 21,
-      "105": 4
+      "103": 18,
+      "105": 0
     }
   },
   {
@@ -55612,7 +56089,7 @@
     ],
     "stocks": {
       "102": 20,
-      "103": 15,
+      "103": 13,
       "105": 4
     }
   },
@@ -55659,7 +56136,7 @@
     ],
     "stocks": {
       "102": 10,
-      "103": 9,
+      "103": 7,
       "105": 2
     }
   },
@@ -56149,7 +56626,7 @@
     "stocks": {
       "102": 30,
       "103": 6,
-      "105": 16
+      "105": 13
     }
   },
   {
@@ -56192,7 +56669,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 16
+      "105": 14
     }
   },
   {
@@ -56459,8 +56936,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 0
+      "103": 12,
+      "105": 28
     }
   },
   {
@@ -56505,7 +56982,7 @@
     ],
     "stocks": {
       "103": 36,
-      "105": 11
+      "105": 48
     }
   },
   {
@@ -56550,7 +57027,7 @@
     ],
     "stocks": {
       "103": 47,
-      "105": 15
+      "105": 65
     }
   },
   {
@@ -56594,8 +57071,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 17
+      "103": 12,
+      "105": 65
     }
   },
   {
@@ -56640,7 +57117,7 @@
     ],
     "stocks": {
       "103": 24,
-      "105": 23
+      "105": 25
     }
   },
   {
@@ -57003,7 +57480,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 16
+      "105": 15
     }
   },
   {
@@ -57055,7 +57532,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 0
+      "105": 7
     }
   },
   {
@@ -57192,7 +57669,7 @@
     "stocks": {
       "102": 15,
       "103": 2,
-      "105": 4
+      "105": 1
     }
   },
   {
@@ -57474,7 +57951,7 @@
     "stocks": {
       "102": 10,
       "103": 8,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -57519,7 +57996,7 @@
     ],
     "stocks": {
       "102": 5,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -57829,7 +58306,7 @@
     "stocks": {
       "102": 5,
       "103": 7,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -58676,7 +59153,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 5
+      "105": 0
     }
   },
   {
@@ -58907,8 +59384,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 6
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -58960,8 +59437,8 @@
       }
     ],
     "stocks": {
-      "103": 5,
-      "105": 3
+      "103": 1,
+      "105": 0
     }
   },
   {
@@ -59013,8 +59490,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 3
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -59497,7 +59974,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -59549,7 +60026,7 @@
       }
     ],
     "stocks": {
-      "103": 3,
+      "103": 2,
       "105": 0
     }
   },
@@ -59603,7 +60080,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -59656,7 +60133,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 6
+      "105": 1
     }
   },
   {
@@ -59831,7 +60308,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -59966,7 +60443,7 @@
     ],
     "stocks": {
       "103": 8,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -60274,7 +60751,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 4
     }
   },
   {
@@ -60451,7 +60928,7 @@
     "stocks": {
       "102": 36,
       "103": 0,
-      "105": 12
+      "105": 9
     }
   },
   {
@@ -60760,9 +61237,9 @@
       }
     ],
     "stocks": {
-      "102": 9,
+      "102": 5,
       "103": 6,
-      "105": 1
+      "105": 5
     }
   },
   {
@@ -61351,7 +61828,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 1
+      "105": 3
     }
   },
   {
@@ -61485,7 +61962,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
+      "102": 1,
+      "103": 2,
       "105": 1
     }
   },
@@ -62428,9 +62906,9 @@
       }
     ],
     "stocks": {
-      "102": 30,
+      "102": 10,
       "103": 34,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -63186,7 +63664,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 0
+      "105": 4
     }
   },
   {
@@ -63373,14 +63851,14 @@
       "idPrecio": 2109,
       "idProducto": 2573,
       "idMoneda": 1,
-      "precio": 27750.0
+      "precio": 30525.0
     },
     "precios": [
       {
         "idPrecio": 2109,
         "idProducto": 2573,
         "idMoneda": 1,
-        "precio": 27750.0
+        "precio": 30525.0
       },
       {
         "idPrecio": 2875,
@@ -63407,7 +63885,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -63674,7 +64152,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -63951,8 +64429,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 0
+      "103": 2,
+      "105": 3
     }
   },
   {
@@ -64279,8 +64757,8 @@
       }
     ],
     "stocks": {
-      "102": 86,
-      "105": 1
+      "102": 81,
+      "105": 5
     }
   },
   {
@@ -64552,7 +65030,7 @@
       }
     ],
     "stocks": {
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -64784,7 +65262,7 @@
       "idPrecio": 808,
       "idProducto": 1821,
       "idMoneda": 1,
-      "precio": 26455.0
+      "precio": 22200.0
     },
     "precios": [
       {
@@ -64797,7 +65275,7 @@
         "idPrecio": 808,
         "idProducto": 1821,
         "idMoneda": 1,
-        "precio": 26455.0
+        "precio": 22200.0
       }
     ],
     "image_name": "Olla a presion Automatica -ML-OPM-6L.jpg",
@@ -64808,6 +65286,12 @@
     "idDepartamento": 3,
     "movimientos": [],
     "etiquetasProductos": [
+      {
+        "idRelacion": 1132,
+        "idEtiqueta": 2,
+        "idProducto": 1821,
+        "valor": "26455.0"
+      },
       {
         "idRelacion": 547,
         "idEtiqueta": 10,
@@ -64825,8 +65309,8 @@
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "103": 4,
+      "105": 13
     }
   },
   {
@@ -65018,8 +65502,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 7
+      "103": 13,
+      "105": 24
     }
   },
   {
@@ -65061,16 +65545,10 @@
         "valor": "31-03"
       },
       {
-        "idRelacion": 1116,
+        "idRelacion": 1088,
         "idEtiqueta": 2,
         "idProducto": 2797,
-        "valor": "45.0"
-      },
-      {
-        "idRelacion": 1096,
-        "idEtiqueta": 2,
-        "idProducto": 2797,
-        "valor": "16650.0"
+        "valor": "16650"
       },
       {
         "idRelacion": 1092,
@@ -65079,10 +65557,16 @@
         "valor": "16650.0"
       },
       {
-        "idRelacion": 1088,
+        "idRelacion": 1096,
         "idEtiqueta": 2,
         "idProducto": 2797,
-        "valor": "16650"
+        "valor": "16650.0"
+      },
+      {
+        "idRelacion": 1116,
+        "idEtiqueta": 2,
+        "idProducto": 2797,
+        "valor": "45.0"
       }
     ],
     "descuentos": [
@@ -65096,7 +65580,7 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 1
+      "105": 7
     }
   },
   {
@@ -65424,8 +65908,8 @@
       }
     ],
     "stocks": {
-      "103": 10,
-      "105": 4
+      "103": 8,
+      "105": 2
     }
   },
   {
@@ -65874,14 +66358,14 @@
       "idPrecio": 2128,
       "idProducto": 2592,
       "idMoneda": 1,
-      "precio": 12950.0
+      "precio": 13475.0
     },
     "precios": [
       {
         "idPrecio": 2128,
         "idProducto": 2592,
         "idMoneda": 1,
-        "precio": 12950.0
+        "precio": 13475.0
       },
       {
         "idPrecio": 3869,
@@ -65914,7 +66398,7 @@
       }
     ],
     "stocks": {
-      "103": 10,
+      "103": 11,
       "105": 9
     }
   },
@@ -66014,14 +66498,14 @@
       "idPrecio": 2129,
       "idProducto": 2593,
       "idMoneda": 1,
-      "precio": 14800.0
+      "precio": 15400.0
     },
     "precios": [
       {
         "idPrecio": 2129,
         "idProducto": 2593,
         "idMoneda": 1,
-        "precio": 14800.0
+        "precio": 15400.0
       },
       {
         "idPrecio": 4015,
@@ -66054,8 +66538,8 @@
       }
     ],
     "stocks": {
-      "103": 7,
-      "105": 19
+      "103": 10,
+      "105": 16
     }
   },
   {
@@ -66547,7 +67031,6 @@
       }
     ],
     "stocks": {
-      "102": 3,
       "103": 5,
       "105": 1
     }
@@ -66993,9 +67476,9 @@
       }
     ],
     "stocks": {
-      "102": 25,
-      "103": 19,
-      "105": 1
+      "102": 20,
+      "103": 18,
+      "105": 0
     }
   },
   {
@@ -67167,7 +67650,7 @@
     ],
     "stocks": {
       "102": 46,
-      "103": 16,
+      "103": 12,
       "105": 0
     }
   },
@@ -67212,8 +67695,8 @@
       }
     ],
     "stocks": {
-      "103": 18,
-      "105": 319
+      "103": 14,
+      "105": 294
     }
   },
   {
@@ -67380,7 +67863,7 @@
       }
     ],
     "stocks": {
-      "105": 10
+      "105": 9
     }
   },
   {
@@ -67424,7 +67907,7 @@
       }
     ],
     "stocks": {
-      "105": 6
+      "105": 12
     }
   },
   {
@@ -67479,14 +67962,14 @@
       "idPrecio": 835,
       "idProducto": 360,
       "idMoneda": 1,
-      "precio": 200.0
+      "precio": 1000.0
     },
     "precios": [
       {
         "idPrecio": 835,
         "idProducto": 360,
         "idMoneda": 1,
-        "precio": 200.0
+        "precio": 1000.0
       },
       {
         "idPrecio": 3404,
@@ -67512,8 +67995,9 @@
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "102": 96,
+      "103": 119,
+      "105": 13
     }
   },
   {
@@ -67651,9 +68135,9 @@
       }
     ],
     "stocks": {
-      "102": 24,
-      "103": 23,
-      "105": 4
+      "102": 12,
+      "103": 22,
+      "105": 11
     }
   },
   {
@@ -67698,9 +68182,9 @@
       }
     ],
     "stocks": {
-      "102": 36,
-      "103": 5,
-      "105": 8
+      "102": 24,
+      "103": 3,
+      "105": 16
     }
   },
   {
@@ -67790,7 +68274,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -67836,7 +68320,7 @@
       }
     ],
     "stocks": {
-      "105": 11
+      "105": 10
     }
   },
   {
@@ -67881,7 +68365,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -67926,7 +68410,7 @@
     ],
     "stocks": {
       "103": 14,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -67970,7 +68454,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 8
     }
   },
   {
@@ -68015,8 +68499,8 @@
       }
     ],
     "stocks": {
-      "103": 12,
-      "105": 17
+      "103": 11,
+      "105": 9
     }
   },
   {
@@ -68240,7 +68724,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 3
+      "105": 4
     }
   },
   {
@@ -68286,7 +68770,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 8
+      "105": 15
     }
   },
   {
@@ -68555,8 +69039,8 @@
       }
     ],
     "stocks": {
-      "103": 9,
-      "105": 0
+      "103": 2,
+      "105": 3
     }
   },
   {
@@ -69050,8 +69534,8 @@
       }
     ],
     "stocks": {
-      "103": 5,
-      "105": 7
+      "103": 4,
+      "105": 6
     }
   },
   {
@@ -69096,7 +69580,7 @@
     ],
     "stocks": {
       "103": 7,
-      "105": 14
+      "105": 10
     }
   },
   {
@@ -69141,7 +69625,7 @@
     ],
     "stocks": {
       "103": 11,
-      "105": 8
+      "105": 7
     }
   },
   {
@@ -69286,14 +69770,14 @@
       "idPrecio": 2152,
       "idProducto": 2615,
       "idMoneda": 1,
-      "precio": 2565.0
+      "precio": 2000.0
     },
     "precios": [
       {
         "idPrecio": 2152,
         "idProducto": 2615,
         "idMoneda": 1,
-        "precio": 2565.0
+        "precio": 2000.0
       },
       {
         "idPrecio": 3358,
@@ -69307,7 +69791,14 @@
     "combo": false,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1195,
+        "idEtiqueta": 2,
+        "idProducto": 2615,
+        "valor": "2565.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -69320,7 +69811,7 @@
     "stocks": {
       "102": 14,
       "103": 0,
-      "105": 63
+      "105": 62
     }
   },
   {
@@ -70415,7 +70906,7 @@
     ],
     "stocks": {
       "103": 11,
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -70460,7 +70951,7 @@
     ],
     "stocks": {
       "103": 9,
-      "105": 9
+      "105": 6
     }
   },
   {
@@ -70676,7 +71167,7 @@
     "stocks": {
       "102": 24,
       "103": 9,
-      "105": 15
+      "105": 8
     }
   },
   {
@@ -70720,7 +71211,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -70901,7 +71392,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 0
     }
   },
@@ -70994,8 +71485,8 @@
       }
     ],
     "stocks": {
-      "102": 14,
-      "105": 0
+      "102": 4,
+      "105": 3
     }
   },
   {
@@ -71086,9 +71577,9 @@
       }
     ],
     "stocks": {
-      "102": 15,
-      "103": 11,
-      "105": 1
+      "102": 28,
+      "103": 9,
+      "105": 3
     }
   },
   {
@@ -72571,8 +73062,8 @@
       }
     ],
     "stocks": {
-      "103": 7,
-      "105": 11
+      "103": 6,
+      "105": 9
     }
   },
   {
@@ -72616,7 +73107,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 3,
       "105": 2
     }
   },
@@ -72798,7 +73289,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 8
+      "105": 5
     }
   },
   {
@@ -72889,7 +73380,7 @@
     "stocks": {
       "102": 12,
       "103": 6,
-      "105": 13
+      "105": 10
     }
   },
   {
@@ -73023,7 +73514,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 9
+      "105": 0
     }
   },
   {
@@ -73120,7 +73611,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 0
+      "105": 1
     }
   },
   {
@@ -73273,14 +73764,14 @@
       "idPrecio": 921,
       "idProducto": 375,
       "idMoneda": 1,
-      "precio": 585.0
+      "precio": 410.0
     },
     "precios": [
       {
         "idPrecio": 921,
         "idProducto": 375,
         "idMoneda": 1,
-        "precio": 585.0
+        "precio": 410.0
       },
       {
         "idPrecio": 3992,
@@ -73296,7 +73787,14 @@
     "idCategoria": 61,
     "idDepartamento": 6,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1196,
+        "idEtiqueta": 2,
+        "idProducto": 375,
+        "valor": "585.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -73569,7 +74067,7 @@
       }
     ],
     "stocks": {
-      "105": 6
+      "105": 4
     }
   },
   {
@@ -73930,7 +74428,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 4
+      "105": 0
     }
   },
   {
@@ -74914,7 +75412,7 @@
       }
     ],
     "stocks": {
-      "103": 5,
+      "103": 4,
       "105": 0
     }
   },
@@ -75358,7 +75856,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 4
+      "105": 1
     }
   },
   {
@@ -75414,14 +75912,14 @@
       "idPrecio": 942,
       "idProducto": 840,
       "idMoneda": 1,
-      "precio": 10820.0
+      "precio": 7110.0
     },
     "precios": [
       {
         "idPrecio": 942,
         "idProducto": 840,
         "idMoneda": 1,
-        "precio": 10820.0
+        "precio": 7110.0
       },
       {
         "idPrecio": 3071,
@@ -75436,7 +75934,14 @@
     "idCategoria": 71,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1198,
+        "idEtiqueta": 2,
+        "idProducto": 840,
+        "valor": "10820.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -75538,7 +76043,7 @@
     "stocks": {
       "102": 2,
       "103": 5,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -75583,7 +76088,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -75891,7 +76396,7 @@
       }
     ],
     "stocks": {
-      "105": 12
+      "105": 11
     }
   },
   {
@@ -75935,7 +76440,7 @@
       }
     ],
     "stocks": {
-      "105": 14
+      "105": 13
     }
   },
   {
@@ -76428,7 +76933,7 @@
     "stocks": {
       "102": 19,
       "103": 7,
-      "105": 12
+      "105": 7
     }
   },
   {
@@ -76747,52 +77252,7 @@
     "stocks": {
       "102": 49,
       "103": 4,
-      "105": 2
-    }
-  },
-  {
-    "idProducto": 1847,
-    "codigo": "ML-RFWD",
-    "descripcion": "REFRIGERADOR",
-    "precio": {
-      "idPrecio": 963,
-      "idProducto": 1847,
-      "idMoneda": 1,
-      "precio": 325600.0
-    },
-    "precios": [
-      {
-        "idPrecio": 963,
-        "idProducto": 1847,
-        "idMoneda": 1,
-        "precio": 325600.0
-      },
-      {
-        "idPrecio": 1372,
-        "idProducto": 1847,
-        "idMoneda": 2,
-        "precio": 904.44446
-      }
-    ],
-    "image_name": "REFRIGERADOR -ML-RFWD.png",
-    "ipv": true,
-    "activo": true,
-    "combo": false,
-    "idDepartamento": 3,
-    "movimientos": [],
-    "etiquetasProductos": [],
-    "descuentos": [
-      {
-        "idDescuento": 1,
-        "color": 0,
-        "valor": 0.1,
-        "nombre": "Descuento 10%",
-        "activo": true
-      }
-    ],
-    "stocks": {
-      "103": 0,
-      "105": 2
+      "105": 0
     }
   },
   {
@@ -76843,6 +77303,117 @@
     "stocks": {}
   },
   {
+    "idProducto": 1847,
+    "codigo": "ML-RFWD",
+    "descripcion": "REFRIGERADOR 13 PIES",
+    "precio": {
+      "idPrecio": 963,
+      "idProducto": 1847,
+      "idMoneda": 1,
+      "precio": 325600.0
+    },
+    "precios": [
+      {
+        "idPrecio": 963,
+        "idProducto": 1847,
+        "idMoneda": 1,
+        "precio": 325600.0
+      },
+      {
+        "idPrecio": 1372,
+        "idProducto": 1847,
+        "idMoneda": 2,
+        "precio": 904.44446
+      }
+    ],
+    "image_name": "REFRIGERADOR 13 PIES -ML-RFWD.png",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 0,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 3229,
+    "codigo": "RF-INOX-11.5",
+    "descripcion": "REFRIGERADOR MILEXUS 11.5 PIES",
+    "precio": {
+      "idPrecio": 4824,
+      "idProducto": 3229,
+      "idMoneda": 1,
+      "precio": 240500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 4824,
+        "idProducto": 3229,
+        "idMoneda": 1,
+        "precio": 240500.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 3228,
+    "codigo": "ML-RF-INOX-7CUFT",
+    "descripcion": "REFRIGERADOR MILEXUS 7 PIES",
+    "precio": {
+      "idPrecio": 4823,
+      "idProducto": 3228,
+      "idMoneda": 1,
+      "precio": 155400.0
+    },
+    "precios": [
+      {
+        "idPrecio": 4823,
+        "idProducto": 3228,
+        "idMoneda": 1,
+        "precio": 155400.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 1
+    }
+  },
+  {
     "idProducto": 2777,
     "codigo": "6610",
     "descripcion": "REGLETA DE 6 TOMAS",
@@ -76891,7 +77462,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 7
+      "105": 11
     }
   },
   {
@@ -76935,8 +77506,8 @@
       }
     ],
     "stocks": {
-      "103": 5,
-      "105": 0
+      "103": 1,
+      "105": 4
     }
   },
   {
@@ -76982,7 +77553,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -77028,7 +77599,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -77118,7 +77689,7 @@
     ],
     "stocks": {
       "103": 8,
-      "105": 16
+      "105": 14
     }
   },
   {
@@ -77707,7 +78278,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -77811,7 +78382,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -77863,8 +78434,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 3
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -77969,8 +78540,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
-      "105": 4
+      "103": 0,
+      "105": 7
     }
   },
   {
@@ -78022,8 +78593,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 3
+      "103": 1,
+      "105": 0
     }
   },
   {
@@ -78501,7 +79072,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -78547,7 +79118,7 @@
     ],
     "stocks": {
       "103": 7,
-      "105": 5
+      "105": 2
     }
   },
   {
@@ -78638,7 +79209,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 3,
       "105": 0
     }
   },
@@ -78912,7 +79483,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 10
+      "105": 6
     }
   },
   {
@@ -79094,7 +79665,7 @@
     "stocks": {
       "102": 10,
       "103": 6,
-      "105": 1
+      "105": 6
     }
   },
   {
@@ -79105,14 +79676,14 @@
       "idPrecio": 989,
       "idProducto": 1146,
       "idMoneda": 1,
-      "precio": 4655.0
+      "precio": 3850.0
     },
     "precios": [
       {
         "idPrecio": 989,
         "idProducto": 1146,
         "idMoneda": 1,
-        "precio": 4655.0
+        "precio": 3850.0
       },
       {
         "idPrecio": 2922,
@@ -79126,7 +79697,20 @@
     "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1207,
+        "idEtiqueta": 2,
+        "idProducto": 1146,
+        "valor": "4655.0"
+      },
+      {
+        "idRelacion": 1199,
+        "idEtiqueta": 2,
+        "idProducto": 1146,
+        "valor": "4655.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -79137,9 +79721,9 @@
       }
     ],
     "stocks": {
-      "102": 7,
-      "103": 7,
-      "105": 0
+      "102": 6,
+      "103": 4,
+      "105": 2
     }
   },
   {
@@ -79242,14 +79826,14 @@
       "idPrecio": 991,
       "idProducto": 406,
       "idMoneda": 1,
-      "precio": 1865.0
+      "precio": 1260.0
     },
     "precios": [
       {
         "idPrecio": 991,
         "idProducto": 406,
         "idMoneda": 1,
-        "precio": 1865.0
+        "precio": 1260.0
       },
       {
         "idPrecio": 3190,
@@ -79265,7 +79849,14 @@
     "idCategoria": 12,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1154,
+        "idEtiqueta": 2,
+        "idProducto": 406,
+        "valor": "1865.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -79289,14 +79880,14 @@
       "idPrecio": 992,
       "idProducto": 407,
       "idMoneda": 1,
-      "precio": 2215.0
+      "precio": 1520.0
     },
     "precios": [
       {
         "idPrecio": 992,
         "idProducto": 407,
         "idMoneda": 1,
-        "precio": 2215.0
+        "precio": 1520.0
       },
       {
         "idPrecio": 3189,
@@ -79312,7 +79903,14 @@
     "idCategoria": 12,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1146,
+        "idEtiqueta": 2,
+        "idProducto": 407,
+        "valor": "2215.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -79336,14 +79934,14 @@
       "idPrecio": 993,
       "idProducto": 408,
       "idMoneda": 1,
-      "precio": 1865.0
+      "precio": 1260.0
     },
     "precios": [
       {
         "idPrecio": 993,
         "idProducto": 408,
         "idMoneda": 1,
-        "precio": 1865.0
+        "precio": 1260.0
       },
       {
         "idPrecio": 3170,
@@ -79359,7 +79957,14 @@
     "idCategoria": 12,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1155,
+        "idEtiqueta": 2,
+        "idProducto": 408,
+        "valor": "1865.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -79381,14 +79986,14 @@
       "idPrecio": 994,
       "idProducto": 409,
       "idMoneda": 1,
-      "precio": 1630.0
+      "precio": 1075.0
     },
     "precios": [
       {
         "idPrecio": 994,
         "idProducto": 409,
         "idMoneda": 1,
-        "precio": 1630.0
+        "precio": 1075.0
       },
       {
         "idPrecio": 3228,
@@ -79404,7 +80009,14 @@
     "idCategoria": 12,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1156,
+        "idEtiqueta": 2,
+        "idProducto": 409,
+        "valor": "1630.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -79415,8 +80027,9 @@
       }
     ],
     "stocks": {
+      "102": 18,
       "103": 12,
-      "105": 1
+      "105": 2
     }
   },
   {
@@ -79427,14 +80040,14 @@
       "idPrecio": 995,
       "idProducto": 410,
       "idMoneda": 1,
-      "precio": 2215.0
+      "precio": 1520.0
     },
     "precios": [
       {
         "idPrecio": 995,
         "idProducto": 410,
         "idMoneda": 1,
-        "precio": 2215.0
+        "precio": 1520.0
       },
       {
         "idPrecio": 3260,
@@ -79450,7 +80063,14 @@
     "idCategoria": 12,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1157,
+        "idEtiqueta": 2,
+        "idProducto": 410,
+        "valor": "2215.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -79461,7 +80081,6 @@
       }
     ],
     "stocks": {
-      "102": 4,
       "103": 10,
       "105": 2
     }
@@ -79508,7 +80127,7 @@
     ],
     "stocks": {
       "103": 4,
-      "105": 5
+      "105": 7
     }
   },
   {
@@ -79694,8 +80313,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 0
+      "103": 0,
+      "105": 1
     }
   },
   {
@@ -79831,7 +80450,8 @@
       }
     ],
     "stocks": {
-      "103": 0
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -79875,7 +80495,8 @@
       }
     ],
     "stocks": {
-      "103": 0
+      "103": 0,
+      "105": 0
     }
   },
   {
@@ -79921,7 +80542,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 11
+      "105": 7
     }
   },
   {
@@ -80146,8 +80767,8 @@
       }
     ],
     "stocks": {
-      "103": 6,
-      "105": 14
+      "103": 5,
+      "105": 8
     }
   },
   {
@@ -80192,8 +80813,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 13
+      "103": 1,
+      "105": 9
     }
   },
   {
@@ -80239,7 +80860,7 @@
     ],
     "stocks": {
       "103": 6,
-      "105": 19
+      "105": 18
     }
   },
   {
@@ -80284,8 +80905,8 @@
       }
     ],
     "stocks": {
-      "103": 2,
-      "105": 19
+      "103": 1,
+      "105": 7
     }
   },
   {
@@ -80537,8 +81158,8 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 60,
-      "105": 211
+      "103": 53,
+      "105": 197
     }
   },
   {
@@ -80581,7 +81202,7 @@
       }
     ],
     "stocks": {
-      "105": 4
+      "105": 3
     }
   },
   {
@@ -80623,9 +81244,9 @@
       }
     ],
     "stocks": {
-      "102": 67,
-      "103": 21,
-      "105": 8
+      "102": 45,
+      "103": 12,
+      "105": 19
     }
   },
   {
@@ -80667,9 +81288,9 @@
       }
     ],
     "stocks": {
-      "102": 61,
-      "103": 10,
-      "105": 13
+      "102": 29,
+      "103": 22,
+      "105": 11
     }
   },
   {
@@ -80843,7 +81464,7 @@
     "stocks": {
       "102": 348,
       "103": 24,
-      "105": 43
+      "105": 38
     }
   },
   {
@@ -80928,8 +81549,8 @@
     ],
     "stocks": {
       "102": 2,
-      "103": 4,
-      "105": 3
+      "103": 3,
+      "105": 2
     }
   },
   {
@@ -81239,7 +81860,6 @@
       }
     ],
     "stocks": {
-      "102": 1,
       "105": 0
     }
   },
@@ -81372,7 +81992,7 @@
       }
     ],
     "stocks": {
-      "102": 17,
+      "102": 16,
       "105": 0
     }
   },
@@ -81677,7 +82297,7 @@
       }
     ],
     "stocks": {
-      "102": 81,
+      "102": 80,
       "105": 0
     }
   },
@@ -81811,7 +82431,7 @@
       }
     ],
     "stocks": {
-      "102": 21,
+      "102": 20,
       "105": 0
     }
   },
@@ -81945,9 +82565,9 @@
       }
     ],
     "stocks": {
-      "102": 13,
+      "102": 10,
       "103": 10,
-      "105": 0
+      "105": 3
     }
   },
   {
@@ -82038,8 +82658,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 0
+      "103": 2,
+      "105": 3
     }
   },
   {
@@ -82084,9 +82704,9 @@
       }
     ],
     "stocks": {
-      "102": 7,
+      "102": 4,
       "103": 9,
-      "105": 2
+      "105": 4
     }
   },
   {
@@ -82306,7 +82926,7 @@
       }
     ],
     "image_name": "SANDWICHERA GRILL -6799.jpg",
-    "ipv": false,
+    "ipv": true,
     "activo": true,
     "combo": false,
     "idCategoria": 63,
@@ -82329,7 +82949,11 @@
         "activo": true
       }
     ],
-    "stocks": {}
+    "stocks": {
+      "102": 3,
+      "103": 6,
+      "105": 9
+    }
   },
   {
     "idProducto": 3031,
@@ -82379,7 +83003,10 @@
         "activo": true
       }
     ],
-    "stocks": {}
+    "stocks": {
+      "102": 3,
+      "105": 3
+    }
   },
   {
     "idProducto": 3030,
@@ -82431,7 +83058,7 @@
     ],
     "stocks": {
       "103": 2,
-      "105": 1
+      "105": 5
     }
   },
   {
@@ -82465,7 +83092,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 27
+      "105": 17
     }
   },
   {
@@ -82498,7 +83125,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "103": 23
+      "103": 21
     }
   },
   {
@@ -82531,7 +83158,7 @@
     "movimientos": [],
     "etiquetasProductos": [],
     "stocks": {
-      "105": 15
+      "105": 14
     }
   },
   {
@@ -82635,7 +83262,7 @@
       }
     ],
     "stocks": {
-      "105": 13
+      "105": 11
     }
   },
   {
@@ -82687,7 +83314,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -83162,7 +83789,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -83575,7 +84202,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -84157,14 +84784,14 @@
       "idPrecio": 2134,
       "idProducto": 2597,
       "idMoneda": 1,
-      "precio": 355.0
+      "precio": 225.0
     },
     "precios": [
       {
         "idPrecio": 2134,
         "idProducto": 2597,
         "idMoneda": 1,
-        "precio": 355.0
+        "precio": 225.0
       },
       {
         "idPrecio": 3174,
@@ -84178,7 +84805,14 @@
     "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1200,
+        "idEtiqueta": 2,
+        "idProducto": 2597,
+        "valor": "355.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -84202,14 +84836,14 @@
       "idPrecio": 1069,
       "idProducto": 871,
       "idMoneda": 1,
-      "precio": 470.0
+      "precio": 355.0
     },
     "precios": [
       {
         "idPrecio": 1069,
         "idProducto": 871,
         "idMoneda": 1,
-        "precio": 470.0
+        "precio": 355.0
       },
       {
         "idPrecio": 2937,
@@ -84224,7 +84858,14 @@
     "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1201,
+        "idEtiqueta": 2,
+        "idProducto": 871,
+        "valor": "470.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -84237,7 +84878,7 @@
     "stocks": {
       "102": 10,
       "103": 6,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -84248,14 +84889,14 @@
       "idPrecio": 1070,
       "idProducto": 872,
       "idMoneda": 1,
-      "precio": 700.0
+      "precio": 430.0
     },
     "precios": [
       {
         "idPrecio": 1070,
         "idProducto": 872,
         "idMoneda": 1,
-        "precio": 700.0
+        "precio": 430.0
       },
       {
         "idPrecio": 2938,
@@ -84270,7 +84911,14 @@
     "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1202,
+        "idEtiqueta": 2,
+        "idProducto": 872,
+        "valor": "700.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -84325,7 +84973,7 @@
     "stocks": {
       "102": 130,
       "103": 100,
-      "105": 42
+      "105": 41
     }
   },
   {
@@ -84587,7 +85235,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -84901,6 +85549,7 @@
       }
     ],
     "stocks": {
+      "102": 1,
       "105": 1
     }
   },
@@ -84987,9 +85636,9 @@
       }
     ],
     "stocks": {
-      "102": 14,
+      "102": 9,
       "103": 6,
-      "105": 4
+      "105": 6
     }
   },
   {
@@ -85035,7 +85684,7 @@
     "stocks": {
       "102": 6,
       "103": 0,
-      "105": 9
+      "105": 6
     }
   },
   {
@@ -85211,8 +85860,8 @@
     ],
     "stocks": {
       "102": 11,
-      "103": 13,
-      "105": 8
+      "103": 11,
+      "105": 2
     }
   },
   {
@@ -85696,7 +86345,7 @@
     "stocks": {
       "102": 16,
       "103": 6,
-      "105": 14
+      "105": 8
     }
   },
   {
@@ -85961,9 +86610,9 @@
       }
     ],
     "stocks": {
-      "102": 36,
+      "102": 24,
       "103": 40,
-      "105": 32
+      "105": 29
     }
   },
   {
@@ -86005,7 +86654,7 @@
       }
     ],
     "stocks": {
-      "103": 20,
+      "103": 16,
       "105": 0
     }
   },
@@ -86674,7 +87323,7 @@
     ],
     "stocks": {
       "102": 2,
-      "103": 7,
+      "103": 5,
       "105": 1
     }
   },
@@ -86686,14 +87335,14 @@
       "idPrecio": 1115,
       "idProducto": 983,
       "idMoneda": 1,
-      "precio": 850.0
+      "precio": 935.0
     },
     "precios": [
       {
         "idPrecio": 1115,
         "idProducto": 983,
         "idMoneda": 1,
-        "precio": 850.0
+        "precio": 935.0
       },
       {
         "idPrecio": 2973,
@@ -86891,7 +87540,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 1
     }
   },
@@ -86935,8 +87584,9 @@
       }
     ],
     "stocks": {
+      "102": 2,
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -87067,7 +87717,7 @@
       }
     ],
     "stocks": {
-      "103": 2,
+      "103": 1,
       "105": 1
     }
   },
@@ -87333,7 +87983,7 @@
       }
     ],
     "stocks": {
-      "102": 11,
+      "102": 7,
       "103": 1,
       "105": 1
     }
@@ -87431,8 +88081,8 @@
     ],
     "stocks": {
       "102": 50,
-      "103": 23,
-      "105": 10
+      "103": 22,
+      "105": 6
     }
   },
   {
@@ -87442,14 +88092,14 @@
       "idPrecio": 2142,
       "idProducto": 2605,
       "idMoneda": 1,
-      "precio": 2105.0
+      "precio": 1555.0
     },
     "precios": [
       {
         "idPrecio": 2142,
         "idProducto": 2605,
         "idMoneda": 1,
-        "precio": 2105.0
+        "precio": 1555.0
       },
       {
         "idPrecio": 3432,
@@ -87463,7 +88113,14 @@
     "combo": false,
     "idDepartamento": 5,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1203,
+        "idEtiqueta": 2,
+        "idProducto": 2605,
+        "valor": "2105.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -87474,9 +88131,9 @@
       }
     ],
     "stocks": {
-      "102": 203,
-      "103": 62,
-      "105": 133
+      "102": 158,
+      "103": 60,
+      "105": 141
     }
   },
   {
@@ -89267,7 +89924,7 @@
     ],
     "stocks": {
       "103": 3,
-      "105": 3
+      "105": 4
     }
   },
   {
@@ -89491,7 +90148,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -89854,7 +90511,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -89944,7 +90601,7 @@
       }
     ],
     "stocks": {
-      "105": 3
+      "105": 1
     }
   },
   {
@@ -90340,7 +90997,7 @@
       }
     ],
     "stocks": {
-      "102": 21,
+      "102": 19,
       "105": 0
     }
   },
@@ -90779,7 +91436,7 @@
       }
     ],
     "stocks": {
-      "102": 6,
+      "102": 4,
       "105": 0
     }
   },
@@ -91476,7 +92133,7 @@
     ],
     "stocks": {
       "103": 5,
-      "105": 7
+      "105": 6
     }
   },
   {
@@ -91570,7 +92227,7 @@
       }
     ],
     "stocks": {
-      "102": 24,
+      "102": 18,
       "103": 9,
       "105": 2
     }
@@ -91930,7 +92587,7 @@
       }
     ],
     "stocks": {
-      "105": 7
+      "105": 3
     }
   },
   {
@@ -92020,7 +92677,7 @@
     ],
     "stocks": {
       "103": 1,
-      "105": 6
+      "105": 5
     }
   },
   {
@@ -92555,8 +93212,9 @@
       }
     ],
     "stocks": {
-      "103": 30,
-      "105": 13
+      "102": 14,
+      "103": 24,
+      "105": 3
     }
   },
   {
@@ -93537,9 +94195,9 @@
       }
     ],
     "stocks": {
-      "102": 14,
-      "103": 10,
-      "105": 2
+      "102": 11,
+      "103": 9,
+      "105": 3
     }
   },
   {
@@ -94032,7 +94690,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -94078,7 +94736,7 @@
     ],
     "stocks": {
       "103": 7,
-      "105": 3
+      "105": 0
     }
   },
   {
@@ -94089,14 +94747,14 @@
       "idPrecio": 1225,
       "idProducto": 490,
       "idMoneda": 1,
-      "precio": 1285.0
+      "precio": 815.0
     },
     "precios": [
       {
         "idPrecio": 1225,
         "idProducto": 490,
         "idMoneda": 1,
-        "precio": 1285.0
+        "precio": 815.0
       },
       {
         "idPrecio": 4080,
@@ -94111,7 +94769,14 @@
     "idCategoria": 23,
     "idDepartamento": 6,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1204,
+        "idEtiqueta": 2,
+        "idProducto": 490,
+        "valor": "1285.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -94122,9 +94787,9 @@
       }
     ],
     "stocks": {
-      "102": 10,
-      "103": 7,
-      "105": 2
+      "102": 16,
+      "103": 6,
+      "105": 0
     }
   },
   {
@@ -94169,8 +94834,8 @@
       }
     ],
     "stocks": {
-      "102": 19,
-      "105": 0
+      "102": 3,
+      "105": 8
     }
   },
   {
@@ -94303,8 +94968,7 @@
       }
     ],
     "stocks": {
-      "102": 2,
-      "103": 6,
+      "103": 4,
       "105": 0
     }
   },
@@ -94704,7 +95368,7 @@
       }
     ],
     "stocks": {
-      "103": 5,
+      "103": 1,
       "105": 3
     }
   },
@@ -94716,14 +95380,14 @@
       "idPrecio": 1237,
       "idProducto": 492,
       "idMoneda": 1,
-      "precio": 1400.0
+      "precio": 1630.0
     },
     "precios": [
       {
         "idPrecio": 1237,
         "idProducto": 492,
         "idMoneda": 1,
-        "precio": 1400.0
+        "precio": 1630.0
       },
       {
         "idPrecio": 3640,
@@ -94795,9 +95459,8 @@
       }
     ],
     "stocks": {
-      "102": 45,
-      "103": 17,
-      "105": 4
+      "103": 11,
+      "105": 1
     }
   },
   {
@@ -94841,7 +95504,7 @@
       }
     ],
     "stocks": {
-      "103": 7,
+      "103": 4,
       "105": 2
     }
   },
@@ -94977,7 +95640,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -95022,7 +95685,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -95600,7 +96263,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 3
     }
   },
   {
@@ -95908,7 +96571,7 @@
       }
     ],
     "stocks": {
-      "103": 4,
+      "103": 1,
       "105": 0
     }
   },
@@ -95998,7 +96661,7 @@
       }
     ],
     "stocks": {
-      "103": 1,
+      "103": 0,
       "105": 0
     }
   },
@@ -96133,7 +96796,7 @@
       }
     ],
     "stocks": {
-      "103": 5,
+      "103": 4,
       "105": 0
     }
   },
@@ -96569,8 +97232,8 @@
       }
     ],
     "stocks": {
-      "102": 10,
-      "103": 16,
+      "102": 50,
+      "103": 15,
       "105": 0
     }
   },
@@ -96582,14 +97245,14 @@
       "idPrecio": 1251,
       "idProducto": 500,
       "idMoneda": 1,
-      "precio": 1030.0
+      "precio": 670.0
     },
     "precios": [
       {
         "idPrecio": 1251,
         "idProducto": 500,
         "idMoneda": 1,
-        "precio": 1030.0
+        "precio": 670.0
       },
       {
         "idPrecio": 3074,
@@ -96604,7 +97267,14 @@
     "combo": false,
     "idDepartamento": 2,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1186,
+        "idEtiqueta": 2,
+        "idProducto": 500,
+        "valor": "1030.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -96616,7 +97286,7 @@
     ],
     "stocks": {
       "103": 18,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -97012,7 +97682,7 @@
     ],
     "stocks": {
       "103": 0,
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -97314,8 +97984,8 @@
       }
     ],
     "stocks": {
-      "103": 1,
-      "105": 6
+      "103": 0,
+      "105": 1
     }
   },
   {
@@ -97626,13 +98296,13 @@
         "idPrecio": 2347,
         "idProducto": 2802,
         "idMoneda": 1,
-        "precio": 81400.0
+        "precio": 60000.0
       },
       {
         "idPrecio": 2603,
         "idProducto": 2802,
         "idMoneda": 2,
-        "precio": 226.11111
+        "precio": 160
       }
     ],
     "image_name": "TV 32\u0026 HD SMART -8875.jpg",
@@ -97660,8 +98330,8 @@
       }
     ],
     "stocks": {
-      "102": 3,
-      "103": 1,
+      "102": 2,
+      "103": 2,
       "105": 1
     }
   },
@@ -97896,16 +98566,16 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 1115,
-        "idEtiqueta": 2,
-        "idProducto": 2107,
-        "valor": "666.8919"
-      },
-      {
         "idRelacion": 1102,
         "idEtiqueta": 2,
         "idProducto": 2107,
         "valor": "246750.0"
+      },
+      {
+        "idRelacion": 1115,
+        "idEtiqueta": 2,
+        "idProducto": 2107,
+        "valor": "666.8919"
       },
       {
         "idRelacion": 25,
@@ -98071,7 +98741,7 @@
       }
     ],
     "stocks": {
-      "105": 1
+      "105": 0
     }
   },
   {
@@ -98267,7 +98937,7 @@
     "stocks": {
       "102": 9,
       "103": 16,
-      "105": 5
+      "105": 4
     }
   },
   {
@@ -98400,9 +99070,9 @@
       }
     ],
     "stocks": {
-      "102": 19,
+      "102": 14,
       "103": 16,
-      "105": 1
+      "105": 5
     }
   },
   {
@@ -98532,8 +99202,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 1
+      "103": 3,
+      "105": 0
     }
   },
   {
@@ -98764,7 +99434,8 @@
       }
     ],
     "stocks": {
-      "103": 3,
+      "102": 72,
+      "103": 14,
       "105": 0
     }
   },
@@ -98857,7 +99528,7 @@
     "stocks": {
       "102": 12,
       "103": 4,
-      "105": 9
+      "105": 8
     }
   },
   {
@@ -98946,7 +99617,7 @@
       }
     ],
     "stocks": {
-      "103": 8,
+      "103": 5,
       "105": 0
     }
   },
@@ -98958,14 +99629,14 @@
       "idPrecio": 1276,
       "idProducto": 510,
       "idMoneda": 1,
-      "precio": 410.0
+      "precio": 230.0
     },
     "precios": [
       {
         "idPrecio": 1276,
         "idProducto": 510,
         "idMoneda": 1,
-        "precio": 410.0
+        "precio": 230.0
       },
       {
         "idPrecio": 4001,
@@ -98981,7 +99652,14 @@
     "idCategoria": 25,
     "idDepartamento": 6,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1205,
+        "idEtiqueta": 2,
+        "idProducto": 510,
+        "valor": "410.0"
+      }
+    ],
     "descuentos": [
       {
         "idDescuento": 1,
@@ -98992,8 +99670,9 @@
       }
     ],
     "stocks": {
-      "103": 21,
-      "105": 16
+      "102": 24,
+      "103": 13,
+      "105": 39
     }
   },
   {
@@ -99397,8 +100076,9 @@
       }
     ],
     "stocks": {
+      "102": 36,
       "103": 9,
-      "105": 2
+      "105": 13
     }
   },
   {
@@ -99746,7 +100426,7 @@
       }
     ],
     "stocks": {
-      "105": 2
+      "105": 1
     }
   },
   {
@@ -99835,8 +100515,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 2
+      "103": 8,
+      "105": 3
     }
   },
   {
@@ -100105,14 +100785,14 @@
       "idPrecio": 1288,
       "idProducto": 660,
       "idMoneda": 1,
-      "precio": 24420.0
+      "precio": 20000.0
     },
     "precios": [
       {
         "idPrecio": 1288,
         "idProducto": 660,
         "idMoneda": 1,
-        "precio": 24420.0
+        "precio": 20000.0
       },
       {
         "idPrecio": 1391,
@@ -100128,10 +100808,17 @@
     "idCategoria": 35,
     "idDepartamento": 3,
     "movimientos": [],
-    "etiquetasProductos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1159,
+        "idEtiqueta": 2,
+        "idProducto": 660,
+        "valor": "24420.0"
+      }
+    ],
     "stocks": {
-      "103": 13,
-      "105": 7
+      "103": 10,
+      "105": 2
     }
   },
   {
@@ -100176,6 +100863,35 @@
     ],
     "stocks": {
       "103": 0
+    }
+  },
+  {
+    "idProducto": 3227,
+    "codigo": "3925-R",
+    "descripcion": "VENTILADOR PEDESTAL 16\u0027\u0027",
+    "precio": {
+      "idPrecio": 4822,
+      "idProducto": 3227,
+      "idMoneda": 1,
+      "precio": 36630.0
+    },
+    "precios": [
+      {
+        "idPrecio": 4822,
+        "idProducto": 3227,
+        "idMoneda": 1,
+        "precio": 36630.0
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 35,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [],
+    "stocks": {
+      "105": 0
     }
   },
   {
@@ -100752,7 +101468,7 @@
       }
     ],
     "stocks": {
-      "103": 23
+      "103": 22
     }
   },
   {
@@ -101012,7 +101728,7 @@
       }
     ],
     "stocks": {
-      "102": 13,
+      "102": 12,
       "105": 0
     }
   },

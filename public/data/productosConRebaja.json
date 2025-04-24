@@ -1,5 +1,748 @@
 [
   {
+    "idProducto": 22,
+    "codigo": "6000",
+    "descripcion": "Balinera",
+    "precio": {
+      "idPrecio": 66,
+      "idProducto": 22,
+      "idMoneda": 1,
+      "precio": 335.0
+    },
+    "precios": [
+      {
+        "idPrecio": 66,
+        "idProducto": 22,
+        "idMoneda": 1,
+        "precio": 335.0
+      },
+      {
+        "idPrecio": 3030,
+        "idProducto": 22,
+        "idMoneda": 2,
+        "precio": 1.4722222
+      }
+    ],
+    "image_name": "Balinera -6000.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1144,
+        "idEtiqueta": 2,
+        "idProducto": 22,
+        "valor": "530.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 10,
+      "103": 11,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 23,
+    "codigo": "6003",
+    "descripcion": "Balinera",
+    "precio": {
+      "idPrecio": 67,
+      "idProducto": 23,
+      "idMoneda": 1,
+      "precio": 390.0
+    },
+    "precios": [
+      {
+        "idPrecio": 67,
+        "idProducto": 23,
+        "idMoneda": 1,
+        "precio": 390.0
+      },
+      {
+        "idPrecio": 3092,
+        "idProducto": 23,
+        "idMoneda": 2,
+        "precio": 1.7916666
+      }
+    ],
+    "image_name": "Balinera -6003.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1149,
+        "idEtiqueta": 2,
+        "idProducto": 23,
+        "valor": "645.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 20,
+      "103": 7,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 697,
+    "codigo": "6008",
+    "descripcion": "Balinera",
+    "precio": {
+      "idPrecio": 68,
+      "idProducto": 697,
+      "idMoneda": 1,
+      "precio": 1335.0
+    },
+    "precios": [
+      {
+        "idPrecio": 68,
+        "idProducto": 697,
+        "idMoneda": 1,
+        "precio": 1335.0
+      },
+      {
+        "idPrecio": 2914,
+        "idProducto": 697,
+        "idMoneda": 2,
+        "precio": 4.5277777
+      }
+    ],
+    "image_name": "Balinera -6008.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1145,
+        "idEtiqueta": 2,
+        "idProducto": 697,
+        "valor": "1630.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 10,
+      "103": 10,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 24,
+    "codigo": "6204",
+    "descripcion": "Balinera",
+    "precio": {
+      "idPrecio": 69,
+      "idProducto": 24,
+      "idMoneda": 1,
+      "precio": 630.0
+    },
+    "precios": [
+      {
+        "idPrecio": 69,
+        "idProducto": 24,
+        "idMoneda": 1,
+        "precio": 630.0
+      },
+      {
+        "idPrecio": 3158,
+        "idProducto": 24,
+        "idMoneda": 2,
+        "precio": 2.1666667
+      }
+    ],
+    "image_name": "Balinera -6204.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1151,
+        "idEtiqueta": 2,
+        "idProducto": 24,
+        "valor": "780.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 0
+    }
+  },
+  {
+    "idProducto": 25,
+    "codigo": "6205",
+    "descripcion": "Balinera",
+    "precio": {
+      "idPrecio": 70,
+      "idProducto": 25,
+      "idMoneda": 1,
+      "precio": 815.0
+    },
+    "precios": [
+      {
+        "idPrecio": 70,
+        "idProducto": 25,
+        "idMoneda": 1,
+        "precio": 815.0
+      },
+      {
+        "idPrecio": 2982,
+        "idProducto": 25,
+        "idMoneda": 2,
+        "precio": 3.4027777
+      }
+    ],
+    "image_name": "Balinera -6205.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1152,
+        "idEtiqueta": 2,
+        "idProducto": 25,
+        "valor": "1225.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 20,
+      "103": 10,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 659,
+    "codigo": "6206",
+    "descripcion": "Balinera",
+    "precio": {
+      "idPrecio": 71,
+      "idProducto": 659,
+      "idMoneda": 1,
+      "precio": 1205.0
+    },
+    "precios": [
+      {
+        "idPrecio": 71,
+        "idProducto": 659,
+        "idMoneda": 1,
+        "precio": 1205.0
+      },
+      {
+        "idPrecio": 2977,
+        "idProducto": 659,
+        "idMoneda": 2,
+        "precio": 3.9722223
+      }
+    ],
+    "image_name": "Balinera -6206.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1158,
+        "idEtiqueta": 2,
+        "idProducto": 659,
+        "valor": "1430.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 80,
+      "103": 11,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 26,
+    "codigo": "6302",
+    "descripcion": "Balinera",
+    "precio": {
+      "idPrecio": 72,
+      "idProducto": 26,
+      "idMoneda": 1,
+      "precio": 595.0
+    },
+    "precios": [
+      {
+        "idPrecio": 72,
+        "idProducto": 26,
+        "idMoneda": 1,
+        "precio": 595.0
+      },
+      {
+        "idPrecio": 3130,
+        "idProducto": 26,
+        "idMoneda": 2,
+        "precio": 2.5694444
+      }
+    ],
+    "image_name": "Balinera -6302.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1142,
+        "idEtiqueta": 2,
+        "idProducto": 26,
+        "valor": "925.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 40,
+      "103": 6,
+      "105": 8
+    }
+  },
+  {
+    "idProducto": 27,
+    "codigo": "6303",
+    "descripcion": "Balinera",
+    "precio": {
+      "idPrecio": 73,
+      "idProducto": 27,
+      "idMoneda": 1,
+      "precio": 780.0
+    },
+    "precios": [
+      {
+        "idPrecio": 73,
+        "idProducto": 27,
+        "idMoneda": 1,
+        "precio": 780.0
+      },
+      {
+        "idPrecio": 3115,
+        "idProducto": 27,
+        "idMoneda": 2,
+        "precio": 2.8055556
+      }
+    ],
+    "image_name": "Balinera -6303.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1143,
+        "idEtiqueta": 2,
+        "idProducto": 27,
+        "valor": "1010.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 30,
+      "103": 17,
+      "105": 10
+    }
+  },
+  {
+    "idProducto": 28,
+    "codigo": "6304",
+    "descripcion": "Balinera",
+    "precio": {
+      "idPrecio": 74,
+      "idProducto": 28,
+      "idMoneda": 1,
+      "precio": 890.0
+    },
+    "precios": [
+      {
+        "idPrecio": 74,
+        "idProducto": 28,
+        "idMoneda": 1,
+        "precio": 890.0
+      },
+      {
+        "idPrecio": 3175,
+        "idProducto": 28,
+        "idMoneda": 2,
+        "precio": 3.7361112
+      }
+    ],
+    "image_name": "Balinera -6304.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1147,
+        "idEtiqueta": 2,
+        "idProducto": 28,
+        "valor": "1345.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 14
+    }
+  },
+  {
+    "idProducto": 29,
+    "codigo": "6305",
+    "descripcion": "Balinera",
+    "precio": {
+      "idPrecio": 75,
+      "idProducto": 29,
+      "idMoneda": 1,
+      "precio": 1335.0
+    },
+    "precios": [
+      {
+        "idPrecio": 75,
+        "idProducto": 29,
+        "idMoneda": 1,
+        "precio": 1335.0
+      },
+      {
+        "idPrecio": 3162,
+        "idProducto": 29,
+        "idMoneda": 2,
+        "precio": 3.8888888
+      }
+    ],
+    "image_name": "Balinera -6305.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1148,
+        "idEtiqueta": 2,
+        "idProducto": 29,
+        "valor": "1400.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 0
+    }
+  },
+  {
+    "idProducto": 30,
+    "codigo": "6306",
+    "descripcion": "Balinera",
+    "precio": {
+      "idPrecio": 76,
+      "idProducto": 30,
+      "idMoneda": 1,
+      "precio": 2500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 76,
+        "idProducto": 30,
+        "idMoneda": 1,
+        "precio": 2500.0
+      },
+      {
+        "idPrecio": 3266,
+        "idProducto": 30,
+        "idMoneda": 2,
+        "precio": 9.055555
+      }
+    ],
+    "image_name": "Balinera -6306.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1153,
+        "idEtiqueta": 2,
+        "idProducto": 30,
+        "valor": "3260.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 15,
+      "103": 10,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 1061,
+    "codigo": "6201",
+    "descripcion": "BALINERA",
+    "precio": {
+      "idPrecio": 77,
+      "idProducto": 1061,
+      "idMoneda": 1,
+      "precio": 370.0
+    },
+    "precios": [
+      {
+        "idPrecio": 77,
+        "idProducto": 1061,
+        "idMoneda": 1,
+        "precio": 370.0
+      },
+      {
+        "idPrecio": 3217,
+        "idProducto": 1061,
+        "idMoneda": 2,
+        "precio": 1.3888888
+      }
+    ],
+    "image_name": "BALINERA -6201.jpeg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1140,
+        "idEtiqueta": 2,
+        "idProducto": 1061,
+        "valor": "500.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {}
+  },
+  {
+    "idProducto": 1062,
+    "codigo": "6202",
+    "descripcion": "BALINERA",
+    "precio": {
+      "idPrecio": 78,
+      "idProducto": 1062,
+      "idMoneda": 1,
+      "precio": 390.0
+    },
+    "precios": [
+      {
+        "idPrecio": 78,
+        "idProducto": 1062,
+        "idMoneda": 1,
+        "precio": 390.0
+      },
+      {
+        "idPrecio": 3246,
+        "idProducto": 1062,
+        "idMoneda": 2,
+        "precio": 1.9444444
+      }
+    ],
+    "image_name": "BALINERA -6202.jpeg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 9,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1141,
+        "idEtiqueta": 2,
+        "idProducto": 1062,
+        "valor": "700.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 42,
+    "codigo": "1608",
+    "descripcion": "Bateria AAA",
+    "precio": {
+      "idPrecio": 104,
+      "idProducto": 42,
+      "idMoneda": 1,
+      "precio": 120.0
+    },
+    "precios": [
+      {
+        "idPrecio": 104,
+        "idProducto": 42,
+        "idMoneda": 1,
+        "precio": 120.0
+      },
+      {
+        "idPrecio": 4580,
+        "idProducto": 42,
+        "idMoneda": 2,
+        "precio": 0.5277778
+      }
+    ],
+    "image_name": "Bateria AAA -1608.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 9,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1160,
+        "idEtiqueta": 2,
+        "idProducto": 42,
+        "valor": "190.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 138,
+      "103": 52,
+      "105": 66
+    }
+  },
+  {
     "idProducto": 1864,
     "codigo": "2129",
     "descripcion": "BICICLETA 12\" FUCSHIA",
@@ -49,6 +792,58 @@
     "stocks": {
       "103": 0,
       "105": 0
+    }
+  },
+  {
+    "idProducto": 2135,
+    "codigo": "2147",
+    "descripcion": "BICICLETA 12\" NARANJA",
+    "precio": {
+      "idPrecio": 1640,
+      "idProducto": 2135,
+      "idMoneda": 1,
+      "precio": 26500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1640,
+        "idProducto": 2135,
+        "idMoneda": 1,
+        "precio": 26500.0
+      },
+      {
+        "idPrecio": 2949,
+        "idProducto": 2135,
+        "idMoneda": 2,
+        "precio": 73.611115
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 60,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1161,
+        "idEtiqueta": 2,
+        "idProducto": 2135,
+        "valor": "30825.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 1
     }
   },
   {
@@ -508,6 +1303,589 @@
     "stocks": {}
   },
   {
+    "idProducto": 56,
+    "descripcion": "Bombillo 9W",
+    "precio": {
+      "idPrecio": 145,
+      "idProducto": 56,
+      "idMoneda": 1,
+      "precio": 780.0
+    },
+    "precios": [
+      {
+        "idPrecio": 145,
+        "idProducto": 56,
+        "idMoneda": 1,
+        "precio": 780.0
+      },
+      {
+        "idPrecio": 3027,
+        "idProducto": 56,
+        "idMoneda": 2,
+        "precio": 3.0972223
+      }
+    ],
+    "image_name": "Bombillo 9W.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 67,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1162,
+        "idEtiqueta": 2,
+        "idProducto": 56,
+        "valor": "1115.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 12,
+      "103": 16,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 60,
+    "codigo": "2P20A",
+    "descripcion": "Breker 20A Doble",
+    "precio": {
+      "idPrecio": 161,
+      "idProducto": 60,
+      "idMoneda": 1,
+      "precio": 1965.0
+    },
+    "precios": [
+      {
+        "idPrecio": 3135,
+        "idProducto": 60,
+        "idMoneda": 2,
+        "precio": 7.4305553
+      },
+      {
+        "idPrecio": 161,
+        "idProducto": 60,
+        "idMoneda": 1,
+        "precio": 1965.0
+      }
+    ],
+    "image_name": "Breker 20A Doble -2P20A.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 16,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1133,
+        "idEtiqueta": 2,
+        "idProducto": 60,
+        "valor": "2675.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 20,
+      "103": 17,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 61,
+    "codigo": "1P20A",
+    "descripcion": "Breker 20A Sencillo",
+    "precio": {
+      "idPrecio": 162,
+      "idProducto": 61,
+      "idMoneda": 1,
+      "precio": 890.0
+    },
+    "precios": [
+      {
+        "idPrecio": 162,
+        "idProducto": 61,
+        "idMoneda": 1,
+        "precio": 890.0
+      },
+      {
+        "idPrecio": 2955,
+        "idProducto": 61,
+        "idMoneda": 2,
+        "precio": 3.7361112
+      }
+    ],
+    "image_name": "Breker 20A Sencillo -1P20A.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 16,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1138,
+        "idEtiqueta": 2,
+        "idProducto": 61,
+        "valor": "1345.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 12,
+      "103": 19,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 62,
+    "codigo": "1P32A",
+    "descripcion": "Breker 32A Sencillo",
+    "precio": {
+      "idPrecio": 163,
+      "idProducto": 62,
+      "idMoneda": 1,
+      "precio": 890.0
+    },
+    "precios": [
+      {
+        "idPrecio": 163,
+        "idProducto": 62,
+        "idMoneda": 1,
+        "precio": 890.0
+      },
+      {
+        "idPrecio": 2960,
+        "idProducto": 62,
+        "idMoneda": 2,
+        "precio": 4.375
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 16,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1134,
+        "idEtiqueta": 2,
+        "idProducto": 62,
+        "valor": "1575.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 5,
+      "105": 7
+    }
+  },
+  {
+    "idProducto": 63,
+    "codigo": "2P40A",
+    "descripcion": "Breker 40A Doble",
+    "precio": {
+      "idPrecio": 164,
+      "idProducto": 63,
+      "idMoneda": 1,
+      "precio": 1965.0
+    },
+    "precios": [
+      {
+        "idPrecio": 164,
+        "idProducto": 63,
+        "idMoneda": 1,
+        "precio": 1965.0
+      },
+      {
+        "idPrecio": 3261,
+        "idProducto": 63,
+        "idMoneda": 2,
+        "precio": 7.5
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 16,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1139,
+        "idEtiqueta": 2,
+        "idProducto": 63,
+        "valor": "2700.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 0
+    }
+  },
+  {
+    "idProducto": 64,
+    "codigo": "1P40A",
+    "descripcion": "Breker 40A Sencillo",
+    "precio": {
+      "idPrecio": 165,
+      "idProducto": 64,
+      "idMoneda": 1,
+      "precio": 890.0
+    },
+    "precios": [
+      {
+        "idPrecio": 165,
+        "idProducto": 64,
+        "idMoneda": 1,
+        "precio": 890.0
+      },
+      {
+        "idPrecio": 2893,
+        "idProducto": 64,
+        "idMoneda": 2,
+        "precio": 4.0416665
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 16,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1137,
+        "idEtiqueta": 2,
+        "idProducto": 64,
+        "valor": "1455.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 13,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 65,
+    "codigo": "3P40A",
+    "descripcion": "Breker 40A Triple",
+    "precio": {
+      "idPrecio": 166,
+      "idProducto": 65,
+      "idMoneda": 1,
+      "precio": 3200.0
+    },
+    "precios": [
+      {
+        "idPrecio": 166,
+        "idProducto": 65,
+        "idMoneda": 1,
+        "precio": 3200.0
+      },
+      {
+        "idPrecio": 2916,
+        "idProducto": 65,
+        "idMoneda": 2,
+        "precio": 13.569445
+      }
+    ],
+    "image_name": "Breker 40A Triple -3P40A.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 16,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1150,
+        "idEtiqueta": 2,
+        "idProducto": 65,
+        "valor": "4885.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 4,
+      "103": 11,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 66,
+    "codigo": "2P60A",
+    "descripcion": "Breker 60A Doble",
+    "precio": {
+      "idPrecio": 167,
+      "idProducto": 66,
+      "idMoneda": 1,
+      "precio": 1965.0
+    },
+    "precios": [
+      {
+        "idPrecio": 167,
+        "idProducto": 66,
+        "idMoneda": 1,
+        "precio": 1965.0
+      },
+      {
+        "idPrecio": 2932,
+        "idProducto": 66,
+        "idMoneda": 2,
+        "precio": 8.75
+      }
+    ],
+    "image_name": "Breker 60A Doble -2P60A.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 16,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1136,
+        "idEtiqueta": 2,
+        "idProducto": 66,
+        "valor": "3150.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 8,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 67,
+    "codigo": "1P60A",
+    "descripcion": "Breker 60A Sencillo",
+    "precio": {
+      "idPrecio": 168,
+      "idProducto": 67,
+      "idMoneda": 1,
+      "precio": 890.0
+    },
+    "precios": [
+      {
+        "idPrecio": 168,
+        "idProducto": 67,
+        "idMoneda": 1,
+        "precio": 890.0
+      },
+      {
+        "idPrecio": 2885,
+        "idProducto": 67,
+        "idMoneda": 2,
+        "precio": 4.5277777
+      }
+    ],
+    "image_name": "Breker 60A Sencillo -1P60A.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 16,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1135,
+        "idEtiqueta": 2,
+        "idProducto": 67,
+        "valor": "1630.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 40,
+      "103": 6,
+      "105": 12
+    }
+  },
+  {
+    "idProducto": 76,
+    "codigo": "H13-1-3/4",
+    "descripcion": "Bushing 1--3/4",
+    "precio": {
+      "idPrecio": 182,
+      "idProducto": 76,
+      "idMoneda": 1,
+      "precio": 185.0
+    },
+    "precios": [
+      {
+        "idPrecio": 3043,
+        "idProducto": 76,
+        "idMoneda": 2,
+        "precio": 0.6944444
+      },
+      {
+        "idPrecio": 182,
+        "idProducto": 76,
+        "idMoneda": 1,
+        "precio": 185.0
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 13,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1163,
+        "idEtiqueta": 2,
+        "idProducto": 76,
+        "valor": "250.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 12,
+      "103": 18,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 77,
+    "codigo": "H13-1-1/2",
+    "descripcion": "Bushing 3/4--1/2 Rosca",
+    "precio": {
+      "idPrecio": 183,
+      "idProducto": 77,
+      "idMoneda": 1,
+      "precio": 120.0
+    },
+    "precios": [
+      {
+        "idPrecio": 183,
+        "idProducto": 77,
+        "idMoneda": 1,
+        "precio": 120.0
+      },
+      {
+        "idPrecio": 2886,
+        "idProducto": 77,
+        "idMoneda": 2,
+        "precio": 0.4027778
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 13,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1164,
+        "idEtiqueta": 2,
+        "idProducto": 77,
+        "valor": "145.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 34,
+      "103": 44,
+      "105": 6
+    }
+  },
+  {
     "idProducto": 1883,
     "codigo": "3221",
     "descripcion": "CAMION JUGUETE AMARILLO",
@@ -776,14 +2154,14 @@
       "idPrecio": 2539,
       "idProducto": 2995,
       "idMoneda": 1,
-      "precio": 20350.0
+      "precio": 18500.0
     },
     "precios": [
       {
         "idPrecio": 2539,
         "idProducto": 2995,
         "idMoneda": 1,
-        "precio": 20350.0
+        "precio": 18500.0
       },
       {
         "idPrecio": 2611,
@@ -805,7 +2183,25 @@
         "valor": "05/04/25"
       },
       {
+        "idRelacion": 1090,
+        "idEtiqueta": 2,
+        "idProducto": 2995,
+        "valor": "20350"
+      },
+      {
+        "idRelacion": 1206,
+        "idEtiqueta": 2,
+        "idProducto": 2995,
+        "valor": "20350.0"
+      },
+      {
         "idRelacion": 1094,
+        "idEtiqueta": 2,
+        "idProducto": 2995,
+        "valor": "20350.0"
+      },
+      {
+        "idRelacion": 1165,
         "idEtiqueta": 2,
         "idProducto": 2995,
         "valor": "20350.0"
@@ -815,12 +2211,6 @@
         "idEtiqueta": 2,
         "idProducto": 2995,
         "valor": "20350.0"
-      },
-      {
-        "idRelacion": 1090,
-        "idEtiqueta": 2,
-        "idProducto": 2995,
-        "valor": "20350"
       }
     ],
     "descuentos": [
@@ -834,7 +2224,752 @@
     ],
     "stocks": {
       "103": 7,
-      "105": 11
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 126,
+    "codigo": "6231",
+    "descripcion": "Cortador Cabello",
+    "precio": {
+      "idPrecio": 298,
+      "idProducto": 126,
+      "idMoneda": 1,
+      "precio": 5255.0
+    },
+    "precios": [
+      {
+        "idPrecio": 298,
+        "idProducto": 126,
+        "idMoneda": 1,
+        "precio": 5255.0
+      },
+      {
+        "idPrecio": 1327,
+        "idProducto": 126,
+        "idMoneda": 2,
+        "precio": 18.097221
+      }
+    ],
+    "image_name": "Cortador Cabello -6231.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 69,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1168,
+        "idEtiqueta": 2,
+        "idProducto": 126,
+        "valor": "6515.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 3,
+      "103": 0,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 655,
+    "codigo": "6230",
+    "descripcion": "Cortador De Cabello",
+    "precio": {
+      "idPrecio": 299,
+      "idProducto": 655,
+      "idMoneda": 1,
+      "precio": 5255.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1328,
+        "idProducto": 655,
+        "idMoneda": 2,
+        "precio": 18.097221
+      },
+      {
+        "idPrecio": 299,
+        "idProducto": 655,
+        "idMoneda": 1,
+        "precio": 5255.0
+      }
+    ],
+    "image_name": "Cortador De Cabello -6230.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 69,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1166,
+        "idEtiqueta": 2,
+        "idProducto": 655,
+        "valor": "6515.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 711,
+    "codigo": "ED6232",
+    "descripcion": "CORTADOR DE CABELLO",
+    "precio": {
+      "idPrecio": 300,
+      "idProducto": 711,
+      "idMoneda": 1,
+      "precio": 5255.0
+    },
+    "precios": [
+      {
+        "idPrecio": 300,
+        "idProducto": 711,
+        "idMoneda": 1,
+        "precio": 5255.0
+      },
+      {
+        "idPrecio": 1329,
+        "idProducto": 711,
+        "idMoneda": 2,
+        "precio": 18.097221
+      }
+    ],
+    "image_name": "CORTADOR DE CABELLO -ED6232.jpg",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 69,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1167,
+        "idEtiqueta": 2,
+        "idProducto": 711,
+        "valor": "6515.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 3,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 2604,
+    "descripcion": "CREMA CORPORAL",
+    "precio": {
+      "idPrecio": 2141,
+      "idProducto": 2604,
+      "idMoneda": 1,
+      "precio": 1225.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2141,
+        "idProducto": 2604,
+        "idMoneda": 1,
+        "precio": 1225.0
+      },
+      {
+        "idPrecio": 3476,
+        "idProducto": 2604,
+        "idMoneda": 2,
+        "precio": 4.375
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1169,
+        "idEtiqueta": 2,
+        "idProducto": 2604,
+        "valor": "1575.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 47,
+      "103": 21,
+      "105": 23
+    }
+  },
+  {
+    "idProducto": 133,
+    "codigo": "8219",
+    "descripcion": "Crema Facial B/ De Dia",
+    "precio": {
+      "idPrecio": 350,
+      "idProducto": 133,
+      "idMoneda": 1,
+      "precio": 3110.0
+    },
+    "precios": [
+      {
+        "idPrecio": 350,
+        "idProducto": 133,
+        "idMoneda": 1,
+        "precio": 3110.0
+      },
+      {
+        "idPrecio": 3441,
+        "idProducto": 133,
+        "idMoneda": 2,
+        "precio": 11.305555
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 6,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1170,
+        "idEtiqueta": 2,
+        "idProducto": 133,
+        "valor": "4070.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 12
+    }
+  },
+  {
+    "idProducto": 134,
+    "codigo": "8226",
+    "descripcion": "Crema Facial B/ De Noche",
+    "precio": {
+      "idPrecio": 351,
+      "idProducto": 134,
+      "idMoneda": 1,
+      "precio": 2665.0
+    },
+    "precios": [
+      {
+        "idPrecio": 351,
+        "idProducto": 134,
+        "idMoneda": 1,
+        "precio": 2665.0
+      },
+      {
+        "idPrecio": 3390,
+        "idProducto": 134,
+        "idMoneda": 2,
+        "precio": 9.694445
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 6,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1171,
+        "idEtiqueta": 2,
+        "idProducto": 134,
+        "valor": "3490.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 13,
+      "103": 3,
+      "105": 7
+    }
+  },
+  {
+    "idProducto": 734,
+    "codigo": "8295",
+    "descripcion": "CREMA FACIAL NEVADA ALOE",
+    "precio": {
+      "idPrecio": 353,
+      "idProducto": 734,
+      "idMoneda": 1,
+      "precio": 2220.0
+    },
+    "precios": [
+      {
+        "idPrecio": 353,
+        "idProducto": 734,
+        "idMoneda": 1,
+        "precio": 2220.0
+      },
+      {
+        "idPrecio": 3383,
+        "idProducto": 734,
+        "idMoneda": 2,
+        "precio": 8.083333
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 6,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1172,
+        "idEtiqueta": 2,
+        "idProducto": 734,
+        "valor": "2910.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 17,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 135,
+    "codigo": "8905",
+    "descripcion": "Crema Facial Nevada Anti Acne",
+    "precio": {
+      "idPrecio": 354,
+      "idProducto": 135,
+      "idMoneda": 1,
+      "precio": 2665.0
+    },
+    "precios": [
+      {
+        "idPrecio": 354,
+        "idProducto": 135,
+        "idMoneda": 1,
+        "precio": 2665.0
+      },
+      {
+        "idPrecio": 3437,
+        "idProducto": 135,
+        "idMoneda": 2,
+        "precio": 9.694445
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 6,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1173,
+        "idEtiqueta": 2,
+        "idProducto": 135,
+        "valor": "3490.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 141,
+    "codigo": "001SP",
+    "descripcion": "Cucharas De Metal",
+    "precio": {
+      "idPrecio": 362,
+      "idProducto": 141,
+      "idMoneda": 1,
+      "precio": 815.0
+    },
+    "precios": [
+      {
+        "idPrecio": 362,
+        "idProducto": 141,
+        "idMoneda": 1,
+        "precio": 815.0
+      },
+      {
+        "idPrecio": 4020,
+        "idProducto": 141,
+        "idMoneda": 2,
+        "precio": 3.5694444
+      }
+    ],
+    "image_name": "Cucharas De Metal -001SP.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 23,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1208,
+        "idEtiqueta": 2,
+        "idProducto": 141,
+        "valor": "1285.0"
+      },
+      {
+        "idRelacion": 1189,
+        "idEtiqueta": 2,
+        "idProducto": 141,
+        "valor": "1285.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 7,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 159,
+    "codigo": "2-120",
+    "descripcion": "Disco Flap Grano 120",
+    "precio": {
+      "idPrecio": 395,
+      "idProducto": 159,
+      "idMoneda": 1,
+      "precio": 500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 395,
+        "idProducto": 159,
+        "idMoneda": 1,
+        "precio": 500.0
+      },
+      {
+        "idPrecio": 2993,
+        "idProducto": 159,
+        "idMoneda": 2,
+        "precio": 2.1111112
+      }
+    ],
+    "image_name": "Disco Flap Grano 120 -2-120.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 44,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1174,
+        "idEtiqueta": 2,
+        "idProducto": 159,
+        "valor": "760.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 10,
+      "103": 12,
+      "105": 9
+    }
+  },
+  {
+    "idProducto": 161,
+    "codigo": "2-80",
+    "descripcion": "Disco Flap Grano 80",
+    "precio": {
+      "idPrecio": 397,
+      "idProducto": 161,
+      "idMoneda": 1,
+      "precio": 500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 397,
+        "idProducto": 161,
+        "idMoneda": 1,
+        "precio": 500.0
+      },
+      {
+        "idPrecio": 2912,
+        "idProducto": 161,
+        "idMoneda": 2,
+        "precio": 2.0833333
+      }
+    ],
+    "image_name": "Disco Flap Grano 80 -2-80.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 44,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1175,
+        "idEtiqueta": 2,
+        "idProducto": 161,
+        "valor": "750.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 9,
+      "105": 5
+    }
+  },
+  {
+    "idProducto": 168,
+    "codigo": "0020",
+    "descripcion": "Espatula 2”",
+    "precio": {
+      "idPrecio": 424,
+      "idProducto": 168,
+      "idMoneda": 1,
+      "precio": 540.0
+    },
+    "precios": [
+      {
+        "idPrecio": 424,
+        "idProducto": 168,
+        "idMoneda": 1,
+        "precio": 540.0
+      },
+      {
+        "idPrecio": 2899,
+        "idProducto": 168,
+        "idMoneda": 2,
+        "precio": 2.2638888
+      }
+    ],
+    "image_name": "Espatula 2” -0020.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1176,
+        "idEtiqueta": 2,
+        "idProducto": 168,
+        "valor": "815.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 8,
+      "103": 6,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 169,
+    "codigo": "0040",
+    "descripcion": "Espatula 4”",
+    "precio": {
+      "idPrecio": 425,
+      "idProducto": 169,
+      "idMoneda": 1,
+      "precio": 630.0
+    },
+    "precios": [
+      {
+        "idPrecio": 425,
+        "idProducto": 169,
+        "idMoneda": 1,
+        "precio": 630.0
+      },
+      {
+        "idPrecio": 2872,
+        "idProducto": 169,
+        "idMoneda": 2,
+        "precio": 2.5833333
+      }
+    ],
+    "image_name": "Espatula 4” -0040.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1177,
+        "idEtiqueta": 2,
+        "idProducto": 169,
+        "valor": "930.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 10,
+      "103": 4,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 170,
+    "codigo": "5190",
+    "descripcion": "Espejo C/ Marco",
+    "precio": {
+      "idPrecio": 427,
+      "idProducto": 170,
+      "idMoneda": 1,
+      "precio": 560.0
+    },
+    "precios": [
+      {
+        "idPrecio": 427,
+        "idProducto": 170,
+        "idMoneda": 1,
+        "precio": 560.0
+      },
+      {
+        "idPrecio": 4141,
+        "idProducto": 170,
+        "idMoneda": 2,
+        "precio": 2.5833333
+      }
+    ],
+    "image_name": "Espejo C\u0026 Marco -5190.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 38,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1178,
+        "idEtiqueta": 2,
+        "idProducto": 170,
+        "valor": "930.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 5,
+      "105": 10
     }
   },
   {
@@ -845,14 +2980,14 @@
       "idPrecio": 1765,
       "idProducto": 2259,
       "idMoneda": 1,
-      "precio": 18315.0
+      "precio": 15000.0
     },
     "precios": [
       {
         "idPrecio": 1765,
         "idProducto": 2259,
         "idMoneda": 1,
-        "precio": 18315.0
+        "precio": 15000.0
       },
       {
         "idPrecio": 3033,
@@ -869,6 +3004,12 @@
     "idDepartamento": 2,
     "movimientos": [],
     "etiquetasProductos": [
+      {
+        "idRelacion": 1130,
+        "idEtiqueta": 2,
+        "idProducto": 2259,
+        "valor": "18315.0"
+      },
       {
         "idRelacion": 1126,
         "idEtiqueta": 2,
@@ -887,7 +3028,738 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 9
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 1013,
+    "codigo": "G02A",
+    "descripcion": "Estufa Gas Oasis 2Q",
+    "precio": {
+      "idPrecio": 446,
+      "idProducto": 1013,
+      "idMoneda": 1,
+      "precio": 13700.0
+    },
+    "precios": [
+      {
+        "idPrecio": 446,
+        "idProducto": 1013,
+        "idMoneda": 1,
+        "precio": 13700.0
+      },
+      {
+        "idPrecio": 2891,
+        "idProducto": 1013,
+        "idMoneda": 2,
+        "precio": 45.22222
+      }
+    ],
+    "image_name": "Estufa Gas Oasis 2Q -G02A.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 39,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1129,
+        "idEtiqueta": 2,
+        "idProducto": 1013,
+        "valor": "16280.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 8,
+      "105": 8
+    }
+  },
+  {
+    "idProducto": 180,
+    "codigo": "8016",
+    "descripcion": "Estufa Ind C/olla",
+    "precio": {
+      "idPrecio": 447,
+      "idProducto": 180,
+      "idMoneda": 1,
+      "precio": 18500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 447,
+        "idProducto": 180,
+        "idMoneda": 1,
+        "precio": 18500.0
+      },
+      {
+        "idPrecio": 1330,
+        "idProducto": 180,
+        "idMoneda": 2,
+        "precio": 56.52778
+      }
+    ],
+    "image_name": "Estufa ind C\u0026Olla -8016.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 56,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1179,
+        "idEtiqueta": 2,
+        "idProducto": 180,
+        "valor": "20350.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 1,
+      "105": 10
+    }
+  },
+  {
+    "idProducto": 187,
+    "codigo": "FZD21",
+    "descripcion": "Frazada De Piso",
+    "precio": {
+      "idPrecio": 461,
+      "idProducto": 187,
+      "idMoneda": 1,
+      "precio": 250.0
+    },
+    "precios": [
+      {
+        "idPrecio": 461,
+        "idProducto": 187,
+        "idMoneda": 1,
+        "precio": 250.0
+      },
+      {
+        "idPrecio": 3470,
+        "idProducto": 187,
+        "idMoneda": 2,
+        "precio": 0.8888889
+      }
+    ],
+    "image_name": "Frazada De Piso -FZD21.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1128,
+        "idEtiqueta": 2,
+        "idProducto": 187,
+        "valor": "320.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 150,
+      "103": 74,
+      "105": 35
+    }
+  },
+  {
+    "idProducto": 2610,
+    "descripcion": "GEL DE BAÑO 1250ML",
+    "precio": {
+      "idPrecio": 2147,
+      "idProducto": 2610,
+      "idMoneda": 1,
+      "precio": 2000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2147,
+        "idProducto": 2610,
+        "idMoneda": 1,
+        "precio": 2000.0
+      },
+      {
+        "idPrecio": 3353,
+        "idProducto": 2610,
+        "idMoneda": 2,
+        "precio": 7.125
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1180,
+        "idEtiqueta": 2,
+        "idProducto": 2610,
+        "valor": "2565.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 14,
+      "103": 2,
+      "105": 7
+    }
+  },
+  {
+    "idProducto": 2612,
+    "descripcion": "GEL DE BAÑO 750ML",
+    "precio": {
+      "idPrecio": 2149,
+      "idProducto": 2612,
+      "idMoneda": 1,
+      "precio": 1335.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2149,
+        "idProducto": 2612,
+        "idMoneda": 1,
+        "precio": 1335.0
+      },
+      {
+        "idPrecio": 3444,
+        "idProducto": 2612,
+        "idMoneda": 2,
+        "precio": 4.861111
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1181,
+        "idEtiqueta": 2,
+        "idProducto": 2612,
+        "valor": "1750.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 74,
+      "103": 36,
+      "105": 25
+    }
+  },
+  {
+    "idProducto": 2611,
+    "descripcion": "GEL DE BAÑO DAILY 600ML",
+    "precio": {
+      "idPrecio": 2148,
+      "idProducto": 2611,
+      "idMoneda": 1,
+      "precio": 1225.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2148,
+        "idProducto": 2611,
+        "idMoneda": 1,
+        "precio": 1225.0
+      },
+      {
+        "idPrecio": 3424,
+        "idProducto": 2611,
+        "idMoneda": 2,
+        "precio": 4.375
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1182,
+        "idEtiqueta": 2,
+        "idProducto": 2611,
+        "valor": "1575.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 11,
+      "103": 13,
+      "105": 20
+    }
+  },
+  {
+    "idProducto": 2407,
+    "codigo": "GR2500",
+    "descripcion": "GENERADOR A GASOLINA 2500W",
+    "precio": {
+      "idPrecio": 1943,
+      "idProducto": 2407,
+      "idMoneda": 1,
+      "precio": 148000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2133,
+        "idProducto": 2407,
+        "idMoneda": 2,
+        "precio": 452.22223
+      },
+      {
+        "idPrecio": 1943,
+        "idProducto": 2407,
+        "idMoneda": 1,
+        "precio": 148000.0
+      }
+    ],
+    "image_name": "GENERADOR A GASOLINA 2500W -GR2500.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 104,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1183,
+        "idEtiqueta": 2,
+        "idProducto": 2407,
+        "valor": "162800.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 0,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 213,
+    "codigo": "HRD2",
+    "descripcion": "Gorra",
+    "precio": {
+      "idPrecio": 515,
+      "idProducto": 213,
+      "idMoneda": 1,
+      "precio": 1110.0
+    },
+    "precios": [
+      {
+        "idPrecio": 515,
+        "idProducto": 213,
+        "idMoneda": 1,
+        "precio": 1110.0
+      },
+      {
+        "idPrecio": 4548,
+        "idProducto": 213,
+        "idMoneda": 2,
+        "precio": 4.0416665
+      }
+    ],
+    "image_name": "Gorra -HRD2.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 8,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1184,
+        "idEtiqueta": 2,
+        "idProducto": 213,
+        "valor": "1455.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 5,
+      "105": 6
+    }
+  },
+  {
+    "idProducto": 214,
+    "codigo": "26/6HQ",
+    "descripcion": "Grapas",
+    "precio": {
+      "idPrecio": 516,
+      "idProducto": 214,
+      "idMoneda": 1,
+      "precio": 390.0
+    },
+    "precios": [
+      {
+        "idPrecio": 516,
+        "idProducto": 214,
+        "idMoneda": 1,
+        "precio": 390.0
+      },
+      {
+        "idPrecio": 4602,
+        "idProducto": 214,
+        "idMoneda": 2,
+        "precio": 1.1388888
+      }
+    ],
+    "image_name": "Grapas -26\u00266HQ.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 9,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1197,
+        "idEtiqueta": 2,
+        "idProducto": 214,
+        "valor": "410.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 60,
+      "103": 10,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 219,
+    "codigo": "NN15",
+    "descripcion": "Guantes",
+    "precio": {
+      "idPrecio": 523,
+      "idProducto": 219,
+      "idMoneda": 1,
+      "precio": 540.0
+    },
+    "precios": [
+      {
+        "idPrecio": 523,
+        "idProducto": 219,
+        "idMoneda": 1,
+        "precio": 540.0
+      },
+      {
+        "idPrecio": 3093,
+        "idProducto": 219,
+        "idMoneda": 2,
+        "precio": 2.2638888
+      }
+    ],
+    "image_name": "Guantes -NN15.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1185,
+        "idEtiqueta": 2,
+        "idProducto": 219,
+        "valor": "815.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 13,
+      "103": 0,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 222,
+    "codigo": "1412",
+    "descripcion": "Hoja De Segueta 12\"",
+    "precio": {
+      "idPrecio": 532,
+      "idProducto": 222,
+      "idMoneda": 1,
+      "precio": 100.0
+    },
+    "precios": [
+      {
+        "idPrecio": 532,
+        "idProducto": 222,
+        "idMoneda": 1,
+        "precio": 100.0
+      },
+      {
+        "idPrecio": 2908,
+        "idProducto": 222,
+        "idMoneda": 2,
+        "precio": 0.4027778
+      }
+    ],
+    "image_name": "Hoja De Segueta 12\u0026 -1412.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1131,
+        "idEtiqueta": 2,
+        "idProducto": 222,
+        "valor": "145.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 40,
+      "103": 18,
+      "105": 8
+    }
+  },
+  {
+    "idProducto": 237,
+    "codigo": "U04",
+    "descripcion": "Interruptor Simple Marfil",
+    "precio": {
+      "idPrecio": 553,
+      "idProducto": 237,
+      "idMoneda": 1,
+      "precio": 280.0
+    },
+    "precios": [
+      {
+        "idPrecio": 553,
+        "idProducto": 237,
+        "idMoneda": 1,
+        "precio": 280.0
+      },
+      {
+        "idPrecio": 3214,
+        "idProducto": 237,
+        "idMoneda": 2,
+        "precio": 1.1388888
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1187,
+        "idEtiqueta": 2,
+        "idProducto": 237,
+        "valor": "410.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 0,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 247,
+    "codigo": "1010",
+    "descripcion": "Jgo De Caballo",
+    "precio": {
+      "idPrecio": 578,
+      "idProducto": 247,
+      "idMoneda": 1,
+      "precio": 2665.0
+    },
+    "precios": [
+      {
+        "idPrecio": 578,
+        "idProducto": 247,
+        "idMoneda": 1,
+        "precio": 2665.0
+      },
+      {
+        "idPrecio": 4327,
+        "idProducto": 247,
+        "idMoneda": 2,
+        "precio": 14.875
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 7,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1188,
+        "idEtiqueta": 2,
+        "idProducto": 247,
+        "valor": "5355.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 2,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 250,
+    "codigo": "1892",
+    "descripcion": "Jgo De Cucharones",
+    "precio": {
+      "idPrecio": 584,
+      "idProducto": 250,
+      "idMoneda": 1,
+      "precio": 500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 584,
+        "idProducto": 250,
+        "idMoneda": 1,
+        "precio": 500.0
+      },
+      {
+        "idPrecio": 3792,
+        "idProducto": 250,
+        "idMoneda": 2,
+        "precio": 2.2638888
+      }
+    ],
+    "image_name": "Jgo De Cucharones -1892.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 23,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1190,
+        "idEtiqueta": 2,
+        "idProducto": 250,
+        "valor": "815.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 7,
+      "105": 5
     }
   },
   {
@@ -938,7 +3810,7 @@
       }
     ],
     "stocks": {
-      "105": 0
+      "105": 3
     }
   },
   {
@@ -992,6 +3864,114 @@
     }
   },
   {
+    "idProducto": 793,
+    "codigo": "215",
+    "descripcion": "Lampara De Kerosene",
+    "precio": {
+      "idPrecio": 628,
+      "idProducto": 793,
+      "idMoneda": 1,
+      "precio": 2370.0
+    },
+    "precios": [
+      {
+        "idPrecio": 628,
+        "idProducto": 793,
+        "idMoneda": 1,
+        "precio": 2370.0
+      },
+      {
+        "idPrecio": 3641,
+        "idProducto": 793,
+        "idMoneda": 2,
+        "precio": 9.055555
+      }
+    ],
+    "image_name": "Lampara De Kerosene -215.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 27,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1191,
+        "idEtiqueta": 2,
+        "idProducto": 793,
+        "valor": "3260.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 18,
+      "103": 6,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 794,
+    "codigo": "235",
+    "descripcion": "Lampara De Kerosene",
+    "precio": {
+      "idPrecio": 629,
+      "idProducto": 794,
+      "idMoneda": 1,
+      "precio": 2000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 629,
+        "idProducto": 794,
+        "idMoneda": 1,
+        "precio": 2000.0
+      },
+      {
+        "idPrecio": 4147,
+        "idProducto": 794,
+        "idMoneda": 2,
+        "precio": 8.083333
+      }
+    ],
+    "image_name": "Lampara De Kerosene -235.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 27,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1192,
+        "idEtiqueta": 2,
+        "idProducto": 794,
+        "valor": "2910.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 31,
+      "103": 5,
+      "105": 4
+    }
+  },
+  {
     "idProducto": 1200,
     "codigo": "7967",
     "descripcion": "LAVADORA AUTOMATICA 11.5KG",
@@ -1024,16 +4004,16 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 1113,
-        "idEtiqueta": 2,
-        "idProducto": 1200,
-        "valor": "500.0"
-      },
-      {
         "idRelacion": 1101,
         "idEtiqueta": 2,
         "idProducto": 1200,
         "valor": "185000.0"
+      },
+      {
+        "idRelacion": 1113,
+        "idEtiqueta": 2,
+        "idProducto": 1200,
+        "valor": "500.0"
       },
       {
         "idRelacion": 560,
@@ -1053,6 +4033,118 @@
     ],
     "stocks": {
       "105": 0
+    }
+  },
+  {
+    "idProducto": 2380,
+    "codigo": "7356",
+    "descripcion": "LAVADORA AUTOMATICA 11KG",
+    "precio": {
+      "idPrecio": 1886,
+      "idProducto": 2380,
+      "idMoneda": 1,
+      "precio": 166500.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1924,
+        "idProducto": 2380,
+        "idMoneda": 2,
+        "precio": 514.4028
+      },
+      {
+        "idPrecio": 1886,
+        "idProducto": 2380,
+        "idMoneda": 1,
+        "precio": 166500.0
+      }
+    ],
+    "image_name": "LAVADORA AUTOMATICA 11KG -7356.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 54,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1193,
+        "idEtiqueta": 2,
+        "idProducto": 2380,
+        "valor": "185185.0"
+      },
+      {
+        "idRelacion": 559,
+        "idEtiqueta": 13,
+        "idProducto": 2380,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 0,
+      "105": 1
+    }
+  },
+  {
+    "idProducto": 278,
+    "codigo": "6219",
+    "descripcion": "Lentes Para Leer",
+    "precio": {
+      "idPrecio": 659,
+      "idProducto": 278,
+      "idMoneda": 1,
+      "precio": 1075.0
+    },
+    "precios": [
+      {
+        "idPrecio": 659,
+        "idProducto": 278,
+        "idMoneda": 1,
+        "precio": 1075.0
+      },
+      {
+        "idPrecio": 4585,
+        "idProducto": 278,
+        "idMoneda": 2,
+        "precio": 3.5694444
+      }
+    ],
+    "image_name": "Lentes Para Leer -6219.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 9,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1194,
+        "idEtiqueta": 2,
+        "idProducto": 278,
+        "valor": "1285.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 162,
+      "103": 14,
+      "105": 29
     }
   },
   {
@@ -1088,10 +4180,10 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 1114,
+        "idRelacion": 1089,
         "idEtiqueta": 2,
         "idProducto": 1069,
-        "valor": "60.0"
+        "valor": "22200"
       },
       {
         "idRelacion": 1093,
@@ -1100,10 +4192,10 @@
         "valor": "22200.0"
       },
       {
-        "idRelacion": 1089,
+        "idRelacion": 1114,
         "idEtiqueta": 2,
         "idProducto": 1069,
-        "valor": "22200"
+        "valor": "60.0"
       }
     ],
     "descuentos": [
@@ -1116,8 +4208,9 @@
       }
     ],
     "stocks": {
-      "103": 0,
-      "105": 0
+      "102": 11,
+      "103": 6,
+      "105": 1
     }
   },
   {
@@ -1223,7 +4316,7 @@
     "stocks": {
       "102": 10,
       "103": 8,
-      "105": 3
+      "105": 2
     }
   },
   {
@@ -1277,6 +4370,65 @@
     "stocks": {
       "103": 0,
       "105": 0
+    }
+  },
+  {
+    "idProducto": 1821,
+    "codigo": "ML-OPM-6L",
+    "descripcion": "Olla a presion Automatica",
+    "precio": {
+      "idPrecio": 808,
+      "idProducto": 1821,
+      "idMoneda": 1,
+      "precio": 22200.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1358,
+        "idProducto": 1821,
+        "idMoneda": 2,
+        "precio": 73.486115
+      },
+      {
+        "idPrecio": 808,
+        "idProducto": 1821,
+        "idMoneda": 1,
+        "precio": 22200.0
+      }
+    ],
+    "image_name": "Olla a presion Automatica -ML-OPM-6L.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 56,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1132,
+        "idEtiqueta": 2,
+        "idProducto": 1821,
+        "valor": "26455.0"
+      },
+      {
+        "idRelacion": 547,
+        "idEtiqueta": 10,
+        "idProducto": 1821,
+        "valor": ""
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 4,
+      "105": 13
     }
   },
   {
@@ -1334,8 +4486,8 @@
       }
     ],
     "stocks": {
-      "103": 4,
-      "105": 7
+      "103": 13,
+      "105": 24
     }
   },
   {
@@ -1377,16 +4529,10 @@
         "valor": "31-03"
       },
       {
-        "idRelacion": 1116,
+        "idRelacion": 1088,
         "idEtiqueta": 2,
         "idProducto": 2797,
-        "valor": "45.0"
-      },
-      {
-        "idRelacion": 1096,
-        "idEtiqueta": 2,
-        "idProducto": 2797,
-        "valor": "16650.0"
+        "valor": "16650"
       },
       {
         "idRelacion": 1092,
@@ -1395,10 +4541,16 @@
         "valor": "16650.0"
       },
       {
-        "idRelacion": 1088,
+        "idRelacion": 1096,
         "idEtiqueta": 2,
         "idProducto": 2797,
-        "valor": "16650"
+        "valor": "16650.0"
+      },
+      {
+        "idRelacion": 1116,
+        "idEtiqueta": 2,
+        "idProducto": 2797,
+        "valor": "45.0"
       }
     ],
     "descuentos": [
@@ -1412,7 +4564,7 @@
     ],
     "stocks": {
       "103": 10,
-      "105": 1
+      "105": 7
     }
   },
   {
@@ -1475,6 +4627,487 @@
     }
   },
   {
+    "idProducto": 2615,
+    "descripcion": "PERFUME DUBAI",
+    "precio": {
+      "idPrecio": 2152,
+      "idProducto": 2615,
+      "idMoneda": 1,
+      "precio": 2000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2152,
+        "idProducto": 2615,
+        "idMoneda": 1,
+        "precio": 2000.0
+      },
+      {
+        "idPrecio": 3358,
+        "idProducto": 2615,
+        "idMoneda": 2,
+        "precio": 7.125
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1195,
+        "idEtiqueta": 2,
+        "idProducto": 2615,
+        "valor": "2565.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 14,
+      "103": 0,
+      "105": 62
+    }
+  },
+  {
+    "idProducto": 375,
+    "codigo": "SP24",
+    "descripcion": "Plato Hondo De Metal",
+    "precio": {
+      "idPrecio": 921,
+      "idProducto": 375,
+      "idMoneda": 1,
+      "precio": 410.0
+    },
+    "precios": [
+      {
+        "idPrecio": 921,
+        "idProducto": 375,
+        "idMoneda": 1,
+        "precio": 410.0
+      },
+      {
+        "idPrecio": 3992,
+        "idProducto": 375,
+        "idMoneda": 2,
+        "precio": 1.625
+      }
+    ],
+    "image_name": "Plato Hondo De Metal -SP24.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 61,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1196,
+        "idEtiqueta": 2,
+        "idProducto": 375,
+        "valor": "585.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 65,
+      "103": 16,
+      "105": 13
+    }
+  },
+  {
+    "idProducto": 840,
+    "codigo": "Q7015",
+    "descripcion": "PROTECTOR 120V HEAVY DUTY",
+    "precio": {
+      "idPrecio": 942,
+      "idProducto": 840,
+      "idMoneda": 1,
+      "precio": 7110.0
+    },
+    "precios": [
+      {
+        "idPrecio": 942,
+        "idProducto": 840,
+        "idMoneda": 1,
+        "precio": 7110.0
+      },
+      {
+        "idPrecio": 3071,
+        "idProducto": 840,
+        "idMoneda": 2,
+        "precio": 30.055555
+      }
+    ],
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 71,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1198,
+        "idEtiqueta": 2,
+        "idProducto": 840,
+        "valor": "10820.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 1146,
+    "codigo": "C1810",
+    "descripcion": "RETRACTIL TRANSPARENTE",
+    "precio": {
+      "idPrecio": 989,
+      "idProducto": 1146,
+      "idMoneda": 1,
+      "precio": 3850.0
+    },
+    "precios": [
+      {
+        "idPrecio": 989,
+        "idProducto": 1146,
+        "idMoneda": 1,
+        "precio": 3850.0
+      },
+      {
+        "idPrecio": 2922,
+        "idProducto": 1146,
+        "idMoneda": 2,
+        "precio": 12.930555
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1207,
+        "idEtiqueta": 2,
+        "idProducto": 1146,
+        "valor": "4655.0"
+      },
+      {
+        "idRelacion": 1199,
+        "idEtiqueta": 2,
+        "idProducto": 1146,
+        "valor": "4655.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 6,
+      "103": 4,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 406,
+    "codigo": "30205",
+    "descripcion": "Rollete",
+    "precio": {
+      "idPrecio": 991,
+      "idProducto": 406,
+      "idMoneda": 1,
+      "precio": 1260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 991,
+        "idProducto": 406,
+        "idMoneda": 1,
+        "precio": 1260.0
+      },
+      {
+        "idPrecio": 3190,
+        "idProducto": 406,
+        "idMoneda": 2,
+        "precio": 5.1805553
+      }
+    ],
+    "image_name": "Rollete -30205.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 12,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1154,
+        "idEtiqueta": 2,
+        "idProducto": 406,
+        "valor": "1865.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 25,
+      "103": 21,
+      "105": 3
+    }
+  },
+  {
+    "idProducto": 407,
+    "codigo": "30206",
+    "descripcion": "Rollete",
+    "precio": {
+      "idPrecio": 992,
+      "idProducto": 407,
+      "idMoneda": 1,
+      "precio": 1520.0
+    },
+    "precios": [
+      {
+        "idPrecio": 992,
+        "idProducto": 407,
+        "idMoneda": 1,
+        "precio": 1520.0
+      },
+      {
+        "idPrecio": 3189,
+        "idProducto": 407,
+        "idMoneda": 2,
+        "precio": 6.1527777
+      }
+    ],
+    "image_name": "Rollete -30206.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 12,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1146,
+        "idEtiqueta": 2,
+        "idProducto": 407,
+        "valor": "2215.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 9,
+      "103": 18,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 408,
+    "codigo": "30304",
+    "descripcion": "Rollete",
+    "precio": {
+      "idPrecio": 993,
+      "idProducto": 408,
+      "idMoneda": 1,
+      "precio": 1260.0
+    },
+    "precios": [
+      {
+        "idPrecio": 993,
+        "idProducto": 408,
+        "idMoneda": 1,
+        "precio": 1260.0
+      },
+      {
+        "idPrecio": 3170,
+        "idProducto": 408,
+        "idMoneda": 2,
+        "precio": 5.1805553
+      }
+    ],
+    "image_name": "Rollete -30304.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 12,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1155,
+        "idEtiqueta": 2,
+        "idProducto": 408,
+        "valor": "1865.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 3
+    }
+  },
+  {
+    "idProducto": 409,
+    "codigo": "7804",
+    "descripcion": "Rollete",
+    "precio": {
+      "idPrecio": 994,
+      "idProducto": 409,
+      "idMoneda": 1,
+      "precio": 1075.0
+    },
+    "precios": [
+      {
+        "idPrecio": 994,
+        "idProducto": 409,
+        "idMoneda": 1,
+        "precio": 1075.0
+      },
+      {
+        "idPrecio": 3228,
+        "idProducto": 409,
+        "idMoneda": 2,
+        "precio": 4.5277777
+      }
+    ],
+    "image_name": "Rollete -7804.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 12,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1156,
+        "idEtiqueta": 2,
+        "idProducto": 409,
+        "valor": "1630.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 18,
+      "103": 12,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 410,
+    "codigo": "7805",
+    "descripcion": "Rollete",
+    "precio": {
+      "idPrecio": 995,
+      "idProducto": 410,
+      "idMoneda": 1,
+      "precio": 1520.0
+    },
+    "precios": [
+      {
+        "idPrecio": 995,
+        "idProducto": 410,
+        "idMoneda": 1,
+        "precio": 1520.0
+      },
+      {
+        "idPrecio": 3260,
+        "idProducto": 410,
+        "idMoneda": 2,
+        "precio": 6.1527777
+      }
+    ],
+    "image_name": "Rollete -7805.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 12,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1157,
+        "idEtiqueta": 2,
+        "idProducto": 410,
+        "valor": "2215.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 10,
+      "105": 2
+    }
+  },
+  {
     "idProducto": 428,
     "codigo": "705C",
     "descripcion": "Sarten electrico",
@@ -1526,6 +5159,318 @@
     }
   },
   {
+    "idProducto": 2597,
+    "codigo": "12MM",
+    "descripcion": "SELLO MEC P/IMP DE AGUA",
+    "precio": {
+      "idPrecio": 2134,
+      "idProducto": 2597,
+      "idMoneda": 1,
+      "precio": 225.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2134,
+        "idProducto": 2597,
+        "idMoneda": 1,
+        "precio": 225.0
+      },
+      {
+        "idPrecio": 3174,
+        "idProducto": 2597,
+        "idMoneda": 2,
+        "precio": 0.9861111
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1200,
+        "idEtiqueta": 2,
+        "idProducto": 2597,
+        "valor": "355.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 21,
+      "103": 5,
+      "105": 2
+    }
+  },
+  {
+    "idProducto": 871,
+    "codigo": "14MM",
+    "descripcion": "SELLO MEC P/IMP DE AGUA",
+    "precio": {
+      "idPrecio": 1069,
+      "idProducto": 871,
+      "idMoneda": 1,
+      "precio": 355.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1069,
+        "idProducto": 871,
+        "idMoneda": 1,
+        "precio": 355.0
+      },
+      {
+        "idPrecio": 2937,
+        "idProducto": 871,
+        "idMoneda": 2,
+        "precio": 1.3055556
+      }
+    ],
+    "image_name": "SELLO MEC P\u0026IMP DE AGUA -14MM.webp",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1201,
+        "idEtiqueta": 2,
+        "idProducto": 871,
+        "valor": "470.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 10,
+      "103": 6,
+      "105": 4
+    }
+  },
+  {
+    "idProducto": 872,
+    "codigo": "16MM",
+    "descripcion": "SELLO MEC P/IMP DE AGUA",
+    "precio": {
+      "idPrecio": 1070,
+      "idProducto": 872,
+      "idMoneda": 1,
+      "precio": 430.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1070,
+        "idProducto": 872,
+        "idMoneda": 1,
+        "precio": 430.0
+      },
+      {
+        "idPrecio": 2938,
+        "idProducto": 872,
+        "idMoneda": 2,
+        "precio": 1.9444444
+      }
+    ],
+    "image_name": "SELLO MEC P\u0026IMP DE AGUA -16MM.webp",
+    "ipv": false,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1202,
+        "idEtiqueta": 2,
+        "idProducto": 872,
+        "valor": "700.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "105": 9
+    }
+  },
+  {
+    "idProducto": 2605,
+    "descripcion": "SPLASH",
+    "precio": {
+      "idPrecio": 2142,
+      "idProducto": 2605,
+      "idMoneda": 1,
+      "precio": 1555.0
+    },
+    "precios": [
+      {
+        "idPrecio": 2142,
+        "idProducto": 2605,
+        "idMoneda": 1,
+        "precio": 1555.0
+      },
+      {
+        "idPrecio": 3432,
+        "idProducto": 2605,
+        "idMoneda": 2,
+        "precio": 5.8472223
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 5,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1203,
+        "idEtiqueta": 2,
+        "idProducto": 2605,
+        "valor": "2105.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 158,
+      "103": 60,
+      "105": 141
+    }
+  },
+  {
+    "idProducto": 490,
+    "codigo": "NT212",
+    "descripcion": "Tenedor De Metal",
+    "precio": {
+      "idPrecio": 1225,
+      "idProducto": 490,
+      "idMoneda": 1,
+      "precio": 815.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1225,
+        "idProducto": 490,
+        "idMoneda": 1,
+        "precio": 815.0
+      },
+      {
+        "idPrecio": 4080,
+        "idProducto": 490,
+        "idMoneda": 2,
+        "precio": 3.5694444
+      }
+    ],
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 23,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1204,
+        "idEtiqueta": 2,
+        "idProducto": 490,
+        "valor": "1285.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 16,
+      "103": 6,
+      "105": 0
+    }
+  },
+  {
+    "idProducto": 500,
+    "codigo": "U18",
+    "descripcion": "Tomacorr C/encendedor",
+    "precio": {
+      "idPrecio": 1251,
+      "idProducto": 500,
+      "idMoneda": 1,
+      "precio": 670.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1251,
+        "idProducto": 500,
+        "idMoneda": 1,
+        "precio": 670.0
+      },
+      {
+        "idPrecio": 3074,
+        "idProducto": 500,
+        "idMoneda": 2,
+        "precio": 2.8611112
+      }
+    ],
+    "image_name": "Tomacorr C\u0026encendedor -U18.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idDepartamento": 2,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1186,
+        "idEtiqueta": 2,
+        "idProducto": 500,
+        "valor": "1030.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "103": 18,
+      "105": 8
+    }
+  },
+  {
     "idProducto": 2107,
     "codigo": "8382",
     "descripcion": "TV 50\" UHD SMART",
@@ -1558,16 +5503,16 @@
     "movimientos": [],
     "etiquetasProductos": [
       {
-        "idRelacion": 1115,
-        "idEtiqueta": 2,
-        "idProducto": 2107,
-        "valor": "666.8919"
-      },
-      {
         "idRelacion": 1102,
         "idEtiqueta": 2,
         "idProducto": 2107,
         "valor": "246750.0"
+      },
+      {
+        "idRelacion": 1115,
+        "idEtiqueta": 2,
+        "idProducto": 2107,
+        "valor": "666.8919"
       },
       {
         "idRelacion": 25,
@@ -1636,8 +5581,107 @@
       }
     ],
     "stocks": {
-      "103": 3,
+      "102": 72,
+      "103": 14,
       "105": 0
+    }
+  },
+  {
+    "idProducto": 510,
+    "codigo": "BG8",
+    "descripcion": "Vaso Metalico 8x12CM",
+    "precio": {
+      "idPrecio": 1276,
+      "idProducto": 510,
+      "idMoneda": 1,
+      "precio": 230.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1276,
+        "idProducto": 510,
+        "idMoneda": 1,
+        "precio": 230.0
+      },
+      {
+        "idPrecio": 4001,
+        "idProducto": 510,
+        "idMoneda": 2,
+        "precio": 1.1388888
+      }
+    ],
+    "image_name": "Vaso Metalico 8x12CM -BG8.jpg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 25,
+    "idDepartamento": 6,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1205,
+        "idEtiqueta": 2,
+        "idProducto": 510,
+        "valor": "410.0"
+      }
+    ],
+    "descuentos": [
+      {
+        "idDescuento": 1,
+        "color": 0,
+        "valor": 0.1,
+        "nombre": "Descuento 10%",
+        "activo": true
+      }
+    ],
+    "stocks": {
+      "102": 24,
+      "103": 13,
+      "105": 39
+    }
+  },
+  {
+    "idProducto": 660,
+    "codigo": "S118",
+    "descripcion": "Ventilador Pedestal",
+    "precio": {
+      "idPrecio": 1288,
+      "idProducto": 660,
+      "idMoneda": 1,
+      "precio": 20000.0
+    },
+    "precios": [
+      {
+        "idPrecio": 1288,
+        "idProducto": 660,
+        "idMoneda": 1,
+        "precio": 20000.0
+      },
+      {
+        "idPrecio": 1391,
+        "idProducto": 660,
+        "idMoneda": 2,
+        "precio": 67.833336
+      }
+    ],
+    "image_name": "Ventilador Pedestal -S118.jpeg",
+    "ipv": true,
+    "activo": true,
+    "combo": false,
+    "idCategoria": 35,
+    "idDepartamento": 3,
+    "movimientos": [],
+    "etiquetasProductos": [
+      {
+        "idRelacion": 1159,
+        "idEtiqueta": 2,
+        "idProducto": 660,
+        "valor": "24420.0"
+      }
+    ],
+    "stocks": {
+      "103": 10,
+      "105": 2
     }
   }
 ]
